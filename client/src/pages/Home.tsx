@@ -2,9 +2,9 @@
  * STYLE: Editorial Cartography. The public landing experience is a navigable
  * research atlas: calm editorial hierarchy, a taxonomy spine, and crafted data views.
  */
-import { ArrowDownRight, ArrowRight, BookOpenText, ChevronRight, Compass, Layers3, Search, ShieldCheck, Sparkles } from "lucide-react";
+import { ArrowDownRight, ArrowRight, BookOpenText, ChevronRight, Compass, GitCompareArrows, GraduationCap, Layers3, Search, ShieldCheck, Sparkles, WandSparkles } from "lucide-react";
 import { useMemo, useState } from "react";
-import { Link } from "wouter";
+import { Link, useLocation } from "wouter";
 import { EntryCard } from "@/components/EntryCard";
 import { SiteHeader } from "@/components/SiteHeader";
 import { TaxonomyRibbon } from "@/components/TaxonomyRibbon";
@@ -13,6 +13,7 @@ import { trpc } from "@/lib/trpc";
 import { createEditorialStatusDataset, editorialStatusFromSearchParam, filterEditorialStatusDataset, PUBLIC_EDITORIAL_STATUSES, type PublicEditorialStatus } from "../../../shared/coverage-explorer";
 
 export default function Home() {
+  const [, setLocation] = useLocation();
   const browseQuery = trpc.sonata.browse.useQuery();
   const coverageQuery = trpc.sonata.coverage.useQuery();
   const { user } = useAuth();
@@ -22,6 +23,7 @@ export default function Home() {
   const [coverageDimension, setCoverageDimension] = useState<"region" | "tradition" | "domain" | "era">("region");
   const [coverageStatus, setCoverageStatus] = useState<"all" | "published" | "planned">("all");
   const [editorialStatus, setEditorialStatus] = useState<PublicEditorialStatus | "all">(() => editorialStatusFromSearchParam(typeof window === "undefined" ? null : new URLSearchParams(window.location.search).get("status")));
+  const [featuredIndex, setFeaturedIndex] = useState(0);
   const searchQuery = trpc.sonata.search.useQuery(
     { query },
     { enabled: query.trim().length > 0 },
@@ -39,6 +41,8 @@ export default function Home() {
   const editorialStatusDataset = useMemo(() => createEditorialStatusDataset(coverageQuery.data?.editorialStatusCounts), [coverageQuery.data?.editorialStatusCounts]);
   const visibleStatusDataset = filterEditorialStatusDataset(editorialStatusDataset, editorialStatus);
   const selectedStatusCount = editorialStatus === "all" ? (coverageQuery.data?.draftConcepts ?? 0) + (coverageQuery.data?.publishedConcepts ?? 0) : coverageQuery.data?.editorialStatusCounts?.[editorialStatus] ?? 0;
+  const featuredEntries = browseQuery.data?.entries ?? [];
+  const featuredEntry = featuredEntries.length ? featuredEntries[featuredIndex % featuredEntries.length] : undefined;
 
   return (
     <div className="sonata-app">
@@ -58,9 +62,7 @@ export default function Home() {
               Sonata connects musical terms to the cultures, practices, histories, and relationships that give them meaning.
             </p>
             <div className="hero__actions">
-              <a href="#discover" className="button-primary button-primary--light">
-                Begin a search <ArrowDownRight size={17} strokeWidth={1.5} aria-hidden="true" />
-              </a>
+              <Link href="/search" className="button-primary button-primary--light">Begin a search <ArrowDownRight size={17} strokeWidth={1.5} aria-hidden="true" /></Link>
               <Link href="/entries/raga" className="text-link text-link--light">
                 Open a concept record <ArrowRight size={16} strokeWidth={1.5} aria-hidden="true" />
               </Link>
@@ -101,6 +103,7 @@ export default function Home() {
                 id="sonata-search"
                 value={query}
                 onChange={event => setQuery(event.target.value)}
+                onKeyDown={event => { if (event.key === "Enter") setLocation(`/search?q=${encodeURIComponent(query)}`); }}
                 placeholder="Search a term, a tradition, or a transliteration"
                 autoComplete="off"
               />
@@ -118,9 +121,19 @@ export default function Home() {
                 </button>
               ))}
             </div>
-          </div>
+            </div>
 
-          <section className="coverage-explorer" aria-labelledby="coverage-explorer-heading">
+            <div className="discovery-modes" aria-label="Sonata discovery pathways">
+              <Link href="/search?q=Region"><Compass size={18} /><span><strong>Explore by region</strong><small>Place, lineage, and local context</small></span><ArrowRight size={15} /></Link>
+              <Link href="/search?q=Tradition"><Layers3 size={18} /><span><strong>Follow a tradition</strong><small>Systems, repertoires, and practices</small></span><ArrowRight size={15} /></Link>
+              <Link href="/compare"><GitCompareArrows size={18} /><span><strong>Compare concepts</strong><small>Difference before equivalence</small></span><ArrowRight size={15} /></Link>
+              <Link href="/learn"><GraduationCap size={18} /><span><strong>Build a learning path</strong><small>Published knowledge, progressively read</small></span><ArrowRight size={15} /></Link>
+              <Link href="/assistant"><WandSparkles size={18} /><span><strong>Ask with evidence</strong><small>Source-grounded synthesis</small></span><ArrowRight size={15} /></Link>
+            </div>
+
+            {featuredEntry ? <section className="explore-concept" aria-label="Explore a concept"><div><p className="eyebrow">Explore a concept</p><p>Let one researched record open the next pathway.</p><button type="button" onClick={() => setFeaturedIndex(index => index + 1)}>Another record <Sparkles size={14} /></button></div><Link href={`/entries/${featuredEntry.slug}`}><span>{String(featuredIndex + 1).padStart(2, "0")}</span><div><p className="eyebrow">{featuredEntry.tradition} · {featuredEntry.region}</p><h3>{featuredEntry.name}</h3><p>{featuredEntry.shortDefinition}</p></div><ArrowRight size={20} /></Link></section> : null}
+
+            <section className="coverage-explorer" aria-labelledby="coverage-explorer-heading">
             <div className="coverage-explorer__heading"><div><p className="eyebrow">Coverage explorer</p><h3 id="coverage-explorer-heading">Read the editorial map by more than region.</h3></div><p>These filters explore coverage targets and published counts. They do not inflate the public catalogue with unreviewed candidates.</p></div>
             <div className="coverage-explorer__filters" aria-label="Filter coverage targets">
               <div><span>Lens</span>{(["region", "tradition", "domain", "era"] as const).map(dimension => <button type="button" key={dimension} className={`filter-button ${coverageDimension === dimension ? "is-active" : ""}`} onClick={() => setCoverageDimension(dimension)}>{dimension}</button>)}</div>

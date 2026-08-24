@@ -2,12 +2,13 @@ import { COOKIE_NAME } from "@shared/const";
 import { z } from "zod";
 import { createEditorialDraft, createEditorialRelationship, createEditorialSource, getEditorialSummary, getPublicEntries, getPublicEntry, reviewEditorialSource, searchPublicEntries, stageEditorialImport, updateEditorialRelationshipStatus } from "./db";
 import { bootstrapGlobalKnowledgeFramework, getKnowledgeCoverage, stageKnowledgeBatch } from "./knowledge.service";
-import { approveConceptForExpertReview, linkSourceToConcept, publishExpertReviewedConcept, recordConceptUncertainty, resolveConceptUncertainty } from "./publication.service";
+import { approveConceptForExpertReview, backfillPublishedSearchDocuments, linkSourceToConcept, publishExpertReviewedConcept, recordConceptUncertainty, resolveConceptUncertainty } from "./publication.service";
+import { answerWithSonataEvidence, getKnowledgeHealth, getLearningExperience, recordLearningActivity, searchSonataKnowledge, submitContribution } from "./research.service";
 import { SONATA_TAXONOMY_PREVIEW } from "./sonata.demo";
 import { validateLegacyImportHeaders, validateRelationshipDraft } from "./sonata.validation";
 import { getSessionCookieOptions } from "./_core/cookies";
 import { systemRouter } from "./_core/systemRouter";
-import { adminProcedure, publicProcedure, router } from "./_core/trpc";
+import { adminProcedure, protectedProcedure, publicProcedure, router } from "./_core/trpc";
 
 const relationshipDraftSchema = z.object({
   sourcePublicId: z.string().uuid(),
@@ -33,6 +34,16 @@ const relationshipDraftSchema = z.object({
 });
 
 const sourceConfidenceSchema = z.enum(["low", "medium", "high", "primary"]);
+const researchFiltersSchema = z.object({
+  region: z.string().trim().max(255).optional(),
+  tradition: z.string().trim().max(255).optional(),
+  genre: z.string().trim().max(255).optional(),
+  era: z.string().trim().max(255).optional(),
+  instrument: z.string().trim().max(255).optional(),
+  category: z.string().trim().max(255).optional(),
+  language: z.string().trim().max(128).optional(),
+  confidence: sourceConfidenceSchema.optional(),
+}).optional();
 const knowledgeCandidateSchema = z.object({
   canonicalName: z.string().trim().min(2).max(512),
   entityType: z.enum(["term", "instrument", "form", "genre", "person", "place", "work", "organization", "conceptual_collection"]),
@@ -70,8 +81,39 @@ export const appRouter = router({
       .query(async ({ input }) => ({ entries: await searchPublicEntries(input.query) })),
     coverage: publicProcedure.query(() => getKnowledgeCoverage()),
   }),
+  research: router({
+    search: publicProcedure
+      .input(z.object({ query: z.string().trim().max(180), filters: researchFiltersSchema, page: z.number().int().min(1).max(1000).optional(), pageSize: z.number().int().min(1).max(50).optional() }))
+      .query(({ input }) => searchSonataKnowledge(input)),
+    learning: publicProcedure
+      .input(z.object({ focus: z.string().trim().max(180).optional() }))
+      .query(({ input }) => getLearningExperience(input.focus)),
+    compare: publicProcedure
+      .input(z.object({ leftSlug: z.string().trim().min(1).max(160), rightSlug: z.string().trim().min(1).max(160) }))
+      .query(async ({ input }) => {
+        const [left, right] = await Promise.all([getPublicEntry(input.leftSlug), getPublicEntry(input.rightSlug)]);
+        if (!left || !right) throw new Error("Both comparison records must be published Sonata concepts.");
+        return {
+          left,
+          right,
+          framework: ["similarity", "difference", "historical relationship", "functional relationship"],
+          notice: "Sonata presents source-linked context for comparison. Shared labels or broad categories never establish equivalence.",
+        };
+      }),
+    ask: protectedProcedure
+      .input(z.object({ question: z.string().trim().min(8).max(1200) }))
+      .mutation(({ input, ctx }) => answerWithSonataEvidence({ ...input, userId: ctx.user.id })),
+    recordLearning: protectedProcedure
+      .input(z.object({ conceptSlug: z.string().trim().min(1).max(160), activityType: z.enum(["learning_path", "flashcard", "quiz"]), masteryScore: z.number().int().min(0).max(100), completed: z.boolean() }))
+      .mutation(({ input, ctx }) => recordLearningActivity({ ...input, userId: ctx.user.id })),
+    submitContribution: protectedProcedure
+      .input(z.object({ kind: z.enum(["edit", "new_term", "error", "source", "relationship"]), summary: z.string().trim().min(5).max(512), detail: z.string().trim().min(20).max(12000), sourceUrl: z.string().url().max(2048).optional(), targetSlug: z.string().trim().max(160).optional() }))
+      .mutation(({ input, ctx }) => submitContribution({ ...input, userId: ctx.user.id })),
+  }),
   editorial: router({
     summary: adminProcedure.query(() => getEditorialSummary()),
+    knowledgeHealth: adminProcedure.query(() => getKnowledgeHealth()),
+    rebuildPublishedSearchIndex: adminProcedure.mutation(() => backfillPublishedSearchDocuments()),
     createTermDraft: adminProcedure
       .input(
         z.object({

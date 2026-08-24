@@ -17,6 +17,18 @@ export type SonataEntryDetail = SonataEntryCard & {
   historicalContext: string;
   practicalUsage: string;
   visualAudioDescription: string;
+  theoryVisual?: {
+    title: string;
+    sourceScope: string;
+    axes: Array<{ label: string; value: string }>;
+    caution: string;
+  };
+  emicDescription?: string;
+  eticComparison?: string;
+  regionalVariation?: string;
+  uncertaintyNote?: string;
+  editorialStatus?: string;
+  sourceQuality?: string;
   pronunciation?: string;
   languageOfOrigin?: string;
   nativeScript?: string;
@@ -41,6 +53,7 @@ export type SonataEntryDetail = SonataEntryCard & {
     x: number;
     y: number;
     emphasis?: "main" | "accent";
+    linkable?: boolean;
   }>;
 };
 
@@ -116,6 +129,16 @@ export const DEMONSTRATION_DETAILS: Record<string, SonataEntryDetail> = {
       "In Sonata, related concepts can be connected with explicitly typed relationships such as `used_in`, `part_of`, and `associated_with`, each carrying its own context and source record.",
     visualAudioDescription:
       "The future entry format can hold descriptive listening and performance cues alongside written explanation, without privileging notation over sound or practice.",
+    theoryVisual: {
+      title: "Melodic framework, not a scale substitute",
+      sourceScope: "Entry framing · Jairazbhoy, 1971",
+      axes: [
+        { label: "Identity", value: "Culture-specific melodic framework" },
+        { label: "Use", value: "Repertoire and performance practice" },
+        { label: "Boundary", value: "Not a direct Western-scale synonym" },
+      ],
+      caution: "The diagram organizes only the source-framed dimensions of this foundation record. It does not encode pitch material, a fixed scale, or a universal analytical equivalence.",
+    },
     taxonomyPath: [
       "World",
       "Asia",
@@ -164,12 +187,12 @@ export const DEMONSTRATION_DETAILS: Record<string, SonataEntryDetail> = {
       },
     ],
     graphNodes: [
-      { id: "raga", label: "Rāga", x: 50, y: 49, emphasis: "main" },
+      { id: "raga", label: "Rāga", x: 50, y: 49, emphasis: "main", linkable: true },
       { id: "south-asia", label: "South Asia", x: 21, y: 26 },
       { id: "melody", label: "Melody", x: 77, y: 25, emphasis: "accent" },
       { id: "performance", label: "Performance", x: 79, y: 72 },
       { id: "tradition", label: "Tradition", x: 24, y: 73 },
-      { id: "maqam", label: "Maqām", x: 15, y: 49 },
+      { id: "maqam", label: "Maqām", x: 15, y: 49, linkable: true },
       { id: "tala", label: "Tāla", x: 52, y: 87 },
     ],
   },

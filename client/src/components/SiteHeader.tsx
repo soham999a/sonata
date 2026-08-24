@@ -2,7 +2,7 @@
  * STYLE: Editorial Cartography. A slim, rule-led top navigation with a
  * responsive disclosure rather than a standard oversized product header.
  */
-import { Compass, Menu, Search, X } from "lucide-react";
+import { Compass, Menu, Search, Sparkles, X } from "lucide-react";
 import { useState } from "react";
 import { Link, useLocation } from "wouter";
 import { useAuth } from "@/_core/hooks/useAuth";
@@ -15,8 +15,9 @@ export function SiteHeader({ inverse = false }: { inverse?: boolean }) {
   const canAccessEditorial = user?.role === "admin";
   const navigation = [
     { label: "Discover", href: "/#discover" },
-    { label: "Atlas", href: "/#atlas" },
-    { label: "Method", href: "/#method" },
+    { label: "Search", href: "/search" },
+    { label: "Compare", href: "/compare" },
+    { label: "Learn", href: "/learn" },
   ];
 
   return (
@@ -25,16 +26,15 @@ export function SiteHeader({ inverse = false }: { inverse?: boolean }) {
         <SonataMark inverted={inverse} />
         <nav className={`site-header__nav ${menuOpen ? "is-open" : ""}`} aria-label="Primary navigation">
           {navigation.map(item => (
-            <a key={item.label} href={item.href} onClick={() => setMenuOpen(false)}>
-              {item.label}
-            </a>
+            item.href.startsWith("/") && !item.href.startsWith("/#") ? <Link key={item.label} href={item.href} onClick={() => setMenuOpen(false)}>{item.label}</Link> : <a key={item.label} href={item.href} onClick={() => setMenuOpen(false)}>{item.label}</a>
           ))}
           {canAccessEditorial ? <Link href="/editorial" onClick={() => setMenuOpen(false)}>Editorial</Link> : null}
         </nav>
         <div className="site-header__actions">
+          <Link href="/assistant" className="icon-button icon-button--search" aria-label="Open Sonata assistant" title="Sonata assistant"><Sparkles size={17} strokeWidth={1.6} /></Link>
           <button
             type="button"
-            className="icon-button icon-button--search"
+            className="icon-button icon-button--search site-header__search-shortcut"
             aria-label="Focus the Sonata search"
             title="Focus search"
             onClick={() => {

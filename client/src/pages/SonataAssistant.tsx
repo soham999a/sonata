@@ -1,0 +1,21 @@
+import { BookOpenText, CircleAlert, Sparkles } from "lucide-react";
+import { FormEvent, useState } from "react";
+import { Link } from "wouter";
+import { SiteHeader } from "@/components/SiteHeader";
+import { useAuth } from "@/_core/hooks/useAuth";
+import { startLogin } from "@/const";
+import { trpc } from "@/lib/trpc";
+
+type Message = { role: "user" | "assistant"; content: string };
+
+export default function SonataAssistant() {
+  const { isAuthenticated } = useAuth();
+  const [messages, setMessages] = useState<Message[]>([]);
+  const [question, setQuestion] = useState("");
+  const [citations, setCitations] = useState<Array<{ concept: string; label: string; citation: string; url: string }>>([]);
+  const ask = trpc.research.ask.useMutation({ onSuccess: result => { setMessages(current => [...current, { role: "assistant", content: result.answer }]); setCitations(result.citations); }, onError: error => setMessages(current => [...current, { role: "assistant", content: `Sonata could not complete that request: ${error.message}` }] ) });
+  const send = (content: string) => { const clean = content.trim(); if (!clean || ask.isPending) return; setMessages(current => [...current, { role: "user", content: clean }]); setQuestion(""); ask.mutate({ question: clean }); };
+  const submit = (event: FormEvent) => { event.preventDefault(); send(question); };
+  const prompts = ["How is raga different from a Western scale?", "What does Sonata say about maqam?", "Compare fugue and polyrhythm without implying equivalence."];
+  return <div className="research-page"><SiteHeader /><main className="assistant-shell"><header className="assistant-hero"><p className="eyebrow">Sonata assistant</p><h1>Reason from the catalogue, not from assumption.</h1><p>The assistant retrieves published Sonata concept records and their linked sources before composing a response. If evidence is too thin, it says so.</p></header>{!isAuthenticated ? <div className="assistant-gate"><CircleAlert size={20} /><div><strong>Sign in to use evidence synthesis.</strong><p>Public search and concept records remain available without an account. Sign-in protects the limited research synthesis service from abuse.</p></div><button type="button" className="button-quiet" onClick={startLogin}>Sign in</button></div> : <><section className="sonata-assistant-chat" aria-label="Source-grounded research conversation"><div className="assistant-thread" aria-live="polite">{messages.length ? messages.map((message, index) => <article className={`assistant-message assistant-message--${message.role}`} key={`${message.role}-${index}`}><span>{message.role === "user" ? "Research question" : "Sonata"}</span><p>{message.content}</p></article>) : <div className="assistant-empty"><Sparkles size={28} /><p>Ask from Sonata’s published source trail.</p><div>{prompts.map(prompt => <button type="button" key={prompt} onClick={() => send(prompt)}>{prompt}</button>)}</div></div>}{ask.isPending ? <article className="assistant-message assistant-message--assistant"><span>Sonata</span><p>Checking published concept records and linked sources…</p></article> : null}</div><form className="assistant-composer" onSubmit={submit}><label className="sr-only" htmlFor="sonata-question">Ask a source-grounded question</label><input id="sonata-question" value={question} onChange={event => setQuestion(event.target.value)} placeholder="Ask how two source-linked concepts differ…" minLength={8} maxLength={1200} disabled={ask.isPending} /><button type="submit" disabled={ask.isPending || question.trim().length < 8}>Ask</button></form></section>{citations.length ? <section className="assistant-citations"><div><BookOpenText size={18} /><p className="eyebrow">Retrieved source trail</p></div>{citations.map(source => <a href={source.url} target="_blank" rel="noreferrer" key={`${source.concept}-${source.url}`}><span>{source.concept} · {source.label}</span><strong>{source.citation}</strong></a>)}</section> : null}<p className="assistant-policy"><Sparkles size={14} /> Answers are logged with the retrieved Sonata evidence for editorial audit. The assistant does not publish, edit, or infer new knowledge.</p><Link href="/search" className="contribute-return">Search published records directly</Link></>}</main></div>;
+}

@@ -10,6 +10,7 @@ type ConstellationNode = {
   x: number;
   y: number;
   emphasis?: "main" | "accent";
+  linkable?: boolean;
 };
 
 export function RelationshipConstellation({ nodes }: { nodes: ConstellationNode[] }) {
@@ -46,7 +47,7 @@ export function RelationshipConstellation({ nodes }: { nodes: ConstellationNode[
       </div>
       {nodes.map(node => (
         <Link
-          href={node.id === "raga" ? "/entries/raga" : "/"}
+          href={node.linkable ? `/entries/${node.id}` : `/search?q=${encodeURIComponent(node.label)}`}
           key={node.id}
           className={`constellation__node constellation__node--${node.emphasis ?? "quiet"}`}
           style={{ left: `${node.x}%`, top: `${node.y}%` }}

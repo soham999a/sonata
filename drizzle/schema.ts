@@ -80,6 +80,7 @@ export const concepts = mysqlTable(
     uniqueIndex("concepts_slug_unique").on(table.slug),
     index("concepts_status_type_idx").on(table.editorialStatus, table.entityType),
     index("concepts_name_idx").on(table.canonicalName),
+    index("concepts_public_filter_idx").on(table.editorialStatus, table.originRegion, table.tradition, table.era),
   ],
 );
 
@@ -435,6 +436,73 @@ export const definitionVariants = mysqlTable(
   table => [
     uniqueIndex("definition_variants_public_id_unique").on(table.publicId),
     index("definition_variants_concept_idx").on(table.conceptId),
+  ],
+);
+
+export const learningProgress = mysqlTable(
+  "learning_progress",
+  {
+    id: int("id").autoincrement().primaryKey(),
+    publicId: varchar("publicId", { length: 36 }).notNull(),
+    userId: int("userId").notNull().references(() => users.id),
+    conceptId: int("conceptId").notNull().references(() => concepts.id),
+    activityType: mysqlEnum("activityType", ["learning_path", "flashcard", "quiz"]).notNull(),
+    status: mysqlEnum("status", ["not_started", "in_progress", "completed"]).notNull().default("not_started"),
+    masteryScore: int("masteryScore").notNull().default(0),
+    attempts: int("attempts").notNull().default(0),
+    lastActivityAt: timestamp("lastActivityAt").defaultNow().notNull(),
+    createdAt: timestamp("createdAt").defaultNow().notNull(),
+    updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
+  },
+  table => [
+    uniqueIndex("learning_progress_public_id_unique").on(table.publicId),
+    uniqueIndex("learning_progress_user_concept_activity_unique").on(table.userId, table.conceptId, table.activityType),
+    index("learning_progress_user_idx").on(table.userId, table.updatedAt),
+  ],
+);
+
+export const contributionSubmissions = mysqlTable(
+  "contribution_submissions",
+  {
+    id: int("id").autoincrement().primaryKey(),
+    publicId: varchar("publicId", { length: 36 }).notNull(),
+    submitterUserId: int("submitterUserId").notNull().references(() => users.id),
+    targetConceptId: int("targetConceptId").references(() => concepts.id),
+    kind: mysqlEnum("kind", ["edit", "new_term", "error", "source", "relationship"]).notNull(),
+    summary: varchar("summary", { length: 512 }).notNull(),
+    detail: longtext("detail").notNull(),
+    sourceUrl: varchar("sourceUrl", { length: 2048 }),
+    status: mysqlEnum("status", ["submitted", "in_review", "accepted", "declined"]).notNull().default("submitted"),
+    reviewerUserId: int("reviewerUserId").references(() => users.id),
+    reviewerNote: longtext("reviewerNote"),
+    createdAt: timestamp("createdAt").defaultNow().notNull(),
+    updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
+  },
+  table => [
+    uniqueIndex("contribution_submissions_public_id_unique").on(table.publicId),
+    index("contribution_submissions_status_idx").on(table.status, table.createdAt),
+    index("contribution_submissions_target_idx").on(table.targetConceptId),
+  ],
+);
+
+export const assistantAudits = mysqlTable(
+  "assistant_audits",
+  {
+    id: int("id").autoincrement().primaryKey(),
+    publicId: varchar("publicId", { length: 36 }).notNull(),
+    userId: int("userId").references(() => users.id),
+    question: longtext("question").notNull(),
+    answer: longtext("answer").notNull(),
+    retrievedConceptIds: json("retrievedConceptIds").notNull(),
+    citedSourceIds: json("citedSourceIds").notNull(),
+    answerStatus: mysqlEnum("answerStatus", ["grounded", "insufficient_evidence", "blocked"]).notNull(),
+    model: varchar("model", { length: 160 }),
+    createdAt: timestamp("createdAt").defaultNow().notNull(),
+  },
+  table => [
+    uniqueIndex("assistant_audits_public_id_unique").on(table.publicId),
+    index("assistant_audits_status_created_idx").on(table.answerStatus, table.createdAt),
+    index("assistant_audits_user_idx").on(table.userId, table.createdAt),
   ],
 );
 

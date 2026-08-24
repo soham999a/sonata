@@ -2,18 +2,44 @@
  * STYLE: Editorial Cartography. A reading-first concept page with a taxonomy
  * spine, measured serif typography, and a quiet contextual relationship rail.
  */
-import { ArrowLeft, BookMarked, CircleAlert, Copy, ExternalLink, Languages, Network, Quote, Share2 } from "lucide-react";
+import { ArrowLeft, BookMarked, CircleAlert, Copy, ExternalLink, GitCompareArrows, Languages, Network, Quote, Share2, Waves } from "lucide-react";
+import { useEffect } from "react";
 import { Link, useRoute } from "wouter";
 import { RelationshipConstellation } from "@/components/RelationshipConstellation";
 import { SiteHeader } from "@/components/SiteHeader";
 import { TaxonomyRibbon } from "@/components/TaxonomyRibbon";
 import { trpc } from "@/lib/trpc";
 
+function updateMetadata(name: string, content: string, property = false) {
+  const selector = property ? `meta[property="${name}"]` : `meta[name="${name}"]`;
+  let element = document.head.querySelector<HTMLMetaElement>(selector);
+  if (!element) {
+    element = document.createElement("meta");
+    if (property) element.setAttribute("property", name); else element.setAttribute("name", name);
+    document.head.appendChild(element);
+  }
+  element.content = content;
+}
+
 function EntryDetail() {
   const [, params] = useRoute("/entries/:slug");
   const slug = params?.slug ?? "raga";
   const entryQuery = trpc.sonata.entry.useQuery({ slug });
   const entry = entryQuery.data;
+  const copyRecordLink = async () => { await navigator.clipboard?.writeText(window.location.href); };
+  const shareRecord = async () => { if (navigator.share) await navigator.share({ title: `${entry?.name ?? "Sonata concept"} — Sonata`, url: window.location.href }); else await copyRecordLink(); };
+  useEffect(() => {
+    if (!entry) return;
+    const title = `${entry.name} — Sonata Global Music Knowledge`;
+    const description = entry.shortDefinition;
+    document.title = title;
+    updateMetadata("description", description);
+    updateMetadata("og:title", title, true);
+    updateMetadata("og:description", description, true);
+    let canonical = document.head.querySelector<HTMLLinkElement>('link[rel="canonical"]');
+    if (!canonical) { canonical = document.createElement("link"); canonical.rel = "canonical"; document.head.appendChild(canonical); }
+    canonical.href = `https://sonata-seven.vercel.app/entries/${encodeURIComponent(entry.slug)}`;
+  }, [entry]);
 
   if (entryQuery.isLoading) {
     return <div className="sonata-loading">Opening concept record…</div>;
@@ -47,7 +73,7 @@ function EntryDetail() {
         <article className="entry-reading">
           <div className="entry-reading__heading">
             <div>
-              <p className="eyebrow">Demonstration record · {entry.entityType}</p>
+              <p className="eyebrow">{entry.demonstration ? "Foundation record" : "Published concept"} · {entry.entityType}</p>
               <h1>{entry.name}</h1>
               <div className="entry-reading__names">
                 {entry.nativeScript ? <span>{entry.nativeScript}</span> : null}
@@ -56,10 +82,10 @@ function EntryDetail() {
               </div>
             </div>
             <div className="entry-reading__tools" aria-label="Record tools">
-              <button type="button" className="icon-button" aria-label="Copy record link" title="Copy record link">
+              <button type="button" className="icon-button" aria-label="Copy record link" title="Copy record link" onClick={copyRecordLink}>
                 <Copy size={16} strokeWidth={1.6} />
               </button>
-              <button type="button" className="icon-button" aria-label="Share record" title="Share record">
+              <button type="button" className="icon-button" aria-label="Share record" title="Share record" onClick={shareRecord}>
                 <Share2 size={16} strokeWidth={1.6} />
               </button>
             </div>
@@ -79,6 +105,23 @@ function EntryDetail() {
               <p>{entry.historicalContext}</p>
               <h2>How this concept is approached</h2>
               <p>{entry.practicalUsage}</p>
+            </div>
+          </section>
+
+          <section className="entry-section">
+            <div className="entry-section__label"><Waves size={17} strokeWidth={1.5} aria-hidden="true" /><span>Research lenses</span></div>
+            <div className="entry-section__body">
+              {entry.emicDescription ? <><h2>Concept in its own terms</h2><p>{entry.emicDescription}</p></> : null}
+              {entry.eticComparison ? <><h2>Optional comparison</h2><p>{entry.eticComparison}</p></> : null}
+              {entry.regionalVariation ? <><h2>Regional context</h2><p>{entry.regionalVariation}</p></> : null}
+              {!entry.emicDescription && !entry.eticComparison && !entry.regionalVariation ? <p>This foundation record can hold emic description, carefully scoped comparison, and regional variation as source-linked research is added.</p> : null}
+            </div>
+          </section>
+
+          <section className="entry-section">
+            <div className="entry-section__label"><Waves size={17} strokeWidth={1.5} aria-hidden="true" /><span>{entry.theoryVisual ? "Source-scoped theory aid" : "Concept framework"}</span></div>
+            <div className="entry-section__body">
+              {entry.theoryVisual ? <><div className="theory-aid" role="img" aria-label={`${entry.theoryVisual.title} diagram for ${entry.name}, based on the source-scoped entry framing`}><div className="theory-aid__head"><span>{entry.theoryVisual.sourceScope}</span><strong>{entry.theoryVisual.title}</strong></div><div className="theory-aid__axes">{entry.theoryVisual.axes.map((axis, index) => <article key={axis.label}><i style={{ transform: `rotate(${index * 120}deg)` }} /><span>{axis.label}</span><strong>{axis.value}</strong></article>)}</div><div className="theory-aid__center"><span>{entry.name}</span></div></div><p className="theory-aid__note">{entry.theoryVisual.caution}</p></> : <><div className="concept-context-aid" role="img" aria-label={`Source-scoped concept framework for ${entry.name}, showing its function, context, and evidence trail`}><div className="concept-context-aid__rings"><span /><span /><span /><i /></div><div className="concept-context-aid__center"><strong>{entry.name}</strong><small>{entry.entityType}</small></div><div className="concept-context-aid__nodes"><span><b>Function</b>{entry.taxonomyPath.at(-2) ?? entry.entityType}</span><span><b>Context</b>{entry.tradition ?? entry.region}</span><span><b>Evidence</b>{entry.sources.length} linked source records</span></div></div><p className="concept-context-aid__note">This framework diagram visualizes only the record’s published function, cultural context, and evidence trail. It never substitutes a generic scale, notation, tuning, or analytical model for a tradition-specific concept.</p></>}
             </div>
           </section>
 
@@ -129,8 +172,7 @@ function EntryDetail() {
           <aside className="editorial-caution">
             <CircleAlert size={18} strokeWidth={1.5} aria-hidden="true" />
             <p>
-              This is a deliberately limited foundation record. A production entry will surface scholarly sources,
-              claim-level provenance, and the full editorial status rather than imply an authoritative final definition.
+              {entry.uncertaintyNote ? `Scholarly perspectives differ: ${entry.uncertaintyNote}` : entry.demonstration ? "This deliberately limited foundation record makes its scope visible rather than implying an authoritative final definition." : `Publication status: ${entry.editorialStatus?.replace(/_/g, " ") ?? "published"}. Source quality: ${entry.sourceQuality ?? "unassessed"}.`}
             </p>
           </aside>
         </article>
@@ -173,6 +215,7 @@ function EntryDetail() {
             <p>Sources attach to the concept without erasing disagreements between accounts.</p>
             <span>Foundation capability</span>
           </div>
+          <Link href="/compare" className="source-card source-card--compare"><GitCompareArrows size={17} strokeWidth={1.5} aria-hidden="true" /><p>Compare this record through similarity, difference, history, and function.</p><span>Open contextual comparison</span></Link>
         </aside>
       </main>
     </div>

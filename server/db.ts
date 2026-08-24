@@ -1,7 +1,7 @@
 import { randomUUID } from "crypto";
-import { and, desc, eq, like, or } from "drizzle-orm";
+import { and, desc, eq, inArray, like, or } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/mysql2";
-import { conceptRelationships, concepts, imports, sources, type InsertUser, users } from "../drizzle/schema";
+import { conceptNames, conceptRelationships, conceptSources, concepts, imports, sources, type InsertUser, users } from "../drizzle/schema";
 import type { EntityType, RelationshipType } from "../shared/sonata";
 import { DEMONSTRATION_DETAILS, DEMONSTRATION_ENTRIES, type SonataEntryCard, type SonataEntryDetail } from "./sonata.demo";
 import { normalizeSearchTerm, validateLegacyImportHeaders, validateRelationshipDraft } from "./sonata.validation";
@@ -260,23 +260,62 @@ export async function getPublicEntry(slug: string): Promise<SonataEntryDetail | 
     const row = published[0];
     if (row) {
       const card = mapPublishedConcept(row);
+      const [nameRows, sourceLinks, relationshipRows] = await Promise.all([
+        db.select({ name: conceptNames.name, nameType: conceptNames.nameType, script: conceptNames.script }).from(conceptNames).where(eq(conceptNames.conceptId, row.id)),
+        db.select({ sourceId: conceptSources.sourceId, claimScope: conceptSources.claimScope, confidenceScore: conceptSources.confidenceScore, editorialNote: conceptSources.editorialNote }).from(conceptSources).where(eq(conceptSources.conceptId, row.id)),
+        db.select({ sourceConceptId: conceptRelationships.sourceConceptId, targetConceptId: conceptRelationships.targetConceptId, relationshipType: conceptRelationships.relationshipType, contextNote: conceptRelationships.contextNote }).from(conceptRelationships).where(and(eq(conceptRelationships.editorialStatus, "published"), or(eq(conceptRelationships.sourceConceptId, row.id), eq(conceptRelationships.targetConceptId, row.id))!)),
+      ]);
+      const sourceIds = sourceLinks.map(link => link.sourceId);
+      const sourceRows = sourceIds.length ? await db.select().from(sources).where(inArray(sources.id, sourceIds)) : [];
+      const sourceById = new Map(sourceRows.map(source => [source.id, source]));
+      const relatedIds = relationshipRows.map(link => link.sourceConceptId === row.id ? link.targetConceptId : link.sourceConceptId);
+      const relatedRows = relatedIds.length ? await db.select({ id: concepts.id, slug: concepts.slug, canonicalName: concepts.canonicalName }).from(concepts).where(and(eq(concepts.editorialStatus, "published"), inArray(concepts.id, relatedIds))) : [];
+      const relatedById = new Map(relatedRows.map(related => [related.id, related]));
+      const related = relationshipRows.map(link => {
+        const relatedId = link.sourceConceptId === row.id ? link.targetConceptId : link.sourceConceptId;
+        const relatedConcept = relatedById.get(relatedId);
+        return relatedConcept ? { slug: relatedConcept.slug, name: relatedConcept.canonicalName, relationshipType: link.relationshipType, note: link.contextNote ?? "Source-linked relationship context is available in the editorial record." } : null;
+      }).filter((related): related is NonNullable<typeof related> => Boolean(related));
       return {
         ...card,
         definition: row.definition ?? card.shortDefinition,
         historicalContext: row.historicalContext ?? "Historical context has not yet been added to this record.",
         practicalUsage: row.practicalUsage ?? "Practical usage has not yet been added to this record.",
         visualAudioDescription: row.visualAudioDescription ?? "Visual and audio description has not yet been added to this record.",
+        emicDescription: row.emicDescription ?? undefined,
+        eticComparison: row.eticComparison ?? undefined,
+        regionalVariation: row.regionalVariation ?? undefined,
+        uncertaintyNote: row.uncertaintyNote ?? undefined,
+        editorialStatus: row.editorialStatus,
+        sourceQuality: row.sourceQuality,
         pronunciation: row.pronunciation ?? undefined,
         languageOfOrigin: row.languageOfOrigin ?? undefined,
         transliteration: row.transliteration ?? undefined,
-        taxonomyPath: ["World", row.originRegion ?? "Context pending", row.tradition ?? "Context pending"],
-        related: [],
-        sources: [],
-        graphNodes: [{ id: row.slug, label: row.canonicalName, x: 50, y: 50, emphasis: "main" }],
+        nativeScript: nameRows.find(name => name.script || /[^\u0000-\u007f]/.test(name.name))?.name ?? undefined,
+        taxonomyPath: ["World", row.originRegion ?? "Context pending", row.tradition ?? "Context pending", row.category ?? "Concept", row.canonicalName],
+        related,
+        sources: sourceLinks.flatMap(link => {
+          const source = sourceById.get(link.sourceId);
+          return source ? [{ label: source.sourceType.replace(/_/g, " "), citation: source.citation, scope: link.claimScope, note: link.editorialNote ?? `${source.sourceQuality} source · confidence ${link.confidenceScore}/100`, url: source.uri ?? "#" }] : [];
+        }),
+        graphNodes: [{ id: row.slug, label: row.canonicalName, x: 50, y: 50, emphasis: "main", linkable: true }, ...related.slice(0, 6).map((item, index) => ({ id: item.slug, label: item.name, x: 15 + (index % 3) * 33, y: index < 3 ? 25 : 76, emphasis: index === 0 ? "accent" as const : undefined, linkable: true }))],
       };
     }
   }
-  return DEMONSTRATION_DETAILS[slug];
+  const detailedDemo = DEMONSTRATION_DETAILS[slug];
+  if (detailedDemo) return detailedDemo;
+  const card = DEMONSTRATION_ENTRIES.find(entry => entry.slug === slug);
+  return card ? {
+    ...card,
+    definition: card.shortDefinition,
+    historicalContext: "This published foundation record is ready for further source-linked historical context as the curated corpus grows.",
+    practicalUsage: "Use the record’s taxonomy, relationships, and source trail to continue research without assuming a cross-cultural equivalent.",
+    visualAudioDescription: "No licensed audio or visual example is attached to this foundation record yet. Sonata preserves descriptive context until rights-cleared media is available.",
+    taxonomyPath: ["World", card.region, card.tradition, ...card.tags, card.name],
+    related: [],
+    sources: [],
+    graphNodes: [{ id: card.slug, label: card.name, x: 50, y: 50, emphasis: "main", linkable: true }],
+  } : undefined;
 }
 
 export async function searchPublicEntries(query: string): Promise<SonataEntryCard[]> {

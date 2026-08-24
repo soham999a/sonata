@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /editorial
+
+Sitemap: https://sonata-seven.vercel.app/sitemap.xml

@@ -46,3 +46,20 @@
 - [x] Repair the legacy Vercel `/manus-storage` icon request with a safe direct-CDN redirect so stale icon paths no longer invoke a crashing function.
 - [x] Exercise the deployed editorial-status filter control in Vercel and confirm the visible public-safe status dataset changes.
 - [x] Reconcile the Caribbean regional taxonomy node with the distinct Caribbean music tradition node so all thirteen regional targets have matching persistent region nodes.
+- [x] Add normalized Part 3 persistence for user learning sessions, moderated contribution submissions, and source-grounded assistant audit records.
+- [x] Implement indexed, paginated server-side concept search with exact, normalized, synonym, transliteration/native-script, definition, and relationship matching plus public-safe filters.
+- [x] Add public discovery pathways for region, tradition, genre, era, instrument, theory, rhythm, melody, harmony, and culture without fabricating a large corpus.
+- [x] Build enriched concept research pages with source transparency, uncertainty notices, relationship graph navigation, visual theory aids, and metadata-ready canonical routes.
+- [x] Build contextual comparison, learning-path, flashcard, and quiz experiences derived only from validated Sonata concepts.
+- [x] Implement a server-only Sonata AI assistant that retrieves published Sonata evidence, cites concepts and sources, and declines unsupported factual claims.
+- [x] Create protected editorial knowledge-health dashboards for coverage, sources, duplicate risks, broken relationships, low-confidence records, and moderation queues.
+- [x] Add a signed-in moderated contribution flow for source leads, corrections, new-term proposals, relationship notes, and error reports that never auto-publishes.
+- [x] Add responsive/mobile UX polish, loading states, keyboard-accessible controls, SEO metadata, performance limits, and production hardening.
+- [x] Add Vitest coverage for search ranking/filters, assistant retrieval guardrails, learning/quiz generation, moderation, and knowledge-health calculations.
+- [x] Add relationship-context search indexing and ranking, then backfill search documents for already-published concepts.
+- [x] Add a concrete source-aware visual theory aid to concept records without fabricating analytical claims.
+- [x] Add route-level canonical and metadata handling for individual published concept records.
+- [x] Reduce oversized production chunks and verify explicit performance limits for public and assistant routes.
+- [x] Document and verify keyboard navigation and focus visibility across the new Part 3 public routes.
+- [x] Verify responsive layouts across the Part 3 search, comparison, learning, assistant, and contributor routes before closing UX hardening.
+- [ ] Verify Part 3 end-to-end in local and Vercel production, save the final checkpoint, and synchronize the connected GitHub repository.

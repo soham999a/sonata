@@ -1,4 +1,4 @@
-import { AlertTriangle, BarChart3, CheckCircle2, DatabaseZap, FileJson2, Globe2, Link2, Send, ShieldAlert, ShieldCheck } from "lucide-react";
+import { AlertTriangle, BarChart3, CheckCircle2, DatabaseZap, FileJson2, Globe2, Link2, Send, ShieldAlert, ShieldCheck, Stethoscope } from "lucide-react";
 import { FormEvent, useMemo, useState } from "react";
 import { trpc } from "@/lib/trpc";
 
@@ -6,6 +6,7 @@ type Notice = { tone: "success" | "attention"; heading: string; detail: string }
 
 export function KnowledgeEngineBoard() {
   const coverage = trpc.sonata.coverage.useQuery();
+  const health = trpc.editorial.knowledgeHealth.useQuery();
   const utils = trpc.useUtils();
   const [notice, setNotice] = useState<Notice>(null);
   const [batch, setBatch] = useState({ fileName: "", sourceProvider: "", candidatesJson: "" });
@@ -54,6 +55,10 @@ export function KnowledgeEngineBoard() {
     onSuccess: data => { setNotice({ tone: "success", heading: "Concept published", detail: `${data.canonicalName} is now a public record with an explicit editorial publication event.` }); utils.sonata.browse.invalidate(); utils.sonata.coverage.invalidate(); },
     onError: error => setNotice({ tone: "attention", heading: "Publication is blocked", detail: error.message }),
   });
+  const rebuildPublishedSearchIndex = trpc.editorial.rebuildPublishedSearchIndex.useMutation({
+    onSuccess: data => setNotice({ tone: "success", heading: "Published search index refreshed", detail: `${data.indexed} published records were indexed with names, context, and reviewed relationship terms.` }),
+    onError: error => setNotice({ tone: "attention", heading: "Search index refresh did not complete", detail: error.message }),
+  });
 
   const submitBatch = (event: FormEvent) => {
     event.preventDefault();
@@ -93,6 +98,22 @@ export function KnowledgeEngineBoard() {
           </article>
         ))}
       </div>
+
+      <section className="knowledge-health" aria-label="Knowledge health dashboard">
+        <div className="knowledge-health__heading"><div><p className="eyebrow">Part 3 · knowledge health</p><h3>See what needs research, not just what is published.</h3></div><Stethoscope size={21} strokeWidth={1.5} /></div>
+        <div className="knowledge-health__metrics">
+          <article><span>Regional coverage</span><strong>{health.data?.coverage?.regions ?? 0}</strong><small>represented regions</small></article>
+          <article><span>Category coverage</span><strong>{health.data?.coverage?.categories ?? 0}</strong><small>represented categories</small></article>
+          <article><span>Relationship health</span><strong>{health.data?.relationshipHealth.reviewed ?? 0}</strong><small>published · {health.data?.relationshipHealth.needsReview ?? 0} awaiting review</small></article>
+          <article><span>Moderation queue</span><strong>{health.data?.moderation.length ?? 0}</strong><small>contributions awaiting editorial review</small></article>
+        </div>
+        <div className="knowledge-health__queues">
+          <article><p className="eyebrow">Low confidence / unreviewed</p>{health.data?.lowConfidence.length ? <ul>{health.data.lowConfidence.slice(0, 4).map(record => <li key={record.publicId}><strong>{record.canonicalName}</strong><span>{record.sourceCount} sources · {record.sourceConfidence}</span></li>)}</ul> : <p>There are no low-confidence records in the current persisted queue.</p>}</article>
+          <article><p className="eyebrow">Duplicate and relationship signals</p>{health.data?.openIssues.length ? <ul>{health.data.openIssues.slice(0, 4).map(issue => <li key={issue.publicId}><strong>{issue.issueType.replace(/_/g, " ")}</strong><span>{issue.severity} · {issue.status}</span></li>)}</ul> : <p>No unresolved duplicate, orphan, or broken-reference signals are recorded.</p>}</article>
+          <article><p className="eyebrow">Community moderation</p>{health.data?.moderation.length ? <ul>{health.data.moderation.slice(0, 4).map(item => <li key={item.publicId}><strong>{item.kind.replace(/_/g, " ")}</strong><span>{item.summary}</span></li>)}</ul> : <p>No contributor submissions are awaiting moderation.</p>}</article>
+        </div>
+        <button type="button" className="button-quiet knowledge-health__reindex" onClick={() => rebuildPublishedSearchIndex.mutate()} disabled={rebuildPublishedSearchIndex.isPending}>{rebuildPublishedSearchIndex.isPending ? "Refreshing published index…" : "Refresh published search index"} <DatabaseZap size={15} /></button>
+      </section>
 
       <div className="knowledge-engine__controls">
         <article className="engine-control engine-control--seed">
