@@ -40,7 +40,8 @@
 - [x] Verify the deployed Part 2 coverage and browse API responses on Vercel.
 - [x] Verify the supplied Sonata favicon/app icon and the admin editorial route on the Vercel production deployment.
 - [x] Fix the Vercel production route that currently returns a serverless-function error for the supplied Sonata app icon asset.
-- [ ] Confirm the live Vercel coverage explorer filter controls update the visible public-safe status dataset.
-- [ ] Document and verify the direct-CDN app-icon delivery path that replaces the unused managed-storage proxy for Sonata’s favicon and header mark.
-- [ ] Complete end-to-end Part 2 production verification for the homepage, coverage filters, public APIs, protected editorial route, and direct CDN icon references.
-- [ ] Repair the legacy Vercel `/manus-storage` icon request with a safe direct-CDN redirect so stale icon paths no longer invoke a crashing function.
+- [x] Confirm the live Vercel coverage explorer filter controls update the visible public-safe status dataset.
+- [x] Document and verify the direct-CDN app-icon delivery path that replaces the unused managed-storage proxy for Sonata’s favicon and header mark.
+- [x] Complete end-to-end Part 2 production verification for the homepage, coverage filters, public APIs, protected editorial route, and direct CDN icon references.
+- [x] Repair the legacy Vercel `/manus-storage` icon request with a safe direct-CDN redirect so stale icon paths no longer invoke a crashing function.
+- [ ] Exercise the deployed editorial-status filter control in Vercel and confirm the visible public-safe status dataset changes.

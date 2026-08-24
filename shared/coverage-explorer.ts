@@ -10,3 +10,7 @@ export function createEditorialStatusDataset(counts: Record<string, number> | un
 export function filterEditorialStatusDataset(rows: EditorialStatusRow[], selected: PublicEditorialStatus | "all") {
   return selected === "all" ? rows : rows.filter(row => row.status === selected);
 }
+
+export function editorialStatusFromSearchParam(value: string | null): PublicEditorialStatus | "all" {
+  return value && (PUBLIC_EDITORIAL_STATUSES as readonly string[]).includes(value) ? value as PublicEditorialStatus : "all";
+}
