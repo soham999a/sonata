@@ -22,3 +22,4 @@
 - [ ] Route Vercel `/api/*` requests explicitly to the Sonata serverless adapter so production data calls do not fall through to the SPA 404 screen.
 - [ ] Confirm the deployed Vercel `/api/health` endpoint responds from the serverless runtime.
 - [ ] Confirm the deployed Vercel `sonata.browse` tRPC endpoint returns JSON with discovery records.
+- [ ] Bundle Sonata’s Vercel tRPC dependency graph into the deployed serverless function so runtime imports resolve correctly.
