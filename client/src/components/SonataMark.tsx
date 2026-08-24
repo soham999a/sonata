@@ -11,12 +11,14 @@ type SonataMarkProps = {
 
 export function SonataMark({ inverted = false, compact = false }: SonataMarkProps) {
   return (
-    <Link href="/" className={`sonata-mark ${inverted ? "sonata-mark--inverted" : ""}`}>
-      <img
-        src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663126664570/ZhrehmHxfBttGhjk.png"
-        alt="Sonata"
-        className="sonata-mark__symbol"
-      />
+    <Link href="/" aria-label="Sonata home" className={`sonata-mark ${inverted ? "sonata-mark--inverted" : ""}`}>
+      <span className="sonata-mark__symbol-frame" aria-hidden="true">
+        <img
+          src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663126664570/ZhrehmHxfBttGhjk.png"
+          alt=""
+          className="sonata-mark__symbol"
+        />
+      </span>
       {!compact ? <span className="sonata-mark__word">Sonata</span> : null}
     </Link>
   );

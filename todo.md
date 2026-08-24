@@ -66,3 +66,7 @@
 - [x] Verify Part 3 end-to-end in local and Vercel production, save the final checkpoint, and synchronize the connected GitHub repository.
 - [x] Exercise the deployed Vercel homepage and Part 3 public UI routes with a real browser after the final checkpoint.
 - [x] Confirm the latest runtime-repair checkpoint is aligned with `main`, `origin/main`, and `user_github/main`.
+- [x] Diagnose and repair the Vercel production asset references so the hero and editorial imagery match the working Manus preview.
+- [ ] Refine the Sonata header mark and wordmark with a premium, restrained gold-fabric treatment that remains readable and accessible.
+- [ ] Verify the repaired production homepage visually on Vercel, then synchronize the final visual update to GitHub.
+- [ ] Verify the gold-fabric mark’s accessible name and readability in full and compact usages before production release.
