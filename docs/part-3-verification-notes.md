@@ -31,3 +31,7 @@ Automated accessibility-contract coverage confirms the global `:focus-visible` t
 ### Real Keyboard Traversal
 
 A headless Chromium traversal then exercised each Part 3 public route with real `Tab` presses. Search exposed links, buttons, an input, and selects; comparison exposed links, buttons, and selects; learning exposed links, buttons, and an input; assistant and contribution each exposed their signed-out links and buttons. Every route showed the global visible focus indicator on real focused elements and retained a keyboard-reachable route escape link. This check covered `/search`, `/compare`, `/learn`, `/assistant`, and `/contribute`.
+
+## Final Production and Repository Verification
+
+The final Vercel verification confirmed the sitemap contains both `/assistant` and `/contribute`, the public Rāga endpoint returns its `theoryVisual` data, and public research search advertises relationship-context mode. The public homepage and browse endpoint previously returned HTTP 200, while the deployed health endpoint also returned HTTP 200. The final local Git state is clean at commit `94792a5`, with `main`, `origin/main`, and `user_github/main` aligned; the connected GitHub remote therefore contains the completed Part 3 release.
