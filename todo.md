@@ -35,8 +35,12 @@
 - [x] Add editorial uncertainty-flag review and an explicit expert-review-to-publish approval control that never promotes a record automatically.
 - [x] Add a true public editorial-status filter with explicit status semantics beyond planned-versus-published coverage state.
 - [x] Filter a visible public-safe editorial-status dataset rather than displaying status counts alone, then re-verify the explorer.
-- [ ] Verify Part 2 changes in the Vercel production deployment after the connected repository redeploys.
-- [ ] Verify the live coverage explorer interaction and visible editorial-status dataset on Vercel.
-- [ ] Verify the deployed Part 2 coverage and browse API responses on Vercel.
-- [ ] Verify the supplied Sonata favicon/app icon and the admin editorial route on the Vercel production deployment.
-- [ ] Fix the Vercel production route that currently returns a serverless-function error for the supplied Sonata app icon asset.
+- [x] Verify Part 2 changes in the Vercel production deployment after the connected repository redeploys.
+- [x] Verify the live coverage explorer interaction and visible editorial-status dataset on Vercel.
+- [x] Verify the deployed Part 2 coverage and browse API responses on Vercel.
+- [x] Verify the supplied Sonata favicon/app icon and the admin editorial route on the Vercel production deployment.
+- [x] Fix the Vercel production route that currently returns a serverless-function error for the supplied Sonata app icon asset.
+- [ ] Confirm the live Vercel coverage explorer filter controls update the visible public-safe status dataset.
+- [ ] Document and verify the direct-CDN app-icon delivery path that replaces the unused managed-storage proxy for Sonata’s favicon and header mark.
+- [ ] Complete end-to-end Part 2 production verification for the homepage, coverage filters, public APIs, protected editorial route, and direct CDN icon references.
+- [ ] Repair the legacy Vercel `/manus-storage` icon request with a safe direct-CDN redirect so stale icon paths no longer invoke a crashing function.

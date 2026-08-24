@@ -1,35 +1,26 @@
 import type { Request, Response } from "express";
-import { ENV } from "../server/_core/env";
 
-/** Redirect Vercel traffic for managed image keys to a fresh storage URL. */
-export default async function handler(req: Request, res: Response) {
+const DIRECT_PUBLIC_ASSETS: Record<string, string> = {
+  "sonata-app-icon_7aa2060e.png": "https://files.manuscdn.com/user_upload_by_module/session_file/310519663126664570/ZhrehmHxfBttGhjk.png",
+};
+
+/**
+ * Compatibility bridge for historical managed-storage URLs.
+ * Fixed application brand assets are deliberately served from their direct CDN URL
+ * so this Vercel function has no runtime dependency on private storage credentials.
+ */
+export default function handler(req: Request, res: Response) {
   const rawKey = req.query.key;
   const key = Array.isArray(rawKey) ? rawKey[0] : rawKey;
   if (!key || typeof key !== "string") {
     res.status(400).send("Missing storage key");
     return;
   }
-  if (!ENV.forgeApiUrl || !ENV.forgeApiKey) {
-    res.status(500).send("Storage proxy is not configured for this deployment");
+  const assetUrl = DIRECT_PUBLIC_ASSETS[key];
+  if (!assetUrl) {
+    res.status(404).send("Managed asset is not available through this compatibility route");
     return;
   }
-  try {
-    const forgeUrl = new URL("v1/storage/presign/get", `${ENV.forgeApiUrl.replace(/\/+$/, "")}/`);
-    forgeUrl.searchParams.set("path", key);
-    const response = await fetch(forgeUrl, { headers: { Authorization: `Bearer ${ENV.forgeApiKey}` } });
-    if (!response.ok) {
-      res.status(502).send("Storage backend error");
-      return;
-    }
-    const { url } = (await response.json()) as { url?: string };
-    if (!url) {
-      res.status(502).send("Storage backend returned no URL");
-      return;
-    }
-    res.setHeader("Cache-Control", "no-store");
-    res.redirect(307, url);
-  } catch (error) {
-    console.error("[Vercel media proxy] failed", error);
-    res.status(502).send("Storage proxy error");
-  }
+  res.setHeader("Cache-Control", "public, max-age=86400");
+  res.redirect(307, assetUrl);
 }
