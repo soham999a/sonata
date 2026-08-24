@@ -1,0 +1,18 @@
+# Project TODO
+
+- [x] Define Sonata’s normalized knowledge graph schema with stable UUID-based public identities, multilingual names, taxonomy nodes, typed relationships, sources, editorial status, revisions, and import records.
+- [x] Apply the initial database migration for the knowledge-graph foundation without inserting a production-like dictionary dataset.
+- [x] Add public read procedures for curated entry discovery, relationship navigation, taxonomy browsing, and search-ready result contracts.
+- [x] Add editor-only procedures and UI entry points for term drafting, source review, relationship management, and import reports.
+- [x] Establish the Matrix-aligned Editorial Cartography visual system with brand tokens, typography, responsive layout, accessibility states, and motion preferences.
+- [x] Build a public Sonata landing and discovery experience with a working search interaction, taxonomy filters, featured term exploration, and global navigation.
+- [x] Build a detailed concept view for a representative entry with cultural context, multilingual names, relationship constellation, sources, and related concepts.
+- [x] Build an editorial workbench shell that clearly signals restricted functions and demonstrates draft-review-publish workflow rather than simulating authoritative content.
+- [x] Implement protected editorial tools for drafting a term, reviewing sources, adding a relationship, and inspecting an import report.
+- [x] Add sourced reference metadata to the representative concept contract and render a citation section on the concept detail view.
+- [x] Write Vitest coverage for core validation utilities and tRPC public data contracts.
+- [x] Verify build, type-check, tests, desktop rendering, and mobile rendering; resolve visual or console defects.
+- [x] Persist protected draft-term, source, relationship, and staged-import records; then render recent editorial records and reports in the workbench.
+- [x] Implement stored source review, relationship inspection, and detailed import-report inspection in the editorial workbench.
+- [x] Restrict editorial UI access and navigation to admin users, with a clear signed-in unauthorized state.
+- [x] Re-mark every delivered implementation item complete before the first checkpoint only after editor-only frontend access is enforced.

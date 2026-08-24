@@ -1,0 +1,16 @@
+/* STYLE: Editorial Cartography. Detail inspectors use the same fine-rule, low-chrome research-desk language as the Sonata workbench. */
+.activity-record { width: 100%; border: 0; background: transparent; color: inherit; text-align: left; transition: padding 160ms ease-out, color 160ms ease-out; }
+.activity-record:hover { padding-left: 4px; color: #7c5b2e; }
+.review-inspector { margin-top: 22px; padding: 22px; border: 1px solid var(--ink); background: #ece6da; }
+.review-inspector__heading { display: flex; align-items: flex-start; justify-content: space-between; gap: 18px; padding-bottom: 20px; border-bottom: 1px solid rgba(17,16,14,.26); }
+.review-inspector__heading h2 { margin: 8px 0 0; font-family: "Newsreader", Georgia, serif; font-size: clamp(1.8rem, 3vw, 2.8rem); font-weight: 500; letter-spacing: -.05em; line-height: .92; }
+.review-inspector__heading button { border: 0; background: transparent; color: #71695e; font-size: 10px; letter-spacing: .09em; text-transform: uppercase; font-weight: 800; }
+.review-inspector__heading button:hover { color: var(--brass); }
+.review-inspector__content { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 18px; padding: 20px 0; }
+.review-inspector__content > div, .review-inspector__content label { display: grid; gap: 7px; color: #6d655b; font-size: 9px; letter-spacing: .1em; text-transform: uppercase; font-weight: 800; }
+.review-inspector__content p { margin: 0; color: var(--ink); font-family: "Newsreader", Georgia, serif; font-size: 17px; line-height: 1.22; letter-spacing: -.015em; text-transform: none; font-weight: 500; overflow-wrap: anywhere; }
+.review-inspector__content select { width: 100%; border: 1px solid var(--stone); border-radius: 0; background: var(--paper-strong); color: var(--ink); padding: 9px; font-family: "Manrope", Arial, sans-serif; font-size: 11px; letter-spacing: normal; text-transform: none; }
+.review-inspector__footer { display: flex; align-items: center; justify-content: space-between; gap: 22px; padding-top: 17px; border-top: 1px solid rgba(17,16,14,.26); }
+.review-inspector__footer p { max-width: 720px; margin: 0; color: #685f55; font-size: 11px; line-height: 1.55; }
+.inspector-uuid { color: #6d655b; font-size: 9px; letter-spacing: .09em; text-transform: uppercase; overflow-wrap: anywhere; }
+@media (max-width: 780px) { .review-inspector { padding: 18px; }.review-inspector__content { grid-template-columns: 1fr; }.review-inspector__footer { align-items: flex-start; flex-direction: column; } }
