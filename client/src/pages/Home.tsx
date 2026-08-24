@@ -10,6 +10,7 @@ import { SiteHeader } from "@/components/SiteHeader";
 import { TaxonomyRibbon } from "@/components/TaxonomyRibbon";
 import { useAuth } from "@/_core/hooks/useAuth";
 import { trpc } from "@/lib/trpc";
+import { createEditorialStatusDataset, filterEditorialStatusDataset, PUBLIC_EDITORIAL_STATUSES, type PublicEditorialStatus } from "../../../shared/coverage-explorer";
 
 export default function Home() {
   const browseQuery = trpc.sonata.browse.useQuery();
@@ -20,7 +21,7 @@ export default function Home() {
   const [activeFilter, setActiveFilter] = useState("All pathways");
   const [coverageDimension, setCoverageDimension] = useState<"region" | "tradition" | "domain" | "era">("region");
   const [coverageStatus, setCoverageStatus] = useState<"all" | "published" | "planned">("all");
-  const [editorialStatus, setEditorialStatus] = useState<"all" | "draft" | "machine_generated" | "machine_reviewed" | "expert_reviewed" | "published" | "deprecated">("all");
+  const [editorialStatus, setEditorialStatus] = useState<PublicEditorialStatus | "all">("all");
   const searchQuery = trpc.sonata.search.useQuery(
     { query },
     { enabled: query.trim().length > 0 },
@@ -35,9 +36,8 @@ export default function Home() {
   const visibleCoverageTargets = useMemo(() => (coverageQuery.data?.targets ?? [])
     .filter(target => target.dimension === coverageDimension)
     .filter(target => coverageStatus === "all" ? true : coverageStatus === "published" ? target.publishedCount > 0 : target.publishedCount < target.targetCount), [coverageDimension, coverageQuery.data?.targets, coverageStatus]);
-  const editorialStatusOptions = ["draft", "machine_generated", "machine_reviewed", "expert_reviewed", "published", "deprecated"] as const;
-  const editorialStatusDataset = useMemo(() => editorialStatusOptions.map(status => ({ status, count: coverageQuery.data?.editorialStatusCounts?.[status] ?? 0 })), [coverageQuery.data?.editorialStatusCounts]);
-  const visibleStatusDataset = editorialStatus === "all" ? editorialStatusDataset : editorialStatusDataset.filter(row => row.status === editorialStatus);
+  const editorialStatusDataset = useMemo(() => createEditorialStatusDataset(coverageQuery.data?.editorialStatusCounts), [coverageQuery.data?.editorialStatusCounts]);
+  const visibleStatusDataset = filterEditorialStatusDataset(editorialStatusDataset, editorialStatus);
   const selectedStatusCount = editorialStatus === "all" ? (coverageQuery.data?.draftConcepts ?? 0) + (coverageQuery.data?.publishedConcepts ?? 0) : coverageQuery.data?.editorialStatusCounts?.[editorialStatus] ?? 0;
 
   return (
@@ -126,7 +126,7 @@ export default function Home() {
               <div><span>Lens</span>{(["region", "tradition", "domain", "era"] as const).map(dimension => <button type="button" key={dimension} className={`filter-button ${coverageDimension === dimension ? "is-active" : ""}`} onClick={() => setCoverageDimension(dimension)}>{dimension}</button>)}</div>
               <div><span>Record state</span>{(["all", "published", "planned"] as const).map(status => <button type="button" key={status} className={`filter-button ${coverageStatus === status ? "is-active" : ""}`} onClick={() => setCoverageStatus(status)}>{status === "planned" ? "planned gap" : status}</button>)}</div>
             </div>
-            <div className="editorial-status-lens"><div><span>Editorial status lens</span><div>{(["all", ...editorialStatusOptions] as const).map(status => <button type="button" key={status} className={`filter-button ${editorialStatus === status ? "is-active" : ""}`} onClick={() => setEditorialStatus(status)}>{status.replace(/_/g, " ")}</button>)}</div></div><p><strong>{selectedStatusCount}</strong> aggregate {editorialStatus === "all" ? "tracked records" : `${editorialStatus.replace(/_/g, " ")} records`}. Only published records are available as public entries; other statuses remain aggregate-only to protect the editorial workflow.</p></div>
+            <div className="editorial-status-lens"><div><span>Editorial status lens</span><div>{(["all", ...PUBLIC_EDITORIAL_STATUSES] as const).map(status => <button type="button" key={status} className={`filter-button ${editorialStatus === status ? "is-active" : ""}`} onClick={() => setEditorialStatus(status)}>{status.replace(/_/g, " ")}</button>)}</div></div><p><strong>{selectedStatusCount}</strong> aggregate {editorialStatus === "all" ? "tracked records" : `${editorialStatus.replace(/_/g, " ")} records`}. Only published records are available as public entries; other statuses remain aggregate-only to protect the editorial workflow.</p></div>
             <div className="editorial-status-dataset" aria-live="polite">{visibleStatusDataset.map(row => <article key={row.status}><span>{row.status.replace(/_/g, " ")}</span><strong>{row.count}</strong><small>{row.status === "published" ? "public entries" : "aggregate only"}</small></article>)}</div>
             <div className="coverage-explorer__cards">
               {visibleCoverageTargets.length ? visibleCoverageTargets.map(target => <article key={`${target.dimension}-${target.slug}`}><p>{target.label}</p><strong>{target.targetCount.toLocaleString()}</strong><span>{target.publishedCount} published · {Math.max(0, target.targetCount - target.publishedCount).toLocaleString()} planned gap</span></article>) : <p className="coverage-explorer__empty">No targets have reached the selected public-record state yet. This is an honest coverage signal, not an empty-data error.</p>}
