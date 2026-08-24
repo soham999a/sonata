@@ -36,3 +36,7 @@
 - [x] Add a true public editorial-status filter with explicit status semantics beyond planned-versus-published coverage state.
 - [x] Filter a visible public-safe editorial-status dataset rather than displaying status counts alone, then re-verify the explorer.
 - [ ] Verify Part 2 changes in the Vercel production deployment after the connected repository redeploys.
+- [ ] Verify the live coverage explorer interaction and visible editorial-status dataset on Vercel.
+- [ ] Verify the deployed Part 2 coverage and browse API responses on Vercel.
+- [ ] Verify the supplied Sonata favicon/app icon and the admin editorial route on the Vercel production deployment.
+- [ ] Fix the Vercel production route that currently returns a serverless-function error for the supplied Sonata app icon asset.

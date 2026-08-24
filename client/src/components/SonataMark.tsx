@@ -13,7 +13,7 @@ export function SonataMark({ inverted = false, compact = false }: SonataMarkProp
   return (
     <Link href="/" className={`sonata-mark ${inverted ? "sonata-mark--inverted" : ""}`}>
       <img
-        src="/manus-storage/sonata-app-icon_7aa2060e.png"
+        src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663126664570/ZhrehmHxfBttGhjk.png"
         alt="Sonata"
         className="sonata-mark__symbol"
       />
