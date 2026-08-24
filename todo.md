@@ -19,3 +19,6 @@
 - [x] Diagnose why the Vercel deployment serves compiled server source rather than the Sonata app.
 - [x] Add the minimum Vercel-compatible build, runtime, routing, and environment configuration required for the deployed Sonata app.
 - [ ] Verify the repaired Vercel production URL after the connected repository redeploys.
+- [ ] Route Vercel `/api/*` requests explicitly to the Sonata serverless adapter so production data calls do not fall through to the SPA 404 screen.
+- [ ] Confirm the deployed Vercel `/api/health` endpoint responds from the serverless runtime.
+- [ ] Confirm the deployed Vercel `sonata.browse` tRPC endpoint returns JSON with discovery records.
