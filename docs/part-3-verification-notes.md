@@ -35,3 +35,7 @@ A headless Chromium traversal then exercised each Part 3 public route with real 
 ## Final Production and Repository Verification
 
 The final Vercel verification confirmed the sitemap contains both `/assistant` and `/contribute`, the public Rāga endpoint returns its `theoryVisual` data, and public research search advertises relationship-context mode. The public homepage and browse endpoint previously returned HTTP 200, while the deployed health endpoint also returned HTTP 200. The final local Git state is clean at commit `94792a5`, with `main`, `origin/main`, and `user_github/main` aligned; the connected GitHub remote therefore contains the completed Part 3 release.
+
+### Live UI Repair and Re-Verification
+
+The initial manual vendor grouping created a React runtime failure in Vercel. The grouping was removed, the corrected checkpoint was synchronized, and a real Chromium production traversal then verified all public routes. The live homepage, Rāga record, search, comparison, learning, assistant, and contributor routes each returned HTTP 200, produced a substantive heading and rendered text, exposed interactive elements, and did not remain in the loading state.

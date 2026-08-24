@@ -63,5 +63,6 @@
 - [x] Document and verify keyboard navigation and focus visibility across the new Part 3 public routes.
 - [x] Verify responsive layouts across the Part 3 search, comparison, learning, assistant, and contributor routes before closing UX hardening.
 - [x] Add the Part 3 assistant and contributor routes to Sonata’s public sitemap and re-verify deployed crawl metadata.
-- [ ] Verify Part 3 end-to-end in local and Vercel production, save the final checkpoint, and synchronize the connected GitHub repository.
-- [ ] Exercise the deployed Vercel homepage and Part 3 public UI routes with a real browser after the final checkpoint.
+- [x] Verify Part 3 end-to-end in local and Vercel production, save the final checkpoint, and synchronize the connected GitHub repository.
+- [x] Exercise the deployed Vercel homepage and Part 3 public UI routes with a real browser after the final checkpoint.
+- [x] Confirm the latest runtime-repair checkpoint is aligned with `main`, `origin/main`, and `user_github/main`.
