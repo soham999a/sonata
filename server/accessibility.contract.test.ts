@@ -20,4 +20,12 @@ describe("Part 3 keyboard accessibility contract", () => {
       expect(source).toContain("SiteHeader");
     }
   });
+
+  it("reuses the accessible inverse mark in the editorial dashboard", () => {
+    const mark = readClientFile("components/SonataMark.tsx");
+    const dashboard = readClientFile("components/DashboardLayout.tsx");
+    expect(mark).toContain('aria-label="Sonata home"');
+    expect(mark).toContain("sonata-mark--inverted");
+    expect(dashboard).toContain("<SonataMark inverted />");
+  });
 });

@@ -6,10 +6,9 @@ import { Link } from "wouter";
 
 type SonataMarkProps = {
   inverted?: boolean;
-  compact?: boolean;
 };
 
-export function SonataMark({ inverted = false, compact = false }: SonataMarkProps) {
+export function SonataMark({ inverted = false }: SonataMarkProps) {
   return (
     <Link href="/" aria-label="Sonata home" className={`sonata-mark ${inverted ? "sonata-mark--inverted" : ""}`}>
       <span className="sonata-mark__symbol-frame" aria-hidden="true">
@@ -19,7 +18,7 @@ export function SonataMark({ inverted = false, compact = false }: SonataMarkProp
           className="sonata-mark__symbol"
         />
       </span>
-      {!compact ? <span className="sonata-mark__word">Sonata</span> : null}
+      <span className="sonata-mark__word">Sonata</span>
     </Link>
   );
 }
