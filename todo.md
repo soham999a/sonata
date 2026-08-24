@@ -16,3 +16,6 @@
 - [x] Implement stored source review, relationship inspection, and detailed import-report inspection in the editorial workbench.
 - [x] Restrict editorial UI access and navigation to admin users, with a clear signed-in unauthorized state.
 - [x] Re-mark every delivered implementation item complete before the first checkpoint only after editor-only frontend access is enforced.
+- [x] Diagnose why the Vercel deployment serves compiled server source rather than the Sonata app.
+- [x] Add the minimum Vercel-compatible build, runtime, routing, and environment configuration required for the deployed Sonata app.
+- [ ] Verify the repaired Vercel production URL after the connected repository redeploys.

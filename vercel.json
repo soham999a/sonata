@@ -1,0 +1,20 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "installCommand": "pnpm install --frozen-lockfile",
+  "buildCommand": "pnpm run build:client",
+  "outputDirectory": "dist/public",
+  "functions": {
+    "api/[...route].ts": {
+      "maxDuration": 30
+    },
+    "api/media.ts": {
+      "maxDuration": 30
+    }
+  },
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/manus-storage/(.*)", "dest": "/api/media?key=$1" },
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
+}
