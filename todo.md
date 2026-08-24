@@ -62,4 +62,5 @@
 - [x] Reduce oversized production chunks and verify explicit performance limits for public and assistant routes.
 - [x] Document and verify keyboard navigation and focus visibility across the new Part 3 public routes.
 - [x] Verify responsive layouts across the Part 3 search, comparison, learning, assistant, and contributor routes before closing UX hardening.
+- [ ] Add the Part 3 assistant and contributor routes to Sonata’s public sitemap and re-verify deployed crawl metadata.
 - [ ] Verify Part 3 end-to-end in local and Vercel production, save the final checkpoint, and synchronize the connected GitHub repository.
