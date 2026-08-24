@@ -7,9 +7,9 @@ The Vercel production deployment at `https://sonata-seven.vercel.app` was checke
 | Public homepage | Passed | The deployed homepage presents the Part 2 `15,350 source-aware coverage target` and the supplied Sonata mark in the top-left brand unit. |
 | Coverage contract | Passed | `sonata.coverage` returns `primaryTarget: 15350`, regional targets, and the public-safe `editorialStatusCounts` contract. |
 | Browse contract | Passed | `sonata.browse` returns the intentionally small, labelled demonstration corpus and its foundation-data notice. |
-| Coverage/status UI | Passed | The live page contains the coverage lenses for region, tradition, domain, era, record state, and the visible `Editorial status lens` dataset. |
+| Coverage/status UI | Passed | The live page contains the coverage lenses for region, tradition, domain, era, record state, and the visible `Editorial status lens` dataset. The status controls were exercised in production: selecting **All** removed `?status=published` and showed `0 aggregate tracked records`; selecting **Published** restored `?status=published` and changed the visible summary to `0 aggregate published records`. No unpublished records were exposed. |
 | Editorial route | Passed | `/editorial` renders the intentional protected access state with a secure sign-in action rather than failing as a route. |
-| App icon delivery | Passed | The supplied icon resolves from the direct public CDN URL used by the header, favicon, Apple touch icon, and manifest. This intentionally supersedes the unused `/manus-storage` Vercel proxy path for the app icon. |
+| App icon delivery | Passed | The supplied icon resolves from the direct public CDN URL used by the header, favicon, Apple touch icon, and manifest. This intentionally supersedes the unused `/manus-storage` Vercel proxy path for the app icon. The former `/manus-storage/sonata-app-icon_7aa2060e.png` route now safely redirects to the direct CDN asset for stale requests. |
 
 ## Implementation note
 

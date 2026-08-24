@@ -44,4 +44,5 @@
 - [x] Document and verify the direct-CDN app-icon delivery path that replaces the unused managed-storage proxy for Sonata’s favicon and header mark.
 - [x] Complete end-to-end Part 2 production verification for the homepage, coverage filters, public APIs, protected editorial route, and direct CDN icon references.
 - [x] Repair the legacy Vercel `/manus-storage` icon request with a safe direct-CDN redirect so stale icon paths no longer invoke a crashing function.
-- [ ] Exercise the deployed editorial-status filter control in Vercel and confirm the visible public-safe status dataset changes.
+- [x] Exercise the deployed editorial-status filter control in Vercel and confirm the visible public-safe status dataset changes.
+- [x] Reconcile the Caribbean regional taxonomy node with the distinct Caribbean music tradition node so all thirteen regional targets have matching persistent region nodes.

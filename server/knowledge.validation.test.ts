@@ -1,5 +1,6 @@
 import { describe, expect, it } from "vitest";
-import { PRIMARY_COVERAGE_TARGET } from "../shared/sonata-coverage";
+import { editorialStatusFromSearchParam } from "../shared/coverage-explorer";
+import { PRIMARY_COVERAGE_TARGET, REGION_COVERAGE_TARGETS, SONATA_GLOBAL_TAXONOMY } from "../shared/sonata-coverage";
 import { canPublishCandidate, validateKnowledgeCandidate } from "./knowledge.validation";
 
 const source = { citation: "National cultural institution collection record, accession 101." };
@@ -7,6 +8,21 @@ const source = { citation: "National cultural institution collection record, acc
 describe("Part 2 knowledge validation", () => {
   it("keeps the primary regional coverage plan above fifteen thousand", () => {
     expect(PRIMARY_COVERAGE_TARGET).toBe(15350);
+  });
+
+  it("keeps every taxonomy slug unique while retaining one regional node for each regional target", () => {
+    const taxonomySlugs = SONATA_GLOBAL_TAXONOMY.map(node => node.slug);
+    const regionSlugs = SONATA_GLOBAL_TAXONOMY.filter(node => node.nodeType === "region").map(node => node.slug);
+
+    expect(new Set(taxonomySlugs).size).toBe(taxonomySlugs.length);
+    expect(regionSlugs).toHaveLength(REGION_COVERAGE_TARGETS.length);
+    expect(regionSlugs).toContain("caribbean");
+    expect(taxonomySlugs).toContain("caribbean-music");
+  });
+
+  it("accepts only known editorial statuses from the public status query parameter", () => {
+    expect(editorialStatusFromSearchParam("published")).toBe("published");
+    expect(editorialStatusFromSearchParam("unexpected-status")).toBe("all");
   });
 
   it("blocks unsourced or low-confidence records from publication", () => {

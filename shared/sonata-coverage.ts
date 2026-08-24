@@ -97,7 +97,7 @@ export const SONATA_GLOBAL_TAXONOMY: TaxonomySeed[] = [
   { slug: "african-traditions", label: "African traditional music", nodeType: "tradition", parentSlug: "traditions", pathKey: "music.traditions.african-traditions" },
   { slug: "african-diasporic", label: "African diasporic traditions", nodeType: "tradition", parentSlug: "traditions", pathKey: "music.traditions.african-diasporic" },
   { slug: "latin-american", label: "Latin American music", nodeType: "tradition", parentSlug: "traditions", pathKey: "music.traditions.latin-american" },
-  { slug: "caribbean", label: "Caribbean music", nodeType: "tradition", parentSlug: "traditions", pathKey: "music.traditions.caribbean" },
+  { slug: "caribbean-music", label: "Caribbean music", nodeType: "tradition", parentSlug: "traditions", pathKey: "music.traditions.caribbean-music" },
   { slug: "western-classical", label: "Western classical", nodeType: "tradition", parentSlug: "traditions", pathKey: "music.traditions.western-classical" },
   { slug: "jazz", label: "Jazz", nodeType: "tradition", parentSlug: "traditions", pathKey: "music.traditions.jazz" },
   { slug: "blues", label: "Blues", nodeType: "tradition", parentSlug: "traditions", pathKey: "music.traditions.blues" },
