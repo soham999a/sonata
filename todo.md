@@ -18,8 +18,8 @@
 - [x] Re-mark every delivered implementation item complete before the first checkpoint only after editor-only frontend access is enforced.
 - [x] Diagnose why the Vercel deployment serves compiled server source rather than the Sonata app.
 - [x] Add the minimum Vercel-compatible build, runtime, routing, and environment configuration required for the deployed Sonata app.
-- [ ] Verify the repaired Vercel production URL after the connected repository redeploys.
-- [ ] Route Vercel `/api/*` requests explicitly to the Sonata serverless adapter so production data calls do not fall through to the SPA 404 screen.
-- [ ] Confirm the deployed Vercel `/api/health` endpoint responds from the serverless runtime.
-- [ ] Confirm the deployed Vercel `sonata.browse` tRPC endpoint returns JSON with discovery records.
-- [ ] Bundle Sonata’s Vercel tRPC dependency graph into the deployed serverless function so runtime imports resolve correctly.
+- [x] Verify the repaired Vercel production URL after the connected repository redeploys.
+- [x] Route Vercel `/api/*` requests explicitly to the Sonata serverless adapter so production data calls do not fall through to the SPA 404 screen.
+- [x] Confirm the deployed Vercel `/api/health` endpoint responds from the serverless runtime.
+- [x] Confirm the deployed Vercel `sonata.browse` tRPC endpoint returns JSON with discovery records.
+- [x] Bundle Sonata’s Vercel tRPC dependency graph into the deployed serverless function so runtime imports resolve correctly.

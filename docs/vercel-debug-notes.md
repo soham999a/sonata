@@ -23,3 +23,9 @@ The Vercel bundling command now packages Sonata-owned source while leaving insta
 1. Confirm `GET /api/health` returns `{ "service": "sonata-api", "status": "ok" }`.
 2. Confirm `GET /api/trpc/sonata.browse?...` returns a tRPC JSON payload with demonstration entries.
 3. Confirm the public discovery index renders the available term cards rather than an empty state.
+
+## Final production result
+
+After deploying the externalized package bundle, `GET /api/trpc/sonata.browse` returned a valid tRPC JSON payload containing the four deliberate demonstration records and taxonomy preview. This confirms that the Vercel function now resolves both the Sonata application source and its installed Node dependencies correctly.
+
+The public production URL was then rechecked and rendered the Sonata landing page normally, replacing the initial raw-server-bundle response.
