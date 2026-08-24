@@ -40,7 +40,12 @@ export const concepts = mysqlTable(
     canonicalName: varchar("canonicalName", { length: 512 }).notNull(),
     shortDefinition: text("shortDefinition"),
     definition: longtext("definition"),
+    emicDescription: longtext("emicDescription"),
+    eticComparison: longtext("eticComparison"),
     historicalContext: longtext("historicalContext"),
+    regionalVariation: longtext("regionalVariation"),
+    diasporaContext: longtext("diasporaContext"),
+    uncertaintyNote: longtext("uncertaintyNote"),
     practicalUsage: longtext("practicalUsage"),
     visualAudioDescription: longtext("visualAudioDescription"),
     originRegion: varchar("originRegion", { length: 255 }),
@@ -56,6 +61,7 @@ export const concepts = mysqlTable(
     pronunciation: varchar("pronunciation", { length: 255 }),
     partOfSpeech: varchar("partOfSpeech", { length: 128 }),
     confidenceScore: int("confidenceScore").notNull().default(0),
+    sourceConfidence: varchar("sourceConfidence", { length: 16 }).notNull().default("low"),
     sourceCount: int("sourceCount").notNull().default(0),
     sourceQuality: mysqlEnum("sourceQuality", ["unassessed", "mixed", "strong", "primary"])
       .notNull()
@@ -275,12 +281,14 @@ export const imports = mysqlTable(
     publicId: varchar("publicId", { length: 36 }).notNull(),
     fileName: varchar("fileName", { length: 1024 }).notNull(),
     fileKey: varchar("fileKey", { length: 2048 }),
+    sourceProvider: varchar("sourceProvider", { length: 512 }),
     fileFormat: mysqlEnum("fileFormat", ["csv", "json", "jsonl", "xlsx"]).notNull(),
     status: mysqlEnum("status", ["staged", "validating", "needs_review", "approved", "rejected", "published"])
       .notNull()
       .default("staged"),
     submittedByUserId: int("submittedByUserId").references(() => users.id),
     report: json("report"),
+    candidateCount: int("candidateCount").notNull().default(0),
     createdAt: timestamp("createdAt").defaultNow().notNull(),
     updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
   },
@@ -298,6 +306,11 @@ export const importRows = mysqlTable(
     rowNumber: int("rowNumber").notNull(),
     payload: json("payload").notNull(),
     normalizedPayload: json("normalizedPayload"),
+    normalizedName: varchar("normalizedName", { length: 512 }),
+    duplicateRisk: varchar("duplicateRisk", { length: 16 }).notNull().default("none"),
+    sourceConfidence: varchar("sourceConfidence", { length: 16 }).notNull().default("low"),
+    requiresSpecialistReview: int("requiresSpecialistReview").notNull().default(0),
+    publicationAllowed: int("publicationAllowed").notNull().default(0),
     validationState: mysqlEnum("validationState", ["valid", "warning", "error"])
       .notNull()
       .default("valid"),
@@ -354,6 +367,74 @@ export const searchDocuments = mysqlTable(
     uniqueIndex("search_documents_public_id_unique").on(table.publicId),
     uniqueIndex("search_documents_concept_unique").on(table.conceptId),
     index("search_documents_name_idx").on(table.normalizedName),
+  ],
+);
+
+export const coverageTargets = mysqlTable(
+  "coverage_targets",
+  {
+    id: int("id").autoincrement().primaryKey(),
+    publicId: varchar("publicId", { length: 36 }).notNull(),
+    dimension: varchar("dimension", { length: 32 }).notNull(),
+    slug: varchar("slug", { length: 160 }).notNull(),
+    label: varchar("label", { length: 255 }).notNull(),
+    targetCount: int("targetCount").notNull(),
+    publishedCount: int("publishedCount").notNull().default(0),
+    draftCount: int("draftCount").notNull().default(0),
+    detail: longtext("detail"),
+    createdAt: timestamp("createdAt").defaultNow().notNull(),
+    updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
+  },
+  table => [
+    uniqueIndex("coverage_targets_public_id_unique").on(table.publicId),
+    uniqueIndex("coverage_targets_dimension_slug_unique").on(table.dimension, table.slug),
+    index("coverage_targets_dimension_idx").on(table.dimension),
+  ],
+);
+
+export const importBatchMetrics = mysqlTable(
+  "import_batch_metrics",
+  {
+    id: int("id").autoincrement().primaryKey(),
+    publicId: varchar("publicId", { length: 36 }).notNull(),
+    importId: int("importId")
+      .notNull()
+      .references(() => imports.id),
+    acceptedConcepts: int("acceptedConcepts").notNull().default(0),
+    duplicatesRemoved: int("duplicatesRemoved").notNull().default(0),
+    relationshipsCreated: int("relationshipsCreated").notNull().default(0),
+    lowConfidenceConcepts: int("lowConfidenceConcepts").notNull().default(0),
+    sourceConflicts: int("sourceConflicts").notNull().default(0),
+    regionalDistribution: json("regionalDistribution"),
+    categoryDistribution: json("categoryDistribution"),
+    eraDistribution: json("eraDistribution"),
+    qualitySummary: json("qualitySummary"),
+    createdAt: timestamp("createdAt").defaultNow().notNull(),
+  },
+  table => [
+    uniqueIndex("import_batch_metrics_public_id_unique").on(table.publicId),
+    uniqueIndex("import_batch_metrics_import_unique").on(table.importId),
+  ],
+);
+
+export const definitionVariants = mysqlTable(
+  "definition_variants",
+  {
+    id: int("id").autoincrement().primaryKey(),
+    publicId: varchar("publicId", { length: 36 }).notNull(),
+    conceptId: int("conceptId")
+      .notNull()
+      .references(() => concepts.id),
+    sourceId: int("sourceId").references(() => sources.id),
+    definition: longtext("definition").notNull(),
+    regionalContext: longtext("regionalContext"),
+    historicalContext: longtext("historicalContext"),
+    editorialNote: longtext("editorialNote"),
+    createdAt: timestamp("createdAt").defaultNow().notNull(),
+  },
+  table => [
+    uniqueIndex("definition_variants_public_id_unique").on(table.publicId),
+    index("definition_variants_concept_idx").on(table.conceptId),
   ],
 );
 

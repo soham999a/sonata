@@ -2,7 +2,7 @@
  * STYLE: Editorial Cartography. The public landing experience is a navigable
  * research atlas: calm editorial hierarchy, a taxonomy spine, and crafted data views.
  */
-import { ArrowDownRight, ArrowRight, BookOpenText, ChevronRight, Compass, Layers3, Search, Sparkles } from "lucide-react";
+import { ArrowDownRight, ArrowRight, BookOpenText, ChevronRight, Compass, Layers3, Search, ShieldCheck, Sparkles } from "lucide-react";
 import { useMemo, useState } from "react";
 import { Link } from "wouter";
 import { EntryCard } from "@/components/EntryCard";
@@ -11,24 +11,34 @@ import { TaxonomyRibbon } from "@/components/TaxonomyRibbon";
 import { useAuth } from "@/_core/hooks/useAuth";
 import { trpc } from "@/lib/trpc";
 
-const collectionFilters = ["All pathways", "South Asia", "West Asia & North Africa", "Europe", "Global"];
-
 export default function Home() {
   const browseQuery = trpc.sonata.browse.useQuery();
+  const coverageQuery = trpc.sonata.coverage.useQuery();
   const { user } = useAuth();
   const canAccessEditorial = user?.role === "admin";
   const [query, setQuery] = useState("");
   const [activeFilter, setActiveFilter] = useState("All pathways");
+  const [coverageDimension, setCoverageDimension] = useState<"region" | "tradition" | "domain" | "era">("region");
+  const [coverageStatus, setCoverageStatus] = useState<"all" | "published" | "planned">("all");
+  const [editorialStatus, setEditorialStatus] = useState<"all" | "draft" | "machine_generated" | "machine_reviewed" | "expert_reviewed" | "published" | "deprecated">("all");
   const searchQuery = trpc.sonata.search.useQuery(
     { query },
     { enabled: query.trim().length > 0 },
   );
 
   const sourceEntries = query.trim().length > 0 ? searchQuery.data?.entries ?? [] : browseQuery.data?.entries ?? [];
+  const collectionFilters = ["All pathways", ...(coverageQuery.data?.regions ?? []).map(region => region.label)];
   const visibleEntries = useMemo(() => {
     if (activeFilter === "All pathways") return sourceEntries;
     return sourceEntries.filter(entry => entry.region === activeFilter || entry.region.includes(activeFilter));
   }, [activeFilter, sourceEntries]);
+  const visibleCoverageTargets = useMemo(() => (coverageQuery.data?.targets ?? [])
+    .filter(target => target.dimension === coverageDimension)
+    .filter(target => coverageStatus === "all" ? true : coverageStatus === "published" ? target.publishedCount > 0 : target.publishedCount < target.targetCount), [coverageDimension, coverageQuery.data?.targets, coverageStatus]);
+  const editorialStatusOptions = ["draft", "machine_generated", "machine_reviewed", "expert_reviewed", "published", "deprecated"] as const;
+  const editorialStatusDataset = useMemo(() => editorialStatusOptions.map(status => ({ status, count: coverageQuery.data?.editorialStatusCounts?.[status] ?? 0 })), [coverageQuery.data?.editorialStatusCounts]);
+  const visibleStatusDataset = editorialStatus === "all" ? editorialStatusDataset : editorialStatusDataset.filter(row => row.status === editorialStatus);
+  const selectedStatusCount = editorialStatus === "all" ? (coverageQuery.data?.draftConcepts ?? 0) + (coverageQuery.data?.publishedConcepts ?? 0) : coverageQuery.data?.editorialStatusCounts?.[editorialStatus] ?? 0;
 
   return (
     <div className="sonata-app">
@@ -55,6 +65,11 @@ export default function Home() {
                 Open a concept record <ArrowRight size={16} strokeWidth={1.5} aria-hidden="true" />
               </Link>
             </div>
+            <div className="coverage-signal" aria-label="Knowledge coverage target">
+              <span>Part 2</span>
+              <strong>{coverageQuery.data?.primaryTarget.toLocaleString() ?? "15,350"} source-aware coverage target</strong>
+              <small>{coverageQuery.data?.publishedConcepts ?? 0} published · {coverageQuery.data?.draftConcepts ?? 0} editorial records</small>
+            </div>
           </div>
           <div className="hero__fact">
             <span className="eyebrow eyebrow--brass">Foundation principle</span>
@@ -75,7 +90,7 @@ export default function Home() {
               <h2>Follow a term through the musical worlds that give it meaning.</h2>
             </div>
             <p>
-              Search across canonical names, alternate spellings, transliterations, and cultural context. This foundation shows a small set of demonstration records—not a substitute for the future curated corpus.
+              Search across canonical names, alternate spellings, transliterations, and cultural context. Targets communicate planned global coverage; only reviewed, source-linked concepts become public records.
             </p>
           </div>
 
@@ -91,7 +106,7 @@ export default function Home() {
               />
               <span className="search-field__hint">⌘ K</span>
             </label>
-            <div className="filter-row" aria-label="Filter pathways by region">
+            <div className="filter-row" aria-label="Filter pathways by primary coverage region">
               {collectionFilters.map(filter => (
                 <button
                   key={filter}
@@ -105,6 +120,19 @@ export default function Home() {
             </div>
           </div>
 
+          <section className="coverage-explorer" aria-labelledby="coverage-explorer-heading">
+            <div className="coverage-explorer__heading"><div><p className="eyebrow">Coverage explorer</p><h3 id="coverage-explorer-heading">Read the editorial map by more than region.</h3></div><p>These filters explore coverage targets and published counts. They do not inflate the public catalogue with unreviewed candidates.</p></div>
+            <div className="coverage-explorer__filters" aria-label="Filter coverage targets">
+              <div><span>Lens</span>{(["region", "tradition", "domain", "era"] as const).map(dimension => <button type="button" key={dimension} className={`filter-button ${coverageDimension === dimension ? "is-active" : ""}`} onClick={() => setCoverageDimension(dimension)}>{dimension}</button>)}</div>
+              <div><span>Record state</span>{(["all", "published", "planned"] as const).map(status => <button type="button" key={status} className={`filter-button ${coverageStatus === status ? "is-active" : ""}`} onClick={() => setCoverageStatus(status)}>{status === "planned" ? "planned gap" : status}</button>)}</div>
+            </div>
+            <div className="editorial-status-lens"><div><span>Editorial status lens</span><div>{(["all", ...editorialStatusOptions] as const).map(status => <button type="button" key={status} className={`filter-button ${editorialStatus === status ? "is-active" : ""}`} onClick={() => setEditorialStatus(status)}>{status.replace(/_/g, " ")}</button>)}</div></div><p><strong>{selectedStatusCount}</strong> aggregate {editorialStatus === "all" ? "tracked records" : `${editorialStatus.replace(/_/g, " ")} records`}. Only published records are available as public entries; other statuses remain aggregate-only to protect the editorial workflow.</p></div>
+            <div className="editorial-status-dataset" aria-live="polite">{visibleStatusDataset.map(row => <article key={row.status}><span>{row.status.replace(/_/g, " ")}</span><strong>{row.count}</strong><small>{row.status === "published" ? "public entries" : "aggregate only"}</small></article>)}</div>
+            <div className="coverage-explorer__cards">
+              {visibleCoverageTargets.length ? visibleCoverageTargets.map(target => <article key={`${target.dimension}-${target.slug}`}><p>{target.label}</p><strong>{target.targetCount.toLocaleString()}</strong><span>{target.publishedCount} published · {Math.max(0, target.targetCount - target.publishedCount).toLocaleString()} planned gap</span></article>) : <p className="coverage-explorer__empty">No targets have reached the selected public-record state yet. This is an honest coverage signal, not an empty-data error.</p>}
+            </div>
+          </section>
+
           <div className="discover-grid">
             <aside className="taxonomy-spine" id="atlas">
               <div className="taxonomy-spine__heading">
@@ -112,24 +140,24 @@ export default function Home() {
                 <span>Browse the atlas</span>
               </div>
               <div className="taxonomy-spine__list">
-                {(browseQuery.data?.taxonomy ?? []).map((node, index) => (
+                {(coverageQuery.data?.regions ?? []).slice(0, 7).map((node, index) => (
                   <button
                     type="button"
-                    key={node.label}
+                    key={node.slug}
                     className="taxonomy-node"
-                    onClick={() => setActiveFilter(node.label === "World" ? "All pathways" : node.label)}
+                    onClick={() => setActiveFilter(node.label)}
                   >
                     <span className="taxonomy-node__index">0{index + 1}</span>
                     <span>
                       <strong>{node.label}</strong>
-                      <small>{node.detail}</small>
+                      <small>{node.targetCount.toLocaleString()} planned primary concepts</small>
                     </span>
                     <ChevronRight size={15} strokeWidth={1.5} aria-hidden="true" />
                   </button>
                 ))}
               </div>
               <Link href="/editorial" className="taxonomy-spine__link">
-                View taxonomy foundation <ArrowRight size={15} strokeWidth={1.5} aria-hidden="true" />
+                View source and coverage controls <ArrowRight size={15} strokeWidth={1.5} aria-hidden="true" />
               </Link>
             </aside>
 
@@ -137,6 +165,10 @@ export default function Home() {
               <div className="entry-index__heading">
                 <span className="eyebrow">{query ? "Search result" : "Selected starting points"}</span>
                 <span className="entry-index__count">{visibleEntries.length.toString().padStart(2, "0")} records</span>
+              </div>
+              <div className="coverage-ledger">
+                <ShieldCheck size={17} strokeWidth={1.5} aria-hidden="true" />
+                <p><strong>Coverage is planned, not claimed.</strong> Sonata’s {coverageQuery.data?.primaryTarget.toLocaleString() ?? "15,350"}-concept target is staged in reviewed batches of 100–500. Low-confidence or unresolved candidates remain outside public discovery.</p>
               </div>
               {browseQuery.isLoading ? <div className="records-loading">Building the discovery index…</div> : null}
               {!browseQuery.isLoading && visibleEntries.length === 0 ? (

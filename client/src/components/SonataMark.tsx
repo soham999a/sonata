@@ -1,6 +1,6 @@
 /**
- * STYLE: Editorial Cartography. A compact brand unit with geometric restraint;
- * it uses the generated abstract mark rather than literal music symbolism.
+ * STYLE: Editorial Cartography. A compact brand unit with the supplied Sonata
+ * application mark as its durable product identifier.
  */
 import { Link } from "wouter";
 
@@ -13,9 +13,8 @@ export function SonataMark({ inverted = false, compact = false }: SonataMarkProp
   return (
     <Link href="/" className={`sonata-mark ${inverted ? "sonata-mark--inverted" : ""}`}>
       <img
-        src="/manus-storage/sonata-brand-mark_6fafe208.png"
-        alt=""
-        aria-hidden="true"
+        src="/manus-storage/sonata-app-icon_7aa2060e.png"
+        alt="Sonata"
         className="sonata-mark__symbol"
       />
       {!compact ? <span className="sonata-mark__word">Sonata</span> : null}

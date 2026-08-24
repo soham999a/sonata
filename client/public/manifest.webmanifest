@@ -1,0 +1,16 @@
+{
+  "name": "Sonata — Global Music Knowledge",
+  "short_name": "Sonata",
+  "description": "A source-aware global music knowledge platform.",
+  "theme_color": "#11100E",
+  "background_color": "#F2F0E9",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/manus-storage/sonata-app-icon_7aa2060e.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

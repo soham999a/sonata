@@ -23,3 +23,16 @@
 - [x] Confirm the deployed Vercel `/api/health` endpoint responds from the serverless runtime.
 - [x] Confirm the deployed Vercel `sonata.browse` tRPC endpoint returns JSON with discovery records.
 - [x] Bundle Sonata’s Vercel tRPC dependency graph into the deployed serverless function so runtime imports resolve correctly.
+- [x] Define and document a source-aware global music knowledge-engine architecture capable of managing 15,000-plus vetted concepts without generating a fabricated corpus.
+- [x] Add the supplied Sonata icon to the global header, browser favicon, and application manifest using managed static storage.
+- [x] Seed a culturally balanced global taxonomy and a 15,000-plus coverage target matrix across regions, traditions, concepts, eras, and practice domains.
+- [x] Add import-batch staging, normalization, duplicate-risk detection, validation reporting, and publish-gate quality controls for curated term ingestion.
+- [x] Implement public coverage exploration with region, tradition, domain, era, and editorial-status filters; distinguish target coverage from published records.
+- [x] Expand the editorial workbench with coverage dashboards, batch status, source-confidence review, uncertainty flags, and restricted publishing controls.
+- [x] Add test coverage for coverage-target calculations, import validation, duplicate heuristics, and publication gates.
+- [x] Persist and verify Sonata’s full traditions, domains, eras, and practice-category coverage framework alongside the regional seed.
+- [x] Add public coverage filters for tradition, domain, era, and editorial status while continuing to distinguish planned targets from published records.
+- [x] Add editorial uncertainty-flag review and an explicit expert-review-to-publish approval control that never promotes a record automatically.
+- [x] Add a true public editorial-status filter with explicit status semantics beyond planned-versus-published coverage state.
+- [x] Filter a visible public-safe editorial-status dataset rather than displaying status counts alone, then re-verify the explorer.
+- [ ] Verify Part 2 changes in the Vercel production deployment after the connected repository redeploys.

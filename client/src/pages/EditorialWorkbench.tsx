@@ -6,6 +6,7 @@ import { AlertTriangle, ArrowLeft, BookOpenCheck, CheckCircle2, ChevronRight, Fi
 import { FormEvent, useMemo, useState } from "react";
 import { Link } from "wouter";
 import DashboardLayout from "@/components/DashboardLayout";
+import { KnowledgeEngineBoard } from "@/components/KnowledgeEngineBoard";
 import { useAuth } from "@/_core/hooks/useAuth";
 import { trpc } from "@/lib/trpc";
 import "../editorial-inspector.css";
@@ -116,6 +117,7 @@ function EditorialWorkbenchContent() {
       <div className="editorial-shell__topbar"><Link href="/" className="back-link"><ArrowLeft size={15} strokeWidth={1.5} aria-hidden="true" /> Public catalogue</Link><span className="eyebrow">Internal foundation · v0.1</span></div>
       <section className="editorial-hero"><div><p className="eyebrow">Knowledge operations</p><h1>Editorial desk</h1><p>Create persistently stored drafts, reference records, typed concept edges, and import reports. The foundation never promotes a draft or unchecked import into public knowledge.</p></div><div className="editorial-hero__status"><span className="status-dot" /> Database-backed editorial layer active</div></section>
       <section className="provenance-route" aria-label="Editorial sequence"><span>Source</span><ChevronRight size={13} /><span>Draft</span><ChevronRight size={13} /><span>Relationship</span><ChevronRight size={13} /><span>Review</span><ChevronRight size={13} /><span>Publish</span></section>
+      <KnowledgeEngineBoard />
 
       <section className="editorial-desk">
         <aside className="editorial-desk__tools" aria-label="Editorial tools">
