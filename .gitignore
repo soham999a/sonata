@@ -118,3 +118,7 @@ sonata-b87e3-firebase-adminsdk-fbsvc-5fbcd044a1.json
 firebase-service-account.json
 **/*firebase-adminsdk*.json
 **/*service-account*.json
+
+# Vercel-generated build artifact
+api/_generated/
+
