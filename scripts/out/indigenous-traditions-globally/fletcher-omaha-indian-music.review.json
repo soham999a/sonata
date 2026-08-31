@@ -1,0 +1,2184 @@
+{
+  "book": {
+    "title": "A Study of Omaha Indian Music",
+    "author": "Alice C. Fletcher; Francis La Flesche; John Comfort Fillmore",
+    "citation": "Fletcher, Alice C., with Francis La Flesche and John Comfort Fillmore. A Study of Omaha Indian Music. Peabody Museum, Harvard University, 1893."
+  },
+  "summary": {
+    "total": 228,
+    "validCount": 224,
+    "blockedCount": 4,
+    "warningCount": 53,
+    "blockerReasons": {
+      "This candidate is awaiting specialist review and cannot be published yet.": 4
+    }
+  },
+  "rows": [
+    {
+      "term": "CAMBRIDGE",
+      "entityType": "term",
+      "sentence": "CAMBRIDGE, MASS.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "heart",
+      "entityType": "term",
+      "sentence": "heart, and the old man tunefully evokes those agencies which can",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "song",
+      "entityType": "term",
+      "sentence": "song, they are never changed or transposed but preserved with as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "explosive",
+      "entityType": "instrument",
+      "sentence": "permit sharp explosive tones, and these sjdlables are generally em¬",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "music",
+      "entityType": "term",
+      "sentence": "music, the words of a song are frequently taken apart and melodi-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dae",
+      "entityType": "term",
+      "sentence": "dae,” My Brother ! He is a man ! Hi n, is a feminine exclama¬",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rative",
+      "entityType": "term",
+      "sentence": "rative, but in the last three bars the words become again significant,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "acter",
+      "entityType": "term",
+      "sentence": "acter, as, ‘‘Have they not said, A man !” The climax of both poem",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mother",
+      "entityType": "term",
+      "sentence": "mother, the grandparents, the uncle, the brothers and sisters are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Da-dun",
+      "entityType": "term",
+      "sentence": "Da-dun, an exclamation for which there is no exact English",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "equivalent",
+      "entityType": "term",
+      "sentence": "equivalent, the word denotes trouble in the sense of a fear of con¬",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "self-reproach",
+      "entityType": "term",
+      "sentence": "self-reproach, and a reflection upon her lover. E-ba-hun, known ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "be-ah-ke-thae",
+      "entityType": "term",
+      "sentence": "be-ah-ke-thae, I have made myself. The italicized words at the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ae-bae-in-tae",
+      "entityType": "term",
+      "sentence": "Ae-bae-in-tae, who is it ; ali-be-dan, when they said ; ae-hae me-kae,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gun-tha-ma",
+      "entityType": "term",
+      "sentence": "gun-tha-ma, the lover’s name, the final sjdlable ma ueing a suffix",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "me-kae",
+      "entityType": "term",
+      "sentence": "me-kae, I said sitting ; thae, feminine termination of the sentence.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "E-zha-zhae",
+      "entityType": "term",
+      "sentence": "E-zha-zhae, name ; we-b’tha-dae, I spoke your ; thae, feminine ter¬",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "retained",
+      "entityType": "term",
+      "sentence": "retained, as no adequate rendering of them is possible.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hae-tliu-ska",
+      "entityType": "term",
+      "sentence": "Hae-tliu-ska, To-ka-lo, Ma~wa~da-ne, and other secular or secret",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ae-hae",
+      "entityType": "term",
+      "sentence": "Ae-hae, I bid or command ; Ae-gim, therefore ; sliu-ka tha-ha, in a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ae-ah",
+      "entityType": "term",
+      "sentence": "ae-ah, the meaning however seems to be, gather, come nearer ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ba-daw",
+      "entityType": "term",
+      "sentence": "ba-daw, and ; the word ae-gim is difficult to translate, it implies",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Therefore",
+      "entityType": "term",
+      "sentence": "Therefore, shall ye all stand in a group",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Zhe-da",
+      "entityType": "term",
+      "sentence": "Zhe-da, red ; ke-thae, I make ; kum-peah, comely, pleasant to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "eba",
+      "entityType": "term",
+      "sentence": "eba, come; ae-hae, I command.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "command",
+      "entityType": "term",
+      "sentence": "command, soldiers. The bidding was from the In-kae-sabbae",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tha",
+      "entityType": "term",
+      "sentence": "tha, an old word for friend ; wa-ha-tun-ga, shield ; ae-ah-mae, they",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Shu-pe-da",
+      "entityType": "term",
+      "sentence": "Shu-pe-da, when I come; hu-ah-ta, I shout, I cry; na-zhm,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rhythm",
+      "entityType": "term",
+      "sentence": "rhythm, simple and forceful, and are quite in contrast with many of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "formed",
+      "entityType": "term",
+      "sentence": "formed, the society decided whether it should be celebrated and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "remembered",
+      "entityType": "term",
+      "sentence": "remembered, although a new name is gradually taking its place.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "meeting",
+      "entityType": "term",
+      "sentence": "meeting, four times sounded the call “Hae-thu-ska !” prolonging",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ke-im-tae",
+      "entityType": "term",
+      "sentence": "ke-im-tae, to paint or decorate himself with ; tlnm-ah-he-dae from",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "uw-tha-he-dae",
+      "entityType": "term",
+      "sentence": "uw-tha-he-dae, I wearily wait or wait until I am weary. The song",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Wa-kan-da",
+      "entityType": "term",
+      "sentence": "Wa-kan-da, God; tha-ne from ne-ne, tobacco; ga, here; thae,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "occasionally",
+      "entityType": "term",
+      "sentence": "occasionally, each dancer acting out his personal experiences, or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ou-haw",
+      "entityType": "term",
+      "sentence": "Ou-haw, cooked food, or the one who cooks the food for a com¬",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tho",
+      "entityType": "term",
+      "sentence": "tho, a substitute for the oratorical tha, to mark the close of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ers",
+      "entityType": "term",
+      "sentence": "ers, those forces that help and protect man in the hour of danger,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mae",
+      "entityType": "term",
+      "sentence": "mae, they say, they will. In the second part the only change is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Zhin-thae",
+      "entityType": "term",
+      "sentence": "Zhin-thae, elder brother; Sha-e-be-thae, and Sha-e-ba-dan are",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ga-thun-ga",
+      "entityType": "term",
+      "sentence": "ga-thun-ga, to test our; ta-ba-dan, that they may; ga-hae-dan,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "since",
+      "entityType": "term",
+      "sentence": "since, was honored by having his name occasionally introduced in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hae-thu-ska",
+      "entityType": "term",
+      "sentence": "Hae-thu-ska, the members of the Hae-thu-ska Society ; thin-ga-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bae",
+      "entityType": "term",
+      "sentence": "bae, they are naught, or, they are dead ; Gha-gae, I weep ; ah-thm-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "hae",
+      "entityType": "term",
+      "sentence": "hae, I walk ; Te-thu, the village ; the-shaw, around.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "gone",
+      "entityType": "term",
+      "sentence": "gone, and the days that could never return. The double drum",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tun-gae",
+      "entityType": "term",
+      "sentence": "Tun-gae, my sister ; ah, calls the attention of the one addressed ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Um-ba",
+      "entityType": "term",
+      "sentence": "Um-ba, day ; thae-na, this only ; un-ge-tun-ba ga, look at me",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sessive",
+      "entityType": "term",
+      "sentence": "sessive, ga the imperative ; tun-gae, sister ; hae-thu-ska, the so-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "self",
+      "entityType": "term",
+      "sentence": "self, that is I become a part of the Hae-thu-ska society, an ellip¬",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Sha-e-ba-dan",
+      "entityType": "term",
+      "sentence": "Sha-e-ba-dan, they are coming; wa-dan-ba ga, see them, the syl¬",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mun-chu-tun-ga",
+      "entityType": "term",
+      "sentence": "Mun-chu-tun-ga, the name of the man celebrated in the song.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Zlim-ga-wa-shu-shae",
+      "entityType": "term",
+      "sentence": "Zlim-ga-wa-shu-shae, when I remember you I walk as a spirit, I",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "nothing",
+      "entityType": "term",
+      "sentence": "nothing, vanish, die ; in the prefixing of H is an attempt to express",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ah-ma",
+      "entityType": "term",
+      "sentence": "ah-ma, they say ; Wakanda, the god or gods ; thin-gae, nothing,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tribe",
+      "entityType": "term",
+      "sentence": "tribe, as expressing religious emotion, and its cadences are heard",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ah-thu-ka",
+      "entityType": "term",
+      "sentence": "Ah-thu-ka, again ; un-dum-ba-ga or Um-ba e-dan, in the coming",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "upon",
+      "entityType": "term",
+      "sentence": "a brave man, who was frequently called upon to act as a soldier",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "speak",
+      "entityType": "term",
+      "sentence": "speak, and men tell of his queer humorous ways, his valor when",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "men",
+      "entityType": "term",
+      "sentence": "men, recall the scene with youthful enthusiasm. The music is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "however",
+      "entityType": "term",
+      "sentence": "however, exceptions. No. 26 is an instance. E-ae zhmga, little",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stone",
+      "entityType": "term",
+      "sentence": "stone; da-dan ska-hae, what are you making? refers to the tiny",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ne-ne-ba",
+      "entityType": "term",
+      "sentence": "ceremony are called Ne-ne-ba wae-ah-wan, pipes to sing with. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ne-ne",
+      "entityType": "term",
+      "sentence": "tions are termed Ne-ne ba ba-zhan, shaking the Wa-waw pipes. As",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "gens",
+      "entityType": "term",
+      "sentence": "gens, or a man of one tribe to one of another. By means of this",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wa-waw",
+      "entityType": "term",
+      "sentence": "the Pipes is called Wa-waw ah-ka, the one who sings ; the man who",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bakh-tae",
+      "entityType": "term",
+      "sentence": "bakh-tae, around each of which is painted a symbolic device, a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "intact",
+      "entityType": "term",
+      "sentence": "intact, In-g’ttum-ga-ha. The skin forms the case or covering for",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bring",
+      "entityType": "term",
+      "sentence": "bring, is the one good gift for man.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hand",
+      "entityType": "term",
+      "sentence": "hand, taking the rattles in the right — the Pipes are first waved near",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wa-wan",
+      "entityType": "term",
+      "sentence": "Wa-wan, the people cry for the happy omen of the sunlight. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "I-maw-tha",
+      "entityType": "term",
+      "sentence": "On the fourth night the dance called I-maw-tha is performed, but",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ba-zhaw",
+      "entityType": "term",
+      "sentence": "called Ba-zhaw takes place the next morning. The two dances are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sung",
+      "entityType": "term",
+      "sentence": "sung, eagle down is sprinkled over the child’s head to symbolize",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "meal",
+      "entityType": "term",
+      "sentence": "meal, after a fast of nearly twenty-four hours.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dure",
+      "entityType": "term",
+      "sentence": "dure, and a fleet, happy movement ; nevertheless there must be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "reason",
+      "entityType": "term",
+      "sentence": "reason, they say, that the departing one must not be distressed as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "received",
+      "entityType": "term",
+      "sentence": "received, while fasting, visions of a like object.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "enemy",
+      "entityType": "term",
+      "sentence": "enemy, sung after the return of a successful war party.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "instance",
+      "entityType": "term",
+      "sentence": "instance, those who have seen a horse in a vision are eligible to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "together",
+      "entityType": "term",
+      "sentence": "together, and the former would not avail without the latter.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "women",
+      "entityType": "term",
+      "sentence": "women; ah-rna, they; wae-tha-he-ba, have gone for wood ; hoo-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "zha-wa",
+      "entityType": "term",
+      "sentence": "zha-wa, are happy; hte, really or very; ma-thm-ah mae-in-tae,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thun-wuw-ge-ha",
+      "entityType": "term",
+      "sentence": "thun-wuw-ge-ha, follows me.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Me-ka-see",
+      "entityType": "term",
+      "sentence": "Me-ka-see, wolf ; ah-ma, they ; ma-zha^i, land ; num-pa, fear ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ba-zlie",
+      "entityType": "term",
+      "sentence": "ba-zlie, not ; ba, like them ; hae-ge-mun, I am so. The words are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "power",
+      "entityType": "term",
+      "sentence": "power, following his leader. Um-ba, day; edan, approaching;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "naw-koo-thae",
+      "entityType": "term",
+      "sentence": "naw-koo-thae, hasten; him-the-be-ga, take me; Nu-dan-lnm-ga,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Leader",
+      "entityType": "term",
+      "sentence": "Leader; ah-yae-zhum-mae-tho, they may have said.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gae",
+      "entityType": "term",
+      "sentence": "gae, none ; ish-ali-ga, old men ; ma, the plural ; wa-guw-za-be-daw,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "buz-zhe-tae",
+      "entityType": "term",
+      "sentence": "buz-zhe-tae,have not said ; Nu-dan-him-ga, Leader ; tae-hae, the dif¬",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ficult",
+      "entityType": "term",
+      "sentence": "ficult, hard to accomplish.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hide",
+      "entityType": "term",
+      "sentence": "hide, which serves as a drum.1 These songs are spoken of as Wa-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nu-daw-himga",
+      "entityType": "term",
+      "sentence": "Nu-daw-himga, Leader; wa-shu-shae, brave ; sua yae, are always ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ae-de-he-ke",
+      "entityType": "term",
+      "sentence": "ae-de-he-ke, when he arrives. The meaning is : When one is a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ka-gae",
+      "entityType": "term",
+      "sentence": "Ka-gae, Friend ; tae-he, difficult ; lia-ee thim-zha ; they say but ;",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "two",
+      "entityType": "term",
+      "sentence": "two, one phrase alone is supplied with words.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "yae",
+      "entityType": "term",
+      "sentence": "yae, that they may hear you ; wash-konae gim-yah-hae, exert ; yah-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "daw",
+      "entityType": "term",
+      "sentence": "daw, good ; lioo-wa-nae, I seek.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "in-tae-dae",
+      "entityType": "term",
+      "sentence": "in-tae-dae, and now, or in consequence ; tha-gha-gae, you weep ; ou-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tha-dae",
+      "entityType": "term",
+      "sentence": "tha-dae, people ; the-show, surrounding ; we-sna-hte, I only ; uw-wim-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "shu-shae",
+      "entityType": "term",
+      "sentence": "shu-shae, I am brave.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Zan-zhe-mim-dae",
+      "entityType": "term",
+      "sentence": "Zan-zhe-mim-dae, the person mentioned in Song No. 71, was a",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "done",
+      "entityType": "term",
+      "sentence": "done, that is, the Sioux attacked the Omahas and killed some of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nun-gae",
+      "entityType": "term",
+      "sentence": "Nun-gae, gallop; sha-tha-mae, there they go; shon-gae, horse,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "weta",
+      "entityType": "term",
+      "sentence": "weta, contractions of we-we-ta, my or mine ; pa-huft-ga, first ; tlirn,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dian",
+      "entityType": "term",
+      "sentence": "dian, his especial spirit, would lead him and bring him to success.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "down",
+      "entityType": "term",
+      "sentence": "stilled, and lightning may be called down to destroy man. These",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stilled",
+      "entityType": "term",
+      "sentence": "stilled, and lightning may be called down to destroy man. These",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "E-ka-gae",
+      "entityType": "term",
+      "sentence": "E-ka-gae, my friends ; e-ah-mae, they speak ; Ta-wa?z-g7thim",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Thae-thu-tuw",
+      "entityType": "term",
+      "sentence": "Thae-thu-tuw, from here ; thae-ah-thae, do I send ; Ae-gim, thus ;",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ne-thim",
+      "entityType": "term",
+      "sentence": "ne-thim, the water or medicine ; shaw-ah-daw, I am bidden.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Du-da-ha",
+      "entityType": "term",
+      "sentence": "Du-da-ha, this way ; maw-thm, walk. These are the only words ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ma-stin-gae",
+      "entityType": "term",
+      "sentence": "Ma-stin-gae, rabbit; shae-tha-thin-shae, yonder going you; wm-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "War",
+      "entityType": "term",
+      "sentence": "War, so he is entitled to wear his honors publicly ; the woman tells",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nu-dan",
+      "entityType": "term",
+      "sentence": "Nu-dan, war ; tha-g’the-daw, when you returned ; ae-tae-uw,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wa-kaw-da",
+      "entityType": "term",
+      "sentence": "Wa-kaw-da, God; wae-ka-ah, I appealed ; tuw-hae, standing.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ge-ah",
+      "entityType": "term",
+      "sentence": "ge-ah, of me they talk ; thuw-kae, group ; Wa-kaw-da, Gods ; hae-ge-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lmm-tae",
+      "entityType": "term",
+      "sentence": "lmm-tae, what I am ; iw-thin-ga-yae, of me they decreed — h is added",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Thae-thu-tan",
+      "entityType": "term",
+      "sentence": "Thae-thu-tan, from here; sha-tha-yae, he went to you ; we-tu-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "zhon-gae",
+      "entityType": "term",
+      "sentence": "zhon-gae, my niece ; e-ae, speech ; tha-pe-ba, he is skilled ; han-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "wan-ke-ah",
+      "entityType": "term",
+      "sentence": "wan-ke-ah, he spoke to me; Wa-han-thin-gae, orphan, name given",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dude-ha",
+      "entityType": "term",
+      "sentence": "Dude-ha, nearer this way; uu-dum-bae, me look at ; nuz-zhin,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "the-shna",
+      "entityType": "term",
+      "sentence": "the-shna, you only ; ou-we-b’the-zke-dae, I look for you ; ee?2-u-dan,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tamborine",
+      "entityType": "term",
+      "sentence": "tamborine, is used in Mystery and Dream songs. It is beaten in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "charcoal",
+      "entityType": "term",
+      "sentence": "charcoal, the skin being moistened, strained and dried to the desired",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "presented",
+      "entityType": "term",
+      "sentence": "presented, is played upon the large drums. In the drum accompani¬",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "appreciated",
+      "entityType": "term",
+      "sentence": "appreciated, needs its original setting of nature’s colors, Indian",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dinated",
+      "entityType": "term",
+      "sentence": "dinated, where each person, each family, each gens must stand in¬",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sion",
+      "entityType": "term",
+      "sentence": "sion, as the use of melody, harmony and rhythm, the grouping of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "game",
+      "entityType": "term",
+      "sentence": "called the game by means of the Mystery song. In a word, pros¬",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "laborer",
+      "entityType": "term",
+      "sentence": "laborer, but subject to favoring or disturbing occult Powers. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "writing",
+      "entityType": "term",
+      "sentence": "writing, and where there was no possible training of the mind in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ton",
+      "entityType": "term",
+      "sentence": "ton, D. C. I spent a week with him in Washington, devoting my",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Irish",
+      "entityType": "term",
+      "sentence": "Irish, Chinese and other ancient music; i. e., of the tones of our",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "plete",
+      "entityType": "term",
+      "sentence": "plete, because chromatic tones were employed. Such were the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "organ",
+      "entityType": "term",
+      "sentence": "organ, they were not satisfied without the addition of chords to the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "man",
+      "entityType": "term",
+      "sentence": "man, the difference being purely one of development.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "prepared",
+      "entityType": "term",
+      "sentence": "prepared, as in the twelfth measure of No. 41, or free (appoggia-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gree",
+      "entityType": "term",
+      "sentence": "gree, the melodic succession of tones in the song. Whether this",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pect",
+      "entityType": "term",
+      "sentence": "pect, as I once hoped, that the study of primitive music may lead",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ous",
+      "entityType": "term",
+      "sentence": "ous, by the way, to see how many of these songs begin and end",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lating",
+      "entityType": "term",
+      "sentence": "lating, especially considering the form of the ending. The harmony",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ter",
+      "entityType": "term",
+      "sentence": "ter, — but it isn’t right yet; now it is right.” The latter comment",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "beauty",
+      "entityType": "term",
+      "sentence": "beauty, nobility and dignity. Indeed, I know not where to look",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ures",
+      "entityType": "term",
+      "sentence": "ures, would seem to be clearly in the key of G, while the remain¬",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "beat",
+      "entityType": "instrument",
+      "sentence": "part each standing for a drum beat, at the rate of 104 to the minute.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "drum-beat",
+      "entityType": "term",
+      "sentence": "drum-beat, a strong pulse followed by a weak one. Against this",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "phrasing",
+      "entityType": "term",
+      "sentence": "which is called phrasing , the grouping of measures into phrases",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fuse",
+      "entityType": "term",
+      "sentence": "fuse, if not to repel, the musical sense of the casual white visitor.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "edge",
+      "entityType": "instrument",
+      "sentence": "the partition impinges on the sharp edge or “lip” of the metal plat e",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fundamental",
+      "entityType": "term",
+      "sentence": "fundamental, is about a quarter of a tone sharp. The fundamental",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "damental",
+      "entityType": "term",
+      "sentence": "damental, or nearly so, is produced by opening the first hole. Open¬",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "scribed",
+      "entityType": "term",
+      "sentence": "scribed, and excepting, of course, also the fundamental. In pro¬",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "perception",
+      "entityType": "term",
+      "sentence": "perception, so much as of his scientific knowledge. The flageolet",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "first",
+      "entityType": "term",
+      "sentence": "first, lack of sensuous beauty of tone quality; second, uncertainty",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "love",
+      "entityType": "term",
+      "sentence": "love, hate, anger, jealousy, revenge, etc., if we include in these",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "former",
+      "entityType": "term",
+      "sentence": "former, does it depend on some acoustic principle opposed to that",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "although",
+      "entityType": "term",
+      "sentence": "although, of course, it is latent and never comes clearly forward",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "fiS",
+      "entityType": "term",
+      "sentence": "-fiS; #9-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ESEfESE",
+      "entityType": "term",
+      "sentence": "ESEfESE:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Zhe",
+      "entityType": "term",
+      "sentence": "Zhe - da ke-thae, zhedake - thae hae",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kum",
+      "entityType": "term",
+      "sentence": "Kum - peah ke -thae",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "t-f",
+      "entityType": "term",
+      "sentence": "t-f—",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "r-St",
+      "entityType": "term",
+      "sentence": "r-St- - 0^ - -",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shu",
+      "entityType": "term",
+      "sentence": "Shu - pe - da hu -",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "jgh",
+      "entityType": "term",
+      "sentence": "jgh—tt*+",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "he-tha-ke-uw",
+      "entityType": "term",
+      "sentence": "he-tha-ke-uw - tae thimati-he-dae. Nim-g’thae thae-tae,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "thimah-he",
+      "entityType": "term",
+      "sentence": "thimah-he - dae. Nim-g’tha thae-tae he-tha-ke-im-tae thunah-he-dae.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hin",
+      "entityType": "term",
+      "sentence": "Hin - da - koo-tha na - zhi?z thae, Hin-da - koo-tha na - zhin thae Hin -",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "t-j",
+      "entityType": "term",
+      "sentence": "t-j:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thun",
+      "entityType": "term",
+      "sentence": "thun - ga",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Jzztzz",
+      "entityType": "term",
+      "sentence": "Jzztzz:E!ziE^±:±:^ibt:— 1:1",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "r-P",
+      "entityType": "term",
+      "sentence": "-r-P- - *►-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Iff",
+      "entityType": "term",
+      "sentence": "Iff— i*:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "jfap-J",
+      "entityType": "term",
+      "sentence": "-jfap-J—j—i-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mnw",
+      "entityType": "term",
+      "sentence": "Mnw - chu - tuw - ga",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "heat",
+      "entityType": "instrument",
+      "sentence": "Song. _e% — 60. Drum heat. .J* = 120.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ezf",
+      "entityType": "term",
+      "sentence": "Ezf - | 3",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gha",
+      "entityType": "term",
+      "sentence": "Gha - gae - wa -",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "te-bae-no",
+      "entityType": "term",
+      "sentence": "te-bae-no, Ne-ka we-ta wa-gn^-tlia te-bae -no, Ne-ka we-ta",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "te-bae",
+      "entityType": "term",
+      "sentence": "te-bae - no,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ig-fcll",
+      "entityType": "term",
+      "sentence": "ig-fcll:l",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ho-wa",
+      "entityType": "term",
+      "sentence": "ho-wa - nae.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ho-wa-nae",
+      "entityType": "term",
+      "sentence": "ho-wa-nae,cf/iftae",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hun",
+      "entityType": "term",
+      "sentence": "Hun - ga.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "izsi",
+      "entityType": "term",
+      "sentence": "izsi;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "t-t",
+      "entityType": "term",
+      "sentence": "t-t— t— -0—0 - 0— P—",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Flowingly",
+      "entityType": "term",
+      "sentence": "Flowingly, with feeling. AROUND THE LODGE.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kae",
+      "entityType": "term",
+      "sentence": "Kae - tha",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "fegpiiffMbg",
+      "entityType": "term",
+      "sentence": "fegpiiffMbg:",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "rfc",
+      "entityType": "term",
+      "sentence": "rfc:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "a-j",
+      "entityType": "term",
+      "sentence": "a-j— -f^",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gat",
+      "entityType": "term",
+      "sentence": "gat— |* -p -l».1rT> k- t 1=1",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Trent",
+      "entityType": "term",
+      "sentence": "Trent, h ^ ^ .g",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Zhm",
+      "entityType": "term",
+      "sentence": "Zhm - ga the ou-we-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wae-ah",
+      "entityType": "term",
+      "sentence": "wae-ah - nae",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "thae",
+      "entityType": "term",
+      "sentence": "thae - ah - thae,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "fAo",
+      "entityType": "term",
+      "sentence": "fAo,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Him",
+      "entityType": "term",
+      "sentence": "Him - ga ha - ne,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "fjy",
+      "entityType": "term",
+      "sentence": "fjy - 1 -",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pit",
+      "entityType": "term",
+      "sentence": "pit: S: 1:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "warc-ge",
+      "entityType": "term",
+      "sentence": "warc-ge - hae ?/a he ah e yaw hi",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Lgp",
+      "entityType": "term",
+      "sentence": "Lgp— T4",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tae",
+      "entityType": "term",
+      "sentence": "tae - he ha - ee thun - zha ka-gae tae - he ha - ee",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tlia",
+      "entityType": "term",
+      "sentence": "tlia - thim - ga ta - dun shun - tha - the - shae.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "r-h-T",
+      "entityType": "term",
+      "sentence": "r-h-T— -M—",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rP-fo",
+      "entityType": "term",
+      "sentence": "rP-fo—r-^ —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Prpp",
+      "entityType": "term",
+      "sentence": "Prpp-:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "the-nuw-im",
+      "entityType": "term",
+      "sentence": "the-nuw-im - ta - yae wash-kaw- ae-gnm - yah -hae",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "WAE-WA-CHEE",
+      "entityType": "term",
+      "sentence": "WAE-WA-CHEE,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Orave",
+      "entityType": "term",
+      "sentence": "Orave, Solemn.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "P-P-P",
+      "entityType": "term",
+      "sentence": "P-P-P— P— =H*-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "r-m",
+      "entityType": "term",
+      "sentence": "r-m- - m- -",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "f-b",
+      "entityType": "term",
+      "sentence": "-f-b - r -",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Thae-thu",
+      "entityType": "term",
+      "sentence": "Thae-thu - ta n thae - ah-thae, Thae-thu-taw thae-ah - thae Thae-thu-taw thae-ah-thae thae-ah",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Du-da",
+      "entityType": "term",
+      "sentence": "Du-da - ha maw-thin do lie tho",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "win",
+      "entityType": "term",
+      "sentence": "win - jae - ga - tha - thin - shae oh hae ya hae ya",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Yon",
+      "entityType": "term",
+      "sentence": "Yon - ca - ta uw - ga-thae-tae tha tha hi.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "atnrzzpsz",
+      "entityType": "term",
+      "sentence": "atnrzzpsz:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pzt",
+      "entityType": "term",
+      "sentence": "pzt - Zh - :",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "APPENDIX",
+      "entityType": "term",
+      "sentence": "APPENDIX,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "say",
+      "entityType": "term",
+      "sentence": "say, that, during the earlier years of my studies, I was, with other",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "transcribed",
+      "entityType": "term",
+      "sentence": "transcribed, I have been led to account for his peculiar intonations",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ttention",
+      "entityType": "term",
+      "sentence": "Upon page 111 have called attention to the Indian’s manage¬",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stance",
+      "entityType": "term",
+      "sentence": "stance, a man, when accepting the gift of a horse, will render his",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "fully",
+      "entityType": "term",
+      "sentence": "fully, and they have been accepted by the Indian as correct. To",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    }
+  ]
+}

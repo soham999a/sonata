@@ -1,0 +1,5480 @@
+{
+  "book": {
+    "title": "Musical Instruments and Their Homes",
+    "author": "Mary E. Brown; Wm. Adams Brown",
+    "citation": "Brown, Mary E., and Wm. Adams Brown. Musical Instruments and Their Homes. Dodd, Mead and Company, New York, 1888."
+  },
+  "summary": {
+    "total": 580,
+    "validCount": 569,
+    "blockedCount": 11,
+    "warningCount": 110,
+    "blockerReasons": {
+      "This candidate is awaiting specialist review and cannot be published yet.": 11
+    }
+  },
+  "rows": [
+    {
+      "term": "http",
+      "entityType": "term",
+      "sentence": "http://www.archive.org/details/cu31924022445849",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "DODD",
+      "entityType": "term",
+      "sentence": "DODD, MEAD AND COMPANY",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "HOME",
+      "entityType": "term",
+      "sentence": "HOME, BUT WHOSE FIRM YET GENTLE TOUCH",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "case",
+      "entityType": "term",
+      "sentence": "case, the treatment lacks unity, and many of the most important points are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "possession",
+      "entityType": "term",
+      "sentence": "possession, it seemed very important to prepare a careful catalogue of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Engel",
+      "entityType": "term",
+      "sentence": "Engel, adding in parentheses the more exact spelling. In very many instances,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "however",
+      "entityType": "term",
+      "sentence": "however, where the instrument is not mentioned by Engel, I have been",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Omerti",
+      "entityType": "term",
+      "sentence": "Omerti, Sarinda, Sarungee, and Chikara. — Understrung violins. — Instru-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pukhwaj",
+      "entityType": "term",
+      "sentence": "Pukhwaj, Dhol, Dholkee, and Tubla. — Kettledrums. — Tambourines. —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gliiin",
+      "entityType": "term",
+      "sentence": "Gliiin, or instruments of metal. — -Gongs. — Bells. — Cymbals and castanets.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Puloay",
+      "entityType": "term",
+      "sentence": "Puloay, or flute. — Pattala, or harmonicon. — Gongs and cymbals. — Castanets.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ARABIA",
+      "entityType": "term",
+      "sentence": "ARABIA, SYRIA, AND NORTH AFRICA.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chang",
+      "entityType": "term",
+      "sentence": "Chang, or Persian harp. — Gud. — Schtareh, or guitar. — Tar. — Sitar. — Stiz.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "instrument",
+      "entityType": "instrument",
+      "sentence": "history. — Development. — Sanko of Ashantees. — Bow instrument of Bechu-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tapper",
+      "entityType": "instrument",
+      "sentence": "Long flute. — Horn tapper. — Love-flute.— -Apache violins. — Apache flutes.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Palissy",
+      "entityType": "instrument",
+      "sentence": "— Trompette. — Flute Palissy. — Viole d'amour.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ilute",
+      "entityType": "term",
+      "sentence": "ilute, d. If-}",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fore",
+      "entityType": "term",
+      "sentence": "fore, is characterized by little of the spiritual. \" To the Chinese,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Thus",
+      "entityType": "term",
+      "sentence": "Thus, in their painting, they lay great stress upon brilliancy of color",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "play",
+      "entityType": "term",
+      "sentence": "and accuracy of detail. As the latter art has been called a play with",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "color",
+      "entityType": "term",
+      "sentence": "color, so their music may be described as a fanciful play with sound.^",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "point",
+      "entityType": "term",
+      "sentence": "point, they succeed in mastering all knowledge of a subject that can",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bad",
+      "entityType": "term",
+      "sentence": "bad, examine the music it practises.\" ^ He himself wrote a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "replied",
+      "entityType": "term",
+      "sentence": "replied, \" The wise man seeks by music to strengthen the weakness",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sweet",
+      "entityType": "term",
+      "sentence": "sweet, the very stars of heaven drew near to listen.\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "divination",
+      "entityType": "term",
+      "sentence": "divination, and agriculture. Musical treatises and instruments",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "reason",
+      "entityType": "term",
+      "sentence": "reason, that these ancient books, etc., were not suited to the times,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "re-established",
+      "entityType": "term",
+      "sentence": "re-established, we meet many complaints from the writers of that",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "era",
+      "entityType": "term",
+      "sentence": "era, about 140 B.C., to the effect that the art of regulating the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "heart",
+      "entityType": "term",
+      "sentence": "heart, as they expressed it, by its means, was irretrievably lost, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "music",
+      "entityType": "term",
+      "sentence": "music, though respectable Chinese do not consider it dignified to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "principle",
+      "entityType": "term",
+      "sentence": "principle, represented by the instruments themselves.\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "number",
+      "entityType": "term",
+      "sentence": "number, nearly identical with our chromatic gamut. The history",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Feng",
+      "entityType": "term",
+      "sentence": "Feng, a sort of phoenix, and its mate Hoang, or even in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "accidentally",
+      "entityType": "term",
+      "sentence": "accidentally, as he was cutting and experimenting with pieces of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "connection",
+      "entityType": "term",
+      "sentence": "connection, that the pitch now in use in China is considerably",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kiiug",
+      "entityType": "term",
+      "sentence": "Kiiug, or the keynote, C, D, E, F^ G, A, B, C. This differs from",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "latter",
+      "entityType": "term",
+      "sentence": "latter, being simpler than that in former use, found favor with the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chinese",
+      "entityType": "term",
+      "sentence": "Chinese; but the Mongol scale, in which the position of the half-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Theoretically",
+      "entityType": "term",
+      "sentence": "Theoretically, indeed, we find a vast variety of combinations in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "practice",
+      "entityType": "term",
+      "sentence": "practice, however, as has been said, the Chinese use only the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "therefore",
+      "entityType": "term",
+      "sentence": "therefore, can \" only conjecture the general form of a written piece",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "minor",
+      "entityType": "term",
+      "sentence": "minor, but to participate of the two. Chinese melodies are not",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "majestic",
+      "entityType": "term",
+      "sentence": "majestic, martial, sprightly, entrancing, as is our music in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "theatrical",
+      "entityType": "term",
+      "sentence": "theatrical, or popular, music. The former is the only scientific",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Popular",
+      "entityType": "term",
+      "sentence": "Popular, or theatrical, music includes, besides theatrical music",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "proper",
+      "entityType": "term",
+      "sentence": "proper, of which I shall not attempt to speak here,' the performances",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "guitar",
+      "entityType": "term",
+      "sentence": "guitar, the two-stringed violin, flutes, clarionets, drums, castanets,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Barrow",
+      "entityType": "term",
+      "sentence": "Barrow, and others complain of a want of appreciation of Chinese",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "accustomed",
+      "entityType": "term",
+      "sentence": "accustomed, sound discordant to our ears.' The melodies are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "philologically",
+      "entityType": "term",
+      "sentence": "philologically, the Chinese are a series of contradictions, and differ",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "known",
+      "entityType": "instrument",
+      "sentence": "^lEARLY every instrument known to cultured Europe has",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ornamented",
+      "entityType": "term",
+      "sentence": "ornamented, even to the stands upon which they rest.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "drum",
+      "entityType": "term",
+      "sentence": "drum, called, respectively, Po Kou and Fo7i Kou according as it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Moreover",
+      "entityType": "term",
+      "sentence": "Moreover, the head of this drum is not only tanned, but boiled for",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "China",
+      "entityType": "term",
+      "sentence": "China, where, however, instruments of this kind are very highly",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pien-King",
+      "entityType": "term",
+      "sentence": "and the one now in general use, is called Pien-King. This consists",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "quarter",
+      "entityType": "term",
+      "sentence": "quarter, and the other side one foot and three-quarters. It is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "used",
+      "entityType": "term",
+      "sentence": "used, either singly or united into chimes, in court and religious",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "suspended",
+      "entityType": "instrument",
+      "sentence": "the first, like the Po-Chung, being single bells suspended in a frame,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chimg",
+      "entityType": "term",
+      "sentence": "Chimg, being united into a chime of sixteen bells, tuned to accord",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chime",
+      "entityType": "instrument",
+      "sentence": "the Yun-lo, or gong chime. This is used at court, mainly on joyful",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kin",
+      "entityType": "term",
+      "sentence": "thus formed was called the Kin (Ch'in), and is the most ancient and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "said",
+      "entityType": "term",
+      "sentence": "said, are seven in number, and are tuned as follows : G, A, C, D, E,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "manner",
+      "entityType": "term",
+      "sentence": "manner, but the players are expected to embellish their parts to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "First",
+      "entityType": "term",
+      "sentence": "First, the Pepa (P'ip'a), or balloon guitar (Figs. 4, 5), which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "playing",
+      "entityType": "term",
+      "sentence": "playing, and to accompany ballads and songs in the streets and other",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "skin",
+      "entityType": "term",
+      "sentence": "skin, while the lower is left open. The body is pierced by a long",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "arm",
+      "entityType": "term",
+      "sentence": "arm, to which are attached four silk strings, and the bow passes",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yang-Kin",
+      "entityType": "term",
+      "sentence": "Yang-Kin, or foreign harpsichord (Fig. 8), the use of which is by no",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Shon-pan",
+      "entityType": "term",
+      "sentence": "Shon-pan, and is used in the Confucian ceremonies.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "quence",
+      "entityType": "term",
+      "sentence": "quence, the earliest that were invented, and served as pitch-pipes for",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Second",
+      "entityType": "term",
+      "sentence": "Second, the Ty, or flute. There are many varieties of this instru-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ment",
+      "entityType": "term",
+      "sentence": "ment, which it is unnecessary to describe. The most common is",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "silk",
+      "entityType": "term",
+      "sentence": "silk, and often ornamented with tassels. It has six finger-holes,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "beeswax",
+      "entityType": "term",
+      "sentence": "beeswax, in the lower end of each pipe.\"' The Cheng, according",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "government",
+      "entityType": "term",
+      "sentence": "government, in industries, and in science; but until very recent",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "inventive",
+      "entityType": "term",
+      "sentence": "inventive, but an imitative people. They have imported our rail-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "instruction",
+      "entityType": "term",
+      "sentence": "instruction, both vocal and instrumental, finds a place in the curriculum of several of the schools.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "country",
+      "entityType": "term",
+      "sentence": "country, we must agree with M. Kraus ^ in admitting the true and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tionably",
+      "entityType": "term",
+      "sentence": "tionably, the direct source of the present music of Japan must be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bodily",
+      "entityType": "term",
+      "sentence": "bodily, and many of the present Japanese instruments were",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "recent",
+      "entityType": "term",
+      "sentence": "recent, the present form of the theatre not dating back more than a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "own",
+      "entityType": "term",
+      "sentence": "own, but only a difference in the method of tonal combinations.-*",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Gakkunine",
+      "entityType": "term",
+      "sentence": "according to their personal skill. The iirst class, called Gakkunine,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gueni",
+      "entityType": "term",
+      "sentence": "The second class, called Gueni'n, rank with the merchants, and,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "exclusively",
+      "entityType": "term",
+      "sentence": "exclusively, and to their numbers belong the orchestra of the grand",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "captor",
+      "entityType": "term",
+      "sentence": "captor, that, unwilling to seem ungrateful, and yet unable to endure",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "question",
+      "entityType": "term",
+      "sentence": "question, to which he gave the name of his beloved prince.' The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Taiko",
+      "entityType": "term",
+      "sentence": "Taiko, or bass drum.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Indeed",
+      "entityType": "term",
+      "sentence": "Indeed, the Japanese fully shares the fondness of the Chinese for",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "resembling",
+      "entityType": "term",
+      "sentence": "resembling, in general appearance, their Chinese proto-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "one",
+      "entityType": "term",
+      "sentence": "one, it would appear like the work of some schoolboy who had",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "observation",
+      "entityType": "term",
+      "sentence": "observation, as having a remarkable finish. This, indeed, is only",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ever",
+      "entityType": "term",
+      "sentence": "ever, given an account of two instruments which she saw among",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "mentioned",
+      "entityType": "term",
+      "sentence": "mentioned, to the effect that it was invented by a certain noble",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "out",
+      "entityType": "instrument",
+      "sentence": "better materials, constructed a rude instrument out of his hat and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "IVangong",
+      "entityType": "term",
+      "sentence": "latter, called IVangong, is supposed to be of celestial origin, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wood",
+      "entityType": "term",
+      "sentence": "wood, and is strung with seven silken strings, passing over a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ship",
+      "entityType": "term",
+      "sentence": "ship, having become waterlogged, was taken to pieces, and the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tsukushi-Koto",
+      "entityType": "term",
+      "sentence": "family is the Soiw-Koto (Figs, i and 3), also called Tsukushi-Koto,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tonic",
+      "entityType": "term",
+      "sentence": "tonic, the relations of the several tones are essentially the same",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "family",
+      "entityType": "term",
+      "sentence": "family, of which the most important is the Saniisen (Siamisen)",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Europe",
+      "entityType": "term",
+      "sentence": "Europe,\" ^ though the latter seems impossible. It has a body",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kioti",
+      "entityType": "term",
+      "sentence": "of gut, and is played with a long horsehair bow (called Kioti).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "uppermost",
+      "entityType": "term",
+      "sentence": "uppermost, and the body resting on the lap. The bow is grasped",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Samisen",
+      "entityType": "term",
+      "sentence": "Samisen, the Kokiu is said to have been introduced from Loo-choo,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "recommended",
+      "entityType": "term",
+      "sentence": "recommended, that, with the pianoforte and organ, the Koto and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lute",
+      "entityType": "term",
+      "sentence": "lute, but its body is much less deep. One of the most beautiful",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Biwa",
+      "entityType": "term",
+      "sentence": "lakes of Japan, near Kioto, is called Biwa Lake, from the fact",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Heike-Biwa",
+      "entityType": "term",
+      "sentence": "it is called Heike-Biwa ; the name being derived from a celebrated",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Fiiye",
+      "entityType": "term",
+      "sentence": "Of these the most important is the flute, called Fiiye (Fouye)",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stopped",
+      "entityType": "term",
+      "sentence": "stopped, listened a while with pleased attention, and at length",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "retired",
+      "entityType": "term",
+      "sentence": "retired, without doing the frightened musician the least harm.'",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mouth-organ",
+      "entityType": "term",
+      "sentence": "mouth-organ, which is identical with the Chinese Cheng, and the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "enough",
+      "entityType": "term",
+      "sentence": "enough, sounds somewhat strange to our ears. The trouble consists,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rappakai",
+      "entityType": "term",
+      "sentence": "Rappakai, or conch trumpet (Fig. 17). This, like the similar",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Last",
+      "entityType": "term",
+      "sentence": "Last, but certainly not least, in the opinion of the Japanese,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "variety",
+      "entityType": "term",
+      "sentence": "variety, which may easily be classified under three heads, according",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "frame",
+      "entityType": "term",
+      "sentence": "frame, and is beaten with two wooden drum-sticks. 0-Tzudziimi'",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "taico",
+      "entityType": "term",
+      "sentence": "taico; or great war-drum, the body of which is made of the hollowed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Doo",
+      "entityType": "term",
+      "sentence": "Doo, and it appears in different sizes and in various shapes.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ttention",
+      "entityType": "term",
+      "sentence": "of Corea. I have already called attention to the fact that the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "harmony",
+      "entityType": "term",
+      "sentence": "harmony, it is unnecessary to say, the Corean knows nothing.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "should",
+      "entityType": "instrument",
+      "sentence": "not surprising, therefore, that his favorite instrument should be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "piece",
+      "entityType": "term",
+      "sentence": "piece, an<^ i>^ W^ic^",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "jungle",
+      "entityType": "term",
+      "sentence": "jungle, to the high-caste and highly cultured Brahmin. Nor is there",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mohammedan",
+      "entityType": "term",
+      "sentence": "Mohammedan, and the Christian are found side by side. It is not",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "civilization",
+      "entityType": "term",
+      "sentence": "civilization, and religion, should offer rare opportunities for the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "peninsula",
+      "entityType": "term",
+      "sentence": "peninsula, subjugating the original inhabitants, and implanting upon",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gods",
+      "entityType": "term",
+      "sentence": "gods, and, with other good and evil spirits, the Gandharven and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Apsarasen",
+      "entityType": "term",
+      "sentence": "Apsarasen, or genii of song and dance. The latter became the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vina",
+      "entityType": "term",
+      "sentence": "Vina, the principal musical instrument of Hindustan. Saraswati",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "acceptation",
+      "entityType": "term",
+      "sentence": "acceptation, — and the similarity of the effects said to have been",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "composer",
+      "entityType": "term",
+      "sentence": "composer, producing not only songs and hymns, but also the music",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hindu",
+      "entityType": "term",
+      "sentence": "Hindu, began to decline. Music proved no exception. The Arabs",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "song",
+      "entityType": "term",
+      "sentence": "song, stringed instruments, and dancing. Native authors, however,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Swaragaiiia",
+      "entityType": "term",
+      "sentence": "The gamut is called Swaragaiiia, or Surgum, the name being",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Starting",
+      "entityType": "term",
+      "sentence": "Starting, then, with the seven fundamental tones as given, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "consisted",
+      "entityType": "term",
+      "sentence": "consisted, first, in successively assuming each different tone of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "proposed",
+      "entityType": "term",
+      "sentence": "proposed, quite satisfactory. Perhaps we cannot do better than",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rags",
+      "entityType": "term",
+      "sentence": "Rags, the number of which is regarded as fixed and unalterable, a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "genii",
+      "entityType": "term",
+      "sentence": "genii, who presided over the principal passions. Each of these was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "proceeded",
+      "entityType": "term",
+      "sentence": "proceeded, the water began to boil ; and, in insupportable agony, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "author",
+      "entityType": "term",
+      "sentence": "author, \"did the inhabitants of India possess from the most",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bird",
+      "entityType": "term",
+      "sentence": "Bird, who at the end of the last century devoted nineteen years",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "uncouth",
+      "entityType": "term",
+      "sentence": "uncouth, the majority have expressed, in no measured terms, their",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Devadasi",
+      "entityType": "term",
+      "sentence": "first class are called Devadasi, or slaves of the gods. They are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dustani",
+      "entityType": "term",
+      "sentence": "dustani, or northern. The latter is chiefly in the hands of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "obscuring",
+      "entityType": "term",
+      "sentence": "obscuring, the leading musical thought, we reach the highest musical",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stage",
+      "entityType": "term",
+      "sentence": "stage, in which, to the pleasure of the ear and of the imagination,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "field",
+      "entityType": "term",
+      "sentence": "field, not only on account of the vast number of specimens",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "control",
+      "entityType": "term",
+      "sentence": "control, a very beautiful and complete collection of Indian instruments, with which it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "resulting",
+      "entityType": "term",
+      "sentence": "resulting, first, from the unsuitable nature of the material employed,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tut",
+      "entityType": "term",
+      "sentence": "The first, called Tut, includes all stringed instruments, and is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sitar",
+      "entityType": "term",
+      "sentence": "Sitar, the Tamboiira, and the Vina ; and the latter the instruments",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bitut",
+      "entityType": "term",
+      "sentence": "second class is called Bitut, and includes all instruments of percus-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "GJmn",
+      "entityType": "term",
+      "sentence": "called GJmn, consists of those instruments of percussion in which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "SoogJiur",
+      "entityType": "term",
+      "sentence": "SoogJiur, consists of wind instruments.' I shall consider each of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "contemplation",
+      "entityType": "term",
+      "sentence": "contemplation, when suddenly the gently moving zephyrs drew",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "board",
+      "entityType": "term",
+      "sentence": "board, and one brass one on the left side.\" They are tuned as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "instead",
+      "entityType": "instrument",
+      "sentence": "differs from the foregoing in that it has eight strings instead of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "seven",
+      "entityType": "term",
+      "sentence": "seven, of which five pass over the frets on the finger-board. Of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hand",
+      "entityType": "term",
+      "sentence": "hand, and the three following with the fingers of the right hand.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "called",
+      "entityType": "instrument",
+      "sentence": "In the province of Delhi we find an instrument called",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ToumouraJi",
+      "entityType": "term",
+      "sentence": "ToumouraJi, which, while having a name very similar to the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "preceding",
+      "entityType": "term",
+      "sentence": "preceding, seems in construction rather to belong to the family of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "found",
+      "entityType": "term",
+      "sentence": "found, however, with five and seven as well as three strings. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "erable",
+      "entityType": "term",
+      "sentence": "erable, especially in chromatic passages. It is almost always used",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Dcdjapour",
+      "entityType": "term",
+      "sentence": "Dcdjapour, indeed, is shaped almost exactly like our guitar.' Like",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "only",
+      "entityType": "instrument",
+      "sentence": "strings only to play upon, tuned in thirds, from strings in the centre,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Syria",
+      "entityType": "term",
+      "sentence": "Syria, Egypt, and Arabia, it does not belong to the violin, but to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hindustan",
+      "entityType": "term",
+      "sentence": "Hindustan, though a few have been introduced from Burmah.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "India",
+      "entityType": "term",
+      "sentence": "India, as has already been said, we find the origin of \" that powerful",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bow",
+      "entityType": "term",
+      "sentence": "interpreter of musical sentiment called the bow.\" ' In vain we",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Egypt",
+      "entityType": "term",
+      "sentence": "Egypt, Greece, and Rome, for any traces of it. All attempts to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bone",
+      "entityType": "term",
+      "sentence": "bone, or ivory, either terminated by a hook with which to pluck",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "determined",
+      "entityType": "term",
+      "sentence": "determined, they are certainly very old, dating back probably two",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cylinder",
+      "entityType": "term",
+      "sentence": "cylinder, four inches long by two inches in diameter, the top of which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "originated",
+      "entityType": "instrument",
+      "sentence": "from the plectrum, adds, \" Howbeit, it is not improbable that the fiddle-bow originated in India, and came thence",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "astron",
+      "entityType": "term",
+      "sentence": "astron, has passed into China.' Rude as such forms appear to us",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "now",
+      "entityType": "term",
+      "sentence": "now, surely none were more pregnant with mighty possibilities.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "origin",
+      "entityType": "term",
+      "sentence": "origin, though the Sarinda certainly dates back farther than the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kunjerry",
+      "entityType": "term",
+      "sentence": "called Kunjerry^",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "interest",
+      "entityType": "term",
+      "sentence": "interest, as they undoubtedly explain the origin of those European",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "passing",
+      "entityType": "instrument",
+      "sentence": "strings passing beneath the others, and tuned at harmonic intervals.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dak",
+      "entityType": "term",
+      "sentence": "Other varieties of drum, called Dak and Hoodook, are principally",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Thalia",
+      "entityType": "term",
+      "sentence": "first, called Thalia, are used principally in temple music, or as calls",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kansi",
+      "entityType": "term",
+      "sentence": "Kansi, is used in the Brahmin temples. The bell, or Giinte, also",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "player",
+      "entityType": "term",
+      "sentence": "player, are said to yield remarkable effects. Castanets, both of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tal",
+      "entityType": "term",
+      "sentence": "in their dances are made of metal, and are called Tal (Fig. 7). In",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "finger-holes",
+      "entityType": "term",
+      "sentence": "finger-holes, only one of them is used in playing ; the holes of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cobra",
+      "entityType": "term",
+      "sentence": "cobra, by the plaintive tones of this instrument.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tooinerie",
+      "entityType": "term",
+      "sentence": "A variety of the Poongi, called Tooinerie, is played by the nose",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kurna",
+      "entityType": "term",
+      "sentence": "Kurna, which is used chiefly in religious festivals and processions.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vJOUnq",
+      "entityType": "term",
+      "sentence": "vJOUnq, JjO\\t- S^'\\^^^ f^'Xro . jTJe 4oc)v|- v/o",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "i-K",
+      "entityType": "term",
+      "sentence": "i-K - li.f:",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "spite",
+      "entityType": "term",
+      "sentence": "spite, however, of the little favor which it found in the ears of its",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "scale",
+      "entityType": "term",
+      "sentence": "scale,\" says Mr. Ellis, \" is an equal division of the octave into",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ear",
+      "entityType": "term",
+      "sentence": "ear, — a method of teaching which is considered safer and more",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "cornet",
+      "entityType": "term",
+      "sentence": "cornet, flute, harp, sackbut, psaltery, dulcimer, and all kinds of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mahoree",
+      "entityType": "term",
+      "sentence": "Mahoree, or \" light-sounding \" instruments, which are principally",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "percussion",
+      "entityType": "term",
+      "sentence": "percussion, combined in the proportion of three to sixteen. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "surface",
+      "entityType": "term",
+      "sentence": "surface, suspended by strings passing through their nodes, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "elevated",
+      "entityType": "term",
+      "sentence": "strung over what may be called the elevated prow and stem of an",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Klwng",
+      "entityType": "term",
+      "sentence": "gongs into a peculiar instrument called Klwng Yai. This consists",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sixteen",
+      "entityType": "instrument",
+      "sentence": "of a circular frame-work, in which are suspended by strings sixteen",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "KJiong",
+      "entityType": "term",
+      "sentence": "the bell.\" ' A smaller instrument of the same kind, called KJiong",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lek",
+      "entityType": "term",
+      "sentence": "Lek, is made up of twenty-one gongs.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "principally",
+      "entityType": "instrument",
+      "sentence": "drum principally used in the Laos states ; second, the Taphone",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tooth",
+      "entityType": "term",
+      "sentence": "tooth, which is fastened to his fingers, and drawn rapidly back-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kra",
+      "entityType": "term",
+      "sentence": "Another instrument of the guitar family is called Kra Chapee.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "limited",
+      "entityType": "term",
+      "sentence": "limited, as on the violin, by pinching it between the fingers and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "larger",
+      "entityType": "instrument",
+      "sentence": "is possible.\" \" It is played with a bow larger than that of our",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Saw",
+      "entityType": "term",
+      "sentence": "called Saw Sa7nsai. The Sazv Duang and Saw Oo are two-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "respectively",
+      "entityType": "term",
+      "sentence": "respectively, are also in use. The Siamese have also a kind of flute,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Klui",
+      "entityType": "term",
+      "sentence": "called Klui, in which the pitch may be altered by covering one of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "singer",
+      "entityType": "term",
+      "sentence": "singer, while honorable, is not without perils, as it is considered",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Museum",
+      "entityType": "term",
+      "sentence": "Museum, p. 175.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "execution",
+      "entityType": "term",
+      "sentence": "execution, he preserved a judicious retirement ; but at the next",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Soung",
+      "entityType": "term",
+      "sentence": "This is called Soung (Fetis : Soum), and is found principally in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hollowed",
+      "entityType": "term",
+      "sentence": "hollowed, and usually covered with tough buffalo-hide. Its length",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "occasionally",
+      "entityType": "term",
+      "sentence": "occasionally, also, as a solo instrument. Its tone is very sweet, even",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "near",
+      "entityType": "instrument",
+      "sentence": "by applying a finger of the left hand to a string near its end, which",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "though",
+      "entityType": "term",
+      "sentence": "though, instead of three strings, the Burmese instrument has ten, —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gilt",
+      "entityType": "term",
+      "sentence": "gilt, and furnished with a pair of glass eyes. The three silken",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pass",
+      "entityType": "instrument",
+      "sentence": "strings pass over two bridges, one being placed near the head, and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Pattala",
+      "entityType": "term",
+      "sentence": "Pattala, or PatolaJif' Several sizes are found. One described by",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kyee-wain",
+      "entityType": "term",
+      "sentence": "The former are combined into an instrument called Kyee-wain,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "KJiew",
+      "entityType": "term",
+      "sentence": "pagoda.\" ' The Burmese have also a small bell called KJiew, which,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "joined",
+      "entityType": "term",
+      "sentence": "joined, and therefore most zealous, members of the band, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Seing",
+      "entityType": "term",
+      "sentence": "are combined by the Burmese to form an instrument called Seing-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "weiug",
+      "entityType": "term",
+      "sentence": "weiug, corresponding to the Kyee-wain, or gong-organ, to which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "drum-heads",
+      "entityType": "term",
+      "sentence": "drum-heads, and also by smearing on with the fingers a paste",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "itself",
+      "entityType": "term",
+      "sentence": "itself, but by no means unpleasing.\" \" This ponderous instrument,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hoop",
+      "entityType": "term",
+      "sentence": "hoop, with its drums attached to it, is carried by two men, one at",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chair",
+      "entityType": "term",
+      "sentence": "chair, but without the poles ; and the player shuffles along in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Moawijah",
+      "entityType": "term",
+      "sentence": "Moawijah,\" recalls two of the most celebrated singers of this class, whom their master was accustomed to speak",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "man",
+      "entityType": "term",
+      "sentence": "man, — an idea which still survives among the Egyptians of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "spirit",
+      "entityType": "term",
+      "sentence": "spirit, in several places in the Koran he repels the charge of being",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "saying",
+      "entityType": "term",
+      "sentence": "saying, and who, though passionately fond of poetry, believed that every poet had his familiar spirit who inspired",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nadr",
+      "entityType": "term",
+      "sentence": "an Arab musician named Nadr Ben Kelde, who had studied music",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thoroughly",
+      "entityType": "term",
+      "sentence": "thoroughly, that they themselves on their side could become",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Here",
+      "entityType": "term",
+      "sentence": "Here, however, we are confronted with an interesting problem.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Raschid",
+      "entityType": "term",
+      "sentence": "Raschid, we are told, was moved by the performance of the singer",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "name",
+      "entityType": "term",
+      "sentence": "name, received from the caliph a monthly pension of ten thousand",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "great",
+      "entityType": "term",
+      "sentence": "great, that he was summoned from his home in Spain to perform",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chalil",
+      "entityType": "term",
+      "sentence": "Chalil, and the \"Theory of Composition\" of El Kindi, but men in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "overgrown",
+      "entityType": "term",
+      "sentence": "overgrown, almost to the point of being unrecognizable, with",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "charivari",
+      "entityType": "term",
+      "sentence": "charivari, destitute of melody or of measure. Nevertheless, by",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "melody",
+      "entityType": "term",
+      "sentence": "melody, in which their voices often joined ; where I could not find",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "say",
+      "entityType": "term",
+      "sentence": "say, the greater or less rapidity of execution — and measure. Their",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "himself",
+      "entityType": "term",
+      "sentence": "himself, and constitute the chief charm of the performance to the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "remuneration",
+      "entityType": "term",
+      "sentence": "remuneration, which, if less extravagant than that given to the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Awalim",
+      "entityType": "term",
+      "sentence": "is a class of female singers, called Awalim (singular, Almeh), whose",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Alateeyeh",
+      "entityType": "term",
+      "sentence": "are called Alateeyeh. They are both vocal and instrumental",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "set",
+      "entityType": "instrument",
+      "sentence": "performers. They are generally a dissolute set of fellows, and,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rebab",
+      "entityType": "term",
+      "sentence": "with one string, called Rebab esh-shaer, or \"poet's viol.\"^ Their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kemangeh",
+      "entityType": "term",
+      "sentence": "Kemangeh, or the Rebab wdth the Tar, or the Darabukkeh with",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "common",
+      "entityType": "term",
+      "sentence": "common, both in public and private. The instruments most",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kemangch",
+      "entityType": "term",
+      "sentence": "Kemangch, the Tamboura, and the Tar generally suflice. It is",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "lESEWETTER",
+      "entityType": "term",
+      "sentence": "lESEWETTER, in his learned treatise on the music of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "list",
+      "entityType": "term",
+      "sentence": "list, for the Spanish historians mention many which are not",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "third",
+      "entityType": "term",
+      "sentence": "third, their instruments of percussion.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Oud",
+      "entityType": "term",
+      "sentence": "the lute.\" This is called Oud (Fig. i, Syria), or, with the article,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "add",
+      "entityType": "term",
+      "sentence": "add, that a musician should not play without pursuing some systematic method of procedure: for instance,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bagdad",
+      "entityType": "term",
+      "sentence": "Bagdad, which had but two strings. The Tamboura of Khorassan,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kuifra",
+      "entityType": "term",
+      "sentence": "The Arabs of Algiers have a sort of guitar, called Kuifra, which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gunibry",
+      "entityType": "term",
+      "sentence": "proper, have also a small stringed instrument, called Gunibry",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bavbaryeJi",
+      "entityType": "term",
+      "sentence": "bavbaryeJi, which indicates that it is considered the national",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fourteen",
+      "entityType": "term",
+      "sentence": "fourteen, strings. A second form of the Kemangeh Roumy has a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "long",
+      "entityType": "term",
+      "sentence": "long, narrow body, in which the handle is made of the continuation",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "foot",
+      "entityType": "term",
+      "sentence": "foot, by which it is supported. Its strings are of horse-hair, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Eraqyeh",
+      "entityType": "term",
+      "sentence": "Another form of oboe, called Eraqyeh, is probably of Persian",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "behind",
+      "entityType": "term",
+      "sentence": "behind, — and is composed of a single piece of wood. Its compass",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "expected",
+      "entityType": "term",
+      "sentence": "expected, resembles that of the bagpipe. Like the Zummarah, it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ziiniinarah",
+      "entityType": "term",
+      "sentence": "A rude bagpipe, called Ziiniinarah Bi-soau, is also occasionally",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "able",
+      "entityType": "term",
+      "sentence": "able; but it is used rather to emphasize the rhythm of the war-music,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Cheipoiir",
+      "entityType": "term",
+      "sentence": "Another trumpet, called Cheipoiir, used by the Arabs of Asia",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sidering",
+      "entityType": "term",
+      "sentence": "sidering, are yet numerous and interesting.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tad",
+      "entityType": "term",
+      "sentence": "called Tad/ Shamee, or \" Syrian drum \" (Fig. 6, Palestine). It",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dara",
+      "entityType": "term",
+      "sentence": "The Arabs have a peculiar kind of hand-drum, called Dara-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tar",
+      "entityType": "term",
+      "sentence": "The ordinary tambourine of the Arabs is called Tar (Fig. 6,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "diameter",
+      "entityType": "term",
+      "sentence": "diameter, and is furnished with five sets of brass clappers. It is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rikk",
+      "entityType": "term",
+      "sentence": "Rikk, is often used at private concerts. The Bendir (Bendyr) of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sagai",
+      "entityType": "term",
+      "sentence": "religious processions. The latter are called Sagai, and are used by",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Faggeishah",
+      "entityType": "term",
+      "sentence": "Faggeishah, is shown in Fig. 3, under Syria.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bell",
+      "entityType": "term",
+      "sentence": "Bell - Jon",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tackt-i-Bostan",
+      "entityType": "term",
+      "sentence": "Tackt-i-Bostan, supposed to date from the latter half of the sixth",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "century",
+      "entityType": "term",
+      "sentence": "century, A.D., shed some interesting light upon the state of music",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Parviz",
+      "entityType": "term",
+      "sentence": "Parviz, we hear of wonderful singers, \"whose voices surpassed in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sorrowful",
+      "entityType": "term",
+      "sentence": "sorrowful, my son ? \" he said. \" Dismiss your care ; for you shall",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lost",
+      "entityType": "term",
+      "sentence": "lost, you shall receive two others, whose names will be Schabdiz",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "architecture",
+      "entityType": "term",
+      "sentence": "architecture, preserved the traditions of the old Assyrian culture.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "harp",
+      "entityType": "term",
+      "sentence": "harp, began to sing in so touching a way of the misfortunes of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lower",
+      "entityType": "term",
+      "sentence": "lower, or G.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "traveller",
+      "entityType": "term",
+      "sentence": "traveller, speaks frequently of having been entertained after dinner",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "occasion",
+      "entityType": "term",
+      "sentence": "occasion, he says, \" After we had sat about an hour, a 7mrza, who in",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "assembled",
+      "entityType": "term",
+      "sentence": "assembled, — the most excellent that Teheran, or perhaps any other",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "otherwise",
+      "entityType": "term",
+      "sentence": "otherwise, and the consequent changes in the character of their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "evident",
+      "entityType": "term",
+      "sentence": "evident, not only in the works of their poets, and in the composition",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "revolution",
+      "entityType": "term",
+      "sentence": "revolution, the most able musicians of Turkey were Greeks of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chiveli-Oglou",
+      "entityType": "term",
+      "sentence": "of the Sultan Mahmoud was a Greek named Chiveli-Oglou Zorgaki. Fetis, ii. p. 395.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "triangle",
+      "entityType": "term",
+      "sentence": "triangle, metal clappers, shrill piccolos and oboes, trumpets and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "representation",
+      "entityType": "term",
+      "sentence": "representation, its shape was triangular ; the frame consisting of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "elsewhere",
+      "entityType": "term",
+      "sentence": "elsewhere, to accompany the voice in singing.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "globular",
+      "entityType": "term",
+      "sentence": "globular, except at the upper part, over which was stretched and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "purpose",
+      "entityType": "term",
+      "sentence": "purpose, especially in the cheaper instruments. The Kamancha is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dombeg",
+      "entityType": "term",
+      "sentence": "common. A curious hand-drum, called Dombeg, is shown in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Fellahee",
+      "entityType": "term",
+      "sentence": "A rude instrument of the guitar family, called Fellahee, is shown",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "finger-board",
+      "entityType": "term",
+      "sentence": "finger-board, and having two sound-holes near the bottom, just below",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ghdida",
+      "entityType": "term",
+      "sentence": "Ghdida, or Turkish bagpipe, is shown in Fig. 9. The Nefyr, or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trumpet",
+      "entityType": "term",
+      "sentence": "trumpet, has already been described.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Africa",
+      "entityType": "term",
+      "sentence": "Africa, South America, and the islands of the sea. In the rude",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Finsch",
+      "entityType": "term",
+      "sentence": "Finsch, who was endeavoring to make a collection of the instru-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "America",
+      "entityType": "term",
+      "sentence": "America; the hundreds of tribes of Central and Southern Africa;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "information",
+      "entityType": "term",
+      "sentence": "information, either as to the music or the musical instruments",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hut",
+      "entityType": "term",
+      "sentence": "hut, playing softly upon the mandolin, while hard by an old",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "European",
+      "entityType": "term",
+      "sentence": "European, but to one skilled in Australian music, lulling- and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "panied",
+      "entityType": "term",
+      "sentence": "panied, as being \"often very dull.\" Schweinfurth= says of one of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dog",
+      "entityType": "term",
+      "sentence": "dog, and at another the lowing of a cow, whilst it is broken",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "down",
+      "entityType": "term",
+      "sentence": "down, the rapid time moderate, and the song be hushed into a",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "wailing",
+      "entityType": "term",
+      "sentence": "wailing, melancholy strain. Thus it sinks into a very dirge, such",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Australian",
+      "entityType": "term",
+      "sentence": "Australian, who sits in the door of his hut, furiously brandish-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "him",
+      "entityType": "term",
+      "sentence": "him:",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tion",
+      "entityType": "term",
+      "sentence": "tion,' but they are none the less the natural and real expression of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "while",
+      "entityType": "term",
+      "sentence": "while, his family joining in the chorus. Each witty personality is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cranz",
+      "entityType": "term",
+      "sentence": "Cranz, \" has won the case, and from that time on is looked upon",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "alone",
+      "entityType": "term",
+      "sentence": "alone, he could do all his wonders He could project his soul",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "height",
+      "entityType": "term",
+      "sentence": "height, whose sound resembles thunder, and with two rows of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "says",
+      "entityType": "instrument",
+      "sentence": "again, \"Do you 1 in dei' stand \\N\\i2X my drum says?\"-*",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "again",
+      "entityType": "term",
+      "sentence": "again, \"Do you 1 in dei' stand \\N\\i2X my drum says?\"-*",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "symmetrically",
+      "entityType": "term",
+      "sentence": "symmetrically, and struck [with two little rounded sticks], thus",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "substance",
+      "entityType": "term",
+      "sentence": "substance, under each of the twelve flat wooden keys of the instru-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "war",
+      "entityType": "term",
+      "sentence": "war, the flute is, par excellence, the instrument of love. Row-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "pipe",
+      "entityType": "term",
+      "sentence": "pipe, till she hath given her consent to espouse him, or told him",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Syrinx",
+      "entityType": "term",
+      "sentence": "Syrinx, or Pandean pipe. This is one of the most common",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "will",
+      "entityType": "instrument",
+      "sentence": "The interesting question of the origin of the nose-flute will",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "probably",
+      "entityType": "instrument",
+      "sentence": "first stringed instruments each string probably gave but a single",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lying",
+      "entityType": "instrument",
+      "sentence": "neck, for in the primitive form of a piece of straight board with strings lying over it, there was no likelihood that",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "neck",
+      "entityType": "term",
+      "sentence": "neck, for in the primitive form of a piece of straight board with strings lying over it, there was no likelihood that",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "could",
+      "entityType": "instrument",
+      "sentence": "in which the number of tones of each string could be increased",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "got",
+      "entityType": "instrument",
+      "sentence": "Lute got its increase in power by increasing the size and ten-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lia",
+      "entityType": "term",
+      "sentence": "lia, where it had probably been brought by Malay trading canoes",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Nzangah",
+      "entityType": "term",
+      "sentence": "strels, called Nzangah, who use a combination of harp and man-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dolin",
+      "entityType": "term",
+      "sentence": "dolin,' \" the thin jingling of which accords perfectly well with the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cussion",
+      "entityType": "term",
+      "sentence": "cussion, we are embarrassed by the richness of the material. A",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "procession",
+      "entityType": "term",
+      "sentence": "procession, the same traveller saw thirty women carrying a single",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "collection",
+      "entityType": "term",
+      "sentence": "collection, shows a pottery drum, the head of which is said to be",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "din",
+      "entityType": "term",
+      "sentence": "din, caused by many thousands yelling and shrieking like maniacs.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ngonia",
+      "entityType": "term",
+      "sentence": "the African drums is called Ngonia Kit. It is described as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bukkah",
+      "entityType": "term",
+      "sentence": "bukkah,' and provided with a head of iguana skin.\"^ Schwein-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "MiJiairibi",
+      "entityType": "term",
+      "sentence": "the second the Zanze. The Marimba, which is also called MiJiairibi,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Timbila",
+      "entityType": "term",
+      "sentence": "Timbila, or Ba/afo, according to the part of the country in which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "two",
+      "entityType": "term",
+      "sentence": "two, a larger and a smaller, which are fastened together with resin,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Banabea",
+      "entityType": "term",
+      "sentence": "Banabea, the body of the instrument consists of a fiat piece of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Manyinyee",
+      "entityType": "term",
+      "sentence": "The Bongo have also some large trumpets called Manyinyee.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "feet",
+      "entityType": "term",
+      "sentence": "feet, \" closed at the extremity, and ornamented with carved work",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "SiwaJ",
+      "entityType": "term",
+      "sentence": "East Coast have a \" huge bassoon of black wood,\" called SiwaJ",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mangoal",
+      "entityType": "term",
+      "sentence": "\" These are called Mangoal, and have three holes like small",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mburrah",
+      "entityType": "term",
+      "sentence": "narrow wooden pipe, called Mburrah, \" which has a widened air-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "youm-jotim",
+      "entityType": "term",
+      "sentence": "A modified form of the same instrument, called youm-jotim, is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "breath",
+      "entityType": "term",
+      "sentence": "breath, but struck by a stick, the performer catching it up",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gubo",
+      "entityType": "term",
+      "sentence": "resonant gourd. That of the Zulus, which is called Gubo, has",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "below",
+      "entityType": "term",
+      "sentence": "below; on the upper part, fastened by strings that pass through",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nous",
+      "entityType": "term",
+      "sentence": "nous, and it is difficult to distinguish any actual melody in it.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "body",
+      "entityType": "term",
+      "sentence": "body, taking the place of the single handle of the Nanga or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kinanda",
+      "entityType": "term",
+      "sentence": "Nyassa, have an instrument called Kinanda. This is \" a shallow",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Nyassa",
+      "entityType": "term",
+      "sentence": "Nyassa, have an instrument called Kinanda. This is \" a shallow",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sel",
+      "entityType": "term",
+      "sentence": "sel,\" and are fastened at regular intervals to a cross-bar at the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "accord",
+      "entityType": "instrument",
+      "sentence": "seven strings accord perfectly with our diatonic scale, only the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Semira",
+      "entityType": "term",
+      "sentence": "Semira, was strung with a horse-hair string, and had a compass",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pets",
+      "entityType": "term",
+      "sentence": "pets, for the manufacture of which great stems of trees come",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Schoolcraft",
+      "entityType": "term",
+      "sentence": "Schoolcraft, \" is their proneness to singing and dancing. But how-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "string",
+      "entityType": "term",
+      "sentence": "string, while the Pueblos of New Mexico are contented chiefly",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fury",
+      "entityType": "term",
+      "sentence": "fury, shakes the gigantic trees that crack like frail reeds. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "electricity",
+      "entityType": "term",
+      "sentence": "electricity, aerial sounds, electric or atmospheric, and the endless",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "elegance",
+      "entityType": "term",
+      "sentence": "elegance, and wrapped majestically in a large fur cloak. Seated",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bed",
+      "entityType": "term",
+      "sentence": "bed, he beat a slight rolling resembling the distant sounds of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tempest",
+      "entityType": "term",
+      "sentence": "tempest, to which nothing was wanting, not even the dismal howl-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ceremony",
+      "entityType": "term",
+      "sentence": "ceremony, he extemporizes a few stanzas of lively, energetic",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "poetry",
+      "entityType": "term",
+      "sentence": "poetry, which he sings with a fiery enthusiasm, gesticulating and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "language",
+      "entityType": "term",
+      "sentence": "language, that they are exact in their laws of euphony and syllabi-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cession",
+      "entityType": "term",
+      "sentence": "cession, rather than by any attempt at musical cadence.\" ° Yet",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "giving",
+      "entityType": "term",
+      "sentence": "giving, and medicine, or nietair ^ The same traveller witnessed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "state",
+      "entityType": "term",
+      "sentence": "state, though the former would seem probable.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thought",
+      "entityType": "term",
+      "sentence": "thought, that it is almost impossible to separate them. \" Danc-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "bles",
+      "entityType": "term",
+      "sentence": "bles, which they rattled to keep time to the dancing. \" They all",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "broad",
+      "entityType": "term",
+      "sentence": "broad, covered on one side only with a thin piece of hide, or of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chilcat",
+      "entityType": "term",
+      "sentence": "Chilcat, contained in the American Museum of Natural History, is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "otter",
+      "entityType": "term",
+      "sentence": "otter, who cannot sing, but only whistle, and is supposed to be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "carried",
+      "entityType": "instrument",
+      "sentence": "probably a rude copy of a European instrument carried to that",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "violin",
+      "entityType": "term",
+      "sentence": "violin, which instrument it resembles in general shape, especiaiiy in the handle.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shepard",
+      "entityType": "term",
+      "sentence": "Shepard, two stringed instruments of similar character from the same locality. The larger was two feet long by",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "top",
+      "entityType": "term",
+      "sentence": "top, and are furnished with a common mouth-piece. Other instru-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "distance",
+      "entityType": "term",
+      "sentence": "distance, and yet when you are close to it, it seems as far away",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ened",
+      "entityType": "term",
+      "sentence": "ened, like the war drum, and is beaten with a drumstick of wood,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wampum",
+      "entityType": "term",
+      "sentence": "wampum, quills, turtle shells, and even the rattles of the rattle-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hide",
+      "entityType": "term",
+      "sentence": "hide, to which are attached bits of tin and bone. This is fastened",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rawhide",
+      "entityType": "term",
+      "sentence": "rawhide, stretched over a tightly-blown bladder, which contains",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "smooth",
+      "entityType": "term",
+      "sentence": "smooth, hard rod about twelve or eighteen inches long, held",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "appreciable",
+      "entityType": "term",
+      "sentence": "appreciable, and in the lift and motion to the right, the springing",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "bark",
+      "entityType": "term",
+      "sentence": "bark, and secured to the body of the wooden instrument by glue",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "referred",
+      "entityType": "instrument",
+      "sentence": "= Ibid. This seems to be the same instrument referred to by Catlin as the \" mystery whistle.\" whose",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "love",
+      "entityType": "term",
+      "sentence": "love, he will blow \" for hours together and from day to day.\" \"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sound",
+      "entityType": "term",
+      "sentence": "sound, which indicates the rallying or the retreat.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "flute",
+      "entityType": "term",
+      "sentence": "flute, consisting of a reed pierced with four finger-holes, two in",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Acocotl",
+      "entityType": "term",
+      "sentence": "long wooden trumpet called Acocotl, or Clarin. \" This consists of a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mouth-piece",
+      "entityType": "term",
+      "sentence": "mouth-piece, resembling in shape that of a clarionet. The tube is",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "bourine",
+      "entityType": "term",
+      "sentence": "bourine, being made of a flat slice of tortoise shell (the rest of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "egg-instruments",
+      "entityType": "term",
+      "sentence": "egg-instruments,^ that were really flageolets with two mouth-pieces,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "logue",
+      "entityType": "term",
+      "sentence": "logue, to which the reader is referred for a sufficient description.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Australia",
+      "entityType": "term",
+      "sentence": "Australia, and the various islands of the Pacific has",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mexico",
+      "entityType": "term",
+      "sentence": "Mexico, are chiefly drums, rattles, whistles, and flutes. A small",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vigne",
+      "entityType": "term",
+      "sentence": "Vigne,\" says Engel,= \"saw among the Indian antiquities preserved",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "flat-sided",
+      "entityType": "term",
+      "sentence": "flat-sided, pointed at both ends, and arched at the back, where",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stone",
+      "entityType": "term",
+      "sentence": "stone, which is a species of talc. It contains eight pipes. . . .",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "character",
+      "entityType": "form",
+      "sentence": "Very different in character is the modern specimen from",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "boo",
+      "entityType": "term",
+      "sentence": "boo, and there is a split reed in the mouth-piece. It therefore",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mouth",
+      "entityType": "term",
+      "sentence": "mouth, but the nostril. The performer usually placed the thumb",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "battle",
+      "entityType": "term",
+      "sentence": "battle, at the inauguration of the king, during the worship of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "temple",
+      "entityType": "term",
+      "sentence": "temple, or when a tabu or restriction was imposed in the name",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "expressed",
+      "entityType": "term",
+      "sentence": "expressed, that the rich field which I have been able to sketch",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "CJo",
+      "entityType": "term",
+      "sentence": "CJo - c yWe)",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kei",
+      "entityType": "term",
+      "sentence": "Kei-,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Leipzig",
+      "entityType": "term",
+      "sentence": "Leipzig, 1887.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wohner",
+      "entityType": "term",
+      "sentence": "wohner, etc. ; insbesondere die Geschichte der dortigen Mission der Evangelischen Bruder in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tokio",
+      "entityType": "term",
+      "sentence": "Tokio, no date.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Schutslandern",
+      "entityType": "term",
+      "sentence": "Schutslandern, etc. 2 vols. 4to, with 2 vols. fol. of plates (Part IV. plates i.-xii., inclusive, on",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "opinion",
+      "entityType": "term",
+      "sentence": "opinion, 258; instruments of percussion, 260-265;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Zeze",
+      "entityType": "term",
+      "sentence": "Zeze, 268 ; harps, 26g ; lyre, 270 ; violins, 271 ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gue",
+      "entityType": "term",
+      "sentence": "gue, 271.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ahts",
+      "entityType": "term",
+      "sentence": "Ahts, bards of, 299.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ajunta",
+      "entityType": "term",
+      "sentence": "Ajunta, 106.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Akber",
+      "entityType": "term",
+      "sentence": "Akber, Emperor, 99.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Alfarabi",
+      "entityType": "term",
+      "sentence": "Alfarabi, Arab musician, 174, 193 ; wonderful skill of,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Amaterasu",
+      "entityType": "term",
+      "sentence": "Amaterasu, Sun-goddess of Japan, 61.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Angulistata",
+      "entityType": "term",
+      "sentence": "Angulistata, class of Hindu instruments, 108.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Apache",
+      "entityType": "term",
+      "sentence": "Apache, flute, 310.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "love-flute",
+      "entityType": "term",
+      "sentence": "love-flute, 309.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Avicenna",
+      "entityType": "term",
+      "sentence": "Avicenna, 174.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bagpipe",
+      "entityType": "term",
+      "sentence": "Bagpipe, Arab, 195.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ashantee",
+      "entityType": "term",
+      "sentence": "Ashantee, 267.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bakalai",
+      "entityType": "term",
+      "sentence": "Bakalai, 269.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bamanwato",
+      "entityType": "term",
+      "sentence": "Bamanwato, 245.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Bamboo",
+      "entityType": "term",
+      "sentence": "Bamboo, Chinese instruments of, 41,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Banjo",
+      "entityType": "term",
+      "sentence": "Banjo, African {Zczc), 268.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Barbud",
+      "entityType": "term",
+      "sentence": "Barbud, old Persian singer, 214.215.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Barttelot",
+      "entityType": "term",
+      "sentence": "Barttelot, Major, death of, 240.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bell-clnme",
+      "entityType": "term",
+      "sentence": "Bell-clnme, Chinese, 35.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Bhimbhat",
+      "entityType": "term",
+      "sentence": "Bhimbhat, Siamese orchestra, 134.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Bongo",
+      "entityType": "term",
+      "sentence": "Bongo, instruments of, 254, 263, 266, 267.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Brahma",
+      "entityType": "term",
+      "sentence": "Brahma, 92, 99.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bushmen",
+      "entityType": "term",
+      "sentence": "Bushmen, instruments of, 254, 263, 267.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Burmese",
+      "entityType": "term",
+      "sentence": "Burmese, 145.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Japanese",
+      "entityType": "term",
+      "sentence": "Japanese, 77.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Siamese",
+      "entityType": "term",
+      "sentence": "Siamese, 137.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Aalst",
+      "entityType": "term",
+      "sentence": "Aalst, 16 ; traditional effect of early music, 16 ; con-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "possible",
+      "entityType": "term",
+      "sentence": "possible, 25 ; works on, contained in library at",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pekin",
+      "entityType": "term",
+      "sentence": "Pekin, 26.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Conch-shell",
+      "entityType": "term",
+      "sentence": "Conch-shell, primitive type of trumpet, 250.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Conch-trumpet",
+      "entityType": "term",
+      "sentence": "Conch-trumpet, Chinese, 34.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Cuba",
+      "entityType": "term",
+      "sentence": "Cuba, instruments of, 313.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Soudan",
+      "entityType": "term",
+      "sentence": "Soudan, 263.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Turkish",
+      "entityType": "term",
+      "sentence": "Turkish, 277.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dahomey",
+      "entityType": "term",
+      "sentence": "Dahomey, 240.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Dance",
+      "entityType": "term",
+      "sentence": "Dance, effect on development of music, 244.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Turlcish",
+      "entityType": "term",
+      "sentence": "Turlcish, 221.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dhanustata",
+      "entityType": "term",
+      "sentence": "Dhanustata, class of Hindu instruments, 108.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Alaskan",
+      "entityType": "term",
+      "sentence": "Alaskan, 301, 302.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Arab",
+      "entityType": "term",
+      "sentence": "Arab, 196, 197.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Aztec",
+      "entityType": "term",
+      "sentence": "Aztec, 312.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ciiinese",
+      "entityType": "term",
+      "sentence": "Ciiinese, 29-31.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Greenland",
+      "entityType": "term",
+      "sentence": "Greenland, 301.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lapland",
+      "entityType": "term",
+      "sentence": "Lapland, 247.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Persian",
+      "entityType": "term",
+      "sentence": "Persian, 225.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sioux",
+      "entityType": "term",
+      "sentence": "Sioux, 306.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "organ",
+      "entityType": "instrument",
+      "sentence": "Drum organ (Burmese), 146.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Duel",
+      "entityType": "term",
+      "sentence": "Duel, musical, of Greenlanders, 245.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Erh-hsien",
+      "entityType": "term",
+      "sentence": "Erh-hsien, see Ur-Heeh.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Feki",
+      "entityType": "term",
+      "sentence": "Feki, mythological Japanese prince, 66.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Feki-blind",
+      "entityType": "term",
+      "sentence": "Feki-blind, class of Japanese musicians, 66.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Flageolet",
+      "entityType": "term",
+      "sentence": "Flageolet, African. 265.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ashanlee",
+      "entityType": "term",
+      "sentence": "Ashanlee, 265.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mittoo",
+      "entityType": "term",
+      "sentence": "Mittoo, 266.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Moqui",
+      "entityType": "term",
+      "sentence": "Moqui, 310,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gandharven",
+      "entityType": "term",
+      "sentence": "Gandharven, 92.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ganesa",
+      "entityType": "term",
+      "sentence": "Ganesa, 93, 103.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ghawazee",
+      "entityType": "term",
+      "sentence": "Ghawazee, Egyptian dancing girls, 181.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ghun",
+      "entityType": "term",
+      "sentence": "Ghun, class of Hindu instruments, 108.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gong-chime",
+      "entityType": "term",
+      "sentence": "Gong-chime, Chinese ( Yun-lo), 36.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Gourd",
+      "entityType": "term",
+      "sentence": "Gourd, Chinese instruments of. 43.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Guenin",
+      "entityType": "term",
+      "sentence": "Guenin, second class of Japanese musicians, 66.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Gueschia",
+      "entityType": "term",
+      "sentence": "Gueschia, see Ghekos.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Harmonicon",
+      "entityType": "term",
+      "sentence": "Harmonicon, African {Mariiiibii), 249, 264.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Sangita",
+      "entityType": "term",
+      "sentence": "Sangita, 96 ; division of Sangita, 96 ; Srutis, 96 ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hoang-Ti",
+      "entityType": "term",
+      "sentence": "Hoang-Ti, Emperor, 34.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ilormizd",
+      "entityType": "term",
+      "sentence": "Ilormizd, 215.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Horn",
+      "entityType": "term",
+      "sentence": "Horn, the instrument of war, 250.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ibraheem",
+      "entityType": "term",
+      "sentence": "Ibraheem, 184.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "notation",
+      "entityType": "term",
+      "sentence": "notation, 65 ; musicians organized in four classes,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Jogee",
+      "entityType": "term",
+      "sentence": "Jogee, 95.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Joritomo",
+      "entityType": "term",
+      "sentence": "Joritomo, Japanese Mars, 66.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jumna",
+      "entityType": "term",
+      "sentence": "Jumna, river of India, 100.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Karague",
+      "entityType": "term",
+      "sentence": "Karague, 265, 270.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Karnatik",
+      "entityType": "term",
+      "sentence": "Karnatik, system of Hindu music, 104.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Khosro",
+      "entityType": "term",
+      "sentence": "Khosro, Umeer, 112.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Koran",
+      "entityType": "term",
+      "sentence": "Koran, contains no reference to music, i6g, 221.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kouei",
+      "entityType": "term",
+      "sentence": "Kouei, or the Chinese Orpheus, 16.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Krishna",
+      "entityType": "term",
+      "sentence": "Krishna, 93, 97, 104.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Krumen",
+      "entityType": "term",
+      "sentence": "Krumen, music of, 240.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lay",
+      "entityType": "term",
+      "sentence": "Lay, G. Tradescant, theory of, respecting violin, 40.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ling-Lun",
+      "entityType": "term",
+      "sentence": "Ling-Lun, 19, 34.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Love-song",
+      "entityType": "term",
+      "sentence": "Love-song, North American Indian, 293.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Llis",
+      "entityType": "term",
+      "sentence": "Llis, Chinese. 19.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tuning",
+      "entityType": "term",
+      "sentence": "tuning, 185.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lyre",
+      "entityType": "term",
+      "sentence": "Lyre, Mittoo, 270.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Manu",
+      "entityType": "term",
+      "sentence": "Manu, 92.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Guatemalan",
+      "entityType": "term",
+      "sentence": "Guatemalan, 249, 323.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mason",
+      "entityType": "term",
+      "sentence": "Mason, Luther Whiting, instructor of music in National",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Metal",
+      "entityType": "term",
+      "sentence": "Metal, Chinese instruments of, 34.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mohammed",
+      "entityType": "term",
+      "sentence": "Mohammed, opposed to music, i6g.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mokugyo",
+      "entityType": "term",
+      "sentence": "Mokugyo, (Japan), 78.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mommu",
+      "entityType": "term",
+      "sentence": "Mommu, Emperor, 74.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Monbuttoo",
+      "entityType": "term",
+      "sentence": "Monbuttoo, 262, 267.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Monochord",
+      "entityType": "term",
+      "sentence": "Monochord, Greek, derivation of. 168.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Inde",
+      "entityType": "term",
+      "sentence": "Inde:",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Corean",
+      "entityType": "term",
+      "sentence": "Corean, 82.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mukharik",
+      "entityType": "term",
+      "sentence": "Mukharik, Arab musician, 184.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nakakeer",
+      "entityType": "term",
+      "sentence": "Nakakeer, plural of Nakkarah, g.v.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nareda",
+      "entityType": "term",
+      "sentence": "Nareda, inventor of f-'/wa, 93.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Niam-Niams",
+      "entityType": "term",
+      "sentence": "Niam-Niams, 240, 245, 256, 260, 262, 269.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Indian",
+      "entityType": "term",
+      "sentence": "Indian, 293 ; translation of love-song, 293 ; vocal",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tat",
+      "entityType": "term",
+      "sentence": "tat, 304 ; instruments of British America, 305 ; wind",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Nose-flute",
+      "entityType": "term",
+      "sentence": "Nose-flute, 259, 327.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Nushirvan",
+      "entityType": "term",
+      "sentence": "Nushirvan, the Just, 215.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Oboe",
+      "entityType": "term",
+      "sentence": "Oboe, Arab {Zourna), 193.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Oceanica",
+      "entityType": "term",
+      "sentence": "Oceanica, instruments of, 326-329.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Orchestra",
+      "entityType": "term",
+      "sentence": "Orchestra, Arab, iSl.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Orellana",
+      "entityType": "term",
+      "sentence": "Orellana, 250.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Peruvian",
+      "entityType": "term",
+      "sentence": "Peruvian, 325.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Polynesian",
+      "entityType": "term",
+      "sentence": "Polynesian, 252.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Parbuti",
+      "entityType": "term",
+      "sentence": "Parbuti, consort of Krishna, 98.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Qdnon",
+      "entityType": "term",
+      "sentence": "Qdnon; see Kanoon.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rathnakara",
+      "entityType": "term",
+      "sentence": "Rathnakara, Sangita ; see Sangita Rathnakara.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ratnavali",
+      "entityType": "term",
+      "sentence": "Ratnavali, Sangita ; see Sangita Ratnavali.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pueblo",
+      "entityType": "term",
+      "sentence": "Pueblo, 310.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rebec",
+      "entityType": "term",
+      "sentence": "Rebec, origin of, 167.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rigveda",
+      "entityType": "term",
+      "sentence": "Rigveda, 94.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rowbotham",
+      "entityType": "term",
+      "sentence": "Rowbotham, J. F., theory of, 241, 244, 255, 258, 327.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ruckert",
+      "entityType": "term",
+      "sentence": "Ruckert, translator of Confucius' song-book, 15.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Saraswati",
+      "entityType": "term",
+      "sentence": "Saraswati, Hindu goddess of music, g3, gg.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stopping",
+      "entityType": "term",
+      "sentence": "stopping, 254.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Sazindeh",
+      "entityType": "term",
+      "sentence": "Sazindeh, Persian musicians, 218.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Schah-Kuli",
+      "entityType": "term",
+      "sentence": "Schah-Kuli, Persian musician, 217.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shotoku",
+      "entityType": "term",
+      "sentence": "Shotoku, Prince, commands study of music, 62.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shun",
+      "entityType": "term",
+      "sentence": "Shun, Chinese Emperor, 16, 17.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Khek",
+      "entityType": "term",
+      "sentence": "Khek, Malay orchestra, 135 ; Lao Phan, 135 ; in-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Soma",
+      "entityType": "term",
+      "sentence": "Soma, ancient Hindu musician, 98, 108.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Brazilian",
+      "entityType": "term",
+      "sentence": "Brazilian, 242.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Fiji",
+      "entityType": "term",
+      "sentence": "Fiji, 242.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nubian",
+      "entityType": "term",
+      "sentence": "Nubian, 242.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Samoan",
+      "entityType": "term",
+      "sentence": "Samoan, 242.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sooghur",
+      "entityType": "term",
+      "sentence": "Sooghur, class of Hindu instruments, 108.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sruti",
+      "entityType": "term",
+      "sentence": "Sruti, divisions of Hindu scale, 96.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Surgum",
+      "entityType": "term",
+      "sentence": "Surgum, Hindo gamut, 96.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Swaragama",
+      "entityType": "term",
+      "sentence": "Swaragama, see Surgum.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tambourine",
+      "entityType": "term",
+      "sentence": "Tambourine, Arab, ig8.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Syrian",
+      "entityType": "term",
+      "sentence": "Syrian, 198.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ttigonon",
+      "entityType": "term",
+      "sentence": "Ttigonon, old Persian instrument, 214.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tsai-yu",
+      "entityType": "term",
+      "sentence": "Tsai-yu, Prince, acoustic discoveries, 18.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Unyori",
+      "entityType": "term",
+      "sentence": "Unyori, 261.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Arabian",
+      "entityType": "term",
+      "sentence": "Arabian, 190.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Greek",
+      "entityType": "term",
+      "sentence": "Greek, 226.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vishnu",
+      "entityType": "term",
+      "sentence": "Vishnu, 93.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wajiji",
+      "entityType": "term",
+      "sentence": "Wajiji, 260,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kaffre",
+      "entityType": "term",
+      "sentence": "Kaffre, 266.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Xenophon",
+      "entityType": "term",
+      "sentence": "Xenophon, 214.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Xylophone",
+      "entityType": "term",
+      "sentence": "Xylophone; sec Harmonicon.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Zoroaster",
+      "entityType": "term",
+      "sentence": "Zoroaster, 213.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    }
+  ]
+}

@@ -1,0 +1,5165 @@
+{
+  "book": {
+    "title": "In Russian Turkestan: A Garden of Asia and Its People",
+    "author": "Annette M. B. Meakin",
+    "citation": "Meakin, Annette M. B. In Russian Turkestan: A Garden of Asia and Its People. G. Allen, London, 1903."
+  },
+  "summary": {
+    "total": 549,
+    "validCount": 546,
+    "blockedCount": 3,
+    "warningCount": 100,
+    "blockerReasons": {
+      "This candidate is awaiting specialist review and cannot be published yet.": 3
+    }
+  },
+  "rows": [
+    {
+      "term": "personal",
+      "entityType": "term",
+      "sentence": "personal, non-commercial purposes.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "translation",
+      "entityType": "term",
+      "sentence": "translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bulk",
+      "entityType": "term",
+      "sentence": "bulk— so litUe to the stock?",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "quoted",
+      "entityType": "term",
+      "sentence": "quoted, such as Vamb^ry, Schuyler, Schwarz and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nalivkin",
+      "entityType": "term",
+      "sentence": "Nalivkin; but all these and many more must be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kazan",
+      "entityType": "term",
+      "sentence": "Kazan, the Crimea and Northern Siberia, the Arabs",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tine",
+      "entityType": "term",
+      "sentence": "tine, have been my chief preparation for the task.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lONA",
+      "entityType": "term",
+      "sentence": "lONA, August 29, 1903.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vance",
+      "entityType": "term",
+      "sentence": "vance— Fate of travellers in eighteenth century — Russian",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "colonisation",
+      "entityType": "term",
+      "sentence": "colonisation— Chief Sart towns— Fate of Andijan— An-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cotton",
+      "entityType": "term",
+      "sentence": "Cotton - separating machines — ** Good middling \" — At",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sion",
+      "entityType": "term",
+      "sentence": "sion— Military matters— Kokand armour ... 44",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mourning",
+      "entityType": "term",
+      "sentence": "Mourning— Strict etiquette 165",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "KOKAND",
+      "entityType": "term",
+      "sentence": "KOKAND, CHYUST, AND NAMANGAN",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tion",
+      "entityType": "term",
+      "sentence": "tion— The Amir — The Cush Beggi — Days of slavery . 279",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "later",
+      "entityType": "term",
+      "sentence": "later, on the i6th of March 1884, Transcaspia,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ground",
+      "entityType": "term",
+      "sentence": "ground, and to-day a Governor-General appointed by",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Viceroy",
+      "entityType": "term",
+      "sentence": "Some day he will be called a Viceroy,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "country",
+      "entityType": "term",
+      "sentence": "country, and know so little about it. The names",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tweit",
+      "entityType": "term",
+      "sentence": "tweit, an Austrian, was put to death in Kashgar,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gary",
+      "entityType": "term",
+      "sentence": "gary, where he still enjoys the well-earned reputation",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kand",
+      "entityType": "term",
+      "sentence": "kand, Kokand, Margelan, Andijan, Namangan and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Chyust",
+      "entityType": "term",
+      "sentence": "Chyust, though perhaps it is hardly correct to class",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "together",
+      "entityType": "term",
+      "sentence": "together, and you have a new race — the Sarts. In",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thorough",
+      "entityType": "term",
+      "sentence": "thorough, while in others it has been less so.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sieve",
+      "entityType": "term",
+      "sentence": "sieve, besides many more with whose names we are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "name",
+      "entityType": "term",
+      "sentence": "name, which is accounted for by a legend that the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "question",
+      "entityType": "term",
+      "sentence": "question, as I have put it scores of times, \" What",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "dren",
+      "entityType": "term",
+      "sentence": "dren, but they never give names conveying an",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "retained",
+      "entityType": "term",
+      "sentence": "retained, more or less, the Persian tongue and type.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "intelligent",
+      "entityType": "term",
+      "sentence": "intelligent, the more active, and the more pleasant",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cowardly",
+      "entityType": "term",
+      "sentence": "cowardly, and ready to fawn upon a dreaded foe ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cast",
+      "entityType": "term",
+      "sentence": "cast, has a touch of real chivalry in his character.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "struggle",
+      "entityType": "term",
+      "sentence": "struggle, whereas it was the Uzbegs of Kokand",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "desert",
+      "entityType": "term",
+      "sentence": "desert, where one may travel for days without see-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "return",
+      "entityType": "term",
+      "sentence": "return; while the rapidity with which trees grow",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "water",
+      "entityType": "term",
+      "sentence": "water, and there is plenty in the cultivable land,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "worked",
+      "entityType": "term",
+      "sentence": "worked; and once baked by the Central Asian",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sun",
+      "entityType": "term",
+      "sentence": "sun, it is impervious to water as any such sub-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "level",
+      "entityType": "term",
+      "sentence": "level, a Sart uses his eye. If he wants to know",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fter",
+      "entityType": "term",
+      "sentence": "by a small affluent, the Iskander, so named after",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ones",
+      "entityType": "term",
+      "sentence": "ones, and so the network is continued till every",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fail",
+      "entityType": "term",
+      "sentence": "fail, we may look upon her fate as sealed. This is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tschust",
+      "entityType": "term",
+      "sentence": "Tschust, we were handsomely entertained by the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "enough",
+      "entityType": "term",
+      "sentence": "enough, goes to the Aryk Aksakal and bribes him",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "foliage",
+      "entityType": "term",
+      "sentence": "foliage, and that these in their turn help to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fitted",
+      "entityType": "term",
+      "sentence": "fitted; being very heavy and hard, it also looks",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Namangan",
+      "entityType": "term",
+      "sentence": "Namangan, Margelan, and Kokand the kind most",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "white",
+      "entityType": "term",
+      "sentence": "white, green, and purple in colour, and vary con-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "threepence",
+      "entityType": "term",
+      "sentence": "threepence, and even in January and February",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "art",
+      "entityType": "term",
+      "sentence": "art, the few Russians who are engaged in it are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Khiva",
+      "entityType": "term",
+      "sentence": "Khiva, Karki, and Charjui rival one another in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "egg",
+      "entityType": "term",
+      "sentence": "egg, which ripens in August and September. I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jyugara",
+      "entityType": "term",
+      "sentence": "maize called Jyugara which the Venetians are said",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cultivated",
+      "entityType": "term",
+      "sentence": "cultivated, and its stalks are used as food for",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cooking",
+      "entityType": "term",
+      "sentence": "cooking, though the very poor substitute cotton-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mill",
+      "entityType": "term",
+      "sentence": "mill, turned by horses, just as wheat is ground in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "General",
+      "entityType": "term",
+      "sentence": "General, who, in his efforts for the good of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "land",
+      "entityType": "term",
+      "sentence": "land, introduced seed from America. Native seed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "labour",
+      "entityType": "term",
+      "sentence": "labour, having to be picked from the shrub before",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pod",
+      "entityType": "term",
+      "sentence": "pod, opening widely as it does of its own accord, induces sparrows",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "matter",
+      "entityType": "term",
+      "sentence": "matter, and from that day to this cotton has been",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "harvest",
+      "entityType": "term",
+      "sentence": "harvest, whereas within an equal period of time",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "food",
+      "entityType": "term",
+      "sentence": "food, so that ladies who kept their own carriages",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Samarkand",
+      "entityType": "term",
+      "sentence": "Samarkand, in Namangan, and in Bairam-Ali. In",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "strange",
+      "entityType": "term",
+      "sentence": "strange, moulded like clay into graceful, long-necked",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "steadily",
+      "entityType": "term",
+      "sentence": "steadily, and snow lies inches deep in the neigh-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dyed",
+      "entityType": "term",
+      "sentence": "dyed, and shone a brilliant purple in the afternoon",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kaufmann",
+      "entityType": "term",
+      "sentence": "Kaufmann, a stop was put to this, and experts were",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ment",
+      "entityType": "term",
+      "sentence": "ment, we were shown with what care the eggs of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fine",
+      "entityType": "term",
+      "sentence": "fine, I would add, in quality, for the thread of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "shiny",
+      "entityType": "term",
+      "sentence": "shiny, paper-like appearance, which is obtained",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bable",
+      "entityType": "term",
+      "sentence": "bable, the Khans of Bokhara may still possess",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "museum",
+      "entityType": "term",
+      "sentence": "museum, and promises them in return one-half the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hara",
+      "entityType": "term",
+      "sentence": "hara, in Samarkand, and in Kashgar, which last",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "named",
+      "entityType": "term",
+      "sentence": "named, being Chinese territory, is of course open",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Great",
+      "entityType": "term",
+      "sentence": "Great, with his name in Greek characters round it ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "replied",
+      "entityType": "term",
+      "sentence": "replied, '* in England and Scotland, who are them-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "America",
+      "entityType": "term",
+      "sentence": "America, but the Americans only began to collect",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Turkestan",
+      "entityType": "term",
+      "sentence": "small town called Turkestan. On their way south-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "power",
+      "entityType": "instrument",
+      "sentence": "Begs should be invested with absolute power over",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "received",
+      "entityType": "term",
+      "sentence": "received, retinue and all, into the Beg's palace,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Reis",
+      "entityType": "term",
+      "sentence": "official called a Reis^ whose special duty it is to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "whip",
+      "entityType": "term",
+      "sentence": "whip, no one was hurt ; had any one tried to brave",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "watch",
+      "entityType": "term",
+      "sentence": "watch, whereas in reality the system has great ad-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "armour",
+      "entityType": "term",
+      "sentence": "armour, many of which had been picked up on the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yet",
+      "entityType": "term",
+      "sentence": "Yet, in spite of the warlike appearance that the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "people",
+      "entityType": "term",
+      "sentence": "people, interspersed with small gardens, courtyards,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wall",
+      "entityType": "term",
+      "sentence": "wall, citadel, houses, all are built of the very soil",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "went",
+      "entityType": "term",
+      "sentence": "went, I was invariably disappointed, for in every case",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "town",
+      "entityType": "term",
+      "sentence": "town, who lived in the same street exactly opposite",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stumbled",
+      "entityType": "term",
+      "sentence": "stumbled, from an untimely end. He lifted the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rain",
+      "entityType": "term",
+      "sentence": "rain, I found it impossible to walk, even in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cairo",
+      "entityType": "term",
+      "sentence": "Cairo; wheeled vehicles can pass through many of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "women",
+      "entityType": "term",
+      "sentence": "women, has to do with the monotony of the streets.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "scene",
+      "entityType": "term",
+      "sentence": "scene, for, rich and poor alike, all are enveloped in a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bazaar",
+      "entityType": "term",
+      "sentence": "bazaar, and when in fact there is no urgent reason",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "walk",
+      "entityType": "term",
+      "sentence": "walk, sit than stand, and the place above all where",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "charcoal",
+      "entityType": "term",
+      "sentence": "charcoal, and his appearance is more like that of a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "another",
+      "entityType": "term",
+      "sentence": "another, an old man with one eye, stepped up and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kind",
+      "entityType": "term",
+      "sentence": "kind, but the Jap had sold them all. \" I suppose",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rectly",
+      "entityType": "term",
+      "sentence": "rectly, if I did.\" A Chinaman would act differently.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ever",
+      "entityType": "term",
+      "sentence": "ever, by drinking some of the selfsame water in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pocket-knive",
+      "entityType": "term",
+      "sentence": "pocket-knive, and handed a plateful to him; the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "unmusical",
+      "entityType": "term",
+      "sentence": "unmusical, instruments. Several juvenile customers",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "change",
+      "entityType": "term",
+      "sentence": "change, with the air of a man who had successfully",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "teapot",
+      "entityType": "term",
+      "sentence": "teapot, a bunch of dried herbs, and an egg ; there,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "smiling",
+      "entityType": "term",
+      "sentence": "smiling, \"and it has had rather awkward con-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Schiller",
+      "entityType": "term",
+      "sentence": "Schiller,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "told",
+      "entityType": "term",
+      "sentence": "told, however, that the Rets of Bokhara only uses",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "head-shavers",
+      "entityType": "term",
+      "sentence": "head-shavers, for the word barber, from its very",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "meaning",
+      "entityType": "term",
+      "sentence": "meaning, is an inappropriate translation. A head-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "head",
+      "entityType": "term",
+      "sentence": "head, and tarash — sYi^vtr. There are many Shiites",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tory",
+      "entityType": "term",
+      "sentence": "tory, so they can easily be distinguished from their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ask",
+      "entityType": "term",
+      "sentence": "ask, and ^r=door, because it is their principal duty",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "severe",
+      "entityType": "term",
+      "sentence": "severe, a statement which is hard to believe when",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "summer",
+      "entityType": "term",
+      "sentence": "summer, unless he indulges in a pair of dilapidated",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "India",
+      "entityType": "term",
+      "sentence": "India, Persia, or Bokhara, in which last, as the Amir",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "opium",
+      "entityType": "term",
+      "sentence": "opium, prepared in Persia, with their food, and it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kuknar",
+      "entityType": "term",
+      "sentence": "A drink called kuknar is still sold in Bokhara, in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mixed",
+      "entityType": "term",
+      "sentence": "mixed, are particularly beautiful. Another variety",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mohammed",
+      "entityType": "term",
+      "sentence": "Mohammed, The men whom travellers so often",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Constantinople",
+      "entityType": "term",
+      "sentence": "Constantinople, and Damascus. Now that facilities",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "However",
+      "entityType": "term",
+      "sentence": "However, the journey bids fair to become easier",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "dried",
+      "entityType": "term",
+      "sentence": "dried, and plaited palm-leaves, pierced with bull's",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "firstly",
+      "entityType": "term",
+      "sentence": "firstly, because the erroneous idea about Moham-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "secondly",
+      "entityType": "term",
+      "sentence": "secondly, because the veil and outer dress described",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "journey",
+      "entityType": "term",
+      "sentence": "journey, and of the children she had left behind in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "more",
+      "entityType": "term",
+      "sentence": "more, in almost every street of any size or import-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Solomon",
+      "entityType": "term",
+      "sentence": "Solomon, and numerous other saints of Bible fame",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "caspia",
+      "entityType": "term",
+      "sentence": "caspia, measures quite eighteen feet. Burton, who",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "staff",
+      "entityType": "term",
+      "sentence": "staff, begging for alms. The gateway of their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "palace",
+      "entityType": "term",
+      "sentence": "palace, a building now used as' a Russian church.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fall",
+      "entityType": "term",
+      "sentence": "fall, when there is no traffic. They call for alms",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vakuf",
+      "entityType": "term",
+      "sentence": "legacies are known as vakuf ; they are free of taxes,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fruit",
+      "entityType": "term",
+      "sentence": "fruit, and tea.\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "house",
+      "entityType": "term",
+      "sentence": "house, has expressed a conviction that if I gave",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lithographed",
+      "entityType": "term",
+      "sentence": "lithographed, and have come all the way from Kazan,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "child",
+      "entityType": "term",
+      "sentence": "child, the old schoolmistress explained that she was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "place",
+      "entityType": "term",
+      "sentence": "place, she told us, on the very day on which Samar-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fifty-one",
+      "entityType": "term",
+      "sentence": "fifty-one,\" she said. \" After that I left off reading",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sons",
+      "entityType": "term",
+      "sentence": "sons, and how he was murdered in the desert/*",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "money",
+      "entityType": "term",
+      "sentence": "money, but give me clothes. As soon as a pupil",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tailor",
+      "entityType": "term",
+      "sentence": "tailor, and a third a student in Bokhara, having",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "arrangement",
+      "entityType": "term",
+      "sentence": "arrangement, for in that form there was no fear of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "education",
+      "entityType": "term",
+      "sentence": "education, and a good handwriting has made more",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "wisdom",
+      "entityType": "term",
+      "sentence": "wisdom, written on parchment. A Russian friend,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bokhara",
+      "entityType": "term",
+      "sentence": "Bokhara; it roused my curiosity, and wondering",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "daughter",
+      "entityType": "term",
+      "sentence": "daughter, and the father who wants to make money",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "appointment",
+      "entityType": "term",
+      "sentence": "appointment, and a woman will often hide the truth",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "boy",
+      "entityType": "term",
+      "sentence": "boy, when it was really a girl, invited all his friends",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "said",
+      "entityType": "term",
+      "sentence": "said, with a satisfied smile.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hood",
+      "entityType": "term",
+      "sentence": "hood, on the other hand, such as we understand",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "inferior",
+      "entityType": "term",
+      "sentence": "inferior, as there is less personal interest in the labour.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pattern",
+      "entityType": "term",
+      "sentence": "pattern, they send for a woman whose profession it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "line",
+      "entityType": "term",
+      "sentence": "line, but now it hardly repays them.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ception-rooms",
+      "entityType": "term",
+      "sentence": "ception-rooms, just as the Sarts have to-day.\"",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "respect",
+      "entityType": "term",
+      "sentence": "respect, I have no hesitation in saying that, out of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pose",
+      "entityType": "term",
+      "sentence": "pose; it soon warps, and a native door that will",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "one",
+      "entityType": "term",
+      "sentence": "one; in poorer dwellings a cheaper carpet, from",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kashgar",
+      "entityType": "term",
+      "sentence": "Kashgar, took its place, while the lowest classes",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sart",
+      "entityType": "term",
+      "sentence": "Sart, and the sight of it ever pleasant to his eye.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "floor",
+      "entityType": "term",
+      "sentence": "floor, partly from fear of earthquakes. It is true",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ringing",
+      "entityType": "instrument",
+      "sentence": "to set the church bells ringing and fill the air with",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "provocation",
+      "entityType": "term",
+      "sentence": "provocation, as he carefully explained to us — his",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "friend",
+      "entityType": "term",
+      "sentence": "friend, when pointing out such a house to me,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "profusion",
+      "entityType": "term",
+      "sentence": "profusion, native sweets made with mutton fat,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "table",
+      "entityType": "term",
+      "sentence": "table, and upon these we were cordially invited",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "course",
+      "entityType": "term",
+      "sentence": "course, to come into the presence of the ladies, but,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "form",
+      "entityType": "term",
+      "sentence": "form,\" the idea being that the test of a virtuous",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "consequently",
+      "entityType": "term",
+      "sentence": "consequently, the shyness she feels at meeting",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "round",
+      "entityType": "term",
+      "sentence": "round, and each person present, ourselves excepted,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "away",
+      "entityType": "term",
+      "sentence": "away, and the oven is ready. We watched two of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dough",
+      "entityType": "term",
+      "sentence": "dough, it stuck to the hot sides till cooked through.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sence",
+      "entityType": "term",
+      "sentence": "sence, is often most attractive.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tashkent",
+      "entityType": "term",
+      "sentence": "Tashkent, I asked my hostess where she performed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Fergana",
+      "entityType": "term",
+      "sentence": "Fergana, it is only just beginning to build baths for",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "instance",
+      "entityType": "term",
+      "sentence": "instance, though I never saw an old woman with",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ckli",
+      "entityType": "term",
+      "sentence": "with a black substance called ackli^ one application",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "usma",
+      "entityType": "term",
+      "sentence": "they employ an herb called usma; Russian ladies",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "clear",
+      "entityType": "term",
+      "sentence": "clear, olive complexions, though attractive in their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pretty",
+      "entityType": "term",
+      "sentence": "pretty, girlish noses, and almost consumptive-look-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "unhealthy",
+      "entityType": "term",
+      "sentence": "unhealthy, cramped-up houses, together with a lack",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "companion",
+      "entityType": "term",
+      "sentence": "companion, \" when it is too dark for their features",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "garment",
+      "entityType": "term",
+      "sentence": "garment, is its long, tapering sleeves, which, too",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "sequence",
+      "entityType": "term",
+      "sentence": "sequence, and that by being made long and tapering",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Turkey",
+      "entityType": "term",
+      "sentence": "Turkey, the ladies all wear trousers, and over these",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "worn",
+      "entityType": "term",
+      "sentence": "worn, but the robe is much wider and shorter,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cerned",
+      "entityType": "term",
+      "sentence": "cerned, Bokhara was the Paris, and Samarkand the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "peeshanaban",
+      "entityType": "term",
+      "sentence": "forehead called a peeshanaban^ which I did not",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wear",
+      "entityType": "term",
+      "sentence": "wear, in addition to the peeshanaban^ a silk hand-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rags",
+      "entityType": "term",
+      "sentence": "rags, I asked a native lady if this was true.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "health",
+      "entityType": "term",
+      "sentence": "health, which had been written on purpose by the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "nose-rings",
+      "entityType": "term",
+      "sentence": "nose-rings, and a little Jewish girl, who had just",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ties",
+      "entityType": "term",
+      "sentence": "ties, I did not buy one, an omission I now regret,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "silver",
+      "entityType": "term",
+      "sentence": "silver, were to be seen in the houses of the rich,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Morocco",
+      "entityType": "term",
+      "sentence": "Morocco, was looking over the photographs I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "exclaimed",
+      "entityType": "term",
+      "sentence": "exclaimed, \"Why, all the people have got boots on!\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wife",
+      "entityType": "term",
+      "sentence": "wife, but the parents must not see him come, or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "little",
+      "entityType": "term",
+      "sentence": "little, seeing that they can change as often as they",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "husband",
+      "entityType": "term",
+      "sentence": "husband, he leaves her with them and finds another",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bridegroom",
+      "entityType": "term",
+      "sentence": "bridegroom, a piece of silk or porcelain, or some",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pause",
+      "entityType": "term",
+      "sentence": "pause, threw them coins, which they dexterously",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "finger",
+      "entityType": "term",
+      "sentence": "finger, but it was against the law for her to touch",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bearable",
+      "entityType": "term",
+      "sentence": "bearable, and was amusing herself on the sly when",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trade",
+      "entityType": "term",
+      "sentence": "trade, seeing that the man spends every free",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "household",
+      "entityType": "term",
+      "sentence": "household, and the cooking utensils are so few",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "will",
+      "entityType": "term",
+      "sentence": "will, the natives cannot keep all their meat in good",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chocolate",
+      "entityType": "term",
+      "sentence": "things, a deUcacy known as chocolate cream. By",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stewpan",
+      "entityType": "term",
+      "sentence": "stewpan, and I remarked upon the expense it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "home",
+      "entityType": "term",
+      "sentence": "home, but it is bought already sliced in the bazaar,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "steam",
+      "entityType": "term",
+      "sentence": "steam, which cooks it. The old lady was prepared",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "knife",
+      "entityType": "instrument",
+      "sentence": "buy some he scrapes the block with a sharp knife",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "taken",
+      "entityType": "term",
+      "sentence": "taken, and it is therefore more doubtful in Bokhara",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "small",
+      "entityType": "term",
+      "sentence": "small, and rarely to be had quite fresh. The Sarts",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "preserved",
+      "entityType": "term",
+      "sentence": "preserved, up to this day, a similar custom.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ramazan",
+      "entityType": "term",
+      "sentence": "Ramazan, which is composed chiefly of flour, honey,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vault",
+      "entityType": "term",
+      "sentence": "vault, for there was very little light inside. Up and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "long",
+      "entityType": "term",
+      "sentence": "long, straight hair hanging lank upon their bare",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "children",
+      "entityType": "term",
+      "sentence": "children, carrying smaller ones on their backs,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "bathing-women",
+      "entityType": "term",
+      "sentence": "bathing-women, with nothing but a towel round",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "soap",
+      "entityType": "term",
+      "sentence": "soap, also heaped in saucers. It was of a dirty",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "evening",
+      "entityType": "term",
+      "sentence": "evening, we accepted with feelings of both pleasure",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dry",
+      "entityType": "term",
+      "sentence": "dry, and the dressing-chamber, or vestibule, was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "comer",
+      "entityType": "term",
+      "sentence": "comer, where the floor had been intentionally left",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "barrel",
+      "entityType": "term",
+      "sentence": "barrel, were several hundred Sarts in festive array,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "troupe",
+      "entityType": "term",
+      "sentence": "troupe, under a manager who is often hard and cruel.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dancing",
+      "entityType": "term",
+      "sentence": "dancing, often forcing them to exert themselves",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "off",
+      "entityType": "instrument",
+      "sentence": "through. They wear their hair long, shorn off a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "despair",
+      "entityType": "term",
+      "sentence": "despair, she takes her guitar and pours out her soul",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "eye",
+      "entityType": "term",
+      "sentence": "eye, and at last proves so irresistible that her re-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "embrace",
+      "entityType": "term",
+      "sentence": "embrace, and the curtain falls.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bad",
+      "entityType": "term",
+      "sentence": "bad, breeding in the legs of those who drink it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ease",
+      "entityType": "term",
+      "sentence": "ease,\" \"the Afghan rose,\" \"the Persian beauty",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "spot",
+      "entityType": "term",
+      "sentence": "spot,\" or \"the Aleppo button,\" according to the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "doctor",
+      "entityType": "term",
+      "sentence": "doctor, was the colour of the yolk of an egg, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "accidentally",
+      "entityType": "term",
+      "sentence": "accidentally, stooped down and touching the ground",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "likely",
+      "entityType": "term",
+      "sentence": "likely, of some peculiarity of the soil, which affects",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mahon",
+      "entityType": "term",
+      "sentence": "of it, banishing them to villages called Mahon",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Timur",
+      "entityType": "term",
+      "sentence": "Timur, and his name was Ulug Beg.\" ^",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tooth",
+      "entityType": "term",
+      "sentence": "tooth, and, holding the other end firmly in one hand,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "case",
+      "entityType": "term",
+      "sentence": "case, smallpox must be common in Turkestan, for",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "yard",
+      "entityType": "term",
+      "sentence": "yard, followed in solemn silence by all the male",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kir",
+      "entityType": "term",
+      "sentence": "by the Sarts of Fergana, It is known as Kir, or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "guest",
+      "entityType": "term",
+      "sentence": "guest, that he may wash the linen he wore on that",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "butterfly",
+      "entityType": "term",
+      "sentence": "butterfly, as though he had wished to make up in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Babylon",
+      "entityType": "term",
+      "sentence": "Babylon, and brought by them to Central Asia",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "regime",
+      "entityType": "term",
+      "sentence": "regime, he has won a place in the Russian's regard",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Moscow",
+      "entityType": "term",
+      "sentence": "Moscow, but the Bokharans have a right to settle",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Russia",
+      "entityType": "term",
+      "sentence": "Russia,\" he replied. \" My wife is a Christian, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "forbidden",
+      "entityType": "term",
+      "sentence": "forbidden, yet for all this many a Mohammedan",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cate",
+      "entityType": "term",
+      "sentence": "cate, almost Grecian noses, pretty little ears and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "family",
+      "entityType": "term",
+      "sentence": "family, confessed to me that when he came as a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "group",
+      "entityType": "term",
+      "sentence": "group, and she pointed to herself and another girl.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gallery",
+      "entityType": "term",
+      "sentence": "gallery, just as they do in England ; there is a sort",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "falaka",
+      "entityType": "term",
+      "sentence": "of mind. It was called a falaka^ and consisted of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "religion",
+      "entityType": "term",
+      "sentence": "religion,\" said our companion as we walked away;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "defiant",
+      "entityType": "term",
+      "sentence": "defiant, warlike bearing. Russian officers say that,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bearing",
+      "entityType": "term",
+      "sentence": "bearing, which compares so favourably with that of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Asia",
+      "entityType": "term",
+      "sentence": "Asia, but they only come to make money, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "woman",
+      "entityType": "term",
+      "sentence": "woman, and had no thought of returning eastward.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kuropatkin",
+      "entityType": "term",
+      "sentence": "Kuropatkin, wrote a book on Kashgaria in his",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Toorgan",
+      "entityType": "term",
+      "sentence": "Toorgan, which means those left behind^ \"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Russian",
+      "entityType": "term",
+      "sentence": "Russian, and her son an officer in the Russian",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "saying",
+      "entityType": "term",
+      "sentence": "saying, \"I must go and see my old friends once",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "proper",
+      "entityType": "term",
+      "sentence": "proper, as well as in the Russian colony of that",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "whom",
+      "entityType": "term",
+      "sentence": "whom, as also about the Turkomans, I must speak",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wood",
+      "entityType": "term",
+      "sentence": "wood, and each huge wheel is a young elm bent",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "back",
+      "entityType": "term",
+      "sentence": "back, with her arms round his waist. If one of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cost",
+      "entityType": "term",
+      "sentence": "cost, when a batch of them, mad with hunger, flew",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vermorel",
+      "entityType": "term",
+      "sentence": "to France in 1901 to see a man named Vermorel",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "PhaUmga",
+      "entityType": "term",
+      "sentence": "boa style. A spider known as the PhaUmga is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "well",
+      "entityType": "term",
+      "sentence": "well, as the traveller might otherwise find it difficult",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "weather",
+      "entityType": "term",
+      "sentence": "weather; they conceal themselves in the rush",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "devoured",
+      "entityType": "term",
+      "sentence": "devoured, even in regular order, so they met again",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "jerboa",
+      "entityType": "term",
+      "sentence": "jerboa, \" and then you can spring at him and tear",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "river",
+      "entityType": "term",
+      "sentence": "river, and told him to bend over the water and look",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "relate",
+      "entityType": "term",
+      "sentence": "relate, they turned into a dove. Under the tree there",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mouth",
+      "entityType": "term",
+      "sentence": "mouth, whereupon the dove dropped the other needle",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Khotan",
+      "entityType": "term",
+      "sentence": "Khotan, Stein writes : \"It was a fact of archseolc^ical significance",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "apprentice",
+      "entityType": "term",
+      "sentence": "apprentice, who happened to be his own son, a boy",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "favourite",
+      "entityType": "term",
+      "sentence": "favourite, when they heard a voice above them",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "say",
+      "entityType": "term",
+      "sentence": "say, \" Loi ! Gisht f Lot I Gisht / \"",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tioner",
+      "entityType": "term",
+      "sentence": "tioner, who cut the throat of every one of them.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "self-interest",
+      "entityType": "term",
+      "sentence": "self-interest, I am quite willing to stand at the end",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "shoe-making",
+      "entityType": "term",
+      "sentence": "shoe-making, cap-making, coat-making, or any other",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "carpet",
+      "entityType": "term",
+      "sentence": "carpet, the traveller should make a point of calling",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sight",
+      "entityType": "term",
+      "sentence": "sight, which never fails to attract the traveller. High",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "length",
+      "entityType": "term",
+      "sentence": "length, and hooks down any particular one that may",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Beneath",
+      "entityType": "term",
+      "sentence": "Beneath, and crossed-legged upon the ground, sat",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gravely",
+      "entityType": "term",
+      "sentence": "gravely, \"Bokhara is far off — who knows?\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kara-Kirgiz",
+      "entityType": "term",
+      "sentence": "are called Kara-Kirgiz, and the latter Kirgiz-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "cows",
+      "entityType": "term",
+      "sentence": "cows, and several groups of dirty-looking children.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "giz",
+      "entityType": "term",
+      "sentence": "giz, and therefore felt quite at home among the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "gana",
+      "entityType": "term",
+      "sentence": "gana, and that a descendant of his had forty",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ren",
+      "entityType": "term",
+      "sentence": "ren, and were ready to make them feel their",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kirgiz",
+      "entityType": "term",
+      "sentence": "Kirgiz, and the latter grew more and more audacious.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "song",
+      "entityType": "term",
+      "sentence": "song, for, being too proud to cultivate them them-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "drink",
+      "entityType": "term",
+      "sentence": "drink, busa^ a kind of beer made of millet. Another",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "winter",
+      "entityType": "term",
+      "sentence": "winter, as if they dwelt there all the year round.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Schwarz",
+      "entityType": "term",
+      "sentence": "Schwarz, quoting the memoirs of Sultan Babar,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hard",
+      "entityType": "term",
+      "sentence": "hard, have a far more important position in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "discovered",
+      "entityType": "term",
+      "sentence": "discovered, the perpetrator of it is severely punished.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "strong",
+      "entityType": "term",
+      "sentence": "strong, and ugly. It carries its head low, a result",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tame",
+      "entityType": "term",
+      "sentence": "tame, and the little Russian boys delight to ride on",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mother",
+      "entityType": "term",
+      "sentence": "mother, and children, one behind the other. Like",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chair",
+      "entityType": "term",
+      "sentence": "chair; hence they are never thrown, or dragged",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "him",
+      "entityType": "term",
+      "sentence": "him, brought him, in a famished condition, to the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "struction",
+      "entityType": "term",
+      "sentence": "struction,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ings",
+      "entityType": "term",
+      "sentence": "ings, its clubs, and its churches ; I will simply add",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "theatre",
+      "entityType": "term",
+      "sentence": "theatre, three banks, and besides its boys' and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cial",
+      "entityType": "term",
+      "sentence": "cial, are not expected, and business men put up in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "entrance",
+      "entityType": "term",
+      "sentence": "entrance, and the mosaic tilework of palest blue-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "green",
+      "entityType": "term",
+      "sentence": "green, with which it is still covered' in patches,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tamerlane",
+      "entityType": "term",
+      "sentence": "Tamerlane, his confessor, and several members of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Sultan",
+      "entityType": "term",
+      "sentence": "Sultan, of the great and merciful monarch. Amir",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Alan",
+      "entityType": "term",
+      "sentence": "one of the ancestors of Tamerlane, named Alan-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kociva",
+      "entityType": "term",
+      "sentence": "kociva, known far and wide for her chastity and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "parentage",
+      "entityType": "term",
+      "sentence": "parentage, was received as pure truth. Her worthy",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "inscription",
+      "entityType": "term",
+      "sentence": "inscription,\" said my companion. \"We have now",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Afghanistan",
+      "entityType": "term",
+      "sentence": "Afghanistan, because he attributed his successes to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rows",
+      "entityType": "term",
+      "sentence": "rows, with the remains of a mosaic-covered passage",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "scholar",
+      "entityType": "term",
+      "sentence": "scholar, explained to me that the figure of a fish",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stone",
+      "entityType": "term",
+      "sentence": "stone, on which the Amirs of Bokhara were regu-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Anzob",
+      "entityType": "term",
+      "sentence": "mountain village called Anzob, the inhabitants of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tilla",
+      "entityType": "term",
+      "sentence": "was ;£'20. The gold coin was called a tilla^ and the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "own",
+      "entityType": "term",
+      "sentence": "own, but for the difficulty and expense of draining",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "present",
+      "entityType": "term",
+      "sentence": "present, the chief of police replied that there were",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trust",
+      "entityType": "term",
+      "sentence": "trust, for the sake of the colonists, that it will",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thousand",
+      "entityType": "term",
+      "sentence": "thousand, and the Russian three thousand. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hair",
+      "entityType": "term",
+      "sentence": "hair, and long tails knotted up with string. The",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Europe",
+      "entityType": "term",
+      "sentence": "Europe, I should like to ask, could we drive through",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "jealousy",
+      "entityType": "term",
+      "sentence": "jealousy, another had helped to murder some one",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "true",
+      "entityType": "term",
+      "sentence": "true, but since the time of Wolff there has been no",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gan",
+      "entityType": "term",
+      "sentence": "gan, superintended the unharnessing and stood be-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "see",
+      "entityType": "term",
+      "sentence": "see, with the silent river flowing through it — silent",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ruts",
+      "entityType": "term",
+      "sentence": "ruts, and OMXJigithzA to dismount and pull the poor",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "OMTjigit",
+      "entityType": "term",
+      "sentence": "OMTjigit, a handsome mounted soldier from Naman-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "choice",
+      "entityType": "term",
+      "sentence": "choice, with the river behind and the ruts before ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ian",
+      "entityType": "term",
+      "sentence": "Ian, but this was not the end of our journey, for we",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Margelan",
+      "entityType": "term",
+      "sentence": "Margelan, and though well-meaning enough, he",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Society",
+      "entityType": "term",
+      "sentence": "Society, which body has drawn some attention of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bist",
+      "entityType": "term",
+      "sentence": "distinct traces of a still older town, called Bist",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Takhla",
+      "entityType": "term",
+      "sentence": "Takhla, in reference to the fact that its king ruled",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Andijan",
+      "entityType": "term",
+      "sentence": "Andijan, our next halting-place, which is now a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dubiously",
+      "entityType": "term",
+      "sentence": "dubiously, and the subject dropped.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "room",
+      "entityType": "term",
+      "sentence": "room, and counted about fifty small teapots in the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "jewellery",
+      "entityType": "term",
+      "sentence": "jewellery, and last but not least their babies. On",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "droshky",
+      "entityType": "term",
+      "sentence": "droshky, and the Chief of the Police rode ahead to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "presentative",
+      "entityType": "term",
+      "sentence": "presentative, but we merely left our cards, and then,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "cheese",
+      "entityType": "term",
+      "sentence": "cheese, sardines, tinned cherries, pomegranates,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "melon",
+      "entityType": "term",
+      "sentence": "melon, and chocolate, besides bread and pickled",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vice",
+      "entityType": "term",
+      "sentence": "vice,\" he replied — \" he has on boots ; if he were a",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Venice",
+      "entityType": "term",
+      "sentence": "Venice, Bokhara the Noble is to-day a thing of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "foolish",
+      "entityType": "term",
+      "sentence": "foolish, and he said no more.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "situated",
+      "entityType": "term",
+      "sentence": "situated, strange to say, at the foot, or rather inside",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "motion",
+      "entityType": "term",
+      "sentence": "motion, but I soon managed to quiet suspicion by",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Peshawar",
+      "entityType": "term",
+      "sentence": "Peshawar, and two others are kept under surveil-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cushbeggi",
+      "entityType": "form",
+      "sentence": "The Cushbeggi is a kind-hearted man ; it is owing",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "reflection",
+      "entityType": "term",
+      "sentence": "reflection, he said, \"Well, it was snowing yester-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Turkoman",
+      "entityType": "term",
+      "sentence": "Turkoman, yet a simpler-minded people does not",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "here",
+      "entityType": "term",
+      "sentence": "here, but alas ! as rug after rug was unfolded, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "drunk",
+      "entityType": "term",
+      "sentence": "drunk, and every bystander must give his opinion",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cap",
+      "entityType": "term",
+      "sentence": "cap, with its shaggy wool hanging over his piercing",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tegelik",
+      "entityType": "term",
+      "sentence": "village or winter encampment called Tegelik Mejek.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ali",
+      "entityType": "term",
+      "sentence": "some preserved fruit called ali buchara; it grows",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "choghofij",
+      "entityType": "term",
+      "sentence": "called choghofij which is said to grow only in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "preservation",
+      "entityType": "term",
+      "sentence": "preservation, so also is the mosque of Sultan",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Sanjar",
+      "entityType": "term",
+      "sentence": "Sanjar, the hero of the Seljuks. Unhappily the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "asan",
+      "entityType": "term",
+      "sentence": "asan, kindled the flame of schism), the seat of power of a Seljuk",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dynasty",
+      "entityType": "term",
+      "sentence": "dynasty, and the residence and last resting-place of Alp Arslan and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "watered",
+      "entityType": "term",
+      "sentence": "watered, and of which there are still traces, were",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "steppe",
+      "entityType": "term",
+      "sentence": "steppe, as the Russians call it, is cut up by",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "host",
+      "entityType": "term",
+      "sentence": "host, the bride's father, brought out one handker-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "merriment",
+      "entityType": "term",
+      "sentence": "merriment, for it was the first time in her life that",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "satisfied",
+      "entityType": "term",
+      "sentence": "satisfied, let the cart go on. I was then told that",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Character",
+      "entityType": "term",
+      "sentence": "Character, 185",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Agriculture",
+      "entityType": "term",
+      "sentence": "Agriculture, 11",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Aksakal",
+      "entityType": "term",
+      "sentence": "Aksakal, or Grey-beard, 49, 159",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bai",
+      "entityType": "term",
+      "sentence": "Bai, 300",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bodyguard",
+      "entityType": "term",
+      "sentence": "Bodyguard, 49",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Descent",
+      "entityType": "term",
+      "sentence": "Descent, 7, 127",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Silversmith",
+      "entityType": "term",
+      "sentence": "Silversmith, 213",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Arba",
+      "entityType": "term",
+      "sentence": "Arba, native cart, 193",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Army",
+      "entityType": "term",
+      "sentence": "Army, 49",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Askhabad",
+      "entityType": "term",
+      "sentence": "Askhabad, 304",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "SaUk",
+      "entityType": "term",
+      "sentence": "SaUk, 166",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Visited",
+      "entityType": "term",
+      "sentence": "Visited, 286",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Baku",
+      "entityType": "term",
+      "sentence": "Baku, 273",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Basket-making",
+      "entityType": "term",
+      "sentence": "Basket-making, 187",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Bird-cages",
+      "entityType": "term",
+      "sentence": "Bird-cages, 197",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Boa",
+      "entityType": "term",
+      "sentence": "Boa, Eryxjaculus, 198",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "seqq",
+      "entityType": "term",
+      "sentence": "seqq,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bath",
+      "entityType": "term",
+      "sentence": "Bath, 283",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Cats",
+      "entityType": "term",
+      "sentence": "Cats, 196",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Medresse",
+      "entityType": "term",
+      "sentence": "Medresse, 82 ; visited, 276",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Prison",
+      "entityType": "term",
+      "sentence": "Prison, 282",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Silk-dyers",
+      "entityType": "term",
+      "sentence": "Silk-dyers, 38",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Water-supply",
+      "entityType": "term",
+      "sentence": "Water-supply, 14",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Bread",
+      "entityType": "term",
+      "sentence": "Bread, 29",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bread-making",
+      "entityType": "term",
+      "sentence": "Bread-making, 118",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Burton",
+      "entityType": "term",
+      "sentence": "Burton, Sir Richard, on Islam",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Buza",
+      "entityType": "term",
+      "sentence": "Buza, 229",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Calai",
+      "entityType": "term",
+      "sentence": "Calai, 71, 86",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Caligraphy",
+      "entityType": "term",
+      "sentence": "Caligraphy, 92",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Calim",
+      "entityType": "term",
+      "sentence": "Calim, 138, Z40, 141, 144",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Caps",
+      "entityType": "term",
+      "sentence": "Caps, 291, 294",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Embroidered",
+      "entityType": "term",
+      "sentence": "Embroidered, 84",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Caspian",
+      "entityType": "term",
+      "sentence": "Caspian, crossing, 273",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Charjui",
+      "entityType": "term",
+      "sentence": "Charjui, Beg of, 46",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Childhood",
+      "entityType": "term",
+      "sentence": "Childhood, 95 seqq.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Boyhood",
+      "entityType": "term",
+      "sentence": "Boyhood, 99",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Circumcision",
+      "entityType": "term",
+      "sentence": "Circumcision, 99",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Girlhood",
+      "entityType": "term",
+      "sentence": "Girlhood, 100",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Chinese",
+      "entityType": "term",
+      "sentence": "Chinese, 6",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Christmas-trees",
+      "entityType": "term",
+      "sentence": "Christmas-trees, 21",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Clavijo",
+      "entityType": "term",
+      "sentence": "Clavijo, Ruz Gonzalez de, 130",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Climate",
+      "entityType": "term",
+      "sentence": "Climate, winter, 18",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cradle",
+      "entityType": "term",
+      "sentence": "Cradle, 95",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Curio-dealer",
+      "entityType": "term",
+      "sentence": "Curio-dealer, Russian, 41, 42",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dasturkan",
+      "entityType": "term",
+      "sentence": "Dasturkan, 112, 116, 218",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dentistry",
+      "entityType": "term",
+      "sentence": "Dentistry, 171",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Costume",
+      "entityType": "term",
+      "sentence": "Costume, 67",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Divorce",
+      "entityType": "term",
+      "sentence": "Divorce, 143",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dutar",
+      "entityType": "term",
+      "sentence": "Dutar, 217",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dwarf",
+      "entityType": "term",
+      "sentence": "Dwarf, 219",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ellik-bashi",
+      "entityType": "term",
+      "sentence": "Ellik-bashi, \" head of fifty,\" 49",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Embroidery",
+      "entityType": "term",
+      "sentence": "Embroidery, 102, 104",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Eye-disease",
+      "entityType": "term",
+      "sentence": "Eye-disease, 303",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Figs",
+      "entityType": "term",
+      "sentence": "Figs, 27",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Fir-trees",
+      "entityType": "term",
+      "sentence": "Fir-trees, 21",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gibbon",
+      "entityType": "term",
+      "sentence": "Gibbon, quoted, on Merv ruins,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Goitre",
+      "entityType": "term",
+      "sentence": "Goitre, 168",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gulasha",
+      "entityType": "term",
+      "sentence": "Gulasha, 159, 162",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hadj",
+      "entityType": "term",
+      "sentence": "Hadj, 71",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hats",
+      "entityType": "term",
+      "sentence": "Hats, sheepskin, 291",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shaved",
+      "entityType": "term",
+      "sentence": "Shaved, 98",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Henna",
+      "entityType": "term",
+      "sentence": "Henna, ustf of. 125",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shoeing",
+      "entityType": "term",
+      "sentence": "Shoeing, 195",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Isaakhan",
+      "entityType": "term",
+      "sentence": "Isaakhan, Afghan chief, 185",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Iskander",
+      "entityType": "term",
+      "sentence": "Iskander, the, 14",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Japan",
+      "entityType": "term",
+      "sentence": "Japan, silk industry, 37",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jerusalem",
+      "entityType": "term",
+      "sentence": "Jerusalem, 74",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jesson",
+      "entityType": "term",
+      "sentence": "Jesson, Colonel, 21",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Polygamy",
+      "entityType": "term",
+      "sentence": "Polygamy, i8o",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jigit",
+      "entityType": "term",
+      "sentence": "Jigit, 263, 265,266, 267, 280, 281,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "KaraJtut",
+      "entityType": "term",
+      "sentence": "KaraJtut, Lactrodectus lugubris,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Karshi",
+      "entityType": "term",
+      "sentence": "Karshi, 215",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Katik",
+      "entityType": "term",
+      "sentence": "Katik, 122",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kibitka",
+      "entityType": "term",
+      "sentence": "Kibitka, Turkoman, 286, 288,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sheep",
+      "entityType": "term",
+      "sentence": "Sheep, 148",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tent",
+      "entityType": "term",
+      "sentence": "Tent, 826",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Coinage",
+      "entityType": "term",
+      "sentence": "Coinage, 252",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Paper-making",
+      "entityType": "term",
+      "sentence": "Paper-making, 210",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Koktash",
+      "entityType": "term",
+      "sentence": "Koktash, 246",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Konolly",
+      "entityType": "term",
+      "sentence": "Konolly, Captain, fate of, 4",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Krasnovodsk",
+      "entityType": "term",
+      "sentence": "Krasnovodsk, 304",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kudoyar",
+      "entityType": "term",
+      "sentence": "Kudoyar, tombs of, 251",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kur-hashi",
+      "entityType": "term",
+      "sentence": "Kur-hashi, Chief of Police, 48",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Leprosy",
+      "entityType": "term",
+      "sentence": "Leprosy, 169",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mahzoum",
+      "entityType": "term",
+      "sentence": "Mahzoum, Matkowe, 167",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Marble",
+      "entityType": "term",
+      "sentence": "Marble, 244",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gourd-pipes",
+      "entityType": "term",
+      "sentence": "Gourd-pipes, 27",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Marriage",
+      "entityType": "term",
+      "sentence": "Marriage, 137 seqq.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Meat",
+      "entityType": "term",
+      "sentence": "Meat, 147",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mecca",
+      "entityType": "term",
+      "sentence": "Mecca:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Medinsky",
+      "entityType": "term",
+      "sentence": "Medinsky, General, 22",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Merv",
+      "entityType": "term",
+      "sentence": "Merv, 4, 286",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Market",
+      "entityType": "term",
+      "sentence": "Market, 290",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Fertility",
+      "entityType": "term",
+      "sentence": "Fertility, 299",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Millet",
+      "entityType": "term",
+      "sentence": "Millet, 29",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mohammedanism",
+      "entityType": "term",
+      "sentence": "Mohammedanism, centres of, 72",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mulbeny-tree",
+      "entityType": "term",
+      "sentence": "Mulbeny-tree, 33, 36",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mushvetoff",
+      "entityType": "term",
+      "sentence": "Mushvetoff, on Jasper block, 243",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "teeth",
+      "entityType": "term",
+      "sentence": "teeth, 124",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nas",
+      "entityType": "term",
+      "sentence": "Nas, green tobacco, 68",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Oats",
+      "entityType": "term",
+      "sentence": "Oats, 29",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Omsk",
+      "entityType": "term",
+      "sentence": "Omsk, 230",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Orenburg",
+      "entityType": "term",
+      "sentence": "Orenburg, railway to Tashkent,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Osh",
+      "entityType": "term",
+      "sentence": "Osh, 35, 270",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Oven",
+      "entityType": "term",
+      "sentence": "Oven, 117",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Parandja",
+      "entityType": "term",
+      "sentence": "Parandja, 105, 128, 129, 130, 179",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pathan",
+      "entityType": "term",
+      "sentence": "Pathan, meaning of, 188",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Patti",
+      "entityType": "term",
+      "sentence": "Patti, Adelina, at St. Petersburg,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Peeshanadan",
+      "entityType": "term",
+      "sentence": "Peeshanadan, 131",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "PeltnerU",
+      "entityType": "term",
+      "sentence": "PeltnerU, 151",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pess",
+      "entityType": "term",
+      "sentence": "Pess, 169",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Petrovsk",
+      "entityType": "term",
+      "sentence": "Petrovsk, 273",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Phalanga",
+      "entityType": "term",
+      "sentence": "Phalanga, 198",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Pilau",
+      "entityType": "term",
+      "sentence": "Pilau, 148, 149, 301",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pistachio-nuts",
+      "entityType": "term",
+      "sentence": "Pistachio-nuts, 63, 113",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pistachio-tree",
+      "entityType": "term",
+      "sentence": "Pistachio-tree, 33",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Plantain",
+      "entityType": "term",
+      "sentence": "Plantain, ^",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Police",
+      "entityType": "term",
+      "sentence": "Police, 48, 188",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Polo",
+      "entityType": "term",
+      "sentence": "Polo, Marco, 197",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rye",
+      "entityType": "term",
+      "sentence": "Rye, 29",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Salt",
+      "entityType": "term",
+      "sentence": "Salt, 260",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cap-bazaar",
+      "entityType": "term",
+      "sentence": "Cap-bazaar, 215",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Revisited",
+      "entityType": "term",
+      "sentence": "Revisited, 240",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Synagogue",
+      "entityType": "term",
+      "sentence": "Synagogue, i8x",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wat",
+      "entityType": "instrument",
+      "sentence": "Samarkand Province, bow wat-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ered",
+      "entityType": "term",
+      "sentence": "ered, 13, 14",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Burial",
+      "entityType": "term",
+      "sentence": "Burial, 172",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Card-playing",
+      "entityType": "term",
+      "sentence": "Card-playing, 164",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dancing-girls",
+      "entityType": "term",
+      "sentence": "Dancing-girls, 142",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hospitality",
+      "entityType": "term",
+      "sentence": "Hospitality, 112",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Language",
+      "entityType": "term",
+      "sentence": "Language, 7",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Music",
+      "entityType": "term",
+      "sentence": "Music, 2x7",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Singing",
+      "entityType": "term",
+      "sentence": "Singing, 218",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Complexion",
+      "entityType": "term",
+      "sentence": "Complexion, 124, 125",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Matchmaker",
+      "entityType": "term",
+      "sentence": "Matchmaker, 140",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pocket-money",
+      "entityType": "term",
+      "sentence": "Pocket-money, 100, 103",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Riding",
+      "entityType": "term",
+      "sentence": "Riding, 194",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Schlagintweit",
+      "entityType": "term",
+      "sentence": "Schlagintweit, death of, 4",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Combing",
+      "entityType": "term",
+      "sentence": "Combing, 36",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dyeing",
+      "entityType": "term",
+      "sentence": "Dyeing, X76, 183",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dyes",
+      "entityType": "term",
+      "sentence": "Dyes, 38",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tan",
+      "entityType": "term",
+      "sentence": "tan, 218",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Smallpox",
+      "entityType": "term",
+      "sentence": "Smallpox, 172",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Smirnof",
+      "entityType": "term",
+      "sentence": "Smirnof, Alexander, 268",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Soap-making",
+      "entityType": "term",
+      "sentence": "Soap-making, 295",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Soil",
+      "entityType": "term",
+      "sentence": "Soil, XI, 12",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Spider",
+      "entityType": "term",
+      "sentence": "Spider, Lactrodectus lugubris,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Stamboul",
+      "entityType": "term",
+      "sentence": "Stamboul, 74",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Stein",
+      "entityType": "term",
+      "sentence": "Stein, account of ruins of Khotan,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Stoddard",
+      "entityType": "term",
+      "sentence": "Stoddard, Colonel, fate of, 4",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sturgeon",
+      "entityType": "term",
+      "sentence": "Sturgeon, Skaphirhunchus Kauf-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "manni",
+      "entityType": "term",
+      "sentence": "manni, 200",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sujffi",
+      "entityType": "term",
+      "sentence": "Sujffi, caller to prayer, 80",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tamasha",
+      "entityType": "term",
+      "sentence": "Tamasha, 217 seqq.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tambourine",
+      "entityType": "term",
+      "sentence": "Tambourine, 218",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tarantula",
+      "entityType": "term",
+      "sentence": "Tarantula, 199",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tea",
+      "entityType": "term",
+      "sentence": "Tea, consumption of, 191",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tea-shop",
+      "entityType": "term",
+      "sentence": "Tea-shop, native, 59, 266",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tolstoy",
+      "entityType": "term",
+      "sentence": "Tolstoy, Spiridon, 297",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Townsend",
+      "entityType": "term",
+      "sentence": "Townsend, quoted, on Afghan-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "istan",
+      "entityType": "term",
+      "sentence": "istan, 186",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Transcaspia",
+      "entityType": "term",
+      "sentence": "Transcaspia, Russian Governor-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Government",
+      "entityType": "term",
+      "sentence": "Government, 3",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Baby",
+      "entityType": "term",
+      "sentence": "Baby, 287",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Slave-dealers",
+      "entityType": "term",
+      "sentence": "Slave-dealers, 285",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wedding",
+      "entityType": "term",
+      "sentence": "Wedding, 300",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Walnut-tree",
+      "entityType": "term",
+      "sentence": "Walnut-tree, 23",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Water-pots",
+      "entityType": "term",
+      "sentence": "Water-pots, brass, 211",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Jewish",
+      "entityType": "term",
+      "sentence": "Jewish, 183",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Werth",
+      "entityType": "term",
+      "sentence": "Werth, quoted iOn nameof Afghan ,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wheat",
+      "entityType": "term",
+      "sentence": "Wheat, 29, 33",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wrestling-match",
+      "entityType": "term",
+      "sentence": "Wrestling-match, 302",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yaks",
+      "entityType": "term",
+      "sentence": "Yaks, 232",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    }
+  ]
+}

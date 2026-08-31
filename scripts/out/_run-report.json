@@ -1,0 +1,432 @@
+{
+  "scannedBooks": 49,
+  "results": [
+    {
+      "region": "south-asia",
+      "slug": "sambamoorthy-history-indian-music",
+      "status": "cached",
+      "termsExtracted": 223,
+      "validCount": 222,
+      "blockedCount": 1,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\south-asia\\sambamoorthy-history-indian-music.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\south-asia\\sambamoorthy-history-indian-music.review.json"
+    },
+    {
+      "region": "south-asia",
+      "slug": "popley-music-of-india",
+      "status": "cached",
+      "termsExtracted": 511,
+      "validCount": 511,
+      "blockedCount": 0,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\south-asia\\popley-music-of-india.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\south-asia\\popley-music-of-india.review.json"
+    },
+    {
+      "region": "south-asia",
+      "slug": "fyzeerahamin-indian-music",
+      "status": "cached",
+      "termsExtracted": 151,
+      "validCount": 148,
+      "blockedCount": 3,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\south-asia\\fyzeerahamin-indian-music.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\south-asia\\fyzeerahamin-indian-music.review.json"
+    },
+    {
+      "region": "south-asia",
+      "slug": "telang-22-shrutis",
+      "title": "The 22 Shrutis of Indian Music",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/1933-m-r-telang-the-22-srutis-of-indian-music/1933-m-r-telang-the-22-srutis-of-indian-music_djvu.txt (HTTP 404). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "south-asia",
+      "slug": "jairazbhoy-rags-north-indian",
+      "title": "The Rāgs of North Indian Music",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/ragsofnorthindia00jair/ragsofnorthindia00jair_djvu.txt (HTTP 401). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "south-asia",
+      "slug": "kaufmann-ragas-north-india",
+      "title": "The Ragas of North India",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/ragasofnorthindi0000kauf/ragasofnorthindi0000kauf_djvu.txt (HTTP 401). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "south-asia",
+      "slug": "gautam-evolution-raga-tala",
+      "title": "Evolution of Rāga and Tāla in Indian Music",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/evolutionofragat0000gaut/evolutionofragat0000gaut_djvu.txt (HTTP 401). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "south-asia",
+      "slug": "day-music-southern-india-deccan",
+      "status": "cached",
+      "termsExtracted": 314,
+      "validCount": 307,
+      "blockedCount": 7,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\south-asia\\day-music-southern-india-deccan.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\south-asia\\day-music-southern-india-deccan.review.json"
+    },
+    {
+      "region": "middle-east",
+      "slug": "farmer-history-arabian-music",
+      "status": "cached",
+      "termsExtracted": 1088,
+      "validCount": 1080,
+      "blockedCount": 8,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\middle-east\\farmer-history-arabian-music.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\middle-east\\farmer-history-arabian-music.review.json"
+    },
+    {
+      "region": "middle-east",
+      "slug": "touma-music-arabs",
+      "title": "The Music of the Arabs",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/musicofarabs0000toum/musicofarabs0000toum_djvu.txt (HTTP 401). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "middle-east",
+      "slug": "farmad-al-adwar",
+      "status": "cached",
+      "termsExtracted": 0,
+      "validCount": 0,
+      "blockedCount": 0,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\middle-east\\farmad-al-adwar.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\middle-east\\farmad-al-adwar.review.json"
+    },
+    {
+      "region": "central-asia",
+      "slug": "skrine-heart-of-asia",
+      "status": "cached",
+      "termsExtracted": 1068,
+      "validCount": 1060,
+      "blockedCount": 8,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\central-asia\\skrine-heart-of-asia.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\central-asia\\skrine-heart-of-asia.review.json"
+    },
+    {
+      "region": "central-asia",
+      "slug": "meakin-in-russian-turkestan",
+      "status": "cached",
+      "termsExtracted": 549,
+      "validCount": 546,
+      "blockedCount": 3,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\central-asia\\meakin-in-russian-turkestan.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\central-asia\\meakin-in-russian-turkestan.review.json"
+    },
+    {
+      "region": "north-africa",
+      "slug": "rae-country-of-the-moors",
+      "status": "cached",
+      "termsExtracted": 664,
+      "validCount": 661,
+      "blockedCount": 3,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\north-africa\\rae-country-of-the-moors.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\north-africa\\rae-country-of-the-moors.review.json"
+    },
+    {
+      "region": "north-africa",
+      "slug": "bonsal-morocco-as-it-is",
+      "status": "cached",
+      "termsExtracted": 536,
+      "validCount": 531,
+      "blockedCount": 5,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\north-africa\\bonsal-morocco-as-it-is.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\north-africa\\bonsal-morocco-as-it-is.review.json"
+    },
+    {
+      "region": "east-asia",
+      "slug": "sancai-tuhui-instruments",
+      "status": "cached",
+      "termsExtracted": 0,
+      "validCount": 0,
+      "blockedCount": 0,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\east-asia\\sancai-tuhui-instruments.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\east-asia\\sancai-tuhui-instruments.review.json"
+    },
+    {
+      "region": "east-asia",
+      "slug": "levis-foundations-chinese",
+      "title": "Foundations of Chinese Musical Art",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/foundationsofchi0000levi/foundationsofchi0000levi_djvu.txt (HTTP 401). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "southeast-asia",
+      "slug": "kunst-hindu-javanese-instruments",
+      "status": "cached",
+      "termsExtracted": 755,
+      "validCount": 751,
+      "blockedCount": 4,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\southeast-asia\\kunst-hindu-javanese-instruments.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\southeast-asia\\kunst-hindu-javanese-instruments.review.json"
+    },
+    {
+      "region": "southeast-asia",
+      "slug": "kunst-music-in-java",
+      "title": "Music in Java: Its History, Its Theory, and Its Technique",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/musicinjavaitshi0001kuns/musicinjavaitshi0001kuns_djvu.txt (HTTP 401). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "sub-saharan-africa",
+      "slug": "nketia-music-of-africa",
+      "title": "The Music of Africa",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/musicofafrica000nket/musicofafrica000nket_djvu.txt (HTTP 401). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "sub-saharan-africa",
+      "slug": "jones-studies-african-music",
+      "title": "Studies in African Music",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/studiesinamerica0000unse_a8p5/studiesinamerica0000unse_a8p5_djvu.txt (HTTP 401). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "sub-saharan-africa",
+      "slug": "bebey-african-music-people-art",
+      "title": "African Music: A People's Art",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/africanmusicpeop00bebe/africanmusicpeop00bebe_djvu.txt (HTTP 401). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "sub-saharan-africa",
+      "slug": "lugard-tropical-dependency",
+      "status": "cached",
+      "termsExtracted": 862,
+      "validCount": 858,
+      "blockedCount": 4,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\sub-saharan-africa\\lugard-tropical-dependency.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\sub-saharan-africa\\lugard-tropical-dependency.review.json"
+    },
+    {
+      "region": "europe",
+      "slug": "sachs-history-musical-instruments",
+      "title": "The History of Musical Instruments",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/historyofmusical0000unse_k1p8/historyofmusical0000unse_k1p8_djvu.txt (HTTP 401). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "europe",
+      "slug": "engel-south-kensington-instruments",
+      "status": "cached",
+      "termsExtracted": 1370,
+      "validCount": 1333,
+      "blockedCount": 37,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\europe\\engel-south-kensington-instruments.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\europe\\engel-south-kensington-instruments.review.json"
+    },
+    {
+      "region": "europe",
+      "slug": "brown-musical-instruments-and-their-homes",
+      "status": "cached",
+      "termsExtracted": 580,
+      "validCount": 569,
+      "blockedCount": 11,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\europe\\brown-musical-instruments-and-their-homes.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\europe\\brown-musical-instruments-and-their-homes.review.json"
+    },
+    {
+      "region": "europe",
+      "slug": "farmer-new-oxford-volume",
+      "title": "European Music (reference selection)",
+      "status": "skipped-google",
+      "error": "Google Books text requires a validated volumeId; add volumeId to the manifest."
+    },
+    {
+      "region": "latin-america",
+      "slug": "stevenson-music-mexico",
+      "status": "cached",
+      "termsExtracted": 841,
+      "validCount": 836,
+      "blockedCount": 5,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\latin-america\\stevenson-music-mexico.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\latin-america\\stevenson-music-mexico.review.json"
+    },
+    {
+      "region": "latin-america",
+      "slug": "slonimsky-music-latin-america",
+      "status": "cached",
+      "termsExtracted": 1353,
+      "validCount": 1344,
+      "blockedCount": 9,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\latin-america\\slonimsky-music-latin-america.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\latin-america\\slonimsky-music-latin-america.review.json"
+    },
+    {
+      "region": "latin-america",
+      "slug": "slonimsky-music-latin-america-1945",
+      "title": "Music of Latin America",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/musicoflatinamer00slon/musicoflatinamer00slon_djvu.txt (HTTP 401). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "east-asia",
+      "slug": "piggott-music-japan-1893",
+      "status": "cached",
+      "termsExtracted": 444,
+      "validCount": 441,
+      "blockedCount": 3,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\east-asia\\piggott-music-japan-1893.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\east-asia\\piggott-music-japan-1893.review.json"
+    },
+    {
+      "region": "east-asia",
+      "slug": "malm-japanese-music",
+      "title": "Japanese Music and Musical Instruments",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/japanesemusicmus00malm/japanesemusicmus00malm_djvu.txt (HTTP 401). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "east-asia",
+      "slug": "kishibe-traditional-music-japan",
+      "title": "The Traditional Music of Japan",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/traditionalmusic00kish/traditionalmusic00kish_djvu.txt (HTTP 401). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "north-america",
+      "slug": "allen-slave-songs",
+      "status": "cached",
+      "termsExtracted": 189,
+      "validCount": 188,
+      "blockedCount": 1,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\north-america\\allen-slave-songs.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\north-america\\allen-slave-songs.review.json"
+    },
+    {
+      "region": "north-america",
+      "slug": "work-folk-song-american-negro",
+      "status": "cached",
+      "termsExtracted": 189,
+      "validCount": 183,
+      "blockedCount": 6,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\north-america\\work-folk-song-american-negro.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\north-america\\work-folk-song-american-negro.review.json"
+    },
+    {
+      "region": "north-america",
+      "slug": "krehbiel-afro-american-folksongs",
+      "title": "Afro-American Folksongs",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/afroamericanfolk00krehb/afroamericanfolk00krehb_djvu.txt (HTTP 401). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "north-america",
+      "slug": "cable-creole-slave-songs",
+      "status": "cached",
+      "termsExtracted": 68,
+      "validCount": 68,
+      "blockedCount": 0,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\north-america\\cable-creole-slave-songs.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\north-america\\cable-creole-slave-songs.review.json"
+    },
+    {
+      "region": "caribbean",
+      "slug": "manuel-caribbean-currents",
+      "title": "Caribbean Currents: Caribbean Music from Rumba to Reggae",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/caribbeancurrent00manu/caribbeancurrent00manu_djvu.txt (HTTP 403). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "caribbean",
+      "slug": "rohlehr-calypso-trinidad",
+      "title": "Calypso & Society in Pre-Independence Trinidad",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/calypsosocietyin00rohl/calypsosocietyin00rohl_djvu.txt (HTTP 403). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "caribbean",
+      "slug": "hill-calypso-calaloo",
+      "title": "Calypso Calaloo: Early Carnival Music in Trinidad",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/calypsocalalooea00hill/calypsocalalooea00hill_djvu.txt (HTTP 401). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "caribbean",
+      "slug": "jekyll-jamaican-song-and-story",
+      "status": "cached",
+      "termsExtracted": 474,
+      "validCount": 474,
+      "blockedCount": 0,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\caribbean\\jekyll-jamaican-song-and-story.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\caribbean\\jekyll-jamaican-song-and-story.review.json"
+    },
+    {
+      "region": "southeast-asia",
+      "slug": "spiller-gamelan-indonesia",
+      "title": "Gamelan: The Traditional Sounds of Indonesia",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/GamelanTheTraditionalSoundsOfIndonesiaWorldMusic/GamelanTheTraditionalSoundsOfIndonesiaWorldMusic_djvu.txt (HTTP 404). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "oceania",
+      "slug": "gill-myths-songs-south-pacific",
+      "status": "cached",
+      "termsExtracted": 659,
+      "validCount": 639,
+      "blockedCount": 20,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\oceania\\gill-myths-songs-south-pacific.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\oceania\\gill-myths-songs-south-pacific.review.json"
+    },
+    {
+      "region": "oceania",
+      "slug": "wallaschek-primitive-music",
+      "status": "cached",
+      "termsExtracted": 707,
+      "validCount": 703,
+      "blockedCount": 4,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\oceania\\wallaschek-primitive-music.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\oceania\\wallaschek-primitive-music.review.json"
+    },
+    {
+      "region": "oceania",
+      "slug": "taylor-te-ika-a-maui",
+      "status": "cached",
+      "termsExtracted": 1783,
+      "validCount": 1748,
+      "blockedCount": 35,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\oceania\\taylor-te-ika-a-maui.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\oceania\\taylor-te-ika-a-maui.review.json"
+    },
+    {
+      "region": "indigenous-traditions-globally",
+      "slug": "nettl-music-primitive-culture",
+      "title": "Music in Primitive Culture",
+      "status": "not-free",
+      "error": "No openly accessible _djvu.txt at https://archive.org/download/musicinprimitive0000nett_y7y5/musicinprimitive0000nett_y7y5_djvu.txt (HTTP 401). Likely an access-restricted / lending-only volume."
+    },
+    {
+      "region": "indigenous-traditions-globally",
+      "slug": "fletcher-omaha-indian-music",
+      "status": "cached",
+      "termsExtracted": 228,
+      "validCount": 224,
+      "blockedCount": 4,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\indigenous-traditions-globally\\fletcher-omaha-indian-music.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\indigenous-traditions-globally\\fletcher-omaha-indian-music.review.json"
+    },
+    {
+      "region": "indigenous-traditions-globally",
+      "slug": "curtis-burlin-indians-book",
+      "status": "cached",
+      "termsExtracted": 693,
+      "validCount": 679,
+      "blockedCount": 14,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\indigenous-traditions-globally\\curtis-burlin-indians-book.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\indigenous-traditions-globally\\curtis-burlin-indians-book.review.json"
+    },
+    {
+      "region": "indigenous-traditions-globally",
+      "slug": "gilman-hopi-songs",
+      "status": "cached",
+      "termsExtracted": 147,
+      "validCount": 146,
+      "blockedCount": 1,
+      "batchFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\indigenous-traditions-globally\\gilman-hopi-songs.jsonl",
+      "reviewFile": "C:\\Users\\dasso\\Desktop\\sonata\\sonata\\scripts\\out\\indigenous-traditions-globally\\gilman-hopi-songs.review.json"
+    }
+  ]
+}

@@ -1,0 +1,6611 @@
+{
+  "book": {
+    "title": "The Indians' Book: Songs and Legends of the American Indians",
+    "author": "Natalie Curtis Burlin",
+    "citation": "Curtis Burlin, Natalie. The Indians' Book: An Offering of Songs and Legends of the American Indians. Harper and Brothers, New York, 1907."
+  },
+  "summary": {
+    "total": 693,
+    "validCount": 679,
+    "blockedCount": 14,
+    "warningCount": 164,
+    "blockerReasons": {
+      "This candidate is awaiting specialist review and cannot be published yet.": 14
+    }
+  },
+  "rows": [
+    {
+      "term": "JIf",
+      "entityType": "term",
+      "sentence": "JIf: d I'",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "http",
+      "entityType": "term",
+      "sentence": "http://www.archive.org/details/cu31924028767238",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pipe-stone",
+      "entityType": "term",
+      "sentence": "pipe-stone, the stem is of wood decorated with bead-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Once",
+      "entityType": "term",
+      "sentence": "Once, only Indians lived in this land. Then came strangers from across the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "brush",
+      "entityType": "term",
+      "sentence": "brush, and many were first attempts at drawing of any kind.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Design",
+      "entityType": "term",
+      "sentence": "Design, Qoud Symbol, from Prehistoric Pottery xxi",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "birthright",
+      "entityType": "term",
+      "sentence": "birthright, and without which no people can progress.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "com",
+      "entityType": "term",
+      "sentence": "com, or in the open camp where after some festival or ceremonial",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hoped",
+      "entityType": "term",
+      "sentence": "hoped, may serve as an encouragement to educated Indians to carry",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "impossible",
+      "entityType": "term",
+      "sentence": "impossible, in this collection, to represent every tribe. '",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "down",
+      "entityType": "term",
+      "sentence": "down, indeed, from the lips of their own composers. Each con-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "work",
+      "entityType": "term",
+      "sentence": "work, pottery, and decorations of all kinds, in dance, in ceremony,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "truth",
+      "entityType": "term",
+      "sentence": "truth, the traditions of his ancestors, the history of his race, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tion",
+      "entityType": "term",
+      "sentence": "tion, history, and thought are preserved in ritual of poetry and song.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sionistic",
+      "entityType": "term",
+      "sentence": "sionistic, and many may be the interpretations of the same song",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mean",
+      "entityType": "term",
+      "sentence": "mean, then you must speak our one word in your many.\" In",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "grance",
+      "entityType": "term",
+      "sentence": "grance, the color, and, above all, the spirit of the original. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "quality",
+      "entityType": "term",
+      "sentence": "quality, the forceful sweeping charm of Indian song.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "melody",
+      "entityType": "term",
+      "sentence": "melody, and harmony. The first element is rhythm, for rhythm",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rhythmic",
+      "entityType": "term",
+      "sentence": "rhythmic, for life is vibration, motion. So music in its earliest form",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "evolve",
+      "entityType": "term",
+      "sentence": "evolve, and it has developed with the progress of science — the un-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "subtle",
+      "entityType": "term",
+      "sentence": "subtle, sensitive reflex of the soul's impressions, a language which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "art",
+      "entityType": "term",
+      "sentence": "art, if it survive, must undergo the change of supplying from within",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ians",
+      "entityType": "term",
+      "sentence": "ians, as nearly as musical notation can record. No harmony has",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rate",
+      "entityType": "term",
+      "sentence": "rate, must necessarily be but as a skeleton to the living form.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "basket",
+      "entityType": "term",
+      "sentence": "basket, perfect in symmetry and beautiful in design, wields the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "grave-mound",
+      "entityType": "term",
+      "sentence": "grave-mound, mute testimonies these of the art, the industry, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "race",
+      "entityType": "term",
+      "sentence": "race, as well as to the history of America, are the written utterances",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "emerge",
+      "entityType": "term",
+      "sentence": "emerge, then are the Indians, indeed, perhaps the most ancient of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "incubator",
+      "entityType": "term",
+      "sentence": "incubator, preserves the life of the pauper babe prematurely bom.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "silence",
+      "entityType": "term",
+      "sentence": "silence, above all, self-controlled — a proud, vanishing figure in a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "song-makers",
+      "entityType": "term",
+      "sentence": "song-makers, poets, or designers. Can we afford to lose from our",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "debauched",
+      "entityType": "term",
+      "sentence": "debauched, is a people of real creative artistic genius — the first",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cora",
+      "entityType": "term",
+      "sentence": "Cora, a Winnebago Indian, as art instructor at Carlisle Indian School.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "him",
+      "entityType": "term",
+      "sentence": "stood before Kloskarbeh and called him ** mother's",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "brother",
+      "entityType": "term",
+      "sentence": "brother,\" and said: *' I was born of the foam of the waters; for the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hungry",
+      "entityType": "term",
+      "sentence": "hungry, and the night will soon be here. Where is the food ?\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ones",
+      "entityType": "term",
+      "sentence": "ones; in seven moons you shall be filled, and shall hunger no more.\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "said",
+      "entityType": "term",
+      "sentence": "said, \"I greet you, chief of the Passamaquoddy.\" Then the peo-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "welcome",
+      "entityType": "term",
+      "sentence": "welcome, ^nd shaking hands with the visiting chief and his men.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "village",
+      "entityType": "term",
+      "sentence": "village, and there the guests were feasted.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "twa",
+      "entityType": "term",
+      "sentence": "twa, tivaf tiva, twa, like a summons to others to come and dance",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hey",
+      "entityType": "term",
+      "sentence": "Hey, ho, dance away.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Harder",
+      "entityType": "term",
+      "sentence": "Harder, faster let os go.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Come",
+      "entityType": "term",
+      "sentence": "Come, come, come, come !",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "leap",
+      "entityType": "term",
+      "sentence": "leap, and I follow. The moose stops again for the pain of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "arrow",
+      "entityType": "term",
+      "sentence": "arrow, and he rubs his side upon the earth and drives the arrow",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "moose",
+      "entityType": "term",
+      "sentence": "moose, so that yoti can take comfort in him.\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "long",
+      "entityType": "term",
+      "sentence": "long, and when it was brought him he set one hand wpon an end of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gain",
+      "entityType": "term",
+      "sentence": "distance; then he called again, and the answer was nearer and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "distance",
+      "entityType": "term",
+      "sentence": "distance; then he called again, and the answer was nearer and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hunt",
+      "entityType": "term",
+      "sentence": "hunt, and parts from his love, telling her to watch for him at the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ckX",
+      "entityType": "term",
+      "sentence": "ckX-, JAa'*'»*Jl^",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ACa",
+      "entityType": "term",
+      "sentence": "ACa, -»» «. ^<",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "social",
+      "entityType": "term",
+      "sentence": "social, and some are very old, while others are modfern.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "warrior",
+      "entityType": "term",
+      "sentence": "The military organizations are old, and are commonly called warrior",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Again",
+      "entityType": "term",
+      "sentence": "Again, a society may have for the nucleus of its being a dream",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Wakan-Tanka",
+      "entityType": "term",
+      "sentence": "The Supreme Being of the Dakotas is called Wakan-Tanka. In",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "impersonal",
+      "entityType": "term",
+      "sentence": "impersonal, spirittial, and life-giving power is held by many Indian",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Indian",
+      "entityType": "term",
+      "sentence": "Indian, Tatanka-Ptecila (Short Ball). The warrior wears the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "loyalty",
+      "entityType": "term",
+      "sentence": "loyalty, truth, and heroism. When forced to fight in defence of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tribe",
+      "entityType": "term",
+      "sentence": "tribe, made mystery-power in the olden days.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "force",
+      "entityType": "term",
+      "sentence": "force, or one of the various forms of life on the earth. The name of the clan, and the personal",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trtrth",
+      "entityType": "term",
+      "sentence": "trtrth, there arose in western Nevada an Indian prophet. He was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cried",
+      "entityType": "term",
+      "sentence": "cried: ** Jesus is on earth. He came once long ago beyond the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ened",
+      "entityType": "term",
+      "sentence": "ened, he telegraphed for troops. At sight of the soldiers, the war-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "massacre",
+      "entityType": "term",
+      "sentence": "children, fell in what is now called the massacre of Wounded Knee.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "children",
+      "entityType": "term",
+      "sentence": "children, fell in what is now called the massacre of Wounded Knee.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tinued",
+      "entityType": "term",
+      "sentence": "tinued, but not with the old significance. The religion of which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "power",
+      "entityType": "term",
+      "sentence": "power; but it is marked with wistful dreaminess. It is the face",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rendering",
+      "entityType": "term",
+      "sentence": "rendering, the attempt has been made to reflect the rhythmic dignity and simplicity",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "one",
+      "entityType": "term",
+      "sentence": "one, nor meant we ill to any man. As the Father had commanded,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "recorder",
+      "entityType": "term",
+      "sentence": "recorder, and then the white friend spoke:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Heya-po",
+      "entityType": "term",
+      "sentence": "Heya-po, To sing now.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Oyakapo",
+      "entityType": "term",
+      "sentence": "Oyakapo— he I Tell afar his message,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ina",
+      "entityType": "term",
+      "sentence": "Ina, hekuye,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mother",
+      "entityType": "term",
+      "sentence": "Mother, oh come back,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thee",
+      "entityType": "term",
+      "sentence": "thee, weeping,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fine",
+      "entityType": "term",
+      "sentence": "fine, with tallow, wild-cherries, and spices.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hocoka",
+      "entityType": "term",
+      "sentence": "Tof the circle was a place called Hocoka, the centre.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kola",
+      "entityType": "term",
+      "sentence": "Kola, taktj Friend, whatever hardships threaten,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yea",
+      "entityType": "term",
+      "sentence": "Yea, but the Fox fled not.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lodge",
+      "entityType": "term",
+      "sentence": "lodge, such as the people call ** new life,\" becatfse the man that",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gunpowder",
+      "entityType": "term",
+      "sentence": "gunpowder, caps, and wads, and gave to all men. So when he had",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "glory",
+      "entityType": "term",
+      "sentence": "glory, he sadly realizes that he is now only an old man",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mighty",
+      "entityType": "term",
+      "sentence": "Mighty, mighty, great in war.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "secration",
+      "entityType": "term",
+      "sentence": "secration, as a sttmmons to the people to partake of the feast.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hither",
+      "entityType": "term",
+      "sentence": "Hither, ho !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Temahilaqon",
+      "entityType": "term",
+      "sentence": "Temahilaqon,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nay",
+      "entityType": "term",
+      "sentence": "Nay, love, but whither are you leading me ? u",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ma-ya",
+      "entityType": "term",
+      "sentence": "Ma-ya, Ha-ya,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "See",
+      "entityType": "term",
+      "sentence": "See, all alone I wave !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "He-ye",
+      "entityType": "term",
+      "sentence": "He-ye, he-ye,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "boarding-school",
+      "entityType": "term",
+      "sentence": "boarding-school, where they mast remam for five years without re-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sang",
+      "entityType": "term",
+      "sentence": "sang, \"May you feast well, O dog!\" Three times they sang this song,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "out",
+      "entityType": "term",
+      "sentence": "out, \"Hold well your dogs! Once more shall the song be sung.\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "teeth",
+      "entityType": "term",
+      "sentence": "teeth, who dances shyly with drooping head and downcast eyes.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "blanket",
+      "entityType": "term",
+      "sentence": "blanket, and, in imitation of his elders, right manfully dances a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "danger",
+      "entityType": "term",
+      "sentence": "danger, grief, and death. <=— ^",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kind",
+      "entityType": "term",
+      "sentence": "kind: for holy rites, wisdom, and healing are from Wakan-Tanka.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "OyfX",
+      "entityType": "term",
+      "sentence": "OyfX,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "itO",
+      "entityType": "term",
+      "sentence": "-itO - - . -tCwTT-e-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "CjLo",
+      "entityType": "term",
+      "sentence": "CjLo,a^ '7'u^ r^O^i /Zt^ rioyjt ■> .",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tirawa",
+      "entityType": "term",
+      "sentence": "Tirawa, the Father Above, him whom they have always known",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "feeling",
+      "entityType": "term",
+      "sentence": "feeling, an appreciation of which alone makes possible to the white",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ciety",
+      "entityType": "term",
+      "sentence": "ciety, a turban of otter-skin, and two eagle-feathers in his hair",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "might",
+      "entityType": "term",
+      "sentence": "might,^^ indeed, call all women ''mother.\" Men might call their",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "two",
+      "entityType": "term",
+      "sentence": "two, always two.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bundle",
+      "entityType": "term",
+      "sentence": "Bundle,\" bear it over thy shoulder and follow.\" And the Morning",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ished",
+      "entityType": "term",
+      "sentence": "ished, the waters dried, the ground was level, and the Morning Star",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ever",
+      "entityType": "term",
+      "sentence": "ever, and reached the lodge of the Evening Star*",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lion",
+      "entityType": "term",
+      "sentence": "Lion, Wild-Cat, and Wolf. These Beasts, placed by Tirawa in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "northeast",
+      "entityType": "term",
+      "sentence": "northeast, whence cometh night. Thou art Autumn. Thou, Yellow",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Star",
+      "entityType": "term",
+      "sentence": "Star, shalt stand in the northwest, where is the golden settiag of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "four",
+      "entityType": "term",
+      "sentence": "Now are the four stars known as the four World-Quarter Gods.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "north",
+      "entityType": "term",
+      "sentence": "north, and the Yellow Star and the White Star change places. For the Yellow Star stands to",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "storm",
+      "entityType": "term",
+      "sentence": "storm, also the Arch-Above-the-Earth— the Rainbow.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "yielded",
+      "entityType": "term",
+      "sentence": "yielded, the Evening Star bade the Morning Star seek and bring to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Flint",
+      "entityType": "term",
+      "sentence": "Flint, and placed it in the clouds to strike as lightning from the rain-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bear",
+      "entityType": "term",
+      "sentence": "HE men of the Bear Society are called Bear Warriors.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mine",
+      "entityType": "term",
+      "sentence": "Mine, too, might have been a triumph",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rains-Enfolded",
+      "entityType": "term",
+      "sentence": "known as the Rains-Enfolded, and when it was opened at the time",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "father",
+      "entityType": "term",
+      "sentence": "father, too, died, and the horse went from one person to another.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Orphaned",
+      "entityType": "term",
+      "sentence": "Orphaned, lone, forsaken !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Narutitawe",
+      "entityType": "term",
+      "sentence": "Narutitawe— he I A spotted horse",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "health",
+      "entityType": "term",
+      "sentence": "health, and plenty in the fields.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dakota",
+      "entityType": "term",
+      "sentence": "Dakota, and Arapaho.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "held",
+      "entityType": "term",
+      "sentence": "held, the people would call the woman to join them, singing this",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "song",
+      "entityType": "term",
+      "sentence": "song:",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kaw-kaw",
+      "entityType": "term",
+      "sentence": "Kaw-kaw, rakuwak-tahu,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Caw-caw",
+      "entityType": "term",
+      "sentence": "Caw-caw, like the crow I cry.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "round",
+      "entityType": "term",
+      "sentence": "round, some one starts another verse to the song. So long as new",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ruwerera",
+      "entityType": "term",
+      "sentence": "Ruwerera, rtjwerera,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rerawha-a",
+      "entityType": "term",
+      "sentence": "Rerawha-a, rerawha-a,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Look",
+      "entityType": "term",
+      "sentence": "Look, where yonder she cometh.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mother-Moon",
+      "entityType": "term",
+      "sentence": "Mother-Moon, Mother-Moon,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Father-Sun",
+      "entityType": "term",
+      "sentence": "Father-Sun, Father-Sun,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ttx",
+      "entityType": "term",
+      "sentence": "ttx: ^ric^,'.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lustily",
+      "entityType": "term",
+      "sentence": "lustily, trading with friendly neighbors over a vast territory, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "due",
+      "entityType": "term",
+      "sentence": "due; the child rendered complete obedience to the parent, yet harsh",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "brave",
+      "entityType": "term",
+      "sentence": "brave, and devout in peace and in war.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "starvation",
+      "entityType": "term",
+      "sentence": "starvation, and massacre had destroyed his faith and exhausted",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "valiant",
+      "entityType": "term",
+      "sentence": "valiant, vigorous people, temperate, keen-sighted, and intelligent.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Indeed",
+      "entityType": "term",
+      "sentence": "Indeed, if human nature be measured by qualities of loyalty and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Printing-Office",
+      "entityType": "term",
+      "sentence": "Printing-Office, Washington, I90I.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "courage",
+      "entityType": "term",
+      "sentence": "courage, by scorn of death and scorn of falsehood, even by spirited",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "book",
+      "entityType": "term",
+      "sentence": "book, going with the white friends from camp to camp, telling other",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dry",
+      "entityType": "term",
+      "sentence": "dry, rotten wood against a stone, and then strike the stone with",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "aration",
+      "entityType": "term",
+      "sentence": "aration, consecration, and prayer. If the Indian prays in common",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "war-songs",
+      "entityType": "term",
+      "sentence": "Many of the so-called war-songs are religious in character, many",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "humor",
+      "entityType": "term",
+      "sentence": "humor, and triumphant taunts of victory. Yet many of these",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gry",
+      "entityType": "term",
+      "sentence": "gry, lone, and enduring.^",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Feast",
+      "entityType": "term",
+      "sentence": "Feast, be ye merry,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "WAR",
+      "entityType": "term",
+      "sentence": "WAR - PARTY is returning in triumph. The faces of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "wood",
+      "entityType": "term",
+      "sentence": "wood, and was so holy that it never was allowed to touch",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mystery",
+      "entityType": "term",
+      "sentence": "mystery, who had dressed themselves in great bea«ty to go to the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "spoke",
+      "entityType": "term",
+      "sentence": "spoke, saying, \" I am sent to yott with a message.\"'",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dom",
+      "entityType": "term",
+      "sentence": "dom, and giv'tag him anew the power to heal.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hawk",
+      "entityType": "term",
+      "sentence": "Hawk, and this story of his vision will he never lightly tell to any man.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rats",
+      "entityType": "term",
+      "sentence": "they were hard to catch. They called the rats ** timber-men,\" and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ini-stoni-wahno-tziyo",
+      "entityType": "term",
+      "sentence": "Ini-stoni-wahno-tziyo, Hither stealing, creeping hither,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ehenowe",
+      "entityType": "term",
+      "sentence": "Ehenowe, h'm-h'm-h'm ! Now I hear them, h'm-h'm-h'm I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Meshivotzis-o",
+      "entityType": "term",
+      "sentence": "Meshivotzis-o— Little good baby,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "A-ha",
+      "entityType": "term",
+      "sentence": "A-ha, h'm. A-ha, h'm.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dignity",
+      "entityType": "term",
+      "sentence": "dignity, the leader tells of his dream, and gives his directions for",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "change",
+      "entityType": "term",
+      "sentence": "change, and the mescal religion, as it is practised to-day, may al-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "modem",
+      "entityType": "term",
+      "sentence": "most be called a modem cult. Its leaders are mostly the younger",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sun",
+      "entityType": "term",
+      "sentence": "sun, which is the manifestation of the source of life. Indeed, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "office",
+      "entityType": "term",
+      "sentence": "office, a rattle, a wand, and a fan of eagle-plumes. AH around the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "rattle",
+      "entityType": "term",
+      "sentence": "rattle, while the man next to him beats upon a small buckskin dram.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Medicme-Song",
+      "entityType": "term",
+      "sentence": "Medicme-Song,\" and A True Story,\" pages 253, 256, 262.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "different",
+      "entityType": "term",
+      "sentence": "different, because each man*s road is different, and what the man",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "deep",
+      "entityType": "term",
+      "sentence": "deep, rejoicing in his strength. I sing it just at sunrise.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "eui",
+      "entityType": "term",
+      "sentence": "eui - ■a*. -",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "KJIa",
+      "entityType": "term",
+      "sentence": "KJIa:*~o-. ^c- iPK^",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "skin",
+      "entityType": "term",
+      "sentence": "skin, and depended upon the buffalo almost exclusively for the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chicago",
+      "entityType": "term",
+      "sentence": "Chicago, the ceremony is known as ** Hassehawu,\" the Ceremony",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Niha-nawu",
+      "entityType": "term",
+      "sentence": "Niha-nawu,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bahinahnit-ti",
+      "entityType": "term",
+      "sentence": "Bahinahnit-ti,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Cheda-e",
+      "entityType": "term",
+      "sentence": "Cheda-e,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nakahu-kahu",
+      "entityType": "term",
+      "sentence": "Nakahu-kahu,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "feed",
+      "entityType": "term",
+      "sentence": "feed, turn their horses loose in this way.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "NatinacAabena",
+      "entityType": "term",
+      "sentence": "NatinacAabena,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Behold",
+      "entityType": "term",
+      "sentence": "Behold, I am White-Horn,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "oJL",
+      "entityType": "term",
+      "sentence": "oJL - riiiX- 'd. —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "OJUL",
+      "entityType": "term",
+      "sentence": "OJUL,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fjL",
+      "entityType": "term",
+      "sentence": "fjL, -CdA. Ix-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wind-Songs",
+      "entityType": "term",
+      "sentence": "\"mi^T are called Wind-Songs because they are songs of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Weary",
+      "entityType": "term",
+      "sentence": "Weary, lonely, for me he longs.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bom",
+      "entityType": "term",
+      "sentence": "bom, rich in love and in the goods of the world. Yet they are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pining",
+      "entityType": "term",
+      "sentence": "pining, silent, and forlorn, overcome with homesick longing. Then",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ambonpoya",
+      "entityType": "term",
+      "sentence": "Ambonpoya, ambonpoya Longing for yoti, longing for you ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Goa-ain",
+      "entityType": "term",
+      "sentence": "Goa-ain,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Give",
+      "entityType": "term",
+      "sentence": "Give, oh give ws something,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ground",
+      "entityType": "term",
+      "sentence": "ground, crying, beside the wall of the tipi. There he lay, sobbing,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tipi",
+      "entityType": "term",
+      "sentence": "tipi, and the people sat around in a circle, as many as could find",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "present",
+      "entityType": "term",
+      "sentence": "present; and so when he drew back his bow, behold an antelope",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "exhausted",
+      "entityType": "term",
+      "sentence": "exhausted; then the people killed them easily with tomahawks",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "game",
+      "entityType": "term",
+      "sentence": "game, and the mother has gone to kill an antelope. She has left",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nebraska",
+      "entityType": "term",
+      "sentence": "Nebraska, where they were fed and sheltered. They preferred to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "resting-place",
+      "entityType": "term",
+      "sentence": "resting-place, was thrown open to white settlement, their deteriora-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "A-O-NA",
+      "entityType": "term",
+      "sentence": "A-O-NA, the Earth-Haker, made the earth and every-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wa-cho-pi-ni-Shi-shik",
+      "entityType": "term",
+      "sentence": "Wa-cho-pi-ni-Shi-shik, an evil spirit. He watched Ma-o-na at",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "still",
+      "entityType": "term",
+      "sentence": "still; and then Wak-chung-kaka looked around him and found him-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "swered",
+      "entityType": "term",
+      "sentence": "swered; he still pointed steadily across the water. Wak-chung-kaka",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "body",
+      "entityType": "term",
+      "sentence": "body, so he walked on till he heard the cry, *' Wa-w«-wt( I\" and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "behind",
+      "entityType": "term",
+      "sentence": "behind, and then flew out again all at once. \"Wak-ch«ng-kaka",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "smaller",
+      "entityType": "term",
+      "sentence": "smaller, till he was no bigger than a fly, and then he easily went in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "meat",
+      "entityType": "term",
+      "sentence": "meat, Wash-ching-geka went in among them. There was a piece",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Meanwhile",
+      "entityType": "term",
+      "sentence": "Meanwhile, Wash-ching-geka ran home to his wise grandmother",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "here",
+      "entityType": "term",
+      "sentence": "here, some dead and some dying, for they had no wood to cook",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thus",
+      "entityType": "term",
+      "sentence": "thus, and each time the flint grew bigger. Then he struck it again",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chtin-ka",
+      "entityType": "term",
+      "sentence": "Chtin-ka, wa-Iai-na-nap, Great One, yoa draw them in,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wash-ching-ge",
+      "entityType": "term",
+      "sentence": "Wash-ching-ge, let me loose, I cry !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Whatever",
+      "entityType": "term",
+      "sentence": "Whatever, whatever will they do !",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "club",
+      "entityType": "instrument",
+      "sentence": "knees so that she could run faster, and she took an elk-horn club",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fir-tree",
+      "entityType": "term",
+      "sentence": "fir-tree, so the Little Hare went away to the very edge of the earth",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chunk",
+      "entityType": "term",
+      "sentence": "chunk, the tallest tree in the world.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "end",
+      "entityType": "term",
+      "sentence": "end; La-ga-ka-nan-shke was at the other end, and he began to sing",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Slo-zhun-na-Ie",
+      "entityType": "term",
+      "sentence": "Slo-zhun-na-Ie, I can touch the sky,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Thunder-Bird",
+      "entityType": "term",
+      "sentence": "mighty, and awful, and it is called the Thunder-Bird. Great is he",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "man",
+      "entityType": "term",
+      "sentence": "man; and the spirit gave him knowledge and taught him wonderful",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ma-ni-na",
+      "entityType": "term",
+      "sentence": "Ma-ni-na, le-ha-no,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "government",
+      "entityType": "term",
+      "sentence": "government, did not wish to fight the government scouts, so they",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fled",
+      "entityType": "term",
+      "sentence": "fled, in haste, dropping their bundles to lighten their ponies as they",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pawnee",
+      "entityType": "term",
+      "sentence": "Pawnee; and the owner afterwards came to the Winnebagos and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ko-Ia-wi-Ia",
+      "entityType": "term",
+      "sentence": "Ko-Ia-wi-Ia,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hi-cha-ko-Io",
+      "entityType": "term",
+      "sentence": "Hi-cha-ko-Io,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ho-chunk-gi-Ie",
+      "entityType": "term",
+      "sentence": "Ho-chunk-gi-Ie, hi-she-na 1",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ho-chank-gi-Ie",
+      "entityType": "term",
+      "sentence": "Ho-chank-gi-Ie, hi-she-na !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pa-ni-na",
+      "entityType": "term",
+      "sentence": "Pa-ni-na, hi-she-na !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hi-ta-Io",
+      "entityType": "term",
+      "sentence": "Hi-ta-Io, hi-she-na I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ho-chunfc-gi-Ie",
+      "entityType": "term",
+      "sentence": "Ho-chunfc-gi-Ie, hi-she-na 1",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Na-ja-zi-Ia",
+      "entityType": "term",
+      "sentence": "Na-ja-zi-Ia,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yellow-Hair",
+      "entityType": "term",
+      "sentence": "Yellow-Hair, ho.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "grandmother",
+      "entityType": "term",
+      "sentence": "A whom he called grandmother, for aged people of kin,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Whom",
+      "entityType": "term",
+      "sentence": "Whom, oh, whom shall I now call grand-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "uncle",
+      "entityType": "term",
+      "sentence": "uncle, but the music tells that it is really her lover to whom she is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Na-ni",
+      "entityType": "term",
+      "sentence": "Na-ni, dega-go",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "food",
+      "entityType": "term",
+      "sentence": "food, and fasted again. So he persevered until he had dreamed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "oaks",
+      "entityType": "term",
+      "sentence": "oaks; he saw only the face of Ma-o-na, a long face with good eyes,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fcp",
+      "entityType": "term",
+      "sentence": "fcp:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ifo",
+      "entityType": "term",
+      "sentence": "ifo, (rlju^, fnitJk \"/» ^*— ^ *rt-f*.'",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sign",
+      "entityType": "term",
+      "sentence": "sign: the tail and fin of the whale, the hawk, and the eye-joint.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Island",
+      "entityType": "term",
+      "sentence": "Island, Like all the Northwest coast tribes, these Indians are great",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sea",
+      "entityType": "term",
+      "sentence": "well might the Indians of the Northwest coast be called the sea-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wakiash",
+      "entityType": "term",
+      "sentence": "[IHERE was once a chief named Wakiash, and he was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fter",
+      "entityType": "term",
+      "sentence": "T named after the river Wakiash because he was open-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "handed",
+      "entityType": "term",
+      "sentence": "handed, flowing with gifts even as the river flowed with",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "friend",
+      "entityType": "term",
+      "sentence": "friend, wait here and I will make you a gift.*' And he gave the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "house",
+      "entityType": "term",
+      "sentence": "house, and the kind of dances and songs that belonged to them.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mask",
+      "entityType": "term",
+      "sentence": "mask, and the mask of the Little Man that goes about the house",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "talking",
+      "entityType": "term",
+      "sentence": "talking, talking, and trying to quarrel with others. Wakiash only",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "happening",
+      "entityType": "term",
+      "sentence": "happening, and Wakiash found that instead of four days he had",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kalakuyuwish",
+      "entityType": "term",
+      "sentence": "Kalakuyuwish, great as the sky-pole is he I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sym",
+      "entityType": "term",
+      "sentence": "corn-stalk with its joints. Corn might almost be called a sym-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "else",
+      "entityType": "term",
+      "sentence": "else, agriculturalists. ''' '■ \">",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "shortly",
+      "entityType": "term",
+      "sentence": "shortly, just a part of it, and sing you the one song. I am glad to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Later",
+      "entityType": "term",
+      "sentence": "Later, in the shadow of afternoon, the old chief told the story",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "slowly",
+      "entityType": "term",
+      "sentence": "slowly, and all the while the ball grew larger as he rolled it, till at",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "quickly",
+      "entityType": "term",
+      "sentence": "quickly:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sky",
+      "entityType": "term",
+      "sentence": "sky, motionless, for it never touched the ground. Then he threw",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Himalo",
+      "entityType": "term",
+      "sentence": "Himalo, tiimalo. Let it go, let it go,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hai-ya",
+      "entityType": "term",
+      "sentence": "Hai-ya, hai-ya — hai-ya, hai-ya —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wind",
+      "entityType": "term",
+      "sentence": "Wind - Song (Medicine - Song)",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "men",
+      "entityType": "term",
+      "sentence": "men,\" and was probably given to the Apaches by neighboring",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mojave",
+      "entityType": "term",
+      "sentence": "Carlos County, Arizona, and accordingly are known as Mojave-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "together",
+      "entityType": "term",
+      "sentence": "together, and then they hollowed out a. tree like a trough and put",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thought",
+      "entityType": "term",
+      "sentence": "thought, \"How can I bear children and make a new people?\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "crag",
+      "entityType": "term",
+      "sentence": "crag, and in this way she conceived, and bore a daughter. When",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ka-amja",
+      "entityType": "term",
+      "sentence": "Ka-amja, \" The-One-Who-Never-Died.\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fruit",
+      "entityType": "term",
+      "sentence": "fruit, and the Hot Wind saw her and stole her away.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Woman",
+      "entityType": "term",
+      "sentence": "Woman, and said, \" I have seen the trail of the Wind who has stolen",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "snake",
+      "entityType": "term",
+      "sentence": "snake, and gave back the ring to the Wind. The Wind tried to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cJL",
+      "entityType": "term",
+      "sentence": "cJL,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "wheat",
+      "entityType": "term",
+      "sentence": "wheat, squash and melons.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "too",
+      "entityType": "term",
+      "sentence": "too, am glad at heart and go on my uphill road, the road of good-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jtt",
+      "entityType": "term",
+      "sentence": "Jtt, >oai> ojf A<r»rt) , -tY\" '^ ^^ ■'^ ^ '\"y ■itraiyit r<raj) ^",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ica",
+      "entityType": "term",
+      "sentence": "ica, are a large nomad tribe whose home is in the deserts",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Stevenson",
+      "entityType": "term",
+      "sentence": "Stevenson, to which authorities indebtedness is acknowledged.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "awe",
+      "entityType": "term",
+      "sentence": "awe, the grandeur of the desert.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "take",
+      "entityType": "term",
+      "sentence": "take, blessings will surely follow and evils will be warded off.\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gaze",
+      "entityType": "term",
+      "sentence": "gaze, bend every thought upon their singing that they may not err",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "color-symbolism",
+      "entityType": "term",
+      "sentence": "color-symbolism— white for the east; blue for the south; yellow for the west; black for the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "DsicAI-nantar",
+      "entityType": "term",
+      "sentence": "DsicAI-nantar,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tain",
+      "entityType": "term",
+      "sentence": "tain, pure and holy, living eternally, forever blessed.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Be-yc-Ia-naseya",
+      "entityType": "term",
+      "sentence": "Be-yc-Ia-naseya,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Be-ye-Ia-naseyo",
+      "entityType": "term",
+      "sentence": "Be-ye-Ia-naseyo,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Be-ye-Ia-naseya",
+      "entityType": "term",
+      "sentence": "Be-ye-Ia-naseya,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ho-digin-Iadji-ye-ye",
+      "entityType": "term",
+      "sentence": "Ho-digin-Iadji-ye-ye,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hogani-Ia",
+      "entityType": "term",
+      "sentence": "Hogani-Ia,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "yenezrani",
+      "entityType": "term",
+      "sentence": "yenezrani; the child of White-Shefl-Woman was the god Tobajischini.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "last",
+      "entityType": "term",
+      "sentence": "last, one day, they set out to find him for themselves; they took a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stone",
+      "entityType": "term",
+      "sentence": "stone, and arrows of rainbow, of sttnbeam, and of lightning. So the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "gems",
+      "entityType": "term",
+      "sentence": "gems, that they may grow and become many.\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nayenezrani",
+      "entityType": "term",
+      "sentence": "Nayenezrani, Lo, behold me, he am I,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Clearest",
+      "entityType": "term",
+      "sentence": "Clearest, purest flint the heart",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rain",
+      "entityType": "term",
+      "sentence": "rain, down from the Rain-Mountain, through the com, amid the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Betra-fco",
+      "entityType": "term",
+      "sentence": "Betra-fco,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Banga-toyishtini-ko",
+      "entityType": "term",
+      "sentence": "Banga-toyishtini-ko,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Estsan",
+      "entityType": "term",
+      "sentence": "forth she was called Estsan Digini, The Holy Woman.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chant",
+      "entityType": "term",
+      "sentence": "chant, four runners are dressed to represent four holy beings —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cine-men",
+      "entityType": "term",
+      "sentence": "cine-men, while dressing the runners to represent the Divine Ones,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Baiyajiltriyish",
+      "entityType": "term",
+      "sentence": "Baiyajiltriyish,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ke-pa-nashjini",
+      "entityType": "term",
+      "sentence": "Ke-pa-nashjini,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kla-pa-naskan-a",
+      "entityType": "term",
+      "sentence": "Kla-pa-naskan-a,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Baiyajiltriyishi",
+      "entityType": "term",
+      "sentence": "Baiyajiltriyishi,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Niltsan-befcan-a",
+      "entityType": "term",
+      "sentence": "Niltsan-befcan-a,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sing",
+      "entityType": "term",
+      "sentence": "sing, bending every thought on prayerful wish for success. While they sing, the distant deer",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Coming",
+      "entityType": "term",
+      "sentence": "Coming, coming now.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Stamping",
+      "entityType": "term",
+      "sentence": "Stamping, turns the frightened deer",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lightning",
+      "entityType": "term",
+      "sentence": "lightning, rainbow, sun, moon, stars; the earth, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ginning",
+      "entityType": "term",
+      "sentence": "ginning, First-Man, and of the yellow com. First- Woman. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "say",
+      "entityType": "term",
+      "sentence": "say: \" It has spotted wings, three on each side. It makes a very",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sa-a",
+      "entityType": "term",
+      "sentence": "cally called Sa-a narai (Everlasting Life), and the sky or the moon,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Naestsan-iye",
+      "entityType": "term",
+      "sentence": "Naestsan-iye,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Sisnajinni-ye",
+      "entityType": "term",
+      "sentence": "Sisnajinni-ye,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hayolkatli-ye",
+      "entityType": "term",
+      "sentence": "Hayolkatli-ye,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Meeting",
+      "entityType": "term",
+      "sentence": "Meeting, joining one another.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sisnajinni",
+      "entityType": "term",
+      "sentence": "Sisnajinni,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "TsodsicAI",
+      "entityType": "term",
+      "sentence": "TsodsicAI,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tradetin-iye",
+      "entityType": "term",
+      "sentence": "Tradetin-iye,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "AnilcAtani-ye",
+      "entityType": "term",
+      "sentence": "AnilcAtani-ye,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Life-that-never-passeth",
+      "entityType": "term",
+      "sentence": "Life-that-never-passeth,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "f-tx",
+      "entityType": "term",
+      "sentence": "f-tx - <c — -at < - c^",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "JUci",
+      "entityType": "term",
+      "sentence": "JUci - yyLo '- 'ICo o. - 'n*.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "CiVo",
+      "entityType": "term",
+      "sentence": "CiVo; Cfer aci/n/f\" <*v^'",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "KJL",
+      "entityType": "term",
+      "sentence": "KJL - -X/y-i-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cloud-form",
+      "entityType": "term",
+      "sentence": "cloud-form, typical of Southwestern Indian designs. Behind",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "folk",
+      "entityType": "term",
+      "sentence": "folk, subsisting on the com, vegetables, and fruits which by dint",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "well-ordered",
+      "entityType": "term",
+      "sentence": "well-ordered, thrifty, and industrious communities. The white",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "angle",
+      "entityType": "term",
+      "sentence": "angle,' and encompassed by stone gutters to receive the ground",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "He-ya",
+      "entityType": "term",
+      "sentence": "He-ya, ha-ya, he-yal",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Awiyane",
+      "entityType": "term",
+      "sentence": "Awiyane,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ela",
+      "entityType": "term",
+      "sentence": "Ela, el« toma wahane",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yonder",
+      "entityType": "term",
+      "sentence": "Yonder, yonder see the fair rainbow,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "brightly",
+      "entityType": "instrument",
+      "sentence": "See the rainbow brightly decked and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Singing",
+      "entityType": "term",
+      "sentence": "Singing, \" Hitherward, hitherward, hither-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ward",
+      "entityType": "term",
+      "sentence": "ward, rain,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Qiuap-tono",
+      "entityType": "term",
+      "sentence": "Qiuap-tono,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chuap-tono",
+      "entityType": "term",
+      "sentence": "Chuap-tono,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lonawe",
+      "entityType": "term",
+      "sentence": "Lonawe,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "HIitowe",
+      "entityType": "term",
+      "sentence": "HIitowe,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Youth",
+      "entityType": "instrument",
+      "sentence": "'Twas the bright Rainbow Youth,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Shi",
+      "entityType": "term",
+      "sentence": "Shi— elu !",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Lowi-yuteapa",
+      "entityType": "term",
+      "sentence": "Lowi-yuteapa,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Beautiful",
+      "entityType": "term",
+      "sentence": "Beautiful, lo, the summer clouds.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Onward",
+      "entityType": "term",
+      "sentence": "Onward, lo, they come,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "fix",
+      "entityType": "term",
+      "sentence": "-fix, .^ou^ ^",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cloud",
+      "entityType": "term",
+      "sentence": "cloud, sun, lightning, rainbow, and rain. These drawings are",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "form",
+      "entityType": "term",
+      "sentence": "form, so that the roof of the first story is at the same",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "I-o-ho",
+      "entityType": "term",
+      "sentence": "I-o-ho, waitilanni,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Polaina",
+      "entityType": "term",
+      "sentence": "Polaina, polaina,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hai-ke-o-tzi-o-no-ho",
+      "entityType": "term",
+      "sentence": "Hai-ke-o-tzi-o-no-ho,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kohochinishi",
+      "entityType": "term",
+      "sentence": "Kohochinishi,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Koeshkasi",
+      "entityType": "term",
+      "sentence": "Koeshkasi,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kukanishi",
+      "entityType": "term",
+      "sentence": "Kukanishi,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kasheshi",
+      "entityType": "term",
+      "sentence": "Kasheshi,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Fly",
+      "entityType": "term",
+      "sentence": "Fly, blue-wing,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "iSL",
+      "entityType": "term",
+      "sentence": "iSL - to",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "plaqtie",
+      "entityType": "term",
+      "sentence": "plaqtie, on which is painted a birtterfly. This drawing is fay",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gashhoienim",
+      "entityType": "term",
+      "sentence": "Gashhoienim, a Hopi Indian girl.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "only",
+      "entityType": "term",
+      "sentence": "only, stand the seven villages of the Hopi Indians, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nlOLOLOMAI",
+      "entityType": "term",
+      "sentence": "nlOLOLOMAI, chief of the Hopi village of Oraibi, was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lolotomai",
+      "entityType": "term",
+      "sentence": "Lwell named Lolotomai (Very -Good), for he had ever",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gotten",
+      "entityType": "term",
+      "sentence": "gotten, why even your language may some day pass away.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "people",
+      "entityType": "term",
+      "sentence": "people, even to the children of their children, could know your",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hopi",
+      "entityType": "term",
+      "sentence": "Hopi, that white men may know of what you sing. When they",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "understand",
+      "entityType": "term",
+      "sentence": "understand, they will perhaps no longer want to stop your dances",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "top",
+      "entityType": "term",
+      "sentence": "top, spreading a blanket for a seat.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wuiouchim-yungya",
+      "entityType": "term",
+      "sentence": "' This ceremony is called Wuiouchim-yungya..",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "beetle",
+      "entityType": "term",
+      "sentence": "beetle, see no more.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Na-ikwiokiango",
+      "entityType": "term",
+      "sentence": "Na-ikwiokiango,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pava",
+      "entityType": "term",
+      "sentence": "Pava, pava, pava !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pwva",
+      "entityType": "term",
+      "sentence": "Pwva, pava, pava I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ment",
+      "entityType": "term",
+      "sentence": "ment, spontaneoos, alert, foil of life and laughter.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ripe",
+      "entityType": "term",
+      "sentence": "ripe, the youths in the field hold high the fairest fruit -and summon",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Peyo",
+      "entityType": "term",
+      "sentence": "Peyo, peyo !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Laugliing",
+      "entityType": "term",
+      "sentence": "Laugliing, laughing, thus:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bavatalawinani",
+      "entityType": "term",
+      "sentence": "Bavatalawinani,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "lyo",
+      "entityType": "term",
+      "sentence": "lyo, iyo I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wata",
+      "entityType": "term",
+      "sentence": "Wata, wata,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Iyo",
+      "entityType": "term",
+      "sentence": "Iyo, iyo !",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Cold",
+      "entityType": "term",
+      "sentence": "Cold, cold !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hevebeta",
+      "entityType": "term",
+      "sentence": "Hevebeta, come, oh, come !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wtt-wata",
+      "entityType": "term",
+      "sentence": "Wtt-wata, wa-wata —",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Wttta",
+      "entityType": "term",
+      "sentence": "Wttta, wtrta — ow !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shi-i-wa-hana",
+      "entityType": "term",
+      "sentence": "Shi-i-wa-hana, (Shiwana)",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Shi-wa-wai-ya",
+      "entityType": "term",
+      "sentence": "Shi-wa-wai-ya,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Wa-wttta",
+      "entityType": "term",
+      "sentence": "Wa-wttta, wa-wota,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Wa-wfrta",
+      "entityType": "term",
+      "sentence": "Wa-wfrta, wa-wata.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pour",
+      "entityType": "term",
+      "sentence": "Pour, poor down.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ceremony",
+      "entityType": "instrument",
+      "sentence": "^1 HE Flute Ceremony, like most Hopi ceremoniest is a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "spring",
+      "entityType": "term",
+      "sentence": "spring, some singing, while others play the same melody on large",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hao",
+      "entityType": "term",
+      "sentence": "Hao, hao, hao inam« !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hail",
+      "entityType": "term",
+      "sentence": "Hail, fathers, hail 1",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Everywhere",
+      "entityType": "term",
+      "sentence": "Everywhere, far and near,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "hearth",
+      "entityType": "term",
+      "sentence": "hearth; the firelight showed the brown, handsome face, velvet clothes",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "upon",
+      "entityType": "term",
+      "sentence": "upon, and I joined the group by the fire. I had brought, as a fare-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "coantry",
+      "entityType": "term",
+      "sentence": "coantry,\" I said. \" Bat my people woald be as mach sarprised if",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "space",
+      "entityType": "term",
+      "sentence": "space,\" also of \" The Sun Father, who is directly associated with the supreme power; ... he",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "son",
+      "entityType": "term",
+      "sentence": "son, and scatters the sacred com-meal. Then he prays for all the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tti",
+      "entityType": "term",
+      "sentence": "tti:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tra",
+      "entityType": "term",
+      "sentence": "tra— I — , — \\ +. \\t",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "method",
+      "entityType": "term",
+      "sentence": "method, and the red Indian, viewed in this light, becomes one of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "continent",
+      "entityType": "term",
+      "sentence": "continent; yet they are offered as approximate only, for philological accuracy requires full and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kiowa",
+      "entityType": "term",
+      "sentence": "Kiowa: Hr. James Mooney, Bureau of American Ethnology 'Washington, D. C.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ZuSi",
+      "entityType": "term",
+      "sentence": "ZuSi: Mrs. M. C Stevenson, Bureau of American Ethnology, Washington, D. C.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pi-yela-yelo",
+      "entityType": "term",
+      "sentence": "pi-yela-yelo, an emphatic ending)",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "yujkhe",
+      "entityType": "term",
+      "sentence": "yujkhe, lying prone, lo (emphatic ending)",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sum-mon",
+      "entityType": "term",
+      "sentence": "sum-mon, cry out",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "half",
+      "entityType": "term",
+      "sentence": "half: ah, to do)",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tata",
+      "entityType": "term",
+      "sentence": "Tata, whia'",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "carrying",
+      "entityType": "instrument",
+      "sentence": "box-wood bow carrying this one",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "understood",
+      "entityType": "instrument",
+      "sentence": "{sacred bow) {bow understood)",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "aid",
+      "entityType": "term",
+      "sentence": "aid, is always able to procure food in plenty.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "divine",
+      "entityType": "term",
+      "sentence": "divine, miraculous power",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "crying",
+      "entityType": "term",
+      "sentence": "crying, beside the tipi wall. There it was that there came upon me in sleep the divine power",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Na-n",
+      "entityType": "term",
+      "sentence": "Na-n:",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Meaning",
+      "entityType": "term",
+      "sentence": "Meaning: — Wakiash causes the distant flood to rise, signifying that his greatness and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mountain-Song",
+      "entityType": "term",
+      "sentence": "Mountain-Song, or Hymn",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "mountain",
+      "entityType": "term",
+      "sentence": "mountain, or, I walk thither life unending",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "em-phasis",
+      "entityType": "term",
+      "sentence": "em-phasis, as \" indeed \")",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "modified",
+      "entityType": "term",
+      "sentence": "modified, the words tro, water, and fcos, cloud. Called by the Americans, San Francisco",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dawn-light",
+      "entityType": "term",
+      "sentence": "dawn-light, first light, coming",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tro-altlanastshini",
+      "entityType": "term",
+      "sentence": "tro-altlanastshini, or tro-tlanastshi",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "water",
+      "entityType": "term",
+      "sentence": "water, snow-water, hail-water, and water from the four quarters of the world. Water used",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nekliz",
+      "entityType": "term",
+      "sentence": "nekliz, or inkliz",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tin",
+      "entityType": "term",
+      "sentence": "tin, or hlin",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tro-tlanastshini",
+      "entityType": "term",
+      "sentence": "tro-tlanastshini, or tro-tlanastshi",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "mist",
+      "entityType": "term",
+      "sentence": "mist, dust (meaning : when the horse of the Sun - God goes, he raises a dust of these",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "covered",
+      "entityType": "term",
+      "sentence": "covered, hidden {when the horse runs, the sacred corn-pollen belonging to the sun is all about",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ivith",
+      "entityType": "term",
+      "sentence": "ivith: facing one another",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "asis",
+      "entityType": "term",
+      "sentence": "asis, meaning \" indeed,'",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "literally",
+      "entityType": "term",
+      "sentence": "literally, the Upper Darkness)",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kiva",
+      "entityType": "term",
+      "sentence": "kiva, in the double corn-ear",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "blossom",
+      "entityType": "term",
+      "sentence": "blossom, tassel, will shine",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bright",
+      "entityType": "term",
+      "sentence": "bright, chasing one another",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "patch",
+      "entityType": "term",
+      "sentence": "patch, or cluster, of yellow flowers yellow butterflies",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "arouse",
+      "entityType": "term",
+      "sentence": "arouse, bestir yourself",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Flute",
+      "entityType": "term",
+      "sentence": "Flute - Song",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bedagi",
+      "entityType": "term",
+      "sentence": "Bedagi, Big Thunder.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tatanfca-Ptecila",
+      "entityType": "term",
+      "sentence": "Tatanfca-Ptecila, Short Bull.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Matoisto-Nakipin",
+      "entityType": "term",
+      "sentence": "Matoisto-Nakipin, Bear-Arm-Necklace.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wicapi",
+      "entityType": "term",
+      "sentence": "Wicapi, Star.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Takonke-Hinto",
+      "entityType": "term",
+      "sentence": "Takonke-Hinto, Blue Horse.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Taiunke-Ciqala",
+      "entityType": "term",
+      "sentence": "Taiunke-Ciqala, Little Horse.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Capa-Tanka",
+      "entityType": "term",
+      "sentence": "Capa-Tanka, Big Beaver, Frank Goings.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tatanka-Hinapawi",
+      "entityType": "term",
+      "sentence": "Tatanka-Hinapawi, Buffalo-Appearing",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "yicapi-Wafcan",
+      "entityType": "term",
+      "sentence": "yicapi-Wafcan, Holy Star, Julia Yellow-Hair.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tasunke-Hinsa",
+      "entityType": "term",
+      "sentence": "Tasunke-Hinsa, Sorrel Horse.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "MaKpiya-Tatanka",
+      "entityType": "term",
+      "sentence": "MaKpiya-Tatanka, Sky Bull.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mato-Wankantuya",
+      "entityType": "term",
+      "sentence": "Mato-Wankantuya, High Bear.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Huhuseca-ska",
+      "entityType": "term",
+      "sentence": "Huhuseca-ska, White Bone.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mato-Naiin",
+      "entityType": "term",
+      "sentence": "Mato-Naiin, Standing-Bear.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sakuruta",
+      "entityType": "term",
+      "sentence": "Sakuruta, Gnning Sun, James R. Murie.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Letakots-Lesa",
+      "entityType": "term",
+      "sentence": "Letakots-Lesa, Eagle Chief.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lesa-Kipiliru",
+      "entityType": "term",
+      "sentence": "Lesa-Kipiliru, Young Chief.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lukitawika",
+      "entityType": "term",
+      "sentence": "Lukitawika - wari. Rider - Around - the - Great-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wihu-Hwaiha-O-Usz",
+      "entityType": "term",
+      "sentence": "Wihu-Hwaiha-O-Usz, or Hiamovi, High Chief,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Honihi-Wotoma",
+      "entityType": "term",
+      "sentence": "Honihi-Wotoma, Wolf-Robe.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nahios-si",
+      "entityType": "term",
+      "sentence": "Nahios-si, Three Fingers.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "MocAta-Wontz-tz",
+      "entityType": "term",
+      "sentence": "MocAta-Wontz-tz, Starving Elk.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wihunahe",
+      "entityType": "term",
+      "sentence": "Wihunahe, Chief Woman.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mowihaiz",
+      "entityType": "term",
+      "sentence": "Mowihaiz, Magpie, Leonard Tyler.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wupcha-e",
+      "entityType": "term",
+      "sentence": "Wupcha-e, White Cap.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wowesta",
+      "entityType": "term",
+      "sentence": "Wowesta, White Buffalo Woman.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hotuwasu",
+      "entityType": "term",
+      "sentence": "Hotuwasu, Little Buffalo Bull.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wageoh",
+      "entityType": "term",
+      "sentence": "Wageoh, Maud Shawnee.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nawadek",
+      "entityType": "term",
+      "sentence": "Nawadek, Susie Sage.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nabilase",
+      "entityType": "term",
+      "sentence": "Nabilase, Jessie Sage.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gelbini",
+      "entityType": "term",
+      "sentence": "Gelbini, Cappie Webster.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Apiatan",
+      "entityType": "term",
+      "sentence": "Apiatan, Wooden Lance.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sah-mount",
+      "entityType": "term",
+      "sentence": "Sah-mount, Samon.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Guwekondgieh",
+      "entityType": "term",
+      "sentence": "Guwekondgieh, Black Wolf.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Potine",
+      "entityType": "term",
+      "sentence": "Potine, White Beaver.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Chash-chunk-a",
+      "entityType": "term",
+      "sentence": "Chash-chunk-a, Wave, Peter Sampson.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Nek-hu-wi-fca",
+      "entityType": "term",
+      "sentence": "Nek-hu-wi-fca, South Wind, Jacob Russell.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wa-che-Ii-man-iga",
+      "entityType": "term",
+      "sentence": "Wa-che-Ii-man-iga, Surly Walker, James Mal-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Klalish",
+      "entityType": "term",
+      "sentence": "Klalish, Charles James Nowell.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Visak-Vo-o-yim",
+      "entityType": "term",
+      "sentence": "Visak-Vo-o-yim, Hovering Hawk.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tuari",
+      "entityType": "term",
+      "sentence": "Tuari, Young Eagle.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Idima",
+      "entityType": "term",
+      "sentence": "Idima, John Corn.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lololomai",
+      "entityType": "term",
+      "sentence": "Lololomai, Very Good.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tawakwaptiwa",
+      "entityType": "term",
+      "sentence": "Tawakwaptiwa, Sun-Down-Shining.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lahpu",
+      "entityType": "term",
+      "sentence": "Lahpu, Cedar-Bark.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Acoma",
+      "entityType": "term",
+      "sentence": "Acoma, 447.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Agricaltore",
+      "entityType": "term",
+      "sentence": "Agricaltore, Agricoltaral (D.), 37, 38; (Pa.),",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Anaye",
+      "entityType": "term",
+      "sentence": "Anaye, alien deities (N.), 359, 360.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Elk",
+      "entityType": "term",
+      "sentence": "Elk, Frog, Frog-folfc, Horse, Moose, Mouse,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Otter",
+      "entityType": "term",
+      "sentence": "Otter, Wolf; compare also Birds, Reptiles,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Arowp",
+      "entityType": "term",
+      "sentence": "Arowp, Song of the Mocking-Bird (Y.), 340,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "person",
+      "entityType": "term",
+      "sentence": "person, 493.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Bluebird",
+      "entityType": "term",
+      "sentence": "Bluebird, Blackbird, Chicken-hawk, Crow,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Eagle",
+      "entityType": "term",
+      "sentence": "Eagle, Hawk, Hamming .-bird, Ha-hok,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Swallow",
+      "entityType": "term",
+      "sentence": "Swallow, Thunder-Bird; compare also Ani-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mals",
+      "entityType": "term",
+      "sentence": "mals, Reptiles, Insects.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Thunder",
+      "entityType": "term",
+      "sentence": "Thunder, mythic personage (N.), 359.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Boas",
+      "entityType": "term",
+      "sentence": "Boas, Dr. Franz 298 (f.); 535.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bow",
+      "entityType": "term",
+      "sentence": "Bow, the Sacred (C), see Sacred Bow.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Brule",
+      "entityType": "term",
+      "sentence": "Brule, members bf the band contributors of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Buffalo",
+      "entityType": "term",
+      "sentence": "Buffalo, xxi.; (PI.), 31 (f.); (D.), 38, 39, 41,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "contributor",
+      "entityType": "term",
+      "sentence": "contributor, 56, 561.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ings",
+      "entityType": "term",
+      "sentence": "ings, 3(3.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chuhwuht",
+      "entityType": "term",
+      "sentence": "Chuhwuht, Song of the World (Pi.), 3 J 5, 3 J 6,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cibola",
+      "entityType": "term",
+      "sentence": "Cibola, seven cities of, identical with Z. habi-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Corn",
+      "entityType": "term",
+      "sentence": "Corn, male and female (N.), 371.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Corn-grinding",
+      "entityType": "term",
+      "sentence": "Corn-grinding, xxii.; (Z.), 429.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Corn-meal",
+      "entityType": "term",
+      "sentence": "Corn-meal, sacred, see Sacred corn-meal.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Gushing",
+      "entityType": "term",
+      "sentence": "Gushing, Frank Hamilton (Z)., 429 (f.), 430",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Dana",
+      "entityType": "term",
+      "sentence": "Dana, Francis Joseph (Wa.), see Blamswe-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dance",
+      "entityType": "term",
+      "sentence": "Dance, Dances, Dancing (Wa.), 8, 10; (D.),",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Depenitsa",
+      "entityType": "term",
+      "sentence": "Depenitsa, sacred motmtain (N.), 351, 353,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Digini",
+      "entityType": "term",
+      "sentence": "Digini, \" Divine Ones,\" mythic personages",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Digini-ossini",
+      "entityType": "term",
+      "sentence": "Digini-ossini, the Holy Believer, mythic per-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Dine",
+      "entityType": "term",
+      "sentence": "Dine, \" The people \" N. name for them-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Doko-oslid",
+      "entityType": "term",
+      "sentence": "Doko-oslid, sacred mountain (N.), 35), 353,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dorsey",
+      "entityType": "term",
+      "sentence": "Dorsey, Dr. George A. (Ar.), 198.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dream",
+      "entityType": "term",
+      "sentence": "Dream, Dreams, Dreamer, Dreaming (PI.),",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dry-paintings",
+      "entityType": "term",
+      "sentence": "Dry-paintings, sand-pictures, so-called (N.),",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Earth",
+      "entityType": "term",
+      "sentence": "Earth, as the common mother (Wa.), II; (D.),",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ching-geka",
+      "entityType": "term",
+      "sentence": "ching-geka, the Little Hare (Wi.).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Eaton",
+      "entityType": "term",
+      "sentence": "Eaton, George, a Wi. Indian, 258.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Echo",
+      "entityType": "term",
+      "sentence": "Echo, in myth (Kw.), 302.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ema-Iiya",
+      "entityType": "term",
+      "sentence": "Ema-Iiya, Z. contributor, Zuni Indians' Title-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "page",
+      "entityType": "term",
+      "sentence": "page, facing p. 426; 561.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Emergence",
+      "entityType": "term",
+      "sentence": "Emergence, Navajo Story of the, 350 (f.)(",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Estsan-Natlehi",
+      "entityType": "term",
+      "sentence": "Estsan-Natlehi, deity (N.), 359, 360.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "First-Man",
+      "entityType": "term",
+      "sentence": "First-Man, mythic personage (N.), 351, 371.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Fiske",
+      "entityType": "term",
+      "sentence": "Fiske, John, quotation from, 533.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Fletcher",
+      "entityType": "term",
+      "sentence": "Fletcher, Alice C, xxii. (f.); (Pa.), 102, I07(f.).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gashoienim",
+      "entityType": "term",
+      "sentence": "Gashoienim, H. contributor, Paefalo Indians'",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Title-page",
+      "entityType": "term",
+      "sentence": "Title-page, facing p. 422; Hopi Indians' Title-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Geronimo",
+      "entityType": "term",
+      "sentence": "Geronimo, Ap. chief, contributor, 323, 324, 325,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wan",
+      "entityType": "term",
+      "sentence": "wan; (Pa.), see Kehare Katzaru.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Society",
+      "entityType": "instrument",
+      "sentence": "Gray Flute Society (H.), 489.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Gumanchia",
+      "entityType": "term",
+      "sentence": "Gumanchia, Rivers Lavender, Ap. contributor,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hako",
+      "entityType": "term",
+      "sentence": "Hako, a. Paiunee Ceremony, 107 (f.).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hariacha-thiafc",
+      "entityType": "term",
+      "sentence": "Hariacha-thiafc, Sitting Buffalo-Bull, Ar. con-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tributor",
+      "entityType": "term",
+      "sentence": "tributor, 200.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hastyehogan",
+      "entityType": "term",
+      "sentence": "Hastyehogan, deity (N.), 356, 373.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hastyeyaiti",
+      "entityType": "term",
+      "sentence": "Hastyeyaiti, deity (N.), 356, 369, 373.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tawi",
+      "entityType": "term",
+      "sentence": "Tawi, He-hea Katzina Song",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "He-She",
+      "entityType": "term",
+      "sentence": "He-She, Z., Supreme Being, 493 (f.)",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hiamovi",
+      "entityType": "term",
+      "sentence": "Hiamovi, or Wihu-hwaihu-o-usz, High Cfiief , or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hinanatina",
+      "entityType": "term",
+      "sentence": "Hinanatina, the Arapaho people proper, 197.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hinimiyotzu",
+      "entityType": "term",
+      "sentence": "Hinimiyotzu, Song of the Bow and Arrow",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hi-wa-shi-da",
+      "entityType": "term",
+      "sentence": "Hi-wa-shi-da, Dance following the Holy Song",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hogan",
+      "entityType": "term",
+      "sentence": "Hogan, N. dwelling, 348, 356, 357, 358, 367.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Biyin",
+      "entityType": "term",
+      "sentence": "Biyin, Song of the Hogans (Hozhonji",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pige",
+      "entityType": "term",
+      "sentence": "pige, facing p. 34; (D.), 38, 39, 40, 49, 52,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trifaator",
+      "entityType": "term",
+      "sentence": "trifaator, 153, 155, 172, 174, J76, 561.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Horse",
+      "entityType": "term",
+      "sentence": "Horse, Pony (D.), 59; (Pa.), 109; (C), 151,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hotowasu",
+      "entityType": "term",
+      "sentence": "Hotowasu, Little Buffalo Bull, C. contributor,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hu-huk",
+      "entityType": "term",
+      "sentence": "Hu-huk, mythic bird (Kw.), 298.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hukutgodga",
+      "entityType": "term",
+      "sentence": "Hukutgodga, M. contributor, 336, 56 J.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ichebeniatha",
+      "entityType": "term",
+      "sentence": "Ichebeniatha, Ar. Supreme Being, 198.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gvilization",
+      "entityType": "term",
+      "sentence": "Gvilization, national policy for, xxxiii.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Drawing",
+      "entityType": "term",
+      "sentence": "Drawing, see Drawings by Indians.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Music",
+      "entityType": "term",
+      "sentence": "Music, notation of, vii.;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pueblo",
+      "entityType": "term",
+      "sentence": "Pueblo, vii.; character of, xxv., xxvi., xxvii.,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Poetry",
+      "entityType": "term",
+      "sentence": "Poetry, xxiv., xxv.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "citation",
+      "entityType": "term",
+      "sentence": "citation, 102 (f.)",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Talent",
+      "entityType": "term",
+      "sentence": "Talent, xxix., xxx.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ant",
+      "entityType": "term",
+      "sentence": "Ant, Bee, Beetle, Butterfly, \" Rioener,\" Spid-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ers",
+      "entityType": "term",
+      "sentence": "ers; compare also Animals, Birds, Reptiles.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Johano-ai",
+      "entityType": "term",
+      "sentence": "Johano-ai, sun-god (N.), 359, 360, 361, 362.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "KavaJighongevah",
+      "entityType": "term",
+      "sentence": "KavaJighongevah, H. contributor, 489, 529, 561.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ke-chung-gefca",
+      "entityType": "term",
+      "sentence": "Ke-chung-gefca, The Tortoise, mythic person-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kisafca",
+      "entityType": "term",
+      "sentence": "Kisafca, Song of Rejoicing and Thanksgiving",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "utor",
+      "entityType": "term",
+      "sentence": "utor, KwakiutI Title-page, facing p. 294;",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "KlawuIacAa",
+      "entityType": "term",
+      "sentence": "KlawuIacAa, Song of the Totem-Pole (Kw.),",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Koianimptiwa",
+      "entityType": "term",
+      "sentence": "Koianimptiwa, H. contributor, 484, 508, 561.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ksiwhambeh",
+      "entityType": "term",
+      "sentence": "Ksiwhambeh, caltore hero of the Eastern",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ktiwanyisnim",
+      "entityType": "term",
+      "sentence": "Ktiwanyisnim, H. contributor, 488, 526, 561.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "La-ga-ka-nan-shke",
+      "entityType": "term",
+      "sentence": "La-ga-ka-nan-shke, mythic monster (Wi.), 251,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Laguna",
+      "entityType": "term",
+      "sentence": "Laguna, 461.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lahpa",
+      "entityType": "term",
+      "sentence": "Lahpa, H. contributor, 483, 505, 561.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lakota",
+      "entityType": "term",
+      "sentence": "Lakota, synonyme for Dakota, 37.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Landry",
+      "entityType": "term",
+      "sentence": "Landry, S. F., 163 (f.).",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Lavender",
+      "entityType": "term",
+      "sentence": "Lavender, Ap. contributor, 328, 561.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Leptahnit",
+      "entityType": "term",
+      "sentence": "Leptahnit, Wa. word for lieutenant-chief, 7.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lcsa-Kipiiiru",
+      "entityType": "term",
+      "sentence": "Lcsa-Kipiiiru, Young Chief, Pa. chief, contrib-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Leupp",
+      "entityType": "term",
+      "sentence": "Leupp, Hon. Francis E., Commissioner of Ind-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hare",
+      "entityType": "term",
+      "sentence": "Hare, mythic personage (Wi.), see",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Heaven-Domed-Lodge",
+      "entityType": "term",
+      "sentence": "Heaven-Domed-Lodge, Pa. contributor, J 11,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "MacAa-Mahaiyu",
+      "entityType": "term",
+      "sentence": "MacAa-Mahaiyu, The Great Mystery (C), J 5 J,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "MaKpiya",
+      "entityType": "term",
+      "sentence": "MaKpiya - Tatanka, Sky Bull, D. contributor,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Maiden-plants",
+      "entityType": "term",
+      "sentence": "Maiden-plants, see Corn-maidens.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Maliseet",
+      "entityType": "term",
+      "sentence": "Maliseet, a tribe of the Wabanakis, 3.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mallory",
+      "entityType": "term",
+      "sentence": "Mallory, James (Wi.), see Wa-che-li-man-iga.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Man-cho-sep-ka",
+      "entityType": "term",
+      "sentence": "Man-cho-sep-ka, Black Bear, Wi. scout, 259.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ma-o-na",
+      "entityType": "term",
+      "sentence": "Ma-o-na, The Earth-Maker, Wi. Supreme Being,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Masahongva",
+      "entityType": "term",
+      "sentence": "Masahongva, H. contributor, 485, 487, 517,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Masaveimah",
+      "entityType": "term",
+      "sentence": "Masaveimah, H. contributor, 489, 529, 561.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Matoisto-Nafcipin",
+      "entityType": "term",
+      "sentence": "Matoisto-Nafcipin, Bear-Arm-Necklace, D. con-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mato-Nazin",
+      "entityType": "term",
+      "sentence": "Mato-Nazin, Standing Bear, D. contributor, 60,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mato-Wanfcantuya",
+      "entityType": "term",
+      "sentence": "Mato-Wanfcantuya, High Bear, D. contributor,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mead",
+      "entityType": "term",
+      "sentence": "Mead, Frank (M.), 329.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mehchichiket",
+      "entityType": "term",
+      "sentence": "Mehchichiket, Wa. word for lieutenant-chief,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mice",
+      "entityType": "term",
+      "sentence": "Mice, see Mouse.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Micmac",
+      "entityType": "term",
+      "sentence": "Micmac, a tribe of the Wabanakis, 3.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mooney",
+      "entityType": "term",
+      "sentence": "Mooney, James, 41 (f.), 535.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Moqui",
+      "entityType": "term",
+      "sentence": "Moqui, 363.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mouse",
+      "entityType": "term",
+      "sentence": "Mouse, Mice (Wi.), 253; (Kw.), 300, 301.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Howihaiz",
+      "entityType": "term",
+      "sentence": "Howihaiz, Magpie, C contributor, J 64, 188,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Murie",
+      "entityType": "term",
+      "sentence": "Murie, James R. (Pa.), see Sakuruta.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Muyingwa",
+      "entityType": "term",
+      "sentence": "Muyingwa, H. deity, 479.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nagi",
+      "entityType": "term",
+      "sentence": "Nagi, D. word for soul, 6 J.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Naskan",
+      "entityType": "term",
+      "sentence": "Naskan, beautiful woven blankets (N.), 361.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Nek-hu-wi-ka",
+      "entityType": "term",
+      "sentence": "Nek-hu-wi-ka, South Wind, Jacob Russell, Wi.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nicolar",
+      "entityType": "term",
+      "sentence": "Nicolar, Joseph, Wa. contributor, 4, 561.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Niltshi",
+      "entityType": "term",
+      "sentence": "Niltshi, The Wind, N. personification, 359.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "NoJmihigon",
+      "entityType": "term",
+      "sentence": "NoJmihigon, Wa. word for clown, 7, 8.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nowell",
+      "entityType": "term",
+      "sentence": "Nowell, Charles James (Kw.), see Klalish.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ockaya",
+      "entityType": "term",
+      "sentence": "Ockaya, Corn-Grinding Songs (Z.), 430, 43 J,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Offering",
+      "entityType": "term",
+      "sentence": "Offering, ceremony (C), 151.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ogallalla",
+      "entityType": "term",
+      "sentence": "Ogallalla, members of the band, contributors",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Olowan",
+      "entityType": "term",
+      "sentence": "Olowan, Song (D.), 55, 79, 540.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Oraibi",
+      "entityType": "term",
+      "sentence": "Oraibi, H. village, 474, 483, 490, 494.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Orani",
+      "entityType": "term",
+      "sentence": "Orani, possible derivation of (N.), 366 (f.).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pajoka",
+      "entityType": "term",
+      "sentence": "Pajoka, Wi. name for Comanche, 260.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pani",
+      "entityType": "term",
+      "sentence": "Pani, synonyme for Pawnee, 93.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Parfleche",
+      "entityType": "term",
+      "sentence": "Parfleche, satchel of dressed hide, xv.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Passamaquoddy",
+      "entityType": "term",
+      "sentence": "Passamaquoddy, a. tribe of the Wafaanakis, 3.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pellote",
+      "entityType": "term",
+      "sentence": "Pellote, mescal button (C), 162.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pemmican",
+      "entityType": "term",
+      "sentence": "Pemmican, Indian dish (D.), 48.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Penobscot",
+      "entityType": "term",
+      "sentence": "Penobscot, a tribe of the Wabanakis, 3.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Plum-tree",
+      "entityType": "term",
+      "sentence": "Plum-tree, as symbol (Ki.), 226.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Prayer",
+      "entityType": "term",
+      "sentence": "Prayer, Prayers, Praying, xxiii., xxiv.; (PI.),",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Prince",
+      "entityType": "term",
+      "sentence": "Prince, Dr. J. Dynely, 535.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Prophet",
+      "entityType": "term",
+      "sentence": "Prophet, Paiute, of the Spirit-Dance Religion",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Paeblo",
+      "entityType": "term",
+      "sentence": "Paeblo, Pueblos (Po.), 425, 426; (Z.), 429; (S.).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Puva",
+      "entityType": "term",
+      "sentence": "Puva, H. word for sleep, 480.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rabbit-skin",
+      "entityType": "term",
+      "sentence": "Rabbit-skin, robes of, worn by Paiutes (D.),",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Reservation",
+      "entityType": "term",
+      "sentence": "Reservation, system, xxxiii.; Pine Ridge, 38;",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Rosebud",
+      "entityType": "term",
+      "sentence": "Rosebud, 38, 45; Cheyenne and Arapaho, •",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ripener",
+      "entityType": "term",
+      "sentence": "Ripener, an insect (N.), 371.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Rite",
+      "entityType": "term",
+      "sentence": "Rite, Rites (D.), 42, 6J; (C), J62, 163; (Ki.),",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Roosevelt",
+      "entityType": "term",
+      "sentence": "Roosevelt, Theodore, xix, 329, 476 (f.).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sagam",
+      "entityType": "term",
+      "sentence": "Sagam, Wa. word for chief, 7.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sage",
+      "entityType": "term",
+      "sentence": "Sage, Ar. chief, see Nakos.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sakipiriru",
+      "entityType": "term",
+      "sentence": "Sakipiriru, Young Dog Dance-Song (Pa.), J 12,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sampson",
+      "entityType": "term",
+      "sentence": "Sampson, Peter (Wi.), see Chash-chunk-a.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Schindler",
+      "entityType": "term",
+      "sentence": "Schindler, Kurt, vii.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Never-Died",
+      "entityType": "term",
+      "sentence": "Never-Died, mythic personage (M.), 331.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Shawnee",
+      "entityType": "term",
+      "sentence": "Shawnee, Maud (Ar.), see Wageoh.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sfcar-mu-nal",
+      "entityType": "term",
+      "sentence": "Sfcar-mu-nal, corn (Wa.), 6.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sfcirifci",
+      "entityType": "term",
+      "sentence": "Sfcirifci, Coyote Warrior-Song (Pa.), Ill, 112,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "captain",
+      "entityType": "term",
+      "sentence": "captain, 7.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Smoking",
+      "entityType": "term",
+      "sentence": "Smoking, ceremonial, xxiii.; (D.), 53.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "otz",
+      "entityType": "term",
+      "sentence": "otz, WucAtchse Etan No-otz, Red Fox So-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Somurturgigu-a",
+      "entityType": "term",
+      "sentence": "Somurturgigu-a, M. contributor, 337, 561.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Spirit",
+      "entityType": "term",
+      "sentence": "Spirit, Spirits (PL), 31; (D.), 39, 46, 53, 61, 62?",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Taiunfce",
+      "entityType": "term",
+      "sentence": "Taiunfce - Ciqala, Little Horse, D. contributor,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tasanfce-Hinas",
+      "entityType": "term",
+      "sentence": "Tasanfce-Hinas, Sorrel Horse, D. contributor,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tasunke-Hinto",
+      "entityType": "term",
+      "sentence": "Tasunke-Hinto, Blue Horse, D. chief, contrib-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tatanka-Hinapawr",
+      "entityType": "term",
+      "sentence": "Tatanka-Hinapawr, Buffalo-Appearing, D. con-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tatanka",
+      "entityType": "term",
+      "sentence": "Tatanka - Ptecila, Short Bull, D. contributor,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tau-muk",
+      "entityType": "term",
+      "sentence": "Tau-muk, the Milky \"Way (Pi.), 316.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Timfaer-Men",
+      "entityType": "term",
+      "sentence": "Timfaer-Men, wood-rats (C), 160.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tofaajischini",
+      "entityType": "term",
+      "sentence": "Tofaajischini, N. deity, 359.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tortoise",
+      "entityType": "term",
+      "sentence": "Tortoise, mythic personage (Wi.), see Ke-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "terlinear",
+      "entityType": "term",
+      "sentence": "terlinear, 535.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "TsicAnaodicftli",
+      "entityType": "term",
+      "sentence": "TsicAnaodicftli, mythic mountain (N.), 351.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Maiden",
+      "entityType": "term",
+      "sentence": "Maiden, mythic personage (N.), 351,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Turtle",
+      "entityType": "term",
+      "sentence": "Turtle, as symbol of the Earth (Ar.), 200.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lake",
+      "entityType": "term",
+      "sentence": "Lake, mythic lake (Ar.), 200.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Utar-Mur-wa-yeh",
+      "entityType": "term",
+      "sentence": "Utar-Mur-wa-yeh, tobacco (Wa.), 6.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vision",
+      "entityType": "term",
+      "sentence": "Vision, Visions (D.), 43, 45, 46, 49, 60, 61 ; (Pa.),",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Voth",
+      "entityType": "term",
+      "sentence": "Voth, Rev. H. R. (H.), 478, 535.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wa-che-li-man-iga",
+      "entityType": "term",
+      "sentence": "Wa-che-li-man-iga, Surly Walker, James Mal-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "lory",
+      "entityType": "term",
+      "sentence": "lory, Wi. contributor, 259, 282, 284, 56(.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Wai-fcun",
+      "entityType": "term",
+      "sentence": "Wai-fcun, Fable (Wi.), 253, 266, 548.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wafcashan",
+      "entityType": "term",
+      "sentence": "Wafcashan, linguistic branch of Northwest",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wak-chung-kaka",
+      "entityType": "term",
+      "sentence": "Wak-chung-kaka, mythic personage (Wi.),",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wambli-Waite",
+      "entityType": "term",
+      "sentence": "Wambli-Waite, Good -Eagle, D. contributor,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wampum",
+      "entityType": "term",
+      "sentence": "Wampum, sending of, in token of offer of mar-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wash-chlng-geka",
+      "entityType": "term",
+      "sentence": "Wash-chlng-geka, mythic personage (Wi.), 247,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Webster",
+      "entityType": "term",
+      "sentence": "Webster, Cappie (Ar.), see Gelbint.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Whe-e-yoni-sin",
+      "entityType": "term",
+      "sentence": "Whe-e-yoni-sin, sorcerous songs of a foe (N.).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wicapi-Wakan",
+      "entityType": "term",
+      "sentence": "Wicapi-Wakan, Holy Star, Julia Yellow-Hair,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Wicasa-Wakan",
+      "entityType": "term",
+      "sentence": "Wicasa-Wakan, Holy Man (D.), 32.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Wild-Cat",
+      "entityType": "term",
+      "sentence": "Wild-Cat, mythic Star Beast (Pa.), lOI.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wolf",
+      "entityType": "term",
+      "sentence": "Wolf, Wolves (D.), 54; (Pa.), 93? (C), 153, 155",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "reference",
+      "entityType": "term",
+      "sentence": "reference, 59.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lOI",
+      "entityType": "term",
+      "sentence": "lOI, 103.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wuh-te-hufc",
+      "entityType": "term",
+      "sentence": "Wuh-te-hufc, mythic personage (Wi.), 244.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hair",
+      "entityType": "term",
+      "sentence": "-Hair, Julia (D.), see Wicapi-Wakan.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Yolkai-Estsan",
+      "entityType": "term",
+      "sentence": "Yolkai-Estsan, N. deity, 359.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Yusun",
+      "entityType": "term",
+      "sentence": "Yusun, Ap. Supreme Being, 324.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Zuni",
+      "entityType": "term",
+      "sentence": "Zuni, 429, 533.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "decade",
+      "entityType": "term",
+      "sentence": "decade; yet should we never forget the child nor the child-race who",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    }
+  ]
+}

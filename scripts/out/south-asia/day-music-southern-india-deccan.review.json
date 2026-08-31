@@ -1,0 +1,2924 @@
+{
+  "book": {
+    "title": "The Music and Musical Instruments of Southern India and the Deccan",
+    "author": "C. R. Day",
+    "citation": "Day, C. R. The Music and Musical Instruments of Southern India and the Deccan. Novello, Ewer & Co., London, 1891."
+  },
+  "summary": {
+    "total": 314,
+    "validCount": 307,
+    "blockedCount": 7,
+    "warningCount": 33,
+    "blockerReasons": {
+      "This candidate is awaiting specialist review and cannot be published yet.": 7
+    }
+  },
+  "rows": [
+    {
+      "term": "NOVELLO",
+      "entityType": "term",
+      "sentence": "NOVELLO, i:\\VER & CO.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Captain",
+      "entityType": "term",
+      "sentence": "Captain, Oxi-ordshire Light Infantry",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ancient",
+      "entityType": "term",
+      "sentence": "ancient— Sanskrit treatises— Definition of s'ruti— System of twenty-two— Formation of scales",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Babylonia",
+      "entityType": "term",
+      "sentence": "Babylonia, Persia, and Arabia ; in Asia Minor, Greece, and Rome — and in India,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "harmonv",
+      "entityType": "term",
+      "sentence": "harmonv, and that of the rest of the world, whether ancient or modern, where",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "laws",
+      "entityType": "term",
+      "sentence": "laws, are insufficient to account for the material which allows the pliahility of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "half-tone",
+      "entityType": "term",
+      "sentence": "half-tone, according to the player's feeling or fancy. Whether this ideally half-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "music",
+      "entityType": "term",
+      "sentence": "music, capable of the greatest refinement of treatment, and altogether outside the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "appeared",
+      "entityType": "term",
+      "sentence": "appeared, the subject of Indian music has been generally thought devoid of all",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "research",
+      "entityType": "term",
+      "sentence": "research, a catalogue of various works dealing with the subject has been added,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "propounded",
+      "entityType": "term",
+      "sentence": "propounded, has been treated of. The thanks of the author are due to the late",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vina",
+      "entityType": "term",
+      "sentence": "vina, given in the Appendix.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "enquiry",
+      "entityType": "term",
+      "sentence": "enquiry, and for allowing access to valuable manuscripts ; and to the Rajah",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Government",
+      "entityType": "term",
+      "sentence": "Government, have again been fostered and encouraged, that of music",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ago",
+      "entityType": "term",
+      "sentence": "ago, sung with the same sweet dreamy cadences, the same wild melody, to the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Baroda",
+      "entityType": "term",
+      "sentence": "Baroda, or Bhande Ali of Indore, might be mentioned who have studied much and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Happily",
+      "entityType": "term",
+      "sentence": "Happily, in Southern India, ideas of this kind cannot be said to prevail",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "generally",
+      "entityType": "term",
+      "sentence": "generally; proofs to the contrary may be found in the many living musicians who",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sanskrit",
+      "entityType": "term",
+      "sentence": "Sanskrit, which has been maintained amongst the musicians of the courts of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mysore",
+      "entityType": "term",
+      "sentence": "Mysore, Tanjore, and Travancore, music has not been left, as in other parts,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fifth",
+      "entityType": "term",
+      "sentence": "was and still is called the fifth Veda. Hence the ancient Brahmins of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "unlearned",
+      "entityType": "term",
+      "sentence": "unlearned, and to this cause operating through a long succession of years the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Religion",
+      "entityType": "term",
+      "sentence": "Religion, bound up as it is with almost everything in India, naturally",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "canonized",
+      "entityType": "term",
+      "sentence": "canonized, and long chapters are devoted to the description of the habitations,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "called",
+      "entityType": "instrument",
+      "sentence": "' Organiim was the name given to this rude harmony. An instrument called Organistrum, in use in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Organistrum",
+      "entityType": "term",
+      "sentence": "' Organiim was the name given to this rude harmony. An instrument called Organistrum, in use in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sacra",
+      "entityType": "term",
+      "sentence": "sacra,'' St. Blaise, 1774.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "secondly",
+      "entityType": "term",
+      "sentence": "secondly, a learned native of this country told me that he had frequently seen",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bulbul",
+      "entityType": "term",
+      "sentence": "when a celebrated lutenist, Mirza Mahomed, surnamed Bulbul, was playing to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Saranga",
+      "entityType": "term",
+      "sentence": "associated with the performance of the melody types or ragas called Saranga",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "abode",
+      "entityType": "term",
+      "sentence": "ascended a neighbouring hill known as the abode of numerous poisonous snakes.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "incessantly",
+      "entityType": "term",
+      "sentence": "incessantly, was said to be productive of immediate rain. Stories of how skilful",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "musician",
+      "entityType": "term",
+      "sentence": "musician, hearing of this, offered his services to the authorities, and, at the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "apparent",
+      "entityType": "term",
+      "sentence": "apparent, and the lamps became mysteriously lighted. Thus confidence was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "returned",
+      "entityType": "term",
+      "sentence": "returned, after an absence of six months. Before he began to sing he placed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "upon",
+      "entityType": "term",
+      "sentence": "the god Hanuman, who was called upon to decide a dispute between the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "excursion",
+      "entityType": "term",
+      "sentence": "excursion, and halting within hearing of the Rishi's dwelling, whose existence",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "singing",
+      "entityType": "term",
+      "sentence": "singing, at once guessed the cause of his daughter's death. After listening for",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "national",
+      "entityType": "term",
+      "sentence": "to those of the Southern races. The latter, which may be called the national",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "diatonic",
+      "entityType": "term",
+      "sentence": "diatonic— Results of recent observation — System of twelve hinted at in Sanskrit — Murchanas",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ratnakera",
+      "entityType": "term",
+      "sentence": "Ratnakera, or \"Ocean of IMusic,\" written by Sarnga Deva at a very early date,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ratnavali",
+      "entityType": "term",
+      "sentence": "Ratnavali; the Sabha Vinoda,- or \"Delight of AssembHes\"; and the Sangita",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Darpana",
+      "entityType": "term",
+      "sentence": "Darpana, or \" Mirror of Music,\" written by Damodara Misra — all works of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sangita",
+      "entityType": "term",
+      "sentence": "present no known copy in existence, unless, indeed, this work is identical with one called Sangita Vinoda,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "however",
+      "entityType": "term",
+      "sentence": "however, exist as to whether the intervals of the s'rutis were equal or not),",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gandhara-grama",
+      "entityType": "term",
+      "sentence": "The third grama is called the Gandhara-grama",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "grama",
+      "entityType": "term",
+      "sentence": "grama, to which these changes evidently refer, it will stand thus —",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ear",
+      "entityType": "term",
+      "sentence": "ear, and as harmony is not employed, the justification which derivation from perfect concords is",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "break",
+      "entityType": "term",
+      "sentence": "break, after which the thirteen degrees from F to the octave vary from 45 to 65 cents. This is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "theoretical",
+      "entityType": "term",
+      "sentence": "theoretical, and has long since been superseded by another and more",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "will",
+      "entityType": "instrument",
+      "sentence": "practical system, and that equal measurements of a string will not represent",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "three",
+      "entityType": "term",
+      "sentence": "three, according to the difference of pitch in the compass of the three octaves.\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "given",
+      "entityType": "term",
+      "sentence": "given, and, in most cases, it is therefore only a matter of conjecture as to how",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dha",
+      "entityType": "term",
+      "sentence": "Dha, ni, sa, ga, ma, dha, dha. j",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "one",
+      "entityType": "term",
+      "sentence": "one second ; eight such seconds are called one lava ; eight lavas one koshta ; eight koshtiis one",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "table",
+      "entityType": "term",
+      "sentence": "table, taken from the work of Anginayya, comprises some of these ancient talas,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Anginayya",
+      "entityType": "term",
+      "sentence": "Anginayya, can be — judgingfrom the performances of modern Mridang or Tabla",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "playing",
+      "entityType": "instrument",
+      "sentence": "and some slight idea of the peculiarities of modern Indian drum playing can also",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sangrahd",
+      "entityType": "term",
+      "sentence": "Sangrahd,\" which see for further information upon this subject, p. 207 and following pages.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mentioned",
+      "entityType": "term",
+      "sentence": "mentioned, and, in fact, the whole system has undergone a complete change and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "stave",
+      "entityType": "term",
+      "sentence": "stave, as in the European system, is necessary, the characters being written in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "own",
+      "entityType": "term",
+      "sentence": "own; but knowing my ear to be very insufficiently exercised, I requested a German professor of music to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Radha",
+      "entityType": "term",
+      "sentence": "Radha, and he assured me that the scales were the same; and Mr. Shore afterwards informed me that when",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "gandhara",
+      "entityType": "term",
+      "sentence": "gandhara, Antara-gandhara.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "third",
+      "entityType": "instrument",
+      "sentence": "ascend like ours — by a sharp third.\" From many experiments I am led to beHeve that a wrong idea as to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "izi",
+      "entityType": "term",
+      "sentence": "izi:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lesi",
+      "entityType": "term",
+      "sentence": "lesi:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tei",
+      "entityType": "term",
+      "sentence": "tei:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "iffci",
+      "entityType": "term",
+      "sentence": "iffci:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "anywhere",
+      "entityType": "term",
+      "sentence": "anywhere, at the composer's discretion, and denote parts or phrases so to speak.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Graha",
+      "entityType": "term",
+      "sentence": "The application of the talas to an air is called Graha, and is of four",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Aditala",
+      "entityType": "term",
+      "sentence": "Aditala, and is a very common time for javadis, and other love songs.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "system",
+      "entityType": "term",
+      "sentence": "system, are not employed. The kevnote is always Sa, and, as already stated, is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "arranged",
+      "entityType": "term",
+      "sentence": "arranged, according to prescribed rules, as to awaken a certain feeling of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vadi",
+      "entityType": "term",
+      "sentence": "vadi, samvadi, anuvadi, and vivadi.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tonic",
+      "entityType": "term",
+      "sentence": "tonic, or both fourth and fifth when both are admissible in the raga.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "murchana",
+      "entityType": "term",
+      "sentence": "a rasfa are called the murchana of that ratra.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "learn",
+      "entityType": "term",
+      "sentence": "learn, the ragas in performance were divided into four parts or movements, called",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Alapa",
+      "entityType": "term",
+      "sentence": "are taken into consideration. These movements are known as the Alapa and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "succeeding",
+      "entityType": "term",
+      "sentence": "succeeding, and others vice versa, the beats upon the accompanying strings",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "twice",
+      "entityType": "term",
+      "sentence": "twice, thus : wuw | ^wvj | — v^ | or ^^ uu | wu w | wu |",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Suddha",
+      "entityType": "term",
+      "sentence": "Suddha, or pure, which show the characteristic of one raga only.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Salanka",
+      "entityType": "term",
+      "sentence": "Salanka, or mi.xed, showing the characteristics of two ragas.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sankirna",
+      "entityType": "term",
+      "sentence": "Sankirna, or mixed, showing the characteristics of more than two ragas.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mayamalavagaula",
+      "entityType": "term",
+      "sentence": "Mayamalavagaula, and the Greek diatonic modes thus: Dorian, Hanumatodi; Phrygian, Karaharaprya:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lydian",
+      "entityType": "term",
+      "sentence": "Lydian, Dehra-S'ankarabharna; Hypolydian, Matsyakaliani; Ionic, Harikambogi; and /Eolic, Nata-Bhairavi.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Karnatika-Sarant",
+      "entityType": "term",
+      "sentence": "Karnatika-Sarant;a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "CDEF",
+      "entityType": "term",
+      "sentence": "CDEF;fGABC.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "evident",
+      "entityType": "term",
+      "sentence": "evident, for a musical reviewer writing in the A thenccii in, and contrasting the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "passion",
+      "entityType": "term",
+      "sentence": "passion, and that combines a refined execution with the highly nervous",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wind",
+      "entityType": "term",
+      "sentence": "wind, introduce an enharmonic elaboration that defies notation.'\"'\" And here it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "discordant",
+      "entityType": "term",
+      "sentence": "discordant, can be easily accounted for thus : they are simply confused — being",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "clothed",
+      "entityType": "term",
+      "sentence": "clothed, as it were, with harmony of some sort.\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sone",
+      "entityType": "term",
+      "sentence": "sone, since the sinsrer is onlv anxious to exhibit what he fondlv imagines to be his",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "disrepute",
+      "entityType": "term",
+      "sentence": "disrepute, and cause it to be regarded with contempt by European audiences.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "melodv",
+      "entityType": "term",
+      "sentence": "melodv, do not present to the casual observer differences as clearly marked as in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cally",
+      "entityType": "term",
+      "sentence": "cally, and in their construction are subject to certain definite rules of composition.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pallevi",
+      "entityType": "term",
+      "sentence": "Almost all consist of a burden or refrain called Pallevi, a kind of answer to this",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Charanam",
+      "entityType": "term",
+      "sentence": "refrain styled Anupallevi, and stanzas (called Charanam) of which there is usually",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "instrument",
+      "entityType": "term",
+      "sentence": "instrument, it is usually only played in unison with the voice.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fourth",
+      "entityType": "instrument",
+      "sentence": "sharp fourth. This scale is in every respect similar to the Indian scale called",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Siibhapan",
+      "entityType": "term",
+      "sentence": "S'rinhandra, and nearly similar to one much employed and called Siibhapan-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tovarali",
+      "entityType": "term",
+      "sentence": "tovarali, both of which will be found among the list of scales upon pages 32-35.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "point",
+      "entityType": "term",
+      "sentence": "point, and seem to apply equally well to Southern as to Northern Indian",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rondo",
+      "entityType": "term",
+      "sentence": "2. They all partake of the nature of what by us is called a Rondo, the piece",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Indeed",
+      "entityType": "term",
+      "sentence": "Indeed, it seems more natural to regard all endings of Indian melodies rather as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "minor",
+      "entityType": "term",
+      "sentence": "minor, showing thereby a trace of the old pentatonic scale. Examples will be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "seventh",
+      "entityType": "term",
+      "sentence": "seventh, the second, and (like those of the Servians) with the third. Closes on the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gentu-versis",
+      "entityType": "term",
+      "sentence": "scale of Mayamalavagaula ; similar exercises called Gentu-versis, containing",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "learnt",
+      "entityType": "term",
+      "sentence": "learnt, several in each tala.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Gita",
+      "entityType": "term",
+      "sentence": "The simplest melodies are called Gita, and are of two kinds — Pillarigita",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Khandam",
+      "entityType": "term",
+      "sentence": "longer, and are divided into two or three parts by breaks called Khandam.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "longer",
+      "entityType": "term",
+      "sentence": "longer, and are divided into two or three parts by breaks called Khandam.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "key",
+      "entityType": "term",
+      "sentence": "key, and harmonise it therefore in E minor. The Hindus, however, regard it as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "commencement",
+      "entityType": "term",
+      "sentence": "commencement, then the anupallevi, after which the pallevi is repeated with",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vtoto",
+      "entityType": "term",
+      "sentence": "vtoto, and the whole is sung in a dreamy way, with a great deal of expression,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "only",
+      "entityType": "term",
+      "sentence": "only, and harmonised with the triad of the dominant as the principal chord.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "clear",
+      "entityType": "term",
+      "sentence": "clear— the Hindu gamut, as has been stated, is signified by the syllables \" Sa,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "interferine",
+      "entityType": "term",
+      "sentence": "interferine: with the sense of the words. This is the more difficult to do when",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pztUj",
+      "entityType": "term",
+      "sentence": "pztUj:; N ^ -*i-^-^^i^i^",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "jMavamalava",
+      "entityType": "term",
+      "sentence": "The two melodies following are both in the scale called jMavamalava-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "simple",
+      "entityType": "term",
+      "sentence": "simple, and the words, addressed to some deity, plain and easy to be remembered.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "iii",
+      "entityType": "term",
+      "sentence": "iii:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rri",
+      "entityType": "term",
+      "sentence": "rri:ii:i:rT/rr-fjiffj-rrri^i- j^i^JJ-^VJir r;^^",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "liii",
+      "entityType": "term",
+      "sentence": "liii:",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "manner",
+      "entityType": "term",
+      "sentence": "manner, and that they are more difficult of execution. Vernams are, as a rule,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "qtip",
+      "entityType": "term",
+      "sentence": "qtip:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Karwar",
+      "entityType": "term",
+      "sentence": "peculiar dance called Karwar. Javadis consist usually of a pallevi, anupallevi, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tsj",
+      "entityType": "term",
+      "sentence": "tsj— — ■-.=-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Saval",
+      "entityType": "term",
+      "sentence": "lavanies called Saval are sung. The words of these are sung by two",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Turai",
+      "entityType": "term",
+      "sentence": "parties — one called Turai and the other Kalki — intended to represent the god",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Raga-malika",
+      "entityType": "term",
+      "sentence": "A composition called Raga-malika, or \" garland of ragas,\" is occasionally",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "avatar",
+      "entityType": "term",
+      "sentence": "avatar, and constitutes the chief rhythmical division or period into which the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "konnagolu",
+      "entityType": "term",
+      "sentence": "intended to represent the beats of a drum ; this is called konnagolu, or talavinyasa.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mangala",
+      "entityType": "term",
+      "sentence": "Songs of salutation or hail, called Mangala, are sung at the conclusion",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Karnatik",
+      "entityType": "term",
+      "sentence": "described, and which is called Karnatik. It has been much copied from the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "described",
+      "entityType": "term",
+      "sentence": "described, and which is called Karnatik. It has been much copied from the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "latter",
+      "entityType": "term",
+      "sentence": "latter, but its professors are not often men of much education ; and though",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "festival",
+      "entityType": "term",
+      "sentence": "festival; and Palna, or cradle songs. Songs called Khyals, somewhat like the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cadence",
+      "entityType": "term",
+      "sentence": "cadence, were introduced by Sultan Shirki of Jounpur; they consist of two",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "young",
+      "entityType": "term",
+      "sentence": "young, before the voice is formed, they are apt to ruin their singing entirely ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rajasthan",
+      "entityType": "term",
+      "sentence": "Rajasthan, display some of the chief characteristics of these melodies. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Guzerat",
+      "entityType": "term",
+      "sentence": "Guzerat, and is sung quickly, but with great expression and varying tempo.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "atirf",
+      "entityType": "term",
+      "sentence": "atirf:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gatha",
+      "entityType": "term",
+      "sentence": "pot called Gatha, much like the ordinary \"chatty,\" which, in the hands of a skilful",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tuned",
+      "entityType": "instrument",
+      "sentence": "Nautches — is rapidly being discontinued, and an English fiddle tuned as a vina",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bhazana",
+      "entityType": "term",
+      "sentence": "Music of this nature is called Bhazana, and its use is almost universal.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sillu",
+      "entityType": "term",
+      "sentence": "whistle called Sillu, with other instruments, just as it pleases them, and, as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Khanjeri",
+      "entityType": "term",
+      "sentence": "Khanjeri, is found.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Karadisamela",
+      "entityType": "term",
+      "sentence": "peculiar kind of music in use called Karadisamela. It is so-called because a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sopanam",
+      "entityType": "term",
+      "sentence": "A system of music called Sopanam is found in Malabar, where it is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Taylor",
+      "entityType": "term",
+      "sentence": "Taylor, in speaking of this, remarks that the gong is not used as an",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dinni",
+      "entityType": "term",
+      "sentence": "usuallv employ a little side-drum, with one head only, called Dinni, not",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Semakkalam",
+      "entityType": "term",
+      "sentence": "outcasts from Saivite sects, play upon a small gong called Semakkalam, which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "found",
+      "entityType": "instrument",
+      "sentence": "discordant wind instruments, drums, and cymbals found throughout Southern",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mela",
+      "entityType": "term",
+      "sentence": "India is called Mela. The players in these bands are mostly taken from a",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Jhanj",
+      "entityType": "term",
+      "sentence": "pair of cymbals (called Jhanj), about ten inches or a foot in diameter, are found.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dhanki",
+      "entityType": "term",
+      "sentence": "and a small side-drum called Dhanki is employed. ^",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "pleasing",
+      "entityType": "term",
+      "sentence": "The effect of a mela can hardly be called pleasing, unless to those whose",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nahabet",
+      "entityType": "term",
+      "sentence": "A peculiar institution of Indian music is known as the Nahabet,^ and is so",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "associated",
+      "entityType": "instrument",
+      "sentence": "called from that beinc: the name of the largfest drum associated with it. There are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "traditional",
+      "entityType": "term",
+      "sentence": "traditional, but it possesses a distinct character of its own that is entirelv different",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "prelude",
+      "entityType": "term",
+      "sentence": "prelude, which in turn was followed by pieces introducing the Kurna, Nafir, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "crescendo",
+      "entityType": "term",
+      "sentence": "crescendo, and then followed seven distinct performances, brought to a conclusion",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Taffa",
+      "entityType": "term",
+      "sentence": "Nautch music is termed Taffa or Keylika and is performed exclusively bv a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chinnamela",
+      "entityType": "term",
+      "sentence": "what is called a Chinnamela (or smaller music), in distinction to the Peryamela",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "dance",
+      "entityType": "term",
+      "sentence": "dance, and are centred in the stamp of the feet upon the ground at intervals, or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "follow",
+      "entityType": "term",
+      "sentence": "follow, one voice singing the solo and the whole of the voices taking up at",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "song",
+      "entityType": "term",
+      "sentence": "song, are made by the girls performing in front of the musicians.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chafti",
+      "entityType": "term",
+      "sentence": "chafti:k \\ II.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dhanakacheka",
+      "entityType": "term",
+      "sentence": "Dhanakacheka, about the vear 640 of our era, we find several representations",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "surnai",
+      "entityType": "term",
+      "sentence": "surnai, and two instruments, apparently quanuns, of a shape very similar to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "represented",
+      "entityType": "instrument",
+      "sentence": "the Assyrian liarps. But there is another instrument represented that would",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "now",
+      "entityType": "term",
+      "sentence": "now, nor can descriptions of it be found in the Sanskrit treatises upon instruments.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sancho",
+      "entityType": "term",
+      "sentence": "what like a harp, and much like an African instrument called Sancho, and still",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dendima",
+      "entityType": "term",
+      "sentence": "these same instruments, with the addition of one called dendima, are found in a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Samaiifia-phale",
+      "entityType": "term",
+      "sentence": "contemporary work called Samaiifia-phale- sutta, and in the Vimana-vatthu also.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "used",
+      "entityType": "instrument",
+      "sentence": "The dendima is possibly the modern dinni, a small side-drum used by religious",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cane",
+      "entityType": "term",
+      "sentence": "cane, and large gourds are much employed. These gourds are used for many",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "India",
+      "entityType": "term",
+      "sentence": "India, where, until comparatively recent times, music has been an art almost",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "quanun",
+      "entityType": "term",
+      "sentence": "The Persians still use an instrument called quanun, much like that of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "twanged",
+      "entityType": "instrument",
+      "sentence": "string twanged by the fingers ; its invention is ascribed to the god Siva.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "played",
+      "entityType": "instrument",
+      "sentence": "The earliest instrument played with a bow was called rabanastra or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rabanastra",
+      "entityType": "term",
+      "sentence": "The earliest instrument played with a bow was called rabanastra or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "attached",
+      "entityType": "instrument",
+      "sentence": "bow, which with bells attached to it is used as a fiddle-stick. The hollow part of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bow",
+      "entityType": "term",
+      "sentence": "bow, which with bells attached to it is used as a fiddle-stick. The hollow part of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lizard",
+      "entityType": "term",
+      "sentence": "lizard, and perforated below. °",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mrita",
+      "entityType": "term",
+      "sentence": "very ancient instrument which resembled the rabanastra was called amrita.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sarangi",
+      "entityType": "term",
+      "sentence": "sarangi, sarode, and chikara.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "harmonica",
+      "entityType": "term",
+      "sentence": "harmonica, does not seem to have entered into Indian music at any time until",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Persia",
+      "entityType": "term",
+      "sentence": "Persia, Arabia, and Egypt. There seems to be no trace of the single beating veed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jagatay",
+      "entityType": "term",
+      "sentence": "Chinese gong. In Southern India a light instrument of this kind called Jagatay",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ghante",
+      "entityType": "term",
+      "sentence": "bell — called Ghante — is used in every Hindu temple, and is familiar to everyone.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gllnguru",
+      "entityType": "term",
+      "sentence": "The little ankle bells used by Nautch dancers are called Gllnguru or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "round",
+      "entityType": "instrument",
+      "sentence": "Gajelu, and are tied in strings round the ankles. They produce \" a faint clashing",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gajelu",
+      "entityType": "term",
+      "sentence": "Gajelu, and are tied in strings round the ankles. They produce \" a faint clashing",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lso",
+      "entityType": "term",
+      "sentence": "unpleasing. The Septasvarab, called also Septaghantika, or Indian Glockenspiel,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mathala",
+      "entityType": "term",
+      "sentence": "the drum called mathala, of which it takes the place, and the players manage",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "unnecessary",
+      "entityType": "term",
+      "sentence": "unnecessary, it has been done because in similar cases of musical investigations,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "popular",
+      "entityType": "term",
+      "sentence": "popular, and when found in Southern India is used chiefly by Hindustani",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rich",
+      "entityType": "term",
+      "sentence": "rich, its compass is larger, and it is, in skilled hands, capable of producing a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pakha-saranis",
+      "entityType": "term",
+      "sentence": "The three side strings are termed pakha-saranis and are of steel.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pass",
+      "entityType": "instrument",
+      "sentence": "the side strings pass.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "screw",
+      "entityType": "term",
+      "sentence": "screw, and is detachable at will.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "applied",
+      "entityType": "term",
+      "sentence": "applied, or a little cold water poured over the upper surface, so as to harden the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bridge",
+      "entityType": "instrument",
+      "sentence": "The side string bridge is secured to the main bridge and the belly of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gotu",
+      "entityType": "term",
+      "sentence": "These simple strikes are called gotu mehtu. The kutra mehtu is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pitch",
+      "entityType": "term",
+      "sentence": "pitch, of which use is made in all grace and embellishments.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "usualh",
+      "entityType": "instrument",
+      "sentence": "string usualh' breaks.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "core",
+      "entityType": "term",
+      "sentence": "core, with a belly of thin wood pierced with a certain number of sound holes fixed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "forefinger",
+      "entityType": "term",
+      "sentence": "forefinger, the thumb being usually pressed firmly upon the edge of the belly,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "underaeath",
+      "entityType": "instrument",
+      "sentence": "Sitars, called Taraffedar, with sympathetic strings underaeath those played",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Taraffedar",
+      "entityType": "term",
+      "sentence": "Sitars, called Taraffedar, with sympathetic strings underaeath those played",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Surbehar",
+      "entityType": "term",
+      "sentence": "A rather uncommon instrument of this description is called the Surbehar, which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Karnatik-sitar",
+      "entityType": "term",
+      "sentence": "to be met with in Southern India. This might be called the Karnatik-sitar, and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "course",
+      "entityType": "term",
+      "sentence": "course, much less. It is usually shaped somewhat like a tamburi, the body of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "onlv",
+      "entityType": "instrument",
+      "sentence": "is peculiar. The first and second strings onlv pass over frets, which are about",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "unison",
+      "entityType": "term",
+      "sentence": "unison, and thev are placed verv much nearer together than the other strings.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "finger-board",
+      "entityType": "term",
+      "sentence": "finger-board, whence it passes obliquely under the strings to its tuning peg.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mohur",
+      "entityType": "term",
+      "sentence": "this instrument is called Mohur. It is merely a form of sitar with moveable frets.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lui",
+      "entityType": "term",
+      "sentence": "requirements of the raga played — this string is called lui'uj.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "common",
+      "entityType": "instrument",
+      "sentence": "instrument common in Bengal. The decoration and carving are characteristic,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "parchment",
+      "entityType": "term",
+      "sentence": "parchment, is put on. As will be seen by the plate, it is made to cover only the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "commonly",
+      "entityType": "term",
+      "sentence": "commonly, or else like that of the sarangi. The sympathetic strings are generally",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "complicated",
+      "entityType": "term",
+      "sentence": "complicated, having no frets or calabash affixed to the stem ; and it is employed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "being",
+      "entityType": "instrument",
+      "sentence": "second strings being placed at the side, as in a violoncello ; and those of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "jivnla",
+      "entityType": "term",
+      "sentence": "procure this result pieces of quill or silk, termed jivnla, are placed between",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tekkah",
+      "entityType": "term",
+      "sentence": "instead of slits. In many tamburis there is a contrivance called tekkah, resembling",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "can",
+      "entityType": "instrument",
+      "sentence": "it the pitch of tlie instrument can be immediately altered to any degree required",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "pusalu",
+      "entityType": "term",
+      "sentence": "called pusalu, threaded upon the strings between the bridge and the attach-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "upright",
+      "entityType": "term",
+      "sentence": "upright, the body resting upon the ground. The tamburis of the Southern parts",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "plate",
+      "entityType": "term",
+      "sentence": "plate, can hardly be called an instrument at all, since it has only one string",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "interest",
+      "entityType": "term",
+      "sentence": "interest, which is full of witty and rather broad remarks about the principal",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tailpin",
+      "entityType": "term",
+      "sentence": "tailpin, which serves as a foot for the instrument, is of brass, rather curiously",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "seldom",
+      "entityType": "instrument",
+      "sentence": "THE Quanun, or Indian Dulcimer, is an instrument seldom met with,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Svaramandala",
+      "entityType": "term",
+      "sentence": "The kind of quanun here drawn is called Svaramandala, and is generall}'",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Afghanistan",
+      "entityType": "term",
+      "sentence": "Afghanistan, Turkey, Persia, and Egypt, as well as Arabia. The Indian Quanun",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kattyayana",
+      "entityType": "term",
+      "sentence": "the rishi or sage Kattyayana ; hence it is called the Kattyayana vina —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "employed",
+      "entityType": "instrument",
+      "sentence": "THE Kinnari is a rude stringed instrument employed chiefly by the country",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kinneri",
+      "entityType": "term",
+      "sentence": "Kinneri, one of the gandharvas or singers of Brahma-loka, the heaven of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bahya",
+      "entityType": "term",
+      "sentence": "drum, rather longer in proportion to its diameter, called Bahya, and answering",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "drum",
+      "entityType": "term",
+      "sentence": "drum, rather longer in proportion to its diameter, called Bahya, and answering",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "subdued",
+      "entityType": "term",
+      "sentence": "subdued, very different to that of the kettledrums employed in the Nahabet",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dundubhi",
+      "entityType": "term",
+      "sentence": "called Dundubhi.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chiefly",
+      "entityType": "instrument",
+      "sentence": "The Dhol, drawn at the top of the plate, is a species of drum chiefly employed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "length",
+      "entityType": "term",
+      "sentence": "length, and 12 inches in diameter. The size however varies greatly. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Duff",
+      "entityType": "term",
+      "sentence": "ment of this kind is called Duff, or Duffde, and is an octagon",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Thambatte",
+      "entityType": "term",
+      "sentence": "circular instrument of this kind, called Thambatte, is found ; this varies from",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "similar",
+      "entityType": "instrument",
+      "sentence": "associated with the Kahalay or Kombu, a horn similar to the s'ringa shown",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "silver",
+      "entityType": "term",
+      "sentence": "silver, chased with mythological devices, and the hoop itself is often carved in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "drawn",
+      "entityType": "instrument",
+      "sentence": "The small kettledrum drawn in the plate is the common Tam tam used by",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "accompaniment",
+      "entityType": "instrument",
+      "sentence": "by which it may be accompanied. This cymbal accompaniment is played with",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Edaka",
+      "entityType": "term",
+      "sentence": "A drum, somewhat similar in shape, called Edaka or Dudi, is common",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "manufacture",
+      "entityType": "term",
+      "sentence": "manufacture, but the common pungi is of the roughest and simplest description,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kurtar",
+      "entityType": "term",
+      "sentence": "Kurtar, or Chittika, are two pieces of hard wood about six inches in length,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chacra",
+      "entityType": "term",
+      "sentence": "Circular wooden castanets, called Chacra, made with slightlv concave",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "oboe",
+      "entityType": "term",
+      "sentence": "oboe, on a short metal \" staple.\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chandanna",
+      "entityType": "term",
+      "sentence": "chandanna, and has a metal bell. Occasionally nagasaras made entirely of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "scale",
+      "entityType": "term",
+      "sentence": "scale, and is capable of the same inflections of tone. Its sound is naturally",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "powerful",
+      "entityType": "term",
+      "sentence": "powerful, and in the hands of good players more melodious. Thev have seven",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Holar-cha-Surnai",
+      "entityType": "term",
+      "sentence": "These pipes are also known as Holar-cha-Surnai and Hola-cha-Sur, or simply",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "bamboo",
+      "entityType": "term",
+      "sentence": "bamboo, with a tone and compass like that of the pillagovi. Instruments of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "here",
+      "entityType": "instrument",
+      "sentence": "THE bagpipe here drawn iii the Aloshuq, or, as it is called in",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "construction",
+      "entityType": "term",
+      "sentence": "construction, and, as can be seen, the vibrations are controlled bv a little piece",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dassari",
+      "entityType": "term",
+      "sentence": "of temple servers called Dassari. No tune, so to speak, can of course be played",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mahomedan",
+      "entityType": "term",
+      "sentence": "Mahomedan, and by men in charge of droves of cattle carrying grain or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "merchandise",
+      "entityType": "term",
+      "sentence": "merchandise, such as Brinjaris, Comptis, and others, it is sounded at intervals",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "produced",
+      "entityType": "term",
+      "sentence": "produced, which have a startling and peculiarly wild effect, as heard from the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tuturi",
+      "entityType": "term",
+      "sentence": "The large trumpet with one turn is called the Tuturi. This name is usually",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tenor",
+      "entityType": "term",
+      "sentence": "applied to what might be called the tenor trumpet, as distinguished from the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kurna",
+      "entityType": "term",
+      "sentence": "Kurna, the large straight trumpet drawn at the bottom of the plate. The tuturi —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rank",
+      "entityType": "term",
+      "sentence": "rank, which is not allowable in others. Occasionally also they are met with in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "formerly",
+      "entityType": "term",
+      "sentence": "formerly, but it is certain that several centuries ago a regular school of music was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sarabhogi",
+      "entityType": "term",
+      "sentence": "Sarabhogi, Surfogi, and Sivaji music flourished greatly, and the musicians",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Venkatraman",
+      "entityType": "term",
+      "sentence": "TiAGYA RAJ. A native of Trivadi, in the Tanjore district; a pupil of a musician called Venkatraman",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "beautiful",
+      "entityType": "term",
+      "sentence": "beautiful, and are full of imagery most poetical, set to music equally as plaintive and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Maharashtra",
+      "entityType": "term",
+      "sentence": "Maharashtra, and the North, such as Maula Bux of Baroda, Bhande AH of Indore,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Banerjea",
+      "entityType": "term",
+      "sentence": "Banerjea, Panchari. \" History of Hindu Music.\" A lecture delivered at the Hooghl)- Institute,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bhowanipore",
+      "entityType": "term",
+      "sentence": "Bhowanipore, 1880. Contains a good deal of interesting information, also an elaborate",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "BoSANQUET",
+      "entityType": "term",
+      "sentence": "BoSANQUET, R. H. M. \"On the Hindu Division of the Octave.\" \" Proceedings, Royal Society,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "BuRNELL",
+      "entityType": "term",
+      "sentence": "BuRNELL, A. C, Ph.D. \"The Saman Chants from Arsheya Brlihmana.'' Contains descriptions",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Blochmann",
+      "entityType": "term",
+      "sentence": "Blochmann, H. \" The Naqquerakhaneh and the Imperial Musicians, from the Ain-i-Akbari.\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "FowKE",
+      "entityType": "term",
+      "sentence": "FowKE, Francis. \"On the Vina of the Hindus.\" \"Asiatic Researches.\" Vol. I., page 295,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hendlev",
+      "entityType": "term",
+      "sentence": "Hendlev, T. B. \" Memorials of the Jeypur E.xhibition,\" 1883. Peckham, W. Griggs. See",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hevmann",
+      "entityType": "term",
+      "sentence": "Hevmann, W. \" Ueber Bharata's Natyasastram.\" See Nachrichten von der Kcenigl. Gesell-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Edinburgh",
+      "entityType": "term",
+      "sentence": "Edinburgh, 1887. Contains descriptions and very beautiful illustrations of several Indian",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mahillon",
+      "entityType": "term",
+      "sentence": "Mahillon, V. C. \" Catalogue Descriptif et Analyti(iue du Musee Instrumental du Conservatoire",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "OusELEY",
+      "entityType": "term",
+      "sentence": "OusELEY, Sir W. \"An Essay on the Music of Hindustan.\" Contained in \" Oriental Collections",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Poona",
+      "entityType": "term",
+      "sentence": "Poona, 1888.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ScHROEDER",
+      "entityType": "term",
+      "sentence": "ScHROEDER, L. von. \" ludicns Literatur und Cultur.\" Leipzig, 1887.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tagore",
+      "entityType": "term",
+      "sentence": "Tagore, Rajah Sir S. M. \" The Six Original Ragas.\"",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "What",
+      "entityType": "term",
+      "sentence": "What, and how many. The arrangement adopted in this work. 0/ the Gamut. — What it is called : the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tuning",
+      "entityType": "term",
+      "sentence": "tuning, and keeping tlieni in order. Contains also an elaborate system of notation invented",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kalianidhi",
+      "entityType": "term",
+      "sentence": "Kalianidhi,\" on the vina, with diagrams of the fingerboard. There is a Guzerathi",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kapala",
+      "entityType": "term",
+      "sentence": "VII. — Describes certain ancient species of song called Kapala and Kambala, and defines",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Anginavva",
+      "entityType": "term",
+      "sentence": "Anginavva, Kalinatha, Chudamanni, Pratibhavilasa, Manidurpana, Raganava,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vinoda",
+      "entityType": "term",
+      "sentence": "Vinoda, Sivakinkara, Sangitanava, Sarodhara, Haribhatta.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kahnatha",
+      "entityType": "term",
+      "sentence": "Kahnatha, Chudamanni, Pratibhavihisa, Manidurpana, Riiganava, Vinoda,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sivakinkara",
+      "entityType": "term",
+      "sentence": "Sivakinkara, Sangitanava, Sarodhara, Haribhatta.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chhandoratnakera",
+      "entityType": "term",
+      "sentence": "Chhandoratnakera, Narada-Sanhita or Sanhita, Panchamasarasanhita, Alam-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ragavivodha",
+      "entityType": "term",
+      "sentence": "Ragavivodha, by Soma Raj. This is a later work than the Ratnakera, which",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ragadarpana",
+      "entityType": "term",
+      "sentence": "Ragadarpana, and Subhavinodha. Of the present existence of these three",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Oxford",
+      "entityType": "term",
+      "sentence": "Oxford, 1864.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Autlior",
+      "entityType": "term",
+      "sentence": "Autlior,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bik",
+      "entityType": "term",
+      "sentence": "Bik, 1090.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tan",
+      "entityType": "term",
+      "sentence": "Tan, p. GO, 12.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Poena",
+      "entityType": "term",
+      "sentence": "Poena, circa",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Raga-kautuliala",
+      "entityType": "term",
+      "sentence": "Raga-kautuliala,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "PooTia",
+      "entityType": "term",
+      "sentence": "PooTia, circi",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pooiia",
+      "entityType": "term",
+      "sentence": "Pooiia, circa",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Blionsala",
+      "entityType": "term",
+      "sentence": "Blionsala, Raja",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "proved",
+      "entityType": "instrument",
+      "sentence": "brass string proved useless, as the frets made the octave quite wrong with it.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gave",
+      "entityType": "instrument",
+      "sentence": "whole string gave F in tlie 4-ft. octave, a fifth below the first C and an",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "instituted",
+      "entityType": "term",
+      "sentence": "instituted, as I have effected by a series of forks —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    }
+  ]
+}

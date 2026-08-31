@@ -1,0 +1,6320 @@
+{
+  "book": {
+    "title": "The Country of the Moors: A Journey from Tripoli to the City of Kairwân",
+    "author": "Edward Rae",
+    "citation": "Rae, Edward. The Country of the Moors: A Journey from Tripoli to the City of Kairwân. John Murray, London, 1877."
+  },
+  "summary": {
+    "total": 664,
+    "validCount": 661,
+    "blockedCount": 3,
+    "warningCount": 160,
+    "blockerReasons": {
+      "This candidate is awaiting specialist review and cannot be published yet.": 3
+    }
+  },
+  "rows": [
+    {
+      "term": "littp",
+      "entityType": "term",
+      "sentence": "littp://www.arcliive.org/details/countryofmoorsjoOOraeeiala",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Section",
+      "entityType": "term",
+      "sentence": "Section, or Secret Pohce Department, in St.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Petersburg",
+      "entityType": "term",
+      "sentence": "Petersburg, and demanded a hundred roubles as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wright",
+      "entityType": "term",
+      "sentence": "Wright, Newsome, Fraser, Young, and especially",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Briefly",
+      "entityType": "term",
+      "sentence": "Briefly, kind Eeader, as the old geographer",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Claughton",
+      "entityType": "term",
+      "sentence": "Claughton,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sambo",
+      "entityType": "term",
+      "sentence": "Sambo— Vale\"tta — Franciscan Priest — Sail for Tripoli — The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "van",
+      "entityType": "term",
+      "sentence": "van— A Bargain — Tadjoura — The Hermitage — Frederick War-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rington",
+      "entityType": "term",
+      "sentence": "rington— The Times of the Beys — The Harbour — Mussulman",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "smith",
+      "entityType": "term",
+      "sentence": "smith— The Bardo— The Great Aqueduct. . . . .109",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dens",
+      "entityType": "term",
+      "sentence": "dens— Slave Caravans — Street Auction — Costumes — The Great",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "commendation",
+      "entityType": "term",
+      "sentence": "commendation— Outfit — Disappointment 196",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Spain",
+      "entityType": "term",
+      "sentence": "Spain— Ibn Aghlab— The City's Decline 246",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "man",
+      "entityType": "term",
+      "sentence": "man— Gulf of Tunis — Hammam 1 Anf — Ehades — Enter Tunis . 314",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tliink",
+      "entityType": "term",
+      "sentence": "tliink, in Greek or Latin.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Alexandrie",
+      "entityType": "term",
+      "sentence": "Alexandrie, lowered into the hold by a terrible steam",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "harbour",
+      "entityType": "term",
+      "sentence": "harbour, rounded the lightship, and were on our way",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "despair",
+      "entityType": "term",
+      "sentence": "despair, his woolly hair stood straight on end ^ the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "meley",
+      "entityType": "term",
+      "sentence": "meley, a powerful young Yorkshire squire, was to be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "abated",
+      "entityType": "term",
+      "sentence": "abated, and this day we could take our meals in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "conversation",
+      "entityType": "term",
+      "sentence": "conversation, the Frenchman gave it up. Presently",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tinique",
+      "entityType": "term",
+      "sentence": "tinique, but he refuses to sing us one of the old planta-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "one",
+      "entityType": "term",
+      "sentence": "one, Tripoli harbour being almost inaccessible in north-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Barbary",
+      "entityType": "term",
+      "sentence": "Barbary, I venture to ask you to collect for me some",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Africa",
+      "entityType": "term",
+      "sentence": "Africa, I should feel extremely indebted to you if you",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tal",
+      "entityType": "term",
+      "sentence": "tal, flourished after the Pentapolis had begun to decay.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Solomon",
+      "entityType": "term",
+      "sentence": "Solomon, the successor of Belisarius, had a similarly per-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "alone",
+      "entityType": "term",
+      "sentence": "alone, were extirpated. Of Berbers an infinitely",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "him",
+      "entityType": "term",
+      "sentence": "him, however, declared — probably after seeing the lady —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "invader",
+      "entityType": "term",
+      "sentence": "invader, the inhabitants invited the Arabians back,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lifat",
+      "entityType": "term",
+      "sentence": "lifat, Tripoli became an independent Moorish state.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "power",
+      "entityType": "term",
+      "sentence": "power: its corsairs infested the Mediterranean. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "san",
+      "entityType": "term",
+      "sentence": "san, Hamet, and Yussuf : the latter murdered Hassan in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cruelty",
+      "entityType": "term",
+      "sentence": "cruelty, was superseded, and Ali's family were re-estab-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "reach",
+      "entityType": "term",
+      "sentence": "reach, to the extremity of the little bay, stretches",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "board",
+      "entityType": "term",
+      "sentence": "board, and we steamed slowly in through the trea-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shark",
+      "entityType": "term",
+      "sentence": "Shark, Tripoli of the East.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gentleman",
+      "entityType": "term",
+      "sentence": "gentleman, Dr. Camilleri, a very zealous antiquarian,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "room",
+      "entityType": "term",
+      "sentence": "room, the best in the house, which I was rather",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Djedid",
+      "entityType": "term",
+      "sentence": "Djedid, the New GTate, behind the Jew quarter,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gate",
+      "entityType": "term",
+      "sentence": "gate, one traverses the European quarter and that of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trailed",
+      "entityType": "term",
+      "sentence": "trailed, and through which the sunlight streamed. Here",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hand-mirrors",
+      "entityType": "term",
+      "sentence": "hand-mirrors, inlaid with ivory and mother-of-pearl,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ings",
+      "entityType": "term",
+      "sentence": "ings, while the attendants moved quietly about with",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pepper",
+      "entityType": "term",
+      "sentence": "pepper, and ground corn for kouskousou. In an oil",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Baba",
+      "entityType": "term",
+      "sentence": "Baba, and one had only to travel to the silversmiths'",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bazaar",
+      "entityType": "term",
+      "sentence": "bazaar, to find the forty thieves. Much of the oil",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "horse-shoes",
+      "entityType": "term",
+      "sentence": "horse-shoes, tin powder-horns, primitive shot-pans, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "upon",
+      "entityType": "term",
+      "sentence": "called upon Mr. Said, my fellow traveller from Malta.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ward",
+      "entityType": "term",
+      "sentence": "ward, on the verge of the Grreater Syrtis, and Mr. Hay",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pointing",
+      "entityType": "term",
+      "sentence": "pointing, as regards costumes, bazaars, and buildings.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Grio",
+      "entityType": "term",
+      "sentence": "He recommended to me a Maltese servant named Grio-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vanni",
+      "entityType": "term",
+      "sentence": "vanni, and kindly brought from the castle the letter",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "honour",
+      "entityType": "term",
+      "sentence": "honour, and dignity here and elsewhere, that the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Monsieur",
+      "entityType": "term",
+      "sentence": "honourable person called Monsieur Eae, from England,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "show",
+      "entityType": "term",
+      "sentence": "show, with our grant and favour, that he may go and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "eggs",
+      "entityType": "term",
+      "sentence": "eggs, wine, coffee, &c., &c., for seven days — and dates,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Maltese",
+      "entityType": "term",
+      "sentence": "Maltese— Annibale by name — who, like Giovanni, spoke",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "since",
+      "entityType": "term",
+      "sentence": "since, what special purpose in this journey, or in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dation",
+      "entityType": "term",
+      "sentence": "dation— The Kaid — The Plagues of Barbary — Taphra — A Eencontre",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "shore",
+      "entityType": "term",
+      "sentence": "shore, and we cantered along the fresh breezy beach to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "marabout",
+      "entityType": "term",
+      "sentence": "marabout, and beside it the dusty grey trunk and trans-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Djemma",
+      "entityType": "term",
+      "sentence": "Djemma, the site of the Friday's market : with the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ride",
+      "entityType": "term",
+      "sentence": "ride, a straggling collection of little white houses and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Imsellatah",
+      "entityType": "term",
+      "sentence": "Imsellatah, only fifteen miles from Lebda : and having",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Eoumel",
+      "entityType": "term",
+      "sentence": "Eoumel, a small stream winding down among tall",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kas",
+      "entityType": "term",
+      "sentence": "anchorage at the point now known as Kas el Djefara.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "camel",
+      "entityType": "term",
+      "sentence": "camel, was a high scarlet palanquin carrying the lady",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "inland",
+      "entityType": "term",
+      "sentence": "inland, lay Imsellatah.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sea",
+      "entityType": "term",
+      "sentence": "sea, but in the afternoon we came in full sight of it,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "believed",
+      "entityType": "term",
+      "sentence": "believed, within the space of ten thousand square yards.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lently",
+      "entityType": "term",
+      "sentence": "lently, rendering his words into Italian for me. He",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "storey",
+      "entityType": "term",
+      "sentence": "storey, and the roof below us formed a terrace looking",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "morning",
+      "entityType": "term",
+      "sentence": "morning, and the ripple on the Mediterranean broke",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "line",
+      "entityType": "term",
+      "sentence": "line, or pale green and white streaked marble, and had",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "haps",
+      "entityType": "term",
+      "sentence": "haps, facing the sea in order to serve as a landmark.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "couraged",
+      "entityType": "term",
+      "sentence": "couraged, but dates and walnuts restored our cheerful-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stream",
+      "entityType": "term",
+      "sentence": "stream, running nearly due northwards, over a sandy",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wadi",
+      "entityType": "term",
+      "sentence": "alluvial deposit of the stream, now called Wadi Lebda.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sponsible",
+      "entityType": "term",
+      "sentence": "sponsible, I am satisfied, for the frequency of spectacles",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bank",
+      "entityType": "term",
+      "sentence": "bank, was an encouraging sight — an extensive and pic-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "temple",
+      "entityType": "term",
+      "sentence": "temple, a Roman arch, and other miscellaneous objects,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "camera",
+      "entityType": "term",
+      "sentence": "camera, but they thought poorly of it when they saw no",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "complete",
+      "entityType": "term",
+      "sentence": "complete, though the white stone was honeycombed and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "decline",
+      "entityType": "term",
+      "sentence": "decline, the public buildings of Leptis are admitted to",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Amphorae",
+      "entityType": "term",
+      "sentence": "Amphorae, paterae, intaglios, Carthaginian medals, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Magna",
+      "entityType": "term",
+      "sentence": "Leptis, afterwards called Magna from its wealth",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "presence",
+      "entityType": "term",
+      "sentence": "presence, to complain of certain wrongs. One of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "here",
+      "entityType": "term",
+      "sentence": "here, and so hardly pressed that he had to abandon the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Enraged",
+      "entityType": "term",
+      "sentence": "Enraged, and fearing the vengeance of their country-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "men",
+      "entityType": "term",
+      "sentence": "men, the Cyrenians began to pick a quarrel, and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "alternative",
+      "entityType": "term",
+      "sentence": "alternative, and were interred, living, somewhere in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lished",
+      "entityType": "term",
+      "sentence": "lished, and the city was wiped out from the page of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "card",
+      "entityType": "term",
+      "sentence": "card, with Rae Effendi's compliments to the governor",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "too",
+      "entityType": "term",
+      "sentence": "too, with delicacy — seeing we were not lodged in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Annibale",
+      "entityType": "term",
+      "sentence": "with which I called Annibale's attention to it galvanised",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "coat",
+      "entityType": "term",
+      "sentence": "coat, and how he could be expected to receive any",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Giovanni",
+      "entityType": "term",
+      "sentence": "Giovanni, the sleepiness and stubbornness of the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Italian",
+      "entityType": "term",
+      "sentence": "Italian, that we were making this journey for strictly",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "CHAP",
+      "entityType": "term",
+      "sentence": "CHAP, VI. A BARGAIN. 55",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tadjoura",
+      "entityType": "term",
+      "sentence": "Tadjoura, who had caught two big fish at a spot on the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "huts",
+      "entityType": "term",
+      "sentence": "huts, and occasional marabouts, seemed like high civi-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tripoli",
+      "entityType": "term",
+      "sentence": "Tripoli, two horsemen met us. Osman Warrington",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "city",
+      "entityType": "term",
+      "sentence": "city, I turned off through the palm woods towards the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "seashore",
+      "entityType": "term",
+      "sentence": "seashore, and reached Mr. Warrington's house — the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Eichardson",
+      "entityType": "term",
+      "sentence": "Eichardson, Vogel, Lyon, Beechey, Overweg, Barth —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Court",
+      "entityType": "term",
+      "sentence": "Court, the fiery old man's eccentricities, his grand re-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "influence",
+      "entityType": "term",
+      "sentence": "influence, civil dissensions, and finally Tripoli's absorp-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gether",
+      "entityType": "term",
+      "sentence": "gether, and for many a week dates used to be the only",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "journey",
+      "entityType": "term",
+      "sentence": "journey, and I emerged from it refreshed, but feeling",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "spot",
+      "entityType": "term",
+      "sentence": "spot, and which should have been placed under the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "work",
+      "entityType": "term",
+      "sentence": "work, towards the Sultanas' Domes, the tombs of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sash",
+      "entityType": "term",
+      "sentence": "sash, and had handsome brown legs. Another friend",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "shop",
+      "entityType": "term",
+      "sentence": "shop, the neighbours would bring me what they had",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Grold",
+      "entityType": "term",
+      "sentence": "Grold, silver, and copper coins used to be brought",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sembling",
+      "entityType": "term",
+      "sentence": "sembling, as far as I can recollect, a goat, a Thibet",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yak",
+      "entityType": "term",
+      "sentence": "Yak, and a Brahmin bull. Finally, a number of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wadai",
+      "entityType": "term",
+      "sentence": "Wadai, and Tomboukto, and seems to thrive upon it.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Adimmain",
+      "entityType": "term",
+      "sentence": "Of the beast called Adimmain. — It is a tame",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "beast",
+      "entityType": "term",
+      "sentence": "beast, being shaped like a ramme and of the stature of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dabuh",
+      "entityType": "term",
+      "sentence": "Of the beast called Dabuh. — This beast in bignes",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dub",
+      "entityType": "term",
+      "sentence": "Of the, creature called Dub. — This creature, living",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "creature",
+      "entityType": "term",
+      "sentence": "creature, feeding vpon anything which it findeth, be it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nesir",
+      "entityType": "term",
+      "sentence": "Of the fowle called Nesir. — This is the greatest",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rukh",
+      "entityType": "term",
+      "sentence": "Rukh, that feedeth its young ones with elephants.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ground",
+      "entityType": "term",
+      "sentence": "ground, its proportions are interfered with. The eastern",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Duumvir",
+      "entityType": "term",
+      "sentence": "Duumvir, and Flamen of Quirinus for life, made the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hausted",
+      "entityType": "term",
+      "sentence": "hausted, and unless rain should come soon, many poor",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gutter",
+      "entityType": "term",
+      "sentence": "gutter, too, was cut in the beach, to let the overflow",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "to-day",
+      "entityType": "term",
+      "sentence": "The vice-consul called to-day to say that no arrange-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "later",
+      "entityType": "term",
+      "sentence": "and Frederick Warrington called later upon the same",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Barb",
+      "entityType": "term",
+      "sentence": "Barb, which was put up outside the Castle gate. In a",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "brella-like",
+      "entityType": "term",
+      "sentence": "brella-like, crossed by horizontal rods, like degrees of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mahmoud",
+      "entityType": "term",
+      "sentence": "Mahmoud, the little black boy, kisses your hand and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "faithful",
+      "entityType": "term",
+      "sentence": "faithful, and affectionate, excelling in good qualities the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "silence",
+      "entityType": "term",
+      "sentence": "silence, which disquieted me when I thought of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "faith",
+      "entityType": "term",
+      "sentence": "faith, and who accompanies and conducts the affairs of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "zan",
+      "entityType": "term",
+      "sentence": "zan, from thirty to forty days : to Wadai five months :",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pm-pose",
+      "entityType": "term",
+      "sentence": "pm-pose, being connected with the interior by a chain",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "powder",
+      "entityType": "term",
+      "sentence": "powder, muskets, glass, hardware, beads, toys, looking-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "alum",
+      "entityType": "term",
+      "sentence": "alum, alkali, ivory, and, till comparatively late years,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "henna",
+      "entityType": "term",
+      "sentence": "henna, vermilion pinguent, and drugs. On arriving at",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "myrrh",
+      "entityType": "term",
+      "sentence": "myrrh, civet, Cashmir shawls, precious stones, coffee,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "being",
+      "entityType": "term",
+      "sentence": "being, as a rule, Turkish or Moorish — the rural, Arab or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vated",
+      "entityType": "term",
+      "sentence": "vated, as well as the mulberry and the castor, or, as an",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "carved",
+      "entityType": "term",
+      "sentence": "carved, and having in the centre a double-headed eagle.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "djerdb",
+      "entityType": "term",
+      "sentence": "disease called djerdb, which leads them to rub them-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lime",
+      "entityType": "term",
+      "sentence": "lime, as if they had a pain in their stomachs, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "load",
+      "entityType": "term",
+      "sentence": "load, worth moaning for.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "proportion",
+      "entityType": "term",
+      "sentence": "proportion, from the constant additions made to it, in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sand",
+      "entityType": "term",
+      "sentence": "sand, surrounded by simple Arabs, whose fortunes he",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ago",
+      "entityType": "term",
+      "sentence": "ago, I was told, the last murderer was beheaded. They",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "market",
+      "entityType": "term",
+      "sentence": "market, near the beach. \"We watched a native black-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "allowed",
+      "entityType": "term",
+      "sentence": "allowed, except when carrying travellers, to peram-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "formed",
+      "entityType": "term",
+      "sentence": "formed, to the Sheikh el Biled, who came to Tripoli a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ment",
+      "entityType": "term",
+      "sentence": "ment; but the Arabs, in their superstition, destroyed",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Malta",
+      "entityType": "term",
+      "sentence": "Malta, which got out of order in 1870, might have",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pasha",
+      "entityType": "term",
+      "sentence": "Pasha, who comes here and smokes behind the latticed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "house",
+      "entityType": "term",
+      "sentence": "house, and entering an alley one yard in width, reach",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tern",
+      "entityType": "term",
+      "sentence": "tern, and is all delicately painted and gilded. The",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "membar",
+      "entityType": "term",
+      "sentence": "membar, or pulpit, is of inlaid marble, having coloured",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cruellest",
+      "entityType": "term",
+      "sentence": "cruellest, and most energetic of the Pashas of Tripoli,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gordji",
+      "entityType": "term",
+      "sentence": "Gordji, the most beautiful of the Tripoli mosques. Its",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wood",
+      "entityType": "term",
+      "sentence": "wood, stand in frames of coloured marbles. The roof",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lebda",
+      "entityType": "term",
+      "sentence": "Lebda, but coarsely painted in imitation of marble,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "palm",
+      "entityType": "term",
+      "sentence": "palm, rose from the Jews' quarter. Many attempts",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nothing",
+      "entityType": "term",
+      "sentence": "nothing, the price being at times as low as a halfpenny",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "export",
+      "entityType": "term",
+      "sentence": "export, owing to the small meat consumption by the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chronicler",
+      "entityType": "term",
+      "sentence": "chronicler, are sweete oiles. The king there is a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "arose",
+      "entityType": "term",
+      "sentence": "arose, the captain of the lefus was hanged, twenty-six",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Fez",
+      "entityType": "term",
+      "sentence": "Fez, then Euler of Tripoli, being advertized, gave the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Murderer",
+      "entityType": "term",
+      "sentence": "Murderer— The Dutch Consul — The Black Village — In the Palm",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "figs",
+      "entityType": "term",
+      "sentence": "figs, is stripped of its hair and boiled in the cochineal",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "capital",
+      "entityType": "term",
+      "sentence": "capital, two Arabs were pounding coarse salt, brought",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "disorderly",
+      "entityType": "term",
+      "sentence": "disorderly, noisy, irreverent congregation, with its forest",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sabbath",
+      "entityType": "term",
+      "sentence": "Sabbath, he said, turning away. We were within a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vanished",
+      "entityType": "term",
+      "sentence": "vanished, and began to think that to be suspicious was",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "lage",
+      "entityType": "term",
+      "sentence": "lage, which squats on a sloping sandbank near the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mitage",
+      "entityType": "term",
+      "sentence": "mitage, were huddled together. Some were surrounded",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "structed",
+      "entityType": "term",
+      "sentence": "structed, and having furniture simple in the extreme.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "seemed",
+      "entityType": "term",
+      "sentence": "seemed, stretched above the walls. Solemn palms",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lemon",
+      "entityType": "term",
+      "sentence": "lemon, rose, scented poplar, orange, geranium, tuberose,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Arabia",
+      "entityType": "term",
+      "sentence": "Arabia, are distilled in great quantities : and the essence",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sury",
+      "entityType": "term",
+      "sentence": "sury, where sentries stood with fixed bayonets. Thence",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vant",
+      "entityType": "term",
+      "sentence": "vant, who carried the marble head of a Roman lady to",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "pired",
+      "entityType": "term",
+      "sentence": "pired, had come to Tripoli with a view to transporting",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bouba",
+      "entityType": "term",
+      "sentence": "understood she was known as Bouba. On the last",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mitting",
+      "entityType": "term",
+      "sentence": "mitting, for Malta in the evening : but as the weather",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sight",
+      "entityType": "term",
+      "sentence": "sight, and as night fell, the Circe was pitching into the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cholmeley",
+      "entityType": "term",
+      "sentence": "Cholmeley, who died two or three days after our",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "south-east",
+      "entityType": "term",
+      "sentence": "south-east, the captain told me, very sudden gusts",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "east-south-east",
+      "entityType": "term",
+      "sentence": "east-south-east, Notus the south, Africus the west-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "south-west",
+      "entityType": "term",
+      "sentence": "south-west, Aquilo the north-north-east, and eventually",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "abandoned",
+      "entityType": "term",
+      "sentence": "abandoned, however, since 1853. The Carthaginian",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Groletta",
+      "entityType": "term",
+      "sentence": "Groletta, in the morning. The landing was much less",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Engleterre",
+      "entityType": "term",
+      "sentence": "Engleterre, and wondered which of our leading families",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sulate",
+      "entityType": "term",
+      "sentence": "sulate, and afterwards destroyed himself. The judge",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "scantier",
+      "entityType": "term",
+      "sentence": "scantier, and the life less animated than four years ago.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "commerce",
+      "entityType": "term",
+      "sentence": "commerce, and has large internal resources. Having a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "peach",
+      "entityType": "term",
+      "sentence": "peach, and pomegranate trees, with rich tracts of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sion",
+      "entityType": "term",
+      "sentence": "sion, has been good. Railways, telegraphs, a bank, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "era",
+      "entityType": "term",
+      "sentence": "era, of the Phoenician colony on the heights of Cape",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Rome",
+      "entityType": "term",
+      "sentence": "Rome, its fall and destruction, while our ancestors",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "eventually",
+      "entityType": "term",
+      "sentence": "eventually, not feeling secure there, at Kairwan. After",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "piastre",
+      "entityType": "term",
+      "sentence": "piastre, that the traveller's spirits droop and he becomes",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "amulet",
+      "entityType": "term",
+      "sentence": "amulet, and the Jew having refused to take less than",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nineteen",
+      "entityType": "term",
+      "sentence": "nineteen, we were at a dead lock. Anxious to give way,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "out",
+      "entityType": "term",
+      "sentence": "coin, it fell in my hand head upwards, but I called out,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "coin",
+      "entityType": "term",
+      "sentence": "coin, it fell in my hand head upwards, but I called out,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ear",
+      "entityType": "term",
+      "sentence": "ear, a deep blue embroidered jacket, waistcoat, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "red",
+      "entityType": "term",
+      "sentence": "red, black, and blue silk scarfs.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tiled",
+      "entityType": "term",
+      "sentence": "tiled, others thin and graceful, with delicate little gal-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tablishment",
+      "entityType": "term",
+      "sentence": "tablishment, where hashashtn were smoking away their",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Now",
+      "entityType": "term",
+      "sentence": "Now, he said, I am no longer a Mussulman : I can go",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ill",
+      "entityType": "term",
+      "sentence": "ill, and for three weeks I had the doctor every day. I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "prince",
+      "entityType": "term",
+      "sentence": "prince, the workmen were set to whitewash the walls,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Manouba",
+      "entityType": "term",
+      "sentence": "Manouba, a suburban village. Beyond this the road",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "horseback",
+      "entityType": "term",
+      "sentence": "horseback, but a courier travelling quickly can do it in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "aqueduct",
+      "entityType": "term",
+      "sentence": "aqueduct, built to bring the waters of Ain Djugar to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ket",
+      "entityType": "term",
+      "sentence": "ket, where hooded Arabs were bargaining for fodder,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "lightning",
+      "entityType": "term",
+      "sentence": "lightning, that nothing escaped, and which served him",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "say",
+      "entityType": "term",
+      "sentence": "say, and upon that he would live for days and gain money.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "booter",
+      "entityType": "term",
+      "sentence": "booter, from the opportunities his faculties of amuse-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "myself",
+      "entityType": "term",
+      "sentence": "myself: would daily bring old engraved stones and offer",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "companion",
+      "entityType": "term",
+      "sentence": "companion, the Earl of Kingston. They were interested",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "arrived",
+      "entityType": "term",
+      "sentence": "arrived, and a gentleman promised me we should have a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "grinning",
+      "entityType": "term",
+      "sentence": "grinning, of almost life size, and a fine female head.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "removed",
+      "entityType": "term",
+      "sentence": "removed, concessions have been made, and freedom of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Indeed",
+      "entityType": "term",
+      "sentence": "Indeed, Tunis is showing an example which her suzerain",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lets",
+      "entityType": "term",
+      "sentence": "lets, and bananas, and looking over the snowy city's",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cemetery",
+      "entityType": "term",
+      "sentence": "cemetery, and a marabout whither childless women go",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "execution",
+      "entityType": "term",
+      "sentence": "execution, a Europeanised open space. A few weeks",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "swollen",
+      "entityType": "term",
+      "sentence": "swollen, and dyed : having been scraped with thistle",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Toburba",
+      "entityType": "term",
+      "sentence": "Toburba, on the river Medjerdah.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hammerfest",
+      "entityType": "term",
+      "sentence": "Hammerfest, where the warehouses and stores are full",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "yellow",
+      "entityType": "term",
+      "sentence": "yellow, red, and all manner of colours. Here comes a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "manufacturer",
+      "entityType": "instrument",
+      "sentence": "Djerba pottery. In a pipe manufacturer's shop are",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "escaped",
+      "entityType": "term",
+      "sentence": "escaped, no pursuers could follow him. All they could",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stabbed",
+      "entityType": "term",
+      "sentence": "stabbed, or knocked on the head, by the shopkeepers,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kingston",
+      "entityType": "term",
+      "sentence": "Kingston, who, like myself, were about to start on their",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Goletta",
+      "entityType": "term",
+      "sentence": "Goletta, the Bey's letter arrived. This was all I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "needed",
+      "entityType": "term",
+      "sentence": "needed, and we travelled down to Goletta, embarking",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mosque",
+      "entityType": "term",
+      "sentence": "tiled minaret. It is called a mosque, he said with reserve.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sir",
+      "entityType": "term",
+      "sentence": "Sir, we said with ceremony to a negro, whom we",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "said",
+      "entityType": "term",
+      "sentence": "said, how can that be ? But it bears the name of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Natreddin",
+      "entityType": "term",
+      "sentence": "mosque is called Natreddin. The people of Susa have",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kasbah",
+      "entityType": "term",
+      "sentence": "Kasbah, and went out to the grass market behind the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "cool",
+      "entityType": "term",
+      "sentence": "cool, dark, and vaulted, and very picturesque. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "foudouk",
+      "entityType": "term",
+      "sentence": "foudouk, a hammam with firewood heaped on the roof,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rumetum",
+      "entityType": "term",
+      "sentence": "rumetum, which first, of these Eastern ports, offered",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nues",
+      "entityType": "term",
+      "sentence": "nues, established first in 1867 for the purpose of as-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "administration",
+      "entityType": "term",
+      "sentence": "administration, army, marine, and other requirements :",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "town",
+      "entityType": "term",
+      "sentence": "town, and is defended by a fort. Beyond the town are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "beach",
+      "entityType": "term",
+      "sentence": "beach, and her stay was too short to allow of going up",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "however",
+      "entityType": "term",
+      "sentence": "however, has not a heart of oak, for, give him a blow,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sandy",
+      "entityType": "term",
+      "sentence": "sandy, and covered with brushwood : behind them lie",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "rate",
+      "entityType": "term",
+      "sentence": "rate, vessels can lie in moderate security. All the way",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "name",
+      "entityType": "term",
+      "sentence": "name, and helps to identify the spot. The name of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fell",
+      "entityType": "term",
+      "sentence": "fell, and cinders from the funnel came floating down on",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "amphitheatre",
+      "entityType": "term",
+      "sentence": "amphitheatre, a fine reservoir of Roman work, built in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "neer",
+      "entityType": "term",
+      "sentence": "neer, sent to explore by poor Napoleon III., found many",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "construction",
+      "entityType": "term",
+      "sentence": "construction, faced with stone and of rubble within, are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Birloubuita",
+      "entityType": "term",
+      "sentence": "Birloubuita, Susa, Monastir, and Mehdia, to Sfax. A",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "government",
+      "entityType": "term",
+      "sentence": "government, are the entrepreneurs. They received the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "kouskousou",
+      "entityType": "term",
+      "sentence": "kouskousou, assida, eggs, coffee, and mutton. This",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "another",
+      "entityType": "term",
+      "sentence": "another, I was bom in the year of the cholera, or of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Zachariah",
+      "entityType": "term",
+      "sentence": "Zachariah, was so satisfied at having an estimate of his",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Khassir",
+      "entityType": "term",
+      "sentence": "Khassir, or Shallows — the calm sea of the dreamy Lotos",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Gulf",
+      "entityType": "term",
+      "sentence": "known as the Gulf of Kabes. The Lesser Syrtis may be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hydrophobia",
+      "entityType": "term",
+      "sentence": "hydrophobia, for those who dread the bitter sea.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bey",
+      "entityType": "term",
+      "sentence": "quently known as the Bey of the Camp. As much as a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "expedition",
+      "entityType": "term",
+      "sentence": "expedition, in cattle, money, and valuables : but since",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "oxen",
+      "entityType": "term",
+      "sentence": "oxen, camels, sheep, corn, olives, or dates. Fowls, or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "seen",
+      "entityType": "term",
+      "sentence": "seen, but not often taken.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Djerba",
+      "entityType": "term",
+      "sentence": "Djerba, and it was a disappointment to be unable to go",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Meninx",
+      "entityType": "term",
+      "sentence": "ing island, once known as Meninx, Lotophagitis, or",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "garden",
+      "entityType": "term",
+      "sentence": "garden, the fig trees are as large as walnut trees, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "soap",
+      "entityType": "term",
+      "sentence": "soap, stuffs in great quantities : they have extensive",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "excellent",
+      "entityType": "term",
+      "sentence": "excellent, are much used in carriages of native Tunisian",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "silk",
+      "entityType": "term",
+      "sentence": "silk, are sent to the East. The islanders are good-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Constantinople",
+      "entityType": "term",
+      "sentence": "Constantinople, and throughout the East.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "death",
+      "entityType": "term",
+      "sentence": "death, and his body flung from a catapult into the city,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tradition",
+      "entityType": "term",
+      "sentence": "tradition, these trees sprang from date stones left by an",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "swamp",
+      "entityType": "term",
+      "sentence": "swamp, which it is believed lies below the level of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "verised",
+      "entityType": "term",
+      "sentence": "verised, as soap. The bush resembles a blackthorn : the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Asfax",
+      "entityType": "term",
+      "sentence": "Asfax, or Asfachus, is said to owe its name to the quan-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "steadily",
+      "entityType": "term",
+      "sentence": "steadily, gusts came faster than ever ; when gradually",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vice-consul",
+      "entityType": "term",
+      "sentence": "vice-consul: and we went together to the vice-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "arch",
+      "entityType": "term",
+      "sentence": "arch, and close by it found the mosque of Sidi Ali Aziz.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bilahh",
+      "entityType": "term",
+      "sentence": "Djerba, known as bilahh and as b^sir, but they are far",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ertoub",
+      "entityType": "term",
+      "sentence": "a soft dark date, called ertoub, cheap, and not very",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "corn",
+      "entityType": "term",
+      "sentence": "corn, flour, &c. are the sah, equal to four and a half",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lating",
+      "entityType": "term",
+      "sentence": "lating, he fell upon them as if to devour them alive.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sahara",
+      "entityType": "term",
+      "sentence": "Sahara, in fact. He described to me the figs, almonds,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "peacefid",
+      "entityType": "term",
+      "sentence": "peacefid, and hospitable — coming rarely into contact",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Algeria",
+      "entityType": "term",
+      "sentence": "Algeria, carrying English manufactures, and returning",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ness",
+      "entityType": "term",
+      "sentence": "ness, common to the Barbary towns, but I believe",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "robe",
+      "entityType": "term",
+      "sentence": "robe, like the abbah of Egypt, but open only at the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "breast",
+      "entityType": "term",
+      "sentence": "breast, and there ornamented, as well as round the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "neck",
+      "entityType": "term",
+      "sentence": "neck, with silk embroidery.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pleasure",
+      "entityType": "term",
+      "sentence": "pleasure, so we sauntered on.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dice",
+      "entityType": "term",
+      "sentence": "dice, gilded and enamelled. The Sfaxins rejoice very",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bargaining",
+      "entityType": "term",
+      "sentence": "bargaining, was an imbecile compared with Bakkoush.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trade",
+      "entityType": "term",
+      "sentence": "trade, and he was distracted when he told me of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "face",
+      "entityType": "term",
+      "sentence": "face, in the next came a passing caricature of the silver-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "blue",
+      "entityType": "instrument",
+      "sentence": "old flint implements and hawthorn blue china pots : if",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jack",
+      "entityType": "term",
+      "sentence": "Jack, lest he should cling fondly to me, and oblige me",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "long",
+      "entityType": "term",
+      "sentence": "long, half-decked boats, much used by the Kerkeni in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tery",
+      "entityType": "term",
+      "sentence": "tery— Port of Mehdia — Turris Hannibalis — Relics of El Djem — A",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "fallen",
+      "entityType": "term",
+      "sentence": "fallen, the sun set, and the city looked cold and white.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "keneh",
+      "entityType": "term",
+      "sentence": "keneh, eighteen miles away, have a population of twelve",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sfax",
+      "entityType": "term",
+      "sentence": "Sfax, the steam winch rattling up to a late hour. In",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ence",
+      "entityType": "term",
+      "sentence": "ence, poor fellow : for the murdered Jew was his brother.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Unfortunately",
+      "entityType": "term",
+      "sentence": "Unfortunately, the currents are so strong that it is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "told",
+      "entityType": "term",
+      "sentence": "told, spread oil in rings upon the water, that they may",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Benghasi",
+      "entityType": "term",
+      "sentence": "Benghasi, where the results are more profitable. I was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "harpoon",
+      "entityType": "term",
+      "sentence": "harpoon, then a second, striking it on its head and in-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "family",
+      "entityType": "term",
+      "sentence": "family, imagining the hook is intended for him, lays",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cavern",
+      "entityType": "term",
+      "sentence": "cavern, the second puffin lays hold of his tail, the third",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "deed",
+      "entityType": "term",
+      "sentence": "deed, I was solemnly assured that individuals of a cer-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "earthen",
+      "entityType": "instrument",
+      "sentence": "fast days. The natives string earthen jars together,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "please",
+      "entityType": "term",
+      "sentence": "please, while their proprietor attends to the hatching.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Salectum",
+      "entityType": "term",
+      "sentence": "Salectum, and cast anchor at three in the afternoon off\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ton",
+      "entityType": "term",
+      "sentence": "ton, as many tons of salt as they import : but this",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "feet",
+      "entityType": "term",
+      "sentence": "feet, and the surf beat dismally upon the point. It is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hungrily",
+      "entityType": "term",
+      "sentence": "hungrily, as we passed through the Arab town, and went",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "skipper",
+      "entityType": "term",
+      "sentence": "skipper, Pietro Molinari, had not been to bed at all,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "instance",
+      "entityType": "term",
+      "sentence": "instance, in the habit and facility of eating with the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "embroidery",
+      "entityType": "term",
+      "sentence": "embroidery, and such like, that any necessary steps for",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "disposal",
+      "entityType": "term",
+      "sentence": "disposal, and we only awaited Perruquier's arrival to start",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Valentino",
+      "entityType": "term",
+      "sentence": "Valentino, was disposed to be unreasonable, but after a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "marble",
+      "entityType": "term",
+      "sentence": "marble, probably brought from Italy, contained a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Carven",
+      "entityType": "term",
+      "sentence": "' The famous citie of Cairaoan, otherwise called Carven,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "purpose",
+      "entityType": "term",
+      "sentence": "purpose, but onely that the Arabian armie might",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "aster",
+      "entityType": "term",
+      "sentence": "aster, and from Mahdia, all which townes are within the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gueslet",
+      "entityType": "term",
+      "sentence": "standeth a certain mountaine called Gueslet, where",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "midia",
+      "entityType": "term",
+      "sentence": "midia, and exchange it also for the cloth of Europe.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Calipha",
+      "entityType": "term",
+      "sentence": "Calipha,' he says, ' of Africa had his seat of government",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cyrenaica",
+      "entityType": "term",
+      "sentence": "Cyrenaica, after various victories gained over the Arabs :",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "authority",
+      "entityType": "term",
+      "sentence": "authority, writes Kerouan ^J'if'- in Tripoli the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "decaying",
+      "entityType": "term",
+      "sentence": "decaying, and now restricted to some few objects of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "manufacture",
+      "entityType": "term",
+      "sentence": "manufacture, such as carpets and leather articles, and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "plain",
+      "entityType": "term",
+      "sentence": "plain, of which they and the natives of Kairwan cul-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "right",
+      "entityType": "term",
+      "sentence": "right, I do not say of establishing himself in it, but",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "elsewhere",
+      "entityType": "instrument",
+      "sentence": "absolute elsewhere, is here a simple prayer, a pure",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "lamism",
+      "entityType": "term",
+      "sentence": "lamism, for fear of exciting annoyance and insult among",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "visit",
+      "entityType": "term",
+      "sentence": "visit, and will make allowance for the interest with which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "horse",
+      "entityType": "term",
+      "sentence": "horse, while I, carrying the bundle, should walk behind",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "distracted",
+      "entityType": "term",
+      "sentence": "distracted, we would traverse the bazaars : I calculated",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mendation",
+      "entityType": "term",
+      "sentence": "mendation, under the name of Abdul Malek, to",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Compassionate",
+      "entityType": "term",
+      "sentence": "Compassionate, Bless He be ! We the undersigned",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Date",
+      "entityType": "term",
+      "sentence": "Date, etc.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "summer",
+      "entityType": "term",
+      "sentence": "summer, when the leaves were on the trees. As it was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sanguinary",
+      "entityType": "term",
+      "sentence": "sanguinary, that I was afraid he might get me watched",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "sailing",
+      "entityType": "term",
+      "sentence": "sailing, drinking strong coffee, a profound idea came",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Governor",
+      "entityType": "term",
+      "sentence": "Governor, that he may make arrangements for your",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "History",
+      "entityType": "term",
+      "sentence": "History— Drought — M'seken — The Great Plain — Footprints of Pil-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "water",
+      "entityType": "term",
+      "sentence": "water, dug by some poor Arab, anxious to lose no drop",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "reb",
+      "entityType": "term",
+      "sentence": "reb, the sunset.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hammer",
+      "entityType": "term",
+      "sentence": "hammer, and he not think anything of it ; but he is",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "wall",
+      "entityType": "term",
+      "sentence": "wall, rose the tower of the most sacred building in all",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "height",
+      "entityType": "term",
+      "sentence": "height, and of a creamy white above. Everything was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mud",
+      "entityType": "term",
+      "sentence": "mud, outside the city wall : and here we came among",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pliment",
+      "entityType": "term",
+      "sentence": "pliment, such as kaU), khanztr, kqflr, and Perruquier",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Yes",
+      "entityType": "term",
+      "sentence": "Yes, and an ill-disposed countenance, said another.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "floor",
+      "entityType": "term",
+      "sentence": "floor, and the wooden ceiling was painted in gaudy",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "himself",
+      "entityType": "term",
+      "sentence": "himself, but his brother, Miralai or Colonel Mohammed",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kairwan",
+      "entityType": "term",
+      "sentence": "Kairwan, a mild amiable man, who was suffering from",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Frenchman",
+      "entityType": "term",
+      "sentence": "Frenchman, who had adapted Islamism, and who occu-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "obtain",
+      "entityType": "term",
+      "sentence": "obtain, by the means of tobacco and napoleons, drawings",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Perruquier",
+      "entityType": "term",
+      "sentence": "Perruquier, who had a ready intelligence, was to invite",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Minister",
+      "entityType": "term",
+      "sentence": "Minister, sat near us, a well-bred man, dressed in pale",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wished",
+      "entityType": "term",
+      "sentence": "wished, poor fellows, to wait till I had finished, but I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "faced",
+      "entityType": "term",
+      "sentence": "faced, pleasant yoimg Moor, who saluted me cordially",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mufti",
+      "entityType": "term",
+      "sentence": "Mufti, two Muftis, and a Kadi. The Oujak, or corps",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Khogia",
+      "entityType": "term",
+      "sentence": "Khogia, and a Bashi Shaoush. In former times the Kaid",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Annihilator",
+      "entityType": "term",
+      "sentence": "preparation is to be called the Annihilator.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "household",
+      "entityType": "term",
+      "sentence": "household, in turbans and long robes, white stockings",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "country",
+      "entityType": "term",
+      "sentence": "country, and Bedouins with goats for sale.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "crowd",
+      "entityType": "term",
+      "sentence": "crowd, who thought it just like Christians to look at a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Keshlah",
+      "entityType": "term",
+      "sentence": "The Kasbah, now called the Keshlah, is a rectangular",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fort",
+      "entityType": "term",
+      "sentence": "fort, having a large open coiu± and low barracks round",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "street",
+      "entityType": "term",
+      "sentence": "street, and we moved on in the direction of the Great",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thing",
+      "entityType": "term",
+      "sentence": "thing, save the lower portion of the tower, was snowy",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "white",
+      "entityType": "term",
+      "sentence": "white, standing out against the blue cloudless sky.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tion",
+      "entityType": "term",
+      "sentence": "tion, and the Minar rising about midway along the wall.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "nor",
+      "entityType": "term",
+      "sentence": "nor, a large building, with a gallery across its front, and a",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Zituna",
+      "entityType": "term",
+      "sentence": "Zituna, the Mosque of the Olive Tree, outside the city",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Aissa",
+      "entityType": "term",
+      "sentence": "Aissa, where scorpion, glass, and cactus eating take place",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gian",
+      "entityType": "term",
+      "sentence": "gian, who died in the year a.d, 862, is also to be seen.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "north",
+      "entityType": "term",
+      "sentence": "north, and Sayiha Kubliyeh to the south. These are",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Abassiyeh",
+      "entityType": "term",
+      "sentence": "Abassiyeh, and Mansourah, have disappeared.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "khaukhat",
+      "entityType": "term",
+      "sentence": "the Bab el Tunes : one called the khaukhat of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Prophet",
+      "entityType": "term",
+      "sentence": "Prophet, invaded Africa, devastating its northern",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Okhbah",
+      "entityType": "term",
+      "sentence": "year 45, or a.d. 667, the Emir briefly known as Okhbah",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "called",
+      "entityType": "term",
+      "sentence": "called, and his envious successor, after attacking",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kassila",
+      "entityType": "term",
+      "sentence": "Kassila, king of the Berbers. Kassila then occupied",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "war",
+      "entityType": "term",
+      "sentence": "war: Zohair ben Kais entered Africa, met Kassila at",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "reinforced",
+      "entityType": "term",
+      "sentence": "reinforced, marched against Kahina. What do the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "veteran",
+      "entityType": "term",
+      "sentence": "veteran, scarred with wounds, and revelling in the love",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ature",
+      "entityType": "term",
+      "sentence": "ature, India in its fruits and flowers, and Cathay in its",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Signior",
+      "entityType": "term",
+      "sentence": "Signior, wrote its Gothic defender to Koderick :",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "disappeared",
+      "entityType": "term",
+      "sentence": "disappeared, the Gothic power was extinguished, and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tars",
+      "entityType": "term",
+      "sentence": "tars, overran the peninsula, reducing fortresses and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Khalif",
+      "entityType": "term",
+      "sentence": "Khalif, said the blunt Tarik, whose one eye burned like",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ebro",
+      "entityType": "term",
+      "sentence": "Ebro, the Pyrenees, and captured the cities of Saragossa,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Barcelona",
+      "entityType": "term",
+      "sentence": "Barcelona, and Narbonne. Musa's self-glorification was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cordova",
+      "entityType": "term",
+      "sentence": "Cordova, Tangier, and Kairwan, and departed to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "strength",
+      "entityType": "term",
+      "sentence": "strength, wealth, and glory beyond measure.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Catalonia",
+      "entityType": "term",
+      "sentence": "Catalonia, and Murcia were one vast garden. Granada",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ful",
+      "entityType": "term",
+      "sentence": "ful, and wrote to remonstrate with the Catholic mon-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Broken-hearted",
+      "entityType": "term",
+      "sentence": "Broken-hearted, the king, the viziers, and the nobles",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "exclaimed",
+      "entityType": "term",
+      "sentence": "exclaimed, Allah Akhbar ! God is great : the will of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cuted",
+      "entityType": "term",
+      "sentence": "cuted, tortured, they drifted sadly over into Africa.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mughreb",
+      "entityType": "term",
+      "sentence": "Mughreb, Kolthoum ben Ayad was sent to the seat of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "slew",
+      "entityType": "term",
+      "sentence": "slew, it is said, no less than a hundred and ninety",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "khazz",
+      "entityType": "term",
+      "sentence": "he presented himself in sandals and a robe called khazz :",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "son",
+      "entityType": "term",
+      "sentence": "son, succeeded him. Dividing the kingdom, Elyas",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "thee",
+      "entityType": "term",
+      "sentence": "thee, I shall avenge him.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tobna",
+      "entityType": "term",
+      "sentence": "Tobna, which he was fortifying, the indomitable",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ance",
+      "entityType": "term",
+      "sentence": "ance, and recovered Kairwan from the insurgents. He",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Aghlab",
+      "entityType": "term",
+      "sentence": "Aghlab, to entrust to thee again the government of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ardice",
+      "entityType": "term",
+      "sentence": "ardice, his strength and thy weakness, his submissive-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "wan",
+      "entityType": "term",
+      "sentence": "wan, the fortress city of Abassiyeh, which he inhabited",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "magne",
+      "entityType": "term",
+      "sentence": "magne, who came to -solicit permission to carry to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dallah",
+      "entityType": "term",
+      "sentence": "dallah, treated the citizens so cruelly that a santon",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "just",
+      "entityType": "term",
+      "sentence": "just, and firm ruler, pacified the country. He built on",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Raccadah",
+      "entityType": "term",
+      "sentence": "Raccadah, and in the same year took up his residence in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ibrahim",
+      "entityType": "term",
+      "sentence": "Ibrahim, who one day had lost his napkin, put to",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Allah",
+      "entityType": "term",
+      "sentence": "Allah, the first of the Green Khalifs who reigned in",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "West",
+      "entityType": "term",
+      "sentence": "West, the Crescent and the Cross : Islamism and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Yussuf",
+      "entityType": "term",
+      "sentence": "Yussuf, sovereign of Morocco : at another governed by",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mehdi",
+      "entityType": "term",
+      "sentence": "Mehdi, the restor«^r of Afrikieh, the False descendant of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "century",
+      "entityType": "term",
+      "sentence": "century, when Dragut of Tripoli conspired with the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "barber",
+      "entityType": "term",
+      "sentence": "barber, Hassan ben Ali, presented himself, a bright,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "nished",
+      "entityType": "term",
+      "sentence": "nished, and numerous well-dressed attendants would",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ridge",
+      "entityType": "term",
+      "sentence": "ridge, the poor soldiers do rather badly. They are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "saddle",
+      "entityType": "term",
+      "sentence": "saddle, and so powerful and spirited that I felt he",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "endowed",
+      "entityType": "term",
+      "sentence": "endowed, and from their libraries came some of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "present",
+      "entityType": "term",
+      "sentence": "present, sat down cross-legged on the carpet in front of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "enter",
+      "entityType": "term",
+      "sentence": "enter, I attached myself to the monastery of La Trappe,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ter",
+      "entityType": "term",
+      "sentence": "ter, the distinguished and successful Khaireddin, who",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "affection",
+      "entityType": "term",
+      "sentence": "affection, such as I did not before believe the Arab",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "calm",
+      "entityType": "instrument",
+      "sentence": "happiness is. I live in the most absolute calm and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "many",
+      "entityType": "term",
+      "sentence": "many, and each one endeavoured to invent some motive",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "trary",
+      "entityType": "term",
+      "sentence": "trary, I said, what you have told me is very interest-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tect",
+      "entityType": "term",
+      "sentence": "tect, and serve any friend of yours, believe me I will not",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "centre",
+      "entityType": "term",
+      "sentence": "but this was a man brought up in the so-called centre",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sect",
+      "entityType": "term",
+      "sentence": "sect, a compromise, or a Christian-Mohammedanism,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "souvenir",
+      "entityType": "term",
+      "sentence": "souvenir, so I started with the old barber, Hassan ben",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ali",
+      "entityType": "term",
+      "sentence": "Ali, for the bazaars. We went to the shop of Haji",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hamouda",
+      "entityType": "term",
+      "sentence": "Hamouda, amtn of the bazaar, near Djemma '1 Barota,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "forward",
+      "entityType": "term",
+      "sentence": "forward, we withdrew to the Kaid's stables, which were",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "silver",
+      "entityType": "term",
+      "sentence": "silver, and was satisfied with what I gave him for",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Biban",
+      "entityType": "term",
+      "sentence": "Biban, or Mosque of the Three Gates : and we next",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stonework",
+      "entityType": "term",
+      "sentence": "stonework, which gives it the air of the front of a fine",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "depth",
+      "entityType": "term",
+      "sentence": "depth, then a band of Kufic or early Arabic characters,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "finest",
+      "entityType": "term",
+      "sentence": "finest, and the designs are most rich. The front was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cap",
+      "entityType": "term",
+      "sentence": "cap, and as he came out by the opposite door he was",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "zem",
+      "entityType": "term",
+      "sentence": "zem, found it in Kafayat on his way homeward ! The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bir",
+      "entityType": "term",
+      "sentence": "only other well in Kairwan is that called Bir el Bey.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "colonnade",
+      "entityType": "term",
+      "sentence": "colonnade, entered by a private door from the street,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "angle",
+      "entityType": "term",
+      "sentence": "angle, and near the main entrance, is a bath, entered",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "old",
+      "entityType": "term",
+      "sentence": "old, carry the whitewashed double arches of the roof.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "stored",
+      "entityType": "term",
+      "sentence": "stored, and where wooden supports were giving way",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tomb",
+      "entityType": "term",
+      "sentence": "Tomb, containing, I was told, manuscripts and old",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "winter",
+      "entityType": "term",
+      "sentence": "winter, without coming to a determination. Okhbah,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "vision",
+      "entityType": "term",
+      "sentence": "vision, and a voice from on high addressed him in these",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mihrab",
+      "entityType": "term",
+      "sentence": "Mihrab, and rebuilt by Hassan ibn Nouman in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "seventy",
+      "entityType": "term",
+      "sentence": "seventy, its prayer chamber a hundred and thirty-five",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Grod",
+      "entityType": "term",
+      "sentence": "Grod, which held the Alkoran — the sacred book",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Aksa",
+      "entityType": "term",
+      "sentence": "Aksa, of Kairwan, and of Mecca in beauty, and ranked",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dova",
+      "entityType": "term",
+      "sentence": "dova, the relatively small size and corresponding crowd-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Leo",
+      "entityType": "term",
+      "sentence": "Leo, with all good successe proceeded euen to Castilia,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "died",
+      "entityType": "term",
+      "sentence": "died, says the chronicler, after these words : it was one",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tuesday",
+      "entityType": "term",
+      "sentence": "Tuesday, the tenth of the month Dhi '1 Kaada, 249.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Merkelil",
+      "entityType": "term",
+      "sentence": "Merkelil, Ziadet Allah built a palace: and to the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "repair",
+      "entityType": "term",
+      "sentence": "repair, the requirements of the city being much reduced.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "shrine",
+      "entityType": "term",
+      "sentence": "shrine, whose finest porch lies in this direction, of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mansourah",
+      "entityType": "term",
+      "sentence": "walls of Kairwan, known as Mansourah. It may have",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "laged",
+      "entityType": "term",
+      "sentence": "laged, the palaces ravaged, and the very soil of the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "candidly",
+      "entityType": "term",
+      "sentence": "candidly, neither will we trust thee with our riches.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "together",
+      "entityType": "term",
+      "sentence": "government of Kairwan, he called together the Kadi",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Khaukh",
+      "entityType": "term",
+      "sentence": "Khaukh, or Gate of the Greengages — like all the others",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "luddin",
+      "entityType": "term",
+      "sentence": "luddin, facing to the south-east : the Bab el Djedid, to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "race",
+      "entityType": "term",
+      "sentence": "race, the illustrious Moors.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Loniiozi",
+      "entityType": "term",
+      "sentence": "Loniiozi: JoKn Marr«)r,jUbenDarle Str««t.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bats",
+      "entityType": "term",
+      "sentence": "bats, and I still think that if one of them had picked",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fession",
+      "entityType": "term",
+      "sentence": "fession, the ex-Mobile might have fallen a victim to the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Corporal",
+      "entityType": "term",
+      "sentence": "Corporal, you may return to the ranks.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ain",
+      "entityType": "term",
+      "sentence": "called Ain el Hammam, or the Well of the Bath. On",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tioning",
+      "entityType": "term",
+      "sentence": "tioning, it was possible the buried city might represent",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "safety",
+      "entityType": "term",
+      "sentence": "safety, and at last I agreed to take two horsemen.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "awakened",
+      "entityType": "term",
+      "sentence": "awakened, to wish them good-bye and to give them an",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "empty",
+      "entityType": "term",
+      "sentence": "empty, and we began to think it not impossible that",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pleased",
+      "entityType": "term",
+      "sentence": "pleased, somebody was likely to take him to the Kaid's",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "pots",
+      "entityType": "term",
+      "sentence": "pots, jars, and bottles, all slung in nets from the pack-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fence",
+      "entityType": "instrument",
+      "sentence": "the track, hedged in by a rough thorn fence : and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "mother-in-law",
+      "entityType": "term",
+      "sentence": "mother-in-law, they wished me a wife with immense",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mediterranean",
+      "entityType": "term",
+      "sentence": "Mediterranean, about four miles to our right. We",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "pedestal",
+      "entityType": "term",
+      "sentence": "pedestal, with a vault beneath : several small altars,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "mamet",
+      "entityType": "term",
+      "sentence": "mamet— the Dove — the ancient Heraclea, the frontier",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Suleiman",
+      "entityType": "term",
+      "sentence": "Suleiman, with five minarets. It lies on the Wadi",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Khalifa",
+      "entityType": "term",
+      "sentence": "Khalifa, and is inhabited by descendants of Anda^-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "scent",
+      "entityType": "term",
+      "sentence": "scent, the Moors think, for a sleeping room, and likely",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "road",
+      "entityType": "term",
+      "sentence": "called a road, was a simple horse or waggon track over",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thage",
+      "entityType": "term",
+      "sentence": "thage— The Malta Channel — A Swell — Cagliari — Amphitheatre —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chamber",
+      "entityType": "term",
+      "sentence": "chamber, I went to the dressing room, where, propped",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "uncertainty",
+      "entityType": "term",
+      "sentence": "uncertainty, this competition of intelligences at each",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "control",
+      "entityType": "term",
+      "sentence": "control, command of feature, in estimating expression",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "emotional",
+      "entityType": "term",
+      "sentence": "emotional, and allow our expression and words to be-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "less",
+      "entityType": "term",
+      "sentence": "less, thriftless fatalist.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "brother",
+      "entityType": "term",
+      "sentence": "brother, and Lord Kingston were to sail in the Corsica",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "boursouk",
+      "entityType": "term",
+      "sentence": "boursouk, El Baja, and finally through the untravelled",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "affliction",
+      "entityType": "term",
+      "sentence": "affliction, too probably, will be followed in a year or",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Biserta",
+      "entityType": "term",
+      "sentence": "Biserta, and ere nightfall were out in the Malta",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "knuckle-joints",
+      "entityType": "term",
+      "sentence": "knuckle-joints, and were fastened by prodigious solitaire",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vast",
+      "entityType": "term",
+      "sentence": "vast, so that he could barely put his hat on : in fact,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tante",
+      "entityType": "term",
+      "sentence": "tante, I take, therefore, to be a term in use among the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "jars",
+      "entityType": "term",
+      "sentence": "jars, and pointed wine jars : many small urns in glass",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ranean",
+      "entityType": "term",
+      "sentence": "ranean; when Constantinople is secured to Turkey,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "place",
+      "entityType": "term",
+      "sentence": "place, they went on to say : We therefore hereby declare",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cowardly",
+      "entityType": "term",
+      "sentence": "gentlemen anxious to be known as cowardly bullies",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "CHINA",
+      "entityType": "term",
+      "sentence": "CHINA, JAPAN, FORMOSA. Being a Cruise in the Eastern",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nyassa",
+      "entityType": "term",
+      "sentence": "Nyassa, and Establishing a Settlement there. By E. D. Yocxo, U.N. Revised by",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "MEDITERRANEAN-GREECE",
+      "entityType": "term",
+      "sentence": "MEDITERRANEAN-GREECE, TURKEY IN EUROPE.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ASIA",
+      "entityType": "term",
+      "sentence": "ASIA, SYRIA, HOLY LAND.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "SARETH",
+      "entityType": "term",
+      "sentence": "SARETH, &C. The Cruise of the ' Rob Roy ' in Palestine, Egypt, and the Waters",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "AUSTRALIA",
+      "entityType": "term",
+      "sentence": "AUSTRALIA, POLYNESIA, Sec.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "AMERICA",
+      "entityType": "term",
+      "sentence": "AMERICA, WEST INDIES, ARCTIC REGIONS.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Icarian",
+      "entityType": "term",
+      "sentence": "Icarian, and other Societies ; their Eeligious Creeds, Social Practices, Numbers,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "SepUniber",
+      "entityType": "term",
+      "sentence": "SepUniber, 1877.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "troduction",
+      "entityType": "term",
+      "sentence": "troduction, giving some outline of his Character. With Portrait. 8vo.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Thacsiito",
+      "entityType": "term",
+      "sentence": "Thacsiito, Keeper of Archduke Alberts Art Collection at \"Vienna.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "spiration",
+      "entityType": "term",
+      "sentence": "spiration; Death of Christ; Scripture and its Inierpretation.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "TINGEN",
+      "entityType": "term",
+      "sentence": "TINGEN, from 1756 to 1761. 1826. Folio. 7#. 6d.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ecx",
+      "entityType": "term",
+      "sentence": "Ecx;lf.siaste8.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Egyptian",
+      "entityType": "term",
+      "sentence": "Egyptian, Assyrian, Greek, Roman, and Etruscan. With Coloured",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ligion",
+      "entityType": "term",
+      "sentence": "ligion, and Language. With Portrait. Post 8vo. 5s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cambridge",
+      "entityType": "term",
+      "sentence": "Cambridge, 1833, 12«.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Edinburgh",
+      "entityType": "term",
+      "sentence": "Edinburgh, 1834, 15s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dublin",
+      "entityType": "term",
+      "sentence": "Dublin, 1835, 13s. 6d.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Bristol",
+      "entityType": "term",
+      "sentence": "Bristol, 1836, 12s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Liverpool",
+      "entityType": "term",
+      "sentence": "Liverpool, 1837. 16s. 6<f.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mewcastle",
+      "entityType": "term",
+      "sentence": "Mewcastle, 1838^ 15s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Birmingham",
+      "entityType": "term",
+      "sentence": "Birmingham, 1839, 13s. 6<l.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Glasgow",
+      "entityType": "term",
+      "sentence": "Glasgow, 1840, 16s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Plymouth",
+      "entityType": "term",
+      "sentence": "Plymouth, 1841, 13». 6d.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Manchester",
+      "entityType": "term",
+      "sentence": "Manchester, 1842, 10s. M.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Cork",
+      "entityType": "term",
+      "sentence": "Cork, 1843, 12s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "York",
+      "entityType": "term",
+      "sentence": "York, 1844, 20s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Southampton",
+      "entityType": "term",
+      "sentence": "Southampton, 1846, 15«.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Oxford",
+      "entityType": "term",
+      "sentence": "Oxford, 1847. 18s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Swansea",
+      "entityType": "term",
+      "sentence": "Swansea, 1848, 9s.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ipswich",
+      "entityType": "term",
+      "sentence": "Ipswich, 1851, 16s. Qd.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Belfast",
+      "entityType": "term",
+      "sentence": "Belfast, 1S52, 15s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hull",
+      "entityType": "term",
+      "sentence": "Hull, 1853, IDs. M.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cheltenham",
+      "entityType": "term",
+      "sentence": "Cheltenham, 1856, 18s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Aberdeen",
+      "entityType": "term",
+      "sentence": "Aberdeen, 1859,15s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "CiimbiidKe",
+      "entityType": "term",
+      "sentence": "CiimbiidKe, 1862, 20s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Newcastle",
+      "entityType": "term",
+      "sentence": "Newcastle, 1863, 26's.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bath",
+      "entityType": "term",
+      "sentence": "Bath, 1864, 18s.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Nottingham",
+      "entityType": "term",
+      "sentence": "Nottingham, 1868, 24s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dundee",
+      "entityType": "term",
+      "sentence": "Dundee, 1867, 26».",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Norwich",
+      "entityType": "term",
+      "sentence": "Norwich, 1868, Ian.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Exeter",
+      "entityType": "term",
+      "sentence": "Exeter, 1869. 22*.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Brighton",
+      "entityType": "term",
+      "sentence": "Brighton, 1872. 24».",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "BiHdford",
+      "entityType": "term",
+      "sentence": "BiHdford, 1873, 25s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Biistol",
+      "entityType": "term",
+      "sentence": "Biistol, 1675, 25».",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Orator",
+      "entityType": "term",
+      "sentence": "Orator, and Friend, with a Selection from his Correspondence and Ora-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Law",
+      "entityType": "term",
+      "sentence": "Law, as applicable to the Army, Navy, Marine, and Auxiliary Forces.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "VfiLKisB",
+      "entityType": "term",
+      "sentence": "VfiLKisB, M.A., and E. B. Kmoland, B.A. 2 vols. 8vo. 16«. each.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Salmonia",
+      "entityType": "term",
+      "sentence": "Salmonia; or. Days of Fly Fishing. Woodcuts.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "DOG-BREAKING",
+      "entityType": "term",
+      "sentence": "DOG-BREAKING, with Odds and Ends for those who love the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Plato",
+      "entityType": "term",
+      "sentence": "Plato, and other Companions of Socrates. 3 Vols. Svo. 45s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Baik",
+      "entityType": "term",
+      "sentence": "Baik, M.A. 8to. 7s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "HAND-BOOK",
+      "entityType": "term",
+      "sentence": "HAND-BOOK— TEA VEL-TALK. English, French, German, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Austria",
+      "entityType": "term",
+      "sentence": "Austria, Styria, Salzburg, the Austrian and Bavarian Alps, Tyrol, Hun-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gary",
+      "entityType": "term",
+      "sentence": "gary, and the Danube, from Ulm to the Black Sea. Map. Post 8vo. 10s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "SWITZERLAND",
+      "entityType": "term",
+      "sentence": "SWITZERLAND, Alps of Savoy, and Piedmont",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "FRANCE",
+      "entityType": "term",
+      "sentence": "-FRANCE, Part L Normandy, Brittany, the French",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Alps",
+      "entityType": "term",
+      "sentence": "Alps, the Loire, the Seine, the Oaronne, and Pyrenees. Post 8to. 7s. 6d.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sardinia",
+      "entityType": "term",
+      "sentence": "Sardinia, and Sicily. Maps. Post 8vo. [/n the Presi,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Leon",
+      "entityType": "term",
+      "sentence": "Leon, The Asturias, Galicia, Estremadura, Andalusia, Honda, Granada,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Murcia",
+      "entityType": "term",
+      "sentence": "Murcia, Valencia, Catalonia, Aragon, Navarre, The Balearic Islands,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ferrara",
+      "entityType": "term",
+      "sentence": "Ferrara, Bologna, Ravenna, Rimini, Piacenza, Genoa, the Riviera,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Venice",
+      "entityType": "term",
+      "sentence": "Venice, Parma, Modena, and Romagna. Map. Post Svo. 10s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "MarcheSjUmbria",
+      "entityType": "term",
+      "sentence": "MarcheSjUmbria, and late Patrimony of St. Peter's. Map. Post Svo. 10s.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hercnlaaenm",
+      "entityType": "term",
+      "sentence": "Hercnlaaenm, and Vesuvius. Map. Post Svo. 10s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "NORWAY",
+      "entityType": "term",
+      "sentence": "NORWAY, Christiania, Bergen, Trondhjem. The",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "SWEDEN",
+      "entityType": "term",
+      "sentence": "SWEDEN, Stockholm, Upsala, Gothenburg, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "DENMARK",
+      "entityType": "term",
+      "sentence": "DENMARK, Sleswig, Holstein, Copenhagen, Jut-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "land",
+      "entityType": "term",
+      "sentence": "land, Iceland. Map. Post Svo. 6/.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "GREECE",
+      "entityType": "term",
+      "sentence": "GREECE, the Ionian Islands, Continental Greece,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Thessalf",
+      "entityType": "term",
+      "sentence": "Thessalf, and Macedonia. Maps. Post 8vo. IS'*.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mesopotamia",
+      "entityType": "term",
+      "sentence": "Mesopotamia, &c. Maps. Post Svo. 15«.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "EGYPT",
+      "entityType": "term",
+      "sentence": "EGYPT, including Descriptions of the Course of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Fyoom",
+      "entityType": "term",
+      "sentence": "Fyoom, &c. Map. Post Svo. 16<.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chester",
+      "entityType": "term",
+      "sentence": "chester, Maiden, Cambridge, Ely, Newmarket, Bury St. Edmunds,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Cromer",
+      "entityType": "term",
+      "sentence": "Cromer, &c. Map and Plans. Post Svo. 12s.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ely",
+      "entityType": "term",
+      "sentence": "Ely, and Lincoln. With 90 Illustrations. Crown Svo. 18«.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "KENT",
+      "entityType": "term",
+      "sentence": "KENT, Canterbury, Dover, Ramsgate, Sheemess,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rochester",
+      "entityType": "term",
+      "sentence": "Rochester, Chatham, Woolwich. Map. Post 8vo. It.ed,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "SUSSEX",
+      "entityType": "term",
+      "sentence": "SUSSEX, Brighton, Chichester, Worthing, Hastings,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gtte",
+      "entityType": "term",
+      "sentence": "gtte, Guildford, Dorking, Boxhill, Winchester, Southampton, Mew",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Forest",
+      "entityType": "term",
+      "sentence": "Forest, Portsmouth, and Isle or Wioht. Maps. Post Svo. 10».",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Beading",
+      "entityType": "term",
+      "sentence": "Beading, Aylesbury, Uihridge, Wycombe, Hpniey, the City and Uni-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chippenham",
+      "entityType": "term",
+      "sentence": "Chippenham, Weymouth, Sheri)ome, Wells, Bath, Bristol, Taunton,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Linton",
+      "entityType": "term",
+      "sentence": "Linton, Sidmouth, Dawlish, Teignmoutb, Plymouth, Devonport, Tor-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "quay",
+      "entityType": "term",
+      "sentence": "quay, Launceston, Truro, Penzance, Falmouth, the Lizard, Land's End,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "GLOUCESTER",
+      "entityType": "term",
+      "sentence": "GLOUCESTER, HEREFORD, and WORCESTER,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Cirencester",
+      "entityType": "term",
+      "sentence": "Cirencester, Cheltenham, Strond, Tewkesbury, Leominster, Ross, Mal-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "vern",
+      "entityType": "term",
+      "sentence": "vern, Kidderminster, Dudley, Bromsgrove, Evesham; Map. Post Svo. 9s.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Worcester",
+      "entityType": "term",
+      "sentence": "Worcester, and Liohfield. With 60 lUustrations. Crown Svo. 16*.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Snowdon",
+      "entityType": "term",
+      "sentence": "Snowdon, Llanberis, Dolgelly, Cader Idris, Conway, &c. Map. Post",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "LlaudafT",
+      "entityType": "term",
+      "sentence": "LlaudafT, and St. David's. With Illustrations. Post 8vo. 15».",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "DERBY",
+      "entityType": "term",
+      "sentence": "DERBY, NOTTS, LEICESTER, STAFFORD,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Matlock",
+      "entityType": "term",
+      "sentence": "Matlock, Bakewell, Chatsworth, The Peak, Buxton, Hardwick, Dove",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dale",
+      "entityType": "term",
+      "sentence": "Dale, Ashborne, Southwell, Mansfield, Retford, Burton, Belvolr, Melton",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mowbray",
+      "entityType": "term",
+      "sentence": "Mowbray, Wolverhampton, Lichfield, Walsall, Tamworth. Map,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "SHROPSHIRE",
+      "entityType": "term",
+      "sentence": "SHROPSHIRE, CHESHIRE and LANCASHIRE",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Stockport",
+      "entityType": "term",
+      "sentence": "Stockport, Birkenhead, Warrington, Bury, Manchester, Liverpool,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Burnley",
+      "entityType": "term",
+      "sentence": "Burnley, Clitheroe, Bolton, Blackburn, Wigan, Preston, Kochdale,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lancaster",
+      "entityType": "term",
+      "sentence": "Lancaster, Southport, Blackpool, &c. Map. Post Svo. 10*.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "YORKSHIRE",
+      "entityType": "term",
+      "sentence": "YORKSHIRE, Doncaster, Hull, Selby, Beverley,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Scarborough",
+      "entityType": "term",
+      "sentence": "Scarborough, Wliitby, Harrogate, Ripon, Leeds, Wakefield, Bradford,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Halifax",
+      "entityType": "term",
+      "sentence": "Halifax, Hudder.sfield, Shefiieid. Map and Plans. Post Svo. Vis.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Phester",
+      "entityType": "term",
+      "sentence": "Phester, and Manchester. With 60 lUustratioug. 2 Vols. Crown Svo.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "castle",
+      "entityType": "term",
+      "sentence": "castle, Darlington. Gateshead, Bishop Auckland, Stockton, Hartlepool,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Sunderland",
+      "entityType": "term",
+      "sentence": "Sunderland, Shields, Berwick-on-Tweed, Morpeth, Tynemouth, Cold-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "caster",
+      "entityType": "term",
+      "sentence": "caster, Famess Abbey, Ambleside, Kendal, Windermere, Coniston,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kftswick",
+      "entityType": "term",
+      "sentence": "Kftswick, Grasmere, Ulswater, Carlisle, Cockermouth, Penrith, Appleby.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "SCOTLAND",
+      "entityType": "term",
+      "sentence": "SCOTLAND, Edinburgh, Melrose, Kelso, Glasgow,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Lomond",
+      "entityType": "term",
+      "sentence": "Lomond, Loch Katrine and Trossachs, Caledonian Canal, Inverness,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Perth",
+      "entityType": "term",
+      "sentence": "Perth, Dundee, Aberdeen, Braemar, Skye, Caithness, Ross, Suther-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wexford",
+      "entityType": "term",
+      "sentence": "Wexford, Cork, Limerick, Waterford, Killaruey, Munster, &c. Maps,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rawlinson",
+      "entityType": "term",
+      "sentence": "Rawlinson, assisted by Sib Hbnrt Rawlinson and Sib J. G. Wil-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "nesareth",
+      "entityType": "term",
+      "sentence": "nesareth, &c. A Canoe Cruise in Palestine and Egypt and the Waters",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ClairJ",
+      "entityType": "term",
+      "sentence": "ClairJ, Gbece, LL.D. 3 Vols. 8vo. 36».",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "terion",
+      "entityType": "term",
+      "sentence": "terion, or Oxford in the XlXth Century. Edited by H. W. Chanoleb,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "MICHELANGELO",
+      "entityType": "term",
+      "sentence": "MICHELANGELO - BUONAREOTI, Sculptor, Painter, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ham",
+      "entityType": "term",
+      "sentence": "Ham, or the Ten Plagues of Egypt, with Ancient and Modern Illustra-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Planet",
+      "entityType": "term",
+      "sentence": "Planet, a World, and a Satellite. With Illustrations from Drawings",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Trigonometry",
+      "entityType": "term",
+      "sentence": "Trigonometry, and Mechanics. Small 8vo. 8». 6d.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "NIMBOD",
+      "entityType": "term",
+      "sentence": "NIMBOD, On the Chace— Turf— and Eoad. With Portrait and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Oneida",
+      "entityType": "term",
+      "sentence": "Oneida, Bethell, Aunra, Icarian and other existing Societies; with",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Containine",
+      "entityType": "term",
+      "sentence": "Containine: Proceedings during its First Session, 1640. From the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tin",
+      "entityType": "term",
+      "sentence": "Tin, Nickel, Cobalt. Antimony, Bismuth, ArKcnlc, and other Metals.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Babylonia",
+      "entityType": "term",
+      "sentence": "Babylonia, and Persia. With Maps and Illustrations. 3 Vols. 8to. i'Zt,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Treatise",
+      "entityType": "term",
+      "sentence": "Treatise, giving full details of Construction, Processes of Manufacture,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Iron",
+      "entityType": "term",
+      "sentence": "Iron - Clad Ships ; their Qualities, Performances, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ItsKise",
+      "entityType": "term",
+      "sentence": "ItsKise, Growth, and Present State. Post 8vo. lOt.Bd.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Svo",
+      "entityType": "term",
+      "sentence": "Svo, 7». 6ci. each.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Biography",
+      "entityType": "term",
+      "sentence": "Biography, Geography, and Natural History. Illustrations. 3 Vols.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Orammar",
+      "entityType": "term",
+      "sentence": "Orammar, DeIeclU!>, Exercises, and Vocabularies. 12rao. Sa. 64.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Assyria",
+      "entityType": "term",
+      "sentence": "Assyria, Babylonia, Media, Persia, Asia Minor, and Phoenicia. Wood-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cal",
+      "entityType": "term",
+      "sentence": "cal, and Descriptive. By Rev. W. L. Bkvan. Woodcuts. Post 8vo. 7s. 6d.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Geology",
+      "entityType": "term",
+      "sentence": "Geology, Natural History, and Antiquities of North and South Wales,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Siluria",
+      "entityType": "term",
+      "sentence": "Siluria, Devon, and Cornwall. With Illustrations. Crown 8vo. 12a.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tabreez",
+      "entityType": "term",
+      "sentence": "Tabreez, Kurdistan, down the Tigris an-l Euphrates to Nineveh and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ida",
+      "entityType": "term",
+      "sentence": "Ida, Athos, Olympus, and Pelion. 2 Vols. Crown 8vo. 24*.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Philosophy",
+      "entityType": "term",
+      "sentence": "Philosophy, Religion, Art, and Custom. 2 Vols. 8vo. 24s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ireland",
+      "entityType": "term",
+      "sentence": "Ireland, Denmark, Spanish America, Spain, Portugal, France, Con-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "BBAOBUBT",
+      "entityType": "term",
+      "sentence": "BBAOBUBT, AGNEW, & CO., PBIMTEB^, TrafrXFRIAKS.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    }
+  ]
+}

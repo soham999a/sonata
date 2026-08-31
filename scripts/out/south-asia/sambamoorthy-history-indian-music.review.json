@@ -1,0 +1,2077 @@
+{
+  "book": {
+    "title": "History of Indian Music",
+    "author": "P. Sambamoorthy",
+    "citation": "Sambamoorthy, P. History of Indian Music. The Indian Music Publishing House, Madras, 1960."
+  },
+  "summary": {
+    "total": 223,
+    "validCount": 222,
+    "blockedCount": 1,
+    "warningCount": 25,
+    "blockerReasons": {
+      "This candidate is awaiting specialist review and cannot be published yet.": 1
+    }
+  },
+  "rows": [
+    {
+      "term": "Sivan",
+      "entityType": "term",
+      "sentence": "Sivan, and its translation ... 12",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "music",
+      "entityType": "instrument",
+      "sentence": "earliest people to think in terms of absolute music. This",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sushira",
+      "entityType": "term",
+      "sentence": "sushira, avanaddha and ghana (chordophones, aerophones,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "referred",
+      "entityType": "instrument",
+      "sentence": "earlier period. Nor is this instrument referred to in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sangita",
+      "entityType": "term",
+      "sentence": "sangita, i.e., the old continuing music of South India. It",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Karnatic",
+      "entityType": "term",
+      "sentence": "to be significantly called Karnatic music, only when the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bharata",
+      "entityType": "term",
+      "sentence": "Kerala is significantly called Bharata Natya, since it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kathakali",
+      "entityType": "term",
+      "sentence": "Kathakali, Kathak and Manipuri.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sub-divisions",
+      "entityType": "term",
+      "sentence": "sub-divisions: —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "used",
+      "entityType": "term",
+      "sentence": "used; the frequencies and the distribution of the srutis",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kondamalahari",
+      "entityType": "term",
+      "sentence": "Kondamalahari, Narani, Abali and Mukharipantu are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "technique",
+      "entityType": "instrument",
+      "sentence": "bow technique, blowing technique and striking technique in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "came",
+      "entityType": "instrument",
+      "sentence": "metallic strings came to be used at a later period.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kutapa",
+      "entityType": "term",
+      "sentence": "Kutapa, Sangita mela and Gandharva mela were terms",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mugavaiyambadi",
+      "entityType": "term",
+      "sentence": "Mugavaiyambadi, j dETUPATI",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "race",
+      "entityType": "term",
+      "sentence": "race, caste, colour, birth-place, rishi, deity, metre, gotra, star, rasi,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Agattiyam",
+      "entityType": "term",
+      "sentence": "Agattiyam, Pancha Bbaratiyam, Tala samultiram,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Perunkurugu",
+      "entityType": "term",
+      "sentence": "Perunkurugu, Isai marabu and Isai nunukkam are now lost-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ses",
+      "entityType": "term",
+      "sentence": "ses, we are able to form some idea of these early works,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Anjaneya",
+      "entityType": "term",
+      "sentence": "Anjaneya, Somesvara, Vena, Shanmukha, Agastya, Durga-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sakti",
+      "entityType": "term",
+      "sentence": "sakti, Chandi, Bhringi, Daksha Prajapati, Devendra and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Havana",
+      "entityType": "term",
+      "sentence": "Havana, are some of the important authorities, quoted in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tolkappiyam",
+      "entityType": "term",
+      "sentence": "Tolkappiyam, and Silappadikaram, Pattuppattu, Kalladam",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Puranam",
+      "entityType": "term",
+      "sentence": "Puranam, we are able to conclude that raga alapana was in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "natha",
+      "entityType": "term",
+      "sentence": "natha, the author, refers to the mahanataka vina, as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ment",
+      "entityType": "term",
+      "sentence": "ment, the hours during which they performed, their emolu-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "India",
+      "entityType": "term",
+      "sentence": "India, and the pamphlets, articles and essays written by them",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Valle",
+      "entityType": "term",
+      "sentence": "Valle, Abbe Dubois, Sir William Jones, Captain Willard,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fah",
+      "entityType": "term",
+      "sentence": "fah, soh, la, si originates only with Guido d' Arezzo",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "understood",
+      "entityType": "term",
+      "sentence": "understood, much of the material pertaining to ancient",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "period",
+      "entityType": "term",
+      "sentence": "period, we are now in a position to study and describe the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dance",
+      "entityType": "instrument",
+      "sentence": "9. In the sphere of dance, the concept of absolute dance",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gar",
+      "entityType": "term",
+      "sentence": "gar, Andal, Jayadeva, Annamacharyulu and Kshetrayya.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "opened",
+      "entityType": "instrument",
+      "sentence": "metallic strings opened up fresh possibilities. The yazh",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "applied",
+      "entityType": "term",
+      "sentence": "applied, is referred to as the basic scale. By taking",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "graha",
+      "entityType": "term",
+      "sentence": "adhara shadja. This process is popularly known as graha",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bhedam",
+      "entityType": "term",
+      "sentence": "bhedam, graha svara bhedam and sruti bhedam. It was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "higher",
+      "entityType": "term",
+      "sentence": "higher, the idea of an octave was perceived. The sama",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ago",
+      "entityType": "term",
+      "sentence": "ago, as is evidenced by the Rikpratisakhya. Three octaves",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ranjani",
+      "entityType": "term",
+      "sentence": "priate that this murchhana was called Ranjani.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Harapriya",
+      "entityType": "term",
+      "sentence": "named Harapriya, (Khara being there only to give the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Harikambhoji",
+      "entityType": "term",
+      "sentence": "Harikambhoji, Natha bhairavi and Dhira Sankarabharana.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "harmony",
+      "entityType": "term",
+      "sentence": "harmony, it had no need for a multiplicity of scales.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "helped",
+      "entityType": "instrument",
+      "sentence": "The keyboard instrument helped to formulate the principles",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ramakriya",
+      "entityType": "term",
+      "sentence": "his time. Pantuvarali is known as Ramakriya in Sanskrit",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bsnabhadra",
+      "entityType": "term",
+      "sentence": "Bsnabhadra, He sang the Sadari pan. It may also be of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "octave",
+      "entityType": "term",
+      "sentence": "octave, he had to include them. Without their inclusion,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "suddha",
+      "entityType": "term",
+      "sentence": "(Sankarabharana) scale came to be called the suddha",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kumudvati",
+      "entityType": "term",
+      "sentence": "Kumudvati, etc. may be a difficult thing, but when they are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "known",
+      "entityType": "term",
+      "sentence": "known, it becomes easy to give the svaras taken by it.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fact",
+      "entityType": "term",
+      "sentence": "fact, that the key-syllables answering to the katapayadi",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Indu",
+      "entityType": "term",
+      "sentence": "Indu, Netra, Agni, Veda, Bana, Rutu, Rishi, Vasu,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Brahma",
+      "entityType": "term",
+      "sentence": "Brahma, Disi, Rudra, Aditya. The 15th and 29th",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Agni-go",
+      "entityType": "term",
+      "sentence": "melas are respectively termed Agni-go and Bina-md.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Thus",
+      "entityType": "term",
+      "sentence": "Thus, in the mnemonic nomenclature for the 72 melas",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ratndkara",
+      "entityType": "term",
+      "sentence": "Ratndkara, names like Muni, Vasu, Rudra and Aditya",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gindhara",
+      "entityType": "term",
+      "sentence": "Gindhara, Madhyama, Panchama, Dhaivata tind Nlshada",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ra-gi",
+      "entityType": "term",
+      "sentence": "ra-gi; ra-gu; ri-gi ; ri-gu and ru-gu for chakras I, II,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "III",
+      "entityType": "term",
+      "sentence": "III, IV, V and VI and dha-na ; dha-ni ; dha-nu ; dhi-ni ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gagagg",
+      "entityType": "term",
+      "sentence": "Gagagg, lalapascaiva galalapa^samanvitam |",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sutra",
+      "entityType": "term",
+      "sentence": "of small melodic sutras. These are called sutra gitas.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "limited",
+      "entityType": "term",
+      "sentence": "limited, still one can infer the correct word that was inten-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gamana",
+      "entityType": "term",
+      "sentence": "compositions, called gamana gitas (Marches) have been",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sers",
+      "entityType": "term",
+      "sentence": "sers, only the ragas are mentioned and not their talas.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "father",
+      "entityType": "term",
+      "sentence": "He is rightly called the father of the modern Padam. On",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Architect",
+      "entityType": "term",
+      "sentence": "he is rightly called the Architect of this form. In the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "svarajati",
+      "entityType": "term",
+      "sentence": "svarajati, the charanas are of varying length and are set in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tana",
+      "entityType": "term",
+      "sentence": "rightly called the Tana varna Margadarsi.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Anubandham",
+      "entityType": "term",
+      "sentence": "called Anubandham. Gradually this section was given up.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chittasvara",
+      "entityType": "term",
+      "sentence": "chittasvara, svara sahitya, and solkattu svara which adorn",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fter",
+      "entityType": "term",
+      "sentence": "adepts in music. Musical instruments are named after them.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "priya",
+      "entityType": "term",
+      "sentence": "priya, (which is the Panchama murchhana of Harikambhoji).",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "perfect",
+      "entityType": "term",
+      "sentence": "perfect, where was the motive or need for effecting a change?",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kailasa",
+      "entityType": "term",
+      "sentence": "Kailasa, he recited the Sama ganam. This pleased Lord",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tamil",
+      "entityType": "term",
+      "sentence": "Tamil, Kannada and Mahratti wrote in Telugu. The earliest",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kavi",
+      "entityType": "term",
+      "sentence": "Kavi, Virabhadrayya, Mfttrubhutayya, Ramaswamy",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dikshitar",
+      "entityType": "term",
+      "sentence": "Dikshitar, Tyagaraja, Syama Sastri, Vina Kuppayyar,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vachagar",
+      "entityType": "term",
+      "sentence": "Vachagar, the hymns of the Vaishnava samayacharyas, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mudaliar",
+      "entityType": "term",
+      "sentence": "Mudaliar, Arunachala Kavirayar, Gopalakrishna Bharati,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Geya",
+      "entityType": "term",
+      "sentence": "are termed Geya charitram. Tyagaraja's Prahlada",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "daru",
+      "entityType": "term",
+      "sentence": "daru, Varnana daru, Pralftpa daru and Pattibhisheka dam",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Patra",
+      "entityType": "term",
+      "sentence": "sancharis called Patra gitas may be played. These corres-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vadya",
+      "entityType": "term",
+      "sentence": "orchestras and such compositions are called Vadya",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ashtapadi",
+      "entityType": "term",
+      "sentence": "is called an ashtapadi, since it contains eight stanzas or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "drama",
+      "entityType": "term",
+      "sentence": "drama, still it may be produced as an opera.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Govinda",
+      "entityType": "term",
+      "sentence": "Govinda, it may be produced as an opera.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nism",
+      "entityType": "term",
+      "sentence": "nism, but it should be remembered that to Tyagaraja,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "orthodox",
+      "entityType": "term",
+      "sentence": "orthodox, obdurate, tyrannical landlord (the Vediyar), and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "taja",
+      "entityType": "term",
+      "sentence": "taja, immortalised many folk-tunes in his works, He alio",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "acting",
+      "entityType": "term",
+      "sentence": "acting, music and dancing together combine to create the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Buddhist",
+      "entityType": "term",
+      "sentence": "Buddhist, Jataka legends v No. 243).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "two",
+      "entityType": "term",
+      "sentence": "two, was arranged for one evening . and those assembled",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "alone",
+      "entityType": "instrument",
+      "sentence": "6th, 5th, 4th, 3rd and 2nd) till the last string alone was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hemanatha",
+      "entityType": "term",
+      "sentence": "Hemanatha, the musician from the North visited many",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Banabhadra",
+      "entityType": "term",
+      "sentence": "Banabhadra, whether he would agree to a contest between",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Somasundara",
+      "entityType": "term",
+      "sentence": "Somasundara, fervently prayed of God and returned home.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "musician",
+      "entityType": "term",
+      "sentence": "musician, Banabhadra. Hemanatha was so touched by",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Coimbatore",
+      "entityType": "term",
+      "sentence": "Coimbatore he came to be called Coimbatore Raghava",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Once",
+      "entityType": "term",
+      "sentence": "Once, Amarnadu (^u»r j&rr®) Timmalai Ayyangar,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ayyangar",
+      "entityType": "term",
+      "sentence": "Ayyangar, the rival, was not able to identify the tala and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Yuvaranguni",
+      "entityType": "term",
+      "sentence": "\" Yuvaranga \" and they are collectively termed Yuvaranguni",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Deity",
+      "entityType": "term",
+      "sentence": "Deity, Bangaru Kamakshi. Subbaraya Sastri (1803-1862)",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Krishnayyar",
+      "entityType": "term",
+      "sentence": "Krishnayyar, the great composer of Tamil padas, was the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "upon",
+      "entityType": "term",
+      "sentence": "called upon to perform in the palace. Seeing that there",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "disgust",
+      "entityType": "term",
+      "sentence": "disgust, though he was treated as an honoured guest.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kedaram",
+      "entityType": "term",
+      "sentence": "Kedaram, Bilahari and Saveri and came to the concluding",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sir",
+      "entityType": "term",
+      "sentence": "Sir, feasting my ears with your heavenly music.\" The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "century",
+      "entityType": "term",
+      "sentence": "century, two senior Nagasvaram vidvans played. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "year",
+      "entityType": "term",
+      "sentence": "year, he met with an accident in the right leg and was bed-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fruit",
+      "entityType": "term",
+      "sentence": "fruit, slipped and dashed his right leg against one of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "affectionately",
+      "entityType": "term",
+      "sentence": "affectionately, Seenu Shane implying that Srinivasa Iyengar",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bhupati",
+      "entityType": "term",
+      "sentence": "Bhupati, the Zamindar of Udaiyarpalayam, once invited",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Abhinava",
+      "entityType": "term",
+      "sentence": "Yuvaranga Bhupati was called Abhinava Bhoja, i.e.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Photograph",
+      "entityType": "term",
+      "sentence": "called Photograph Masilamani Mudaliar, because he was the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shadja",
+      "entityType": "term",
+      "sentence": "Shadja, Mandra Panchama, Madhya Shadja and Madhya",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jalatarangam",
+      "entityType": "term",
+      "sentence": "Jalatarangam, it may be pointed out, is one of our",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "TanjoreVina",
+      "entityType": "term",
+      "sentence": "and for this reason it is called the TanjoreVina. The Tanjore",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nattuvanar",
+      "entityType": "term",
+      "sentence": "Nattuvanar, was the first to play Karnatic music on the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "town",
+      "entityType": "term",
+      "sentence": "town, quite congenial for his vocal practices. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Narayanagaula",
+      "entityType": "term",
+      "sentence": "was called Narayanagaula Kuppier in recognition of his",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tyagayyar",
+      "entityType": "term",
+      "sentence": "Tyagayyar, Kottavasal Venkataramier, Sitaramayya and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ponnuswami",
+      "entityType": "instrument",
+      "sentence": "Fiddle Ponnuswami Pillay. For his mastery in the different",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gtina",
+      "entityType": "term",
+      "sentence": "branches of the art of music, Kuppier was called Gtina",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "PdrS",
+      "entityType": "term",
+      "sentence": "PdrS; is definitely suggestive of this European",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tripurasundari",
+      "entityType": "term",
+      "sentence": "Tripurasundari, the Goddess of the shrine. Tyagaraja",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kuppier",
+      "entityType": "term",
+      "sentence": "Kuppier, carried on the noble traditions of his father.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Agraharam",
+      "entityType": "term",
+      "sentence": "Agraharam, Peddunaickenpet. Because of his long Stay",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "chariyar",
+      "entityType": "term",
+      "sentence": "chariyar, Photograph Masilamani Mudaliyar (the first to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tiruvengadachariyar",
+      "entityType": "term",
+      "sentence": "Tiruvengadachariyar, the Famanavami utsavam conducted",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Sabha",
+      "entityType": "term",
+      "sentence": "Sabha, the Parthasarathi Swami Sabha, the Bhagavath",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "elephant",
+      "entityType": "term",
+      "sentence": "elephant, along with his patron. Doraisami Ayyar stayed in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Narayanaswami",
+      "entityType": "term",
+      "sentence": "Narayanaswami, author of Kritis and Javalis lived in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "reference",
+      "entityType": "term",
+      "sentence": "reference, «m_<3«y«y«uii> (Vadavengadam).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kiina",
+      "entityType": "term",
+      "sentence": "in Madurai District, there is the bird called Kiina mayil",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tune",
+      "entityType": "term",
+      "sentence": "birds may be named the tune bird and the drone bird",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chintamani",
+      "entityType": "term",
+      "sentence": "Chintamani, there exists only one classical composition.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "respectively",
+      "entityType": "term",
+      "sentence": "called respectively as mela ragas and janya ragas date only",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Janaka",
+      "entityType": "term",
+      "sentence": "Janaka - janya paddhati. The word bhashanga raga",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "svara",
+      "entityType": "term",
+      "sentence": "svara, chatussruti dhaivata can occur only in the phrases : —",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "sankirna",
+      "entityType": "term",
+      "sentence": "sankirna, he gave recognition to the bhashanga ragas of his",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Raganga",
+      "entityType": "term",
+      "sentence": "Raganga, Upanga, Bhashanga and Kriyanga. In the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bhairavi",
+      "entityType": "form",
+      "sentence": "grama. The arohana of Bhairavi is the scale of Shadja grama,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Uttatamandra",
+      "entityType": "term",
+      "sentence": "Uttatamandra, and the avarohana is the Panchama murch-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tirtha",
+      "entityType": "term",
+      "sentence": "Tirtha, Mugattai kkattiye dehan of Papanasa Mudaliar and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dnsrgmp",
+      "entityType": "term",
+      "sentence": "dnsrgmp— pmgrsnd",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Secondly",
+      "entityType": "term",
+      "sentence": "Secondly, Bhashanga ragas which originated or emerged",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "srmpni",
+      "entityType": "term",
+      "sentence": "srmpni— snDpmpGrs",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Thirdly",
+      "entityType": "term",
+      "sentence": "Thirdly, Bhashanga ragas which originated after the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tirunal",
+      "entityType": "term",
+      "sentence": "Tirunal, Vina Kuppayyar and Chinni Krishna Dasa are set",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tyagaraja",
+      "entityType": "term",
+      "sentence": "Tyagaraja, we find this only as an upanga raga.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Fourthly",
+      "entityType": "term",
+      "sentence": "Fourthly, Bhashanga ragas which have been adopted",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "form",
+      "entityType": "term",
+      "sentence": "form, it becomes a dynamic force and is able to germinate",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tiruppavai",
+      "entityType": "term",
+      "sentence": "Tiruppavai, Jayadeva's Gita Govinda and the Padas of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "membership",
+      "entityType": "term",
+      "sentence": "membership, music got divorced from the element of bhakti",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sahitya",
+      "entityType": "term",
+      "sentence": "sahitya, prose came to be freely used. This gave room for",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "performer",
+      "entityType": "term",
+      "sentence": "performer, but also to himself contribute substantially to",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Dhanyasi",
+      "entityType": "term",
+      "sentence": "Dhanyasi, Nadanamakriya, Bhairavi, Mohana, Sankara-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bharana",
+      "entityType": "term",
+      "sentence": "bharana, Bilahari and Kalyani.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chaturasra",
+      "entityType": "term",
+      "sentence": "chaturasra, khanda, misra and sankirna varieties. Signs",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ratha",
+      "entityType": "term",
+      "sentence": "Ratha, Gaja, Turaga and Padadi i.e. warriors riding in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "plan",
+      "entityType": "term",
+      "sentence": "plan, the accompaniments used, the number of strings in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "scooped",
+      "entityType": "instrument",
+      "sentence": "The remarkable specimen of a musical pipe scooped",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nantstone",
+      "entityType": "term",
+      "sentence": "nantstone, when examined under a microscope will reveal",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Humpi",
+      "entityType": "term",
+      "sentence": "Humpi, Tadpatri, Lepakshi, Tirupati, Tadikombu.Madurai,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Azhagarkovil",
+      "entityType": "term",
+      "sentence": "Azhagarkovil, Tirunelveli, Alwartirunagari, Kalakkadu.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tenkasi",
+      "entityType": "term",
+      "sentence": "Tenkasi, Courtallum, Suchindram and Trivandrum. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tungrayi",
+      "entityType": "term",
+      "sentence": "locally known as the Tungrayi i.e. a stone which when",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hit",
+      "entityType": "term",
+      "sentence": "hit, gives a resounding tone.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "second",
+      "entityType": "term",
+      "sentence": "second, the frequency of the tara shadja = 480 vibrations",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "par",
+      "entityType": "instrument",
+      "sentence": "the classical instrument par excellence for rendering Indian",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Audumbari",
+      "entityType": "term",
+      "sentence": "Vina called Audumbari i.e. made ofaudumbara wood. In",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "difficult",
+      "entityType": "term",
+      "sentence": "difficult, if not impossible to form any idea of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Parivg",
+      "entityType": "term",
+      "sentence": "Parivg,dini",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "lakshana",
+      "entityType": "term",
+      "sentence": "lakshana, mentions the following Vinas : —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kinnara",
+      "entityType": "term",
+      "sentence": "Kinnara, Kinnari or Traperi",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vichitra",
+      "entityType": "term",
+      "sentence": "Vina is even now called Vichitra Vina or Vichitra Bin.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ekatantri",
+      "entityType": "term",
+      "sentence": "Ekatantri, Tritantrika, Saptatantri, Sata tantri",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dandi",
+      "entityType": "term",
+      "sentence": "dandi, the middle one being larger than the other two.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "desired",
+      "entityType": "term",
+      "sentence": "desired, the positions of the concerned frets were re-adjusted",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kachchapi",
+      "entityType": "term",
+      "sentence": "Kachchapi, was the vina used by Goddess Sarasvati.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mahali",
+      "entityType": "term",
+      "sentence": "Mahali, was the name of the vina used by Rishi",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kalavati",
+      "entityType": "term",
+      "sentence": "Kalavati, was the name of the vina used by the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stage",
+      "entityType": "instrument",
+      "sentence": "1. Harp stage.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "paved",
+      "entityType": "instrument",
+      "sentence": "The archer's bow paved the way for the emergence of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "played",
+      "entityType": "term",
+      "sentence": "played,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "depicted",
+      "entityType": "instrument",
+      "sentence": "of instrument depicted in the Udayagiri caves and Ajanta",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "arrangement",
+      "entityType": "term",
+      "sentence": "arrangement, one can play two octaves on a single string.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Somanatha",
+      "entityType": "term",
+      "sentence": "Somanatha, in his Raga vibodha (1609) refers to the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Visvavasu",
+      "entityType": "term",
+      "sentence": "Visvavasu, a revered Gandharva was a performer on",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bana",
+      "entityType": "term",
+      "sentence": "Bana, the poet of King Harsha's court (7th cent.) refers",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Sangi",
+      "entityType": "term",
+      "sentence": "Sangi:a chandrika used a vina with 22 frets. Raghunath",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "taught",
+      "entityType": "term",
+      "sentence": "taught, strained relations ensue between the teacher and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "libretto",
+      "entityType": "term",
+      "sentence": "libretto, acting and dancing and the performances were thus",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bhagavatar",
+      "entityType": "term",
+      "sentence": "In a Bhajana, besides the leader called the Bhagavatar",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sung",
+      "entityType": "term",
+      "sentence": "sung, only those who know them well can join. Visitors,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tion",
+      "entityType": "term",
+      "sentence": "tion, this practice has been given a go-by and Sundays",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "lore",
+      "entityType": "term",
+      "sentence": "lore, music etc. freely and also give religious discourses",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "past",
+      "entityType": "term",
+      "sentence": "past, the witnessing of rare dances like Simhanatanam and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Venkatasubbayyar",
+      "entityType": "term",
+      "sentence": "Venkatasubbayyar, Patnam Subrahmanya Iyer, Tachchur",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chinna",
+      "entityType": "term",
+      "sentence": "composer was popularly known as Chinna Tyagaraja",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bharati",
+      "entityType": "term",
+      "sentence": "Bharati, Vaidisvarankoil Subbarama Iyer, Nilakanta Sivan,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vina",
+      "entityType": "term",
+      "sentence": "vina, Laghu gottuvadyam and Laghu tambura are some of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "him",
+      "entityType": "term",
+      "sentence": "him, made a large number of people wake up to the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Narada",
+      "entityType": "term",
+      "sentence": "Narada, the Vina Maharishi is a revered name in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vikrshta",
+      "entityType": "term",
+      "sentence": "Vikrshta, Slakshna, Santa, Sukumdra, Madhura.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ravana",
+      "entityType": "term",
+      "sentence": "Ravana, the King of Lanka was also a great musician.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Samudragupta",
+      "entityType": "term",
+      "sentence": "Samudragupta, who has represented himself on one of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ramnad",
+      "entityType": "term",
+      "sentence": "Ramnad, Sivaganga, Ettayapuram, Pudukkottai, Vizia-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nagaram",
+      "entityType": "term",
+      "sentence": "nagaram, Bobbili and Venkatagiri and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "adopted",
+      "entityType": "term",
+      "sentence": "adopted, for the simple reason that with that system of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "notation",
+      "entityType": "term",
+      "sentence": "notation, Indian music cannot be correctly represented.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "helping",
+      "entityType": "instrument",
+      "sentence": "quarter-tones with accuracy and its long bow helping the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Subbarayar",
+      "entityType": "term",
+      "sentence": "Subbarayar, Narayanaswami Pillai of Siyazhi, Tirukkodi-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "man",
+      "entityType": "term",
+      "sentence": "man, instead of singing Todi, he started some other raga to",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "immediately",
+      "entityType": "instrument",
+      "sentence": "the pitch of the 4th string immediately to the anumandra",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "conclusion",
+      "entityType": "term",
+      "sentence": "conclusion, be asked the Mridangam player to give his solo",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "display",
+      "entityType": "term",
+      "sentence": "display, the latter mildly replied :—",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sastrigal",
+      "entityType": "term",
+      "sentence": "Sastrigal, Dewan Anandacharlu who was present, was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tsallagali",
+      "entityType": "term",
+      "sentence": "that time, he came to be called Tsallagali (cool breeze)",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fame",
+      "entityType": "term",
+      "sentence": "fame, came to Tanjore after the lapse of some years, to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pride",
+      "entityType": "term",
+      "sentence": "pride, composed an intricate pallavi. He went to Patnam",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vilasamu",
+      "entityType": "term",
+      "sentence": "Vilasamu: Vol. 1 ... 2 00",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "earlier",
+      "entityType": "term",
+      "sentence": "may have to be recalled earlier If urgen-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    }
+  ]
+}

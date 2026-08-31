@@ -1,0 +1,1375 @@
+{
+  "book": {
+    "title": "Hopi Songs",
+    "author": "Benjamin Ives Gilman",
+    "citation": "Gilman, Benjamin Ives. Hopi Songs. Houghton Mifflin, Boston, 1908."
+  },
+  "summary": {
+    "total": 147,
+    "validCount": 146,
+    "blockedCount": 1,
+    "warningCount": 16,
+    "blockerReasons": {
+      "This candidate is awaiting specialist review and cannot be published yet.": 1
+    }
+  },
+  "rows": [
+    {
+      "term": "devoted",
+      "entityType": "term",
+      "sentence": "devoted, completes an inquiry into Pueblo music begun in 1891 with a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Boston",
+      "entityType": "term",
+      "sentence": "Boston, 1891. Review by C. Stumpf in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "schaft",
+      "entityType": "term",
+      "sentence": "schaft, 1892, Heft 1, under the title, \" Pho-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "senschaft",
+      "entityType": "term",
+      "sentence": "senschaft, 1886, Heft 4) ; Franz Boas,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "nology",
+      "entityType": "term",
+      "sentence": "nology, 6th Annual Report, 1888) ; Miss",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cambridge",
+      "entityType": "term",
+      "sentence": "Cambridge, Mass., 1893) ; Franz Boas,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ethnology",
+      "entityType": "term",
+      "sentence": "Ethnology, 22d Report, Part 2, Wash-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ington",
+      "entityType": "term",
+      "sentence": "ington, 1903) ; O. Abraham and E. M. von",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hornbostel",
+      "entityType": "term",
+      "sentence": "Hornbostel, \" Phonographirte Indianer-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "York",
+      "entityType": "term",
+      "sentence": "York, 1907.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bandelier",
+      "entityType": "term",
+      "sentence": "Bandelier, H. F. C. ten Kate, V. Mindeleff,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "editorship",
+      "entityType": "term",
+      "sentence": "editorship, 1891-94, to the American An-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thropologist",
+      "entityType": "term",
+      "sentence": "thropologist, and the Journal of American",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Folk-Lore",
+      "entityType": "term",
+      "sentence": "Folk-Lore, and to the publications of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Walpi",
+      "entityType": "term",
+      "sentence": "Walpi, as the most beautiful incident",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lieved",
+      "entityType": "term",
+      "sentence": "lieved, be found simply a way of describing the facts of the notations;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "indirectly",
+      "entityType": "term",
+      "sentence": "indirectly, through a difficult and always imperfect symbolism that tends",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "major",
+      "entityType": "term",
+      "sentence": "fifth or more. A trichord or triad is called major or minor according as the lower",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Maihai-katcina",
+      "entityType": "term",
+      "sentence": "Maihai-katcina,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Discord",
+      "entityType": "term",
+      "sentence": "Discord: Resolution: Modulation: Mutation . ... 216",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "music",
+      "entityType": "form",
+      "sentence": "belief that aboriginal American music is a type apart, whose essential",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "diatonic",
+      "entityType": "term",
+      "sentence": "designate steps in one order of intervals called the diatonic scale. Every",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "order",
+      "entityType": "form",
+      "sentence": "intervals is prima facie evidence that that order is the scale of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "third",
+      "entityType": "term",
+      "sentence": "third, fourth, fifth, minor sixth, major sixth, and octave, tends to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "six",
+      "entityType": "term",
+      "sentence": "six, or two thirds, will end on other steps of the diatonic scale",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "unequal",
+      "entityType": "instrument",
+      "sentence": "ration of an instrument unequal to rapid observation.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mood",
+      "entityType": "term",
+      "sentence": "mood, the real from the ideal. Written music as otherwise known is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "melody",
+      "entityType": "term",
+      "sentence": "melody, or fragment, by the same or different singers. Repetition",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "below",
+      "entityType": "term",
+      "sentence": "below, and one above a minor third. No. 3 repeats a sequence of two",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "criticism",
+      "entityType": "term",
+      "sentence": "criticism, — the settlement of a text and of its meaning to the authors.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "former",
+      "entityType": "term",
+      "sentence": "former, precise only as they are run into the mould of each individual",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fied",
+      "entityType": "term",
+      "sentence": "fied, it will by hypothesis exist from some other step, and its start needs",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Further",
+      "entityType": "term",
+      "sentence": "Further, these combinations, and all but one or two of the other",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rest",
+      "entityType": "term",
+      "sentence": "rest, and its explanation on the scalar theory involves either a modula-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "giving",
+      "entityType": "instrument",
+      "sentence": "instruments. The process called tuning any instrument giving a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tuning",
+      "entityType": "term",
+      "sentence": "instruments. The process called tuning any instrument giving a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "could",
+      "entityType": "instrument",
+      "sentence": "Music played on such an instrument could also be played on any",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "respectively",
+      "entityType": "instrument",
+      "sentence": "and of strings respectively; and the frequent diatonic sequences of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "summit",
+      "entityType": "term",
+      "sentence": "summit: minor from",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "must",
+      "entityType": "term",
+      "sentence": "must, the best of all possible yokes.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "manufacture",
+      "entityType": "term",
+      "sentence": "manufacture, or use, and charm of appearance may influence the make",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "eye",
+      "entityType": "term",
+      "sentence": "eye, a semblance of the liberty of its vocal stage.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "division",
+      "entityType": "term",
+      "sentence": "be called a division of the interval start-auxiliary ; in the second,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "start",
+      "entityType": "term",
+      "sentence": "start; and in the third case, a balance of the interval start-goal upon",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "movement",
+      "entityType": "term",
+      "sentence": "iary may be called a movement of approach. The particular case of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lapinng",
+      "entityType": "term",
+      "sentence": "an extreme of another may be called lapinng. The balance of an",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "repetition",
+      "entityType": "term",
+      "sentence": "repetition, rests, or changes of measure, into movements within which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "development",
+      "entityType": "term",
+      "sentence": "development; in var|e^ forms (Malo-katcina) ; shifted in pitch, as well",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "course",
+      "entityType": "term",
+      "sentence": "course; delivery through the fourth above noted; and in particular ex-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "modulation",
+      "entityType": "term",
+      "sentence": "modulation, is the most noteworthy formal feature of this music. De-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mutation",
+      "entityType": "term",
+      "sentence": "be called the mutation of figure, and defined as a repetition in which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "katcina",
+      "entityType": "term",
+      "sentence": "katcina, where a movement in a fourth is repeated in a fifth, and then",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Jakwaina",
+      "entityType": "term",
+      "sentence": "Jakwaina, where the upper boundary of the main theme first rises inter-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "first",
+      "entityType": "term",
+      "sentence": "first, and the mediant thereupon rising again ; and in Snake Song No. 4,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "definitive",
+      "entityType": "term",
+      "sentence": "definitive, for in codas to those songs the outlines (or octave outlines)",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ness",
+      "entityType": "term",
+      "sentence": "ness, is suggested by the use of the major trichord to carry a drooping",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "meanwhile",
+      "entityType": "term",
+      "sentence": "meanwhile; and a like balance by the slow reintegration of the tetrad",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "System",
+      "entityType": "term",
+      "sentence": "System,\" containing notations of Chinese sische Melodien \";\" Notiz iiber die Musik",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "constructed",
+      "entityType": "term",
+      "sentence": "constructed, the phonograph is noticeably deficient in the reproduction",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tion",
+      "entityType": "term",
+      "sentence": "tion, the experiments indicated that the error would never be as great",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Harmonical",
+      "entityType": "term",
+      "sentence": "ment called the Harmonical), which could be sounded at will for com-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "parison",
+      "entityType": "term",
+      "sentence": "parison, and which were one ninth of a tone apart. In some of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "possible",
+      "entityType": "term",
+      "sentence": "possible, this proposition may be simply converted, and we may affirm that",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Moreover",
+      "entityType": "term",
+      "sentence": "Moreover, if the vibration rate of the source producing the constant tone be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "known",
+      "entityType": "term",
+      "sentence": "known, we are enabled to determine also the interval which the variation in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tensity",
+      "entityType": "term",
+      "sentence": "tensity, twenty-two beats in ten seconds. The greatest possible change which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "being",
+      "entityType": "instrument",
+      "sentence": "phonograph diaphragm to the ear-piece, the free end of this secondary pipe being",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "variation",
+      "entityType": "term",
+      "sentence": "variation, while unceasing, kept within comparatively narrow limits, perhaps a",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "vibration",
+      "entityType": "term",
+      "sentence": "vibration, and according to the above table covered an interval of 4c, or the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Still",
+      "entityType": "term",
+      "sentence": "Still, as far as I could judge, these ephemeral changes did not represent a vari-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cent",
+      "entityType": "term",
+      "sentence": "cent, is probably as small a pitch difference as even the best ears under the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Stumpf",
+      "entityType": "term",
+      "sentence": "Stumpf, \" Tonpsychologie,\" ii, p. 552).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "constancy",
+      "entityType": "instrument",
+      "sentence": "proximately the former rate. On listening to the tone, the absolute constancy",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Here",
+      "entityType": "term",
+      "sentence": "Here, again, in two cases the sharping from first to last is lost.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "manageable",
+      "entityType": "term",
+      "sentence": "manageable, a quadruple series of reproductions giving the following figures : —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cylinder",
+      "entityType": "term",
+      "sentence": "cylinder, and which, if present in both inscription and reproduction, are more",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "instrument",
+      "entityType": "term",
+      "sentence": "phonograph may fairly be called an instrument of precision. The tests",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "standard",
+      "entityType": "term",
+      "sentence": "standard, excepting for one or two marked deviations of pitch in each",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "screw",
+      "entityType": "term",
+      "sentence": "screw, the rate was 167 4-. A second count gave 167+ again; and at this rate",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "SHIASHTASHA",
+      "entityType": "term",
+      "sentence": "SHIASHTASHA, SINGER No. 1",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "later",
+      "entityType": "term",
+      "sentence": "later, 167. At this rate I began the notation of Shiashtasha, Singer No. 2,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "alone",
+      "entityType": "term",
+      "sentence": "alone, without aid from the sense of interval. My aim has been to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "performance",
+      "entityType": "term",
+      "sentence": "performance, through its comparison with one or more of the series of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "phonograph",
+      "entityType": "term",
+      "sentence": "phonograph, and after much more practice in the delicate comparisons",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "effort",
+      "entityType": "term",
+      "sentence": "effort, yet not without effort, be regarded as in unison with one of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "page",
+      "entityType": "term",
+      "sentence": "page, accidentals involve their representation by symbols on a level.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "needed",
+      "entityType": "term",
+      "sentence": "needed, besides a hypothesis as to the order of the symbols in pitch, an",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "either",
+      "entityType": "term",
+      "sentence": "called either a* or b^. As in the like nomenclature of the mariner's",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "aab",
+      "entityType": "term",
+      "sentence": "tween a and ab being called aab or a2b, and that between ab and b,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lettered",
+      "entityType": "term",
+      "sentence": "lettered, and the points of division between them are indicated by per-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "unexplored",
+      "entityType": "term",
+      "sentence": "unexplored, although a beginning has been made at the inquiry. I am",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tuned",
+      "entityType": "instrument",
+      "sentence": "might have been played on an instrument tuned to the series of inter-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hand",
+      "entityType": "term",
+      "sentence": "hand, while the seeing little points, the making delicate distinctions, is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "delicate",
+      "entityType": "term",
+      "sentence": "delicate, else fineness would be littleness of mind, Schdrfe Spitzfindig-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "reasonable",
+      "entityType": "term",
+      "sentence": "reasonable, which are demonstrably unanswerable unless by the aid of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "semitone",
+      "entityType": "term",
+      "sentence": "semitone, and (2) that every multiple of a (tempered) semitone is an",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "him",
+      "entityType": "term",
+      "sentence": "him, and an impracticable refinement of intonation only when the two",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "therefore",
+      "entityType": "term",
+      "sentence": "therefore, that all adiatonic intervals are impracticable refinements of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "assumption",
+      "entityType": "term",
+      "sentence": "assumption, viz., whether they recognize other than diatonic intervals.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "likely",
+      "entityType": "term",
+      "sentence": "likely, I felt assured at the time that the danger was a real one. In both",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "commonly",
+      "entityType": "instrument",
+      "sentence": "nium, with the aid of the tin horn commonly employed for the purpose,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nium",
+      "entityType": "term",
+      "sentence": "nium, with the aid of the tin horn commonly employed for the purpose,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "see",
+      "entityType": "term",
+      "sentence": "see, to be a constant and therefore negligible error. Again, a blunder",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Indian",
+      "entityType": "term",
+      "sentence": "Indian, whose performance before a phonograph I once heard through",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "censorship",
+      "entityType": "term",
+      "sentence": "censorship, and he had breathed upon the cylinders, would he consent",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bsolute",
+      "entityType": "term",
+      "sentence": "which for the purposes of the science of music could be called absolute.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "g-cd",
+      "entityType": "term",
+      "sentence": "g-cd, which is obviated by expansion of the triad to ga— c, revealed again",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Simultaneously",
+      "entityType": "term",
+      "sentence": "Simultaneously, in the salient thirds at the close of the B's, the basal",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "repeated",
+      "entityType": "term",
+      "sentence": "repeated, and B a rehearsal of the same combination from the mediant",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "song",
+      "entityType": "term",
+      "sentence": "song, to be then alternated with a pitch a semitone higher, transferred",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "triad",
+      "entityType": "term",
+      "sentence": "triad, and in B1 virtually a major triad. In A4 at the higher level it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "level",
+      "entityType": "term",
+      "sentence": "level, holding it thenceforward.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "again",
+      "entityType": "term",
+      "sentence": "again, the upper interval contracting, the lower expanding ; the former",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lower",
+      "entityType": "term",
+      "sentence": "lower, a, with a lap reproducing the next lower (initial and dividing),",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "val",
+      "entityType": "term",
+      "sentence": "val, it lies within D^ minor with major seventh. The distinction of a tone",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trichord",
+      "entityType": "term",
+      "sentence": "trichord, as shown in Masi-umtiwa's y) for a major reading (ending in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "base",
+      "entityType": "term",
+      "sentence": "base, the singer finds ample space in its lower octave to execute a com-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "singer",
+      "entityType": "term",
+      "sentence": "singer, who begins with the major version, repeats its close with like",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tonic",
+      "entityType": "term",
+      "sentence": "tonic, dominant and subdominant triads. Likewise the end of a play",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "throughout",
+      "entityType": "term",
+      "sentence": "throughout, there would be no change of sentiment to mark the passage",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Major-Maximal",
+      "entityType": "term",
+      "sentence": "Major-Maximal, Coda",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "adiatonic",
+      "entityType": "term",
+      "sentence": "adiatonic, and a few alterations sufficed to bring it within the scale.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "voice",
+      "entityType": "term",
+      "sentence": "voice, very exact in some features, structural and other, and approximate",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fourth",
+      "entityType": "term",
+      "sentence": "fourth, b, and the minor third, a, within it. In beginning B1 he rises",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "e-d-c",
+      "entityType": "term",
+      "sentence": "e-d-c, the upper capped by the major third, d'e'-b, and eventually",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "beyond",
+      "entityType": "term",
+      "sentence": "beyond, the crowning fourth, e'-b. In p, the inferred fifth, b-e, is momen-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mode",
+      "entityType": "term",
+      "sentence": "mode, C-E-GA, demanding resolution into one or other ; either C be-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "circle",
+      "entityType": "term",
+      "sentence": "circle, only ways to choose between. Their unexpectedness to us is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trichordal",
+      "entityType": "term",
+      "sentence": "trichordal, by a tone, f-de. The fifth (ab-de) spanned in the final",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ab-b",
+      "entityType": "term",
+      "sentence": "ab-b, a minor sixth; and a flourish before the descent through this in-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ga-a-b",
+      "entityType": "term",
+      "sentence": "ga-a-b, reproducing the tetrachordal division, de-e-f g, of the lower fourth",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tone",
+      "entityType": "term",
+      "sentence": "tone, e-de, in A2 the tone, f-de. The genesis of the minor third in the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "fz-f",
+      "entityType": "term",
+      "sentence": "fz-f—r-r—f",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "boundary",
+      "entityType": "term",
+      "sentence": "boundary, g. He first reduces the span of the movement of a from",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "doubtful",
+      "entityType": "term",
+      "sentence": "doubtful; collectively they seem to present under the aspect of a delib-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pitch",
+      "entityType": "term",
+      "sentence": "pitch, and whose steps modulation shifts from one pitch to another.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "resolution",
+      "entityType": "term",
+      "sentence": "resolution, for it may reproduce a discord which the shaping resolved.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "word",
+      "entityType": "term",
+      "sentence": "word, what with much confidence may be asserted to be the spirit of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "discerned",
+      "entityType": "term",
+      "sentence": "discerned, each presenting the familiar outlines of a high movement, a,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "work",
+      "entityType": "term",
+      "sentence": "work, with Mr. Frederick W. Hodge, now of the Bureau of Ethnology,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Salado",
+      "entityType": "term",
+      "sentence": "Salado, was shown, and this was later presented to the Imperial Ethno-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Casa",
+      "entityType": "term",
+      "sentence": "ruin called Casa Grande in Arizona, and joined in a petition to this end",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "naturalist",
+      "entityType": "term",
+      "sentence": "already well known as naturalist and ethnologist. In the winter of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "man",
+      "entityType": "term",
+      "sentence": "man, and Dr. John S. Billings.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ton",
+      "entityType": "term",
+      "sentence": "ton, 1890, pp. 165-286, with 59 plates.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "A-Wa-to-bi",
+      "entityType": "term",
+      "sentence": "A-Wa-to-bi; An Archaeological Verification of a Tusayan Legend.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Observance",
+      "entityType": "instrument",
+      "sentence": "The Walpi Flute Observance: A Study of Primitive Dramatization.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    }
+  ]
+}

@@ -1,0 +1,1395 @@
+{
+  "book": {
+    "title": "Indian Music",
+    "author": "Atiya Begum Fyzee Rahamin",
+    "citation": "Fyzee Rahamin, Atiya Begum. Indian Music. W. Marchant & Co., London, 1914."
+  },
+  "summary": {
+    "total": 151,
+    "validCount": 148,
+    "blockedCount": 3,
+    "warningCount": 6,
+    "blockerReasons": {
+      "This candidate is awaiting specialist review and cannot be published yet.": 3
+    }
+  },
+  "rows": [
+    {
+      "term": "Jttjaca",
+      "entityType": "term",
+      "sentence": "Jttjaca, Stem lot*",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "http",
+      "entityType": "term",
+      "sentence": "http://www.archive.org/details/cu31924022492338",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "book",
+      "entityType": "form",
+      "sentence": "This little book is a modest attempt to explain to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "practice",
+      "entityType": "term",
+      "sentence": "practice, but the points of view of the Eastern and Western",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "skeleton",
+      "entityType": "term",
+      "sentence": "be termed the skeleton of the tune is practically unknown",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "history",
+      "entityType": "term",
+      "sentence": "history, to be found in the ancient texts, pre-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "born",
+      "entityType": "term",
+      "sentence": "born, lived its weird life, and in the end turned",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Divinity",
+      "entityType": "term",
+      "sentence": "Divinity, and performed by divinities. There",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Saraswati",
+      "entityType": "term",
+      "sentence": "Saraswati, the Goddess of Learning and Music,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "music",
+      "entityType": "term",
+      "sentence": "music, show the remarkable degeneration and low",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "learning",
+      "entityType": "term",
+      "sentence": "learning, in the way of preliminary books or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Taansen",
+      "entityType": "term",
+      "sentence": "Taansen, Amir Khusrao, Mir Nasir Ahmad",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dehlavi",
+      "entityType": "term",
+      "sentence": "Dehlavi, etc. etc., springing up from the unknown,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "language",
+      "entityType": "term",
+      "sentence": "language, meant more for the comprehension of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ago",
+      "entityType": "term",
+      "sentence": "ago, by Sarang Deo Pandit, containing a store of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "written",
+      "entityType": "term",
+      "sentence": "written, pointing out the stages, one after another,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Similarly",
+      "entityType": "term",
+      "sentence": "Similarly, some tunes of modern invention",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fter",
+      "entityType": "term",
+      "sentence": "is named after Mahadeo, and the method of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lter",
+      "entityType": "term",
+      "sentence": "2. Kalinath Mut. — So named alter Krishna,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Serpent",
+      "entityType": "term",
+      "sentence": "Serpent, on being thus ruthlessly disturbed, was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "annoyed",
+      "entityType": "term",
+      "sentence": "annoyed, and tried to sting him with the head",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "head",
+      "entityType": "term",
+      "sentence": "head, and thus, by jumping on to different heads,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dance",
+      "entityType": "term",
+      "sentence": "dance, with elegant movements and actions,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "upon",
+      "entityType": "term",
+      "sentence": "upon, and this to-day is a recognised form of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kalinath",
+      "entityType": "term",
+      "sentence": "this method was called Kalinath Mut, com-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bharat",
+      "entityType": "term",
+      "sentence": "ascetic named Bharat, who sang religious songs",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "easy",
+      "entityType": "term",
+      "sentence": "easy, facile manner, creating a certain mode of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mut",
+      "entityType": "term",
+      "sentence": "Mut, and eight Putrs (sons), and eight Bharjas",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wrangle",
+      "entityType": "term",
+      "sentence": "wrangle, never determining the class of the tune,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Taan-Sen",
+      "entityType": "term",
+      "sentence": "Taan-Sen, of universal fame, made a thorough,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "observation",
+      "entityType": "term",
+      "sentence": "observation, determined the distinctive and main",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "elaborate",
+      "entityType": "term",
+      "sentence": "elaborate, more beautiful and finer of the two.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Taa-oos",
+      "entityType": "term",
+      "sentence": "Taa-oos, Nafeeree, Baansri, Sankh, etc., played",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "individually",
+      "entityType": "term",
+      "sentence": "are named individually, as : — i, Kharaj; 2, Rikhab ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kamar",
+      "entityType": "term",
+      "sentence": "planet called Kamar.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Atarud",
+      "entityType": "term",
+      "sentence": "and the planet called Atarud. It has a happy",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dayadati",
+      "entityType": "term",
+      "sentence": "Dayadati, Ran-ja-ni and Rag-tika.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Zohra",
+      "entityType": "term",
+      "sentence": "the planet called Zohra.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mirreekh",
+      "entityType": "term",
+      "sentence": "planet called Mirreekh.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mushtari",
+      "entityType": "term",
+      "sentence": "the planet called Mushtari.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Zohol",
+      "entityType": "term",
+      "sentence": "and the planet called Zohol.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "quarter-tones",
+      "entityType": "term",
+      "sentence": "quarter-tones, and one-eighth of tones. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "imagined",
+      "entityType": "term",
+      "sentence": "imagined, is so subtle, and so exquisitely fine,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "accord",
+      "entityType": "term",
+      "sentence": "accord, forming soft modulations and unexpected",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Teevar",
+      "entityType": "term",
+      "sentence": "Suddh is called Teevar.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tam-Teevar",
+      "entityType": "term",
+      "sentence": "Suddh is called Tam-Teevar.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Komal",
+      "entityType": "term",
+      "sentence": "Suddh is called Komal.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ati-Komal",
+      "entityType": "term",
+      "sentence": "Suddh is called Ati-Komal.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Shikari",
+      "entityType": "term",
+      "sentence": "Suddh is called Shikari.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mandra-tar",
+      "entityType": "term",
+      "sentence": "The lowest octave is called Mandra-tar",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mandra",
+      "entityType": "term",
+      "sentence": "The next lowest is called Mandra.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Maddhyam",
+      "entityType": "term",
+      "sentence": "The medium octave is called Maddhyam",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Taar",
+      "entityType": "term",
+      "sentence": "The next highest octave is called Taar-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Taar-tar",
+      "entityType": "term",
+      "sentence": "The highest octave is called Taar-tar Saptak.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Arohi",
+      "entityType": "term",
+      "sentence": "in the scale is called Arohi : — Sa, Re, Ga, Ma,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Baadi",
+      "entityType": "term",
+      "sentence": "Baadi, Sambaadi, Ambaadi and Bebaadi. —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "successively",
+      "entityType": "term",
+      "sentence": "successively, in the order of the octave, each",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "first",
+      "entityType": "term",
+      "sentence": "first, then a line is taken and repeated with the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sampuran",
+      "entityType": "term",
+      "sentence": "These are termed Sampuran.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Khadao",
+      "entityType": "term",
+      "sentence": "the scale ; and these are called Khadao. Others",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Odhao",
+      "entityType": "term",
+      "sentence": "complete their scale ; these are termed Odhao.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "control",
+      "entityType": "instrument",
+      "sentence": "with absolute control, is the first step of most",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dhurpad",
+      "entityType": "term",
+      "sentence": "Dhurpad, and it is extremely difficult.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "one",
+      "entityType": "term",
+      "sentence": "one, so that one is conscious of nothing but the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "quickly",
+      "entityType": "term",
+      "sentence": "quickly, but invariably in Bilampat or Muddh",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lai",
+      "entityType": "term",
+      "sentence": "lai, i.e., first or second speed.*",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Astaai",
+      "entityType": "term",
+      "sentence": "parts. The first part is called Astaai. The open-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Antra",
+      "entityType": "term",
+      "sentence": "The second part is called Antra. All the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "A-bhog",
+      "entityType": "term",
+      "sentence": "is shown in the third part called A-bhog.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sanchari",
+      "entityType": "term",
+      "sentence": "The last part is called Sanchari. It was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "century",
+      "entityType": "term",
+      "sentence": "century, and brought to a state of perfection by",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sadarang",
+      "entityType": "term",
+      "sentence": "Sadarang, the Durbar singer of Mohammed Shah",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Asaf-Ud-dowlah",
+      "entityType": "term",
+      "sentence": "Asaf-Ud-dowlah, the King of Oudh, put new life",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "delightful",
+      "entityType": "term",
+      "sentence": "delightful, sung by all in India. They are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Naa",
+      "entityType": "term",
+      "sentence": "Naa, Te, Ray, Re, Nom, Ta, etc., instead of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tirkat",
+      "entityType": "term",
+      "sentence": "Tirkat, Dar, Dhina, etc.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "called",
+      "entityType": "instrument",
+      "sentence": "(ascetics) on the strange instrument called",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ek-tara",
+      "entityType": "term",
+      "sentence": "Ek-tara, and also by devotees in the temples.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "science",
+      "entityType": "term",
+      "sentence": "science, who not only rendered all the Raags",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ness",
+      "entityType": "term",
+      "sentence": "ness, but was also able to produce pupils equally",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "accompaniment",
+      "entityType": "term",
+      "sentence": "accompaniment, and not be dependent in any",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tune",
+      "entityType": "term",
+      "sentence": "tune, where all the attention of the hearers is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "study",
+      "entityType": "term",
+      "sentence": "study, and made sure that certain sounds har-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Aa-saori",
+      "entityType": "term",
+      "sentence": "Aa-saori, Bhairaveen and Todee, and all its kind —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "asri",
+      "entityType": "term",
+      "sentence": "asri, Dhaani, etc., are played. Ga, ma and ni in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kaanhra",
+      "entityType": "term",
+      "sentence": "Kaanhra, which is played in the morning. Malkaus",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sense",
+      "entityType": "instrument",
+      "sentence": "an absolute sense of calm and inner satisfaction",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nature",
+      "entityType": "term",
+      "sentence": "nature, and invoke fire and water, in short, perform",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "form",
+      "entityType": "term",
+      "sentence": "form, colour, symbolism and significances which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mahadeo",
+      "entityType": "term",
+      "sentence": "Mahadeo, the God of Music, is distinguished",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "globe",
+      "entityType": "term",
+      "sentence": "globe, north, south, east and west, while the fifth",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Parvati",
+      "entityType": "term",
+      "sentence": "Parvati, the wife of Mahadeo. Brhama created the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "India",
+      "entityType": "term",
+      "sentence": "India, and the demi-god Narada was appointed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bhairaveen",
+      "entityType": "term",
+      "sentence": "Bhairaveen, is significant of Beauty ; Nut, of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bihaag",
+      "entityType": "term",
+      "sentence": "Bihaag, of joy and brightness.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wft",
+      "entityType": "term",
+      "sentence": "Wft;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "south",
+      "entityType": "term",
+      "sentence": "south, east and west, while the fifth head is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "protection",
+      "entityType": "term",
+      "sentence": "protection, and shading her from the morning",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "deep",
+      "entityType": "term",
+      "sentence": "deep, passionate and mystical melody. Dressed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "entranced",
+      "entityType": "term",
+      "sentence": "entranced, listening to the delicious music by the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kali",
+      "entityType": "term",
+      "sentence": "kali, Todi, Gouri and Koukab. The Raagnis are",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "coloured",
+      "entityType": "instrument",
+      "sentence": "the forehead. Rainbow coloured draperies of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "long",
+      "entityType": "term",
+      "sentence": "long, dark silken lashes which veil them. She",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kanhra",
+      "entityType": "term",
+      "sentence": "Kanhra, Kidara and Nut.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "atmosphere",
+      "entityType": "term",
+      "sentence": "atmosphere, rendering an altogether dreadful",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gojri",
+      "entityType": "term",
+      "sentence": "Gojri, Tunk and Deyce-kar. All are lovely",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bearing",
+      "entityType": "term",
+      "sentence": "bearing, significance or beauty when played by",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tamboora",
+      "entityType": "term",
+      "sentence": "Tamboora, etc. Others are important instru-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mizraab",
+      "entityType": "term",
+      "sentence": "the shape of a finger end called Mizraab.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Senai",
+      "entityType": "term",
+      "sentence": "Senai, etc.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "manipulated",
+      "entityType": "term",
+      "sentence": "manipulated, Been being the most intricate",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tubla",
+      "entityType": "term",
+      "sentence": "Tubla, Dhole, Duff, Champ, Dhoomus, etc., may be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hand",
+      "entityType": "term",
+      "sentence": "hand, some by rods and so on, but the beat",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mouth",
+      "entityType": "term",
+      "sentence": "mouth, either by half or full breaths, and the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "played",
+      "entityType": "instrument",
+      "sentence": "Sarangi is a stringed instrument played by",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "perfection",
+      "entityType": "term",
+      "sentence": "perfection, facilitates the learning of other in-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ganeshji",
+      "entityType": "term",
+      "sentence": "Ganeshji, the Belly-God, invented the classi-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Murdung",
+      "entityType": "instrument",
+      "sentence": "cal drum Murdung or Pakhavaj after the style",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sur-been",
+      "entityType": "term",
+      "sentence": "Sur-been, Sur-singar, Tamboora, Sitar, etc.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kamaancha",
+      "entityType": "term",
+      "sentence": "Kamaancha, Taoos, and similar instruments came",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Algooza",
+      "entityType": "term",
+      "sentence": "Algooza, Pungi and such came into practice",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nakkara",
+      "entityType": "instrument",
+      "sentence": "The majestic drum Nakkara was played",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gracefully",
+      "entityType": "term",
+      "sentence": "gracefully, her perfumed breath breathing soft",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "instrument",
+      "entityType": "term",
+      "sentence": "instrument, the unrivalled Been !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chaari",
+      "entityType": "term",
+      "sentence": "chaari, and the correct accompaniment is the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ektara",
+      "entityType": "form",
+      "sentence": "Ektara is a modest little instru-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sitar",
+      "entityType": "term",
+      "sentence": "Sitar, and the lower like a Sarangi ; and like",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "surface",
+      "entityType": "term",
+      "sentence": "surface, one above the other. The upper ones are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "invented",
+      "entityType": "instrument",
+      "sentence": "instrument invented by Guru Amardasji of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Amritsar",
+      "entityType": "term",
+      "sentence": "Amritsar, whose temple in that city is so well",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "oval",
+      "entityType": "term",
+      "sentence": "oval, hollow form beneath, and a strip of wood",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sarangi",
+      "entityType": "term",
+      "sentence": "Sarangi, and used by the peasantry. It is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dotara",
+      "entityType": "term",
+      "sentence": "called Dotara, which literally means two wires.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "struction",
+      "entityType": "term",
+      "sentence": "struction, but differs slightly in shape.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Saheb",
+      "entityType": "term",
+      "sentence": "Saheb, Prince of Delhi.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "war",
+      "entityType": "term",
+      "sentence": "war, marriage and other big festivals. It is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "needle",
+      "entityType": "term",
+      "sentence": "needle, and lastly a blade of a rare species of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Paalaa",
+      "entityType": "term",
+      "sentence": "This wonderful grass called Paalaa is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Noubat",
+      "entityType": "term",
+      "sentence": "band called Noubat.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "noblemen",
+      "entityType": "term",
+      "sentence": "noblemen, dead or living, and placed in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tika",
+      "entityType": "term",
+      "sentence": "Tika, Giddi, Ghun, Tuk, Dhikat, Dha, etc.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Turkat",
+      "entityType": "term",
+      "sentence": "Turkat, Kittack, etc.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wood",
+      "entityType": "term",
+      "sentence": "wood, with skin stretched over it. It accompanies",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "attached",
+      "entityType": "instrument",
+      "sentence": "with little bells attached to them. It accompanies",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rishi",
+      "entityType": "term",
+      "sentence": "Rishi, and begged of him to give them some",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hanouman",
+      "entityType": "term",
+      "sentence": "Hanouman, thoroughly ashamed of himself,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Aurangzebe",
+      "entityType": "term",
+      "sentence": "Aurangzebe, the last great Mogul Emperor, was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stifled",
+      "entityType": "term",
+      "sentence": "stifled, and devised a scheme to soften his hard",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "excused",
+      "entityType": "term",
+      "sentence": "excused, but the monarch's wayward wishes had",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "son",
+      "entityType": "term",
+      "sentence": "son, called Bilas Khan, was of a roving nature",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "feeling",
+      "entityType": "term",
+      "sentence": "feeling, that the coffin actually moved.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    }
+  ]
+}

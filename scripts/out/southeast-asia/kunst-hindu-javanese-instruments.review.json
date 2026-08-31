@@ -1,0 +1,7125 @@
+{
+  "book": {
+    "title": "Hindu-Javanese Musical Instruments",
+    "author": "Jaap Kunst",
+    "citation": "Kunst, Jaap. Hindu-Javanese Musical Instruments. Martinus Nijhoff, The Hague, 1927."
+  },
+  "summary": {
+    "total": 755,
+    "validCount": 751,
+    "blockedCount": 4,
+    "warningCount": 152,
+    "blockerReasons": {
+      "This candidate is awaiting specialist review and cannot be published yet.": 4
+    }
+  },
+  "rows": [
+    {
+      "term": "Clasetimack",
+      "entityType": "term",
+      "sentence": "Clasetimack: MA 4005.15",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kunst",
+      "entityType": "term",
+      "sentence": "Kunst, the well-known pioneer and expert in the field of ethnomusic-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ology",
+      "entityType": "term",
+      "sentence": "ology, who died in 1960.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Arts",
+      "entityType": "term",
+      "sentence": "Arts, undertook to check the presentation as to correct form and content",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jogjakarta",
+      "entityType": "term",
+      "sentence": "Jogjakarta, kindly procured information: based on his vast Old Javanese",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Institute",
+      "entityType": "term",
+      "sentence": "Institute, who not only in the first stage of the completion of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Moreover",
+      "entityType": "term",
+      "sentence": "Moreover, in addition to those editions of Old Javanese texts which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "followed",
+      "entityType": "term",
+      "sentence": "followed; some slight variations will be met with, e.g. palatal s is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "klung",
+      "entityType": "term",
+      "sentence": "klung,5 the réngkong 6 and the hatong.? There was a great number of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gong-chimes",
+      "entityType": "term",
+      "sentence": "gong-chimes, single gongs, bells and other instruments. Furthermore",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Java",
+      "entityType": "term",
+      "sentence": "Java,8 the Old Javanese and Old Balinese literatures. On a large scale,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "finally",
+      "entityType": "term",
+      "sentence": "finally, the comparison of the old and the present Javanese and Balinese",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lation",
+      "entityType": "term",
+      "sentence": "lation, knew the pélog scale. Sléndro — the other modern Javanese",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Restoration",
+      "entityType": "term",
+      "sentence": "which would suggest that it dates back to the so-called Restoration Period",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gamelan",
+      "entityType": "term",
+      "sentence": "gamelan, tuned either to pélog or to sléndro.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sih",
+      "entityType": "term",
+      "sentence": "Sih, WAN] Gos Suri, Anes Be Me Ave WW Oh IUNTS AWW DOCWANUL aii. Wate.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "However",
+      "entityType": "term",
+      "sentence": "However, some other words also meaning ‘to strike’, used in con-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "apukul",
+      "entityType": "term",
+      "sentence": "apukul,18 pamukul,19 and amukul,29 all of which were known at the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wig",
+      "entityType": "term",
+      "sentence": "strike’ as regards a gamelan instrument. According to a so-called awig-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hand",
+      "entityType": "term",
+      "sentence": "hand, the reliefs of the Dieng temples (before 750 A.D.), Candi Sari",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gangsa",
+      "entityType": "instrument",
+      "sentence": "gangsa: Smar. XXIX 8 and R. XXVI 13. Gong gangsa is rendered by",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "marriage",
+      "entityType": "term",
+      "sentence": "the late Hindu period through what could perhaps be called a marriage",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Javanese",
+      "entityType": "term",
+      "sentence": "Javanese: lurah",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "player",
+      "entityType": "instrument",
+      "sentence": "lute player (cf.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "aad",
+      "entityType": "term",
+      "sentence": "aad:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "strung",
+      "entityType": "term",
+      "sentence": "strung, but also in the number of strings, of which — according to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "seven",
+      "entityType": "instrument",
+      "sentence": "harp seven (fig. 45) and the Jalatunda harp four (fig. 46).6",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Krom",
+      "entityType": "term",
+      "sentence": "Krom, who had had no musicological training, referred to the harp as ‘‘a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vind",
+      "entityType": "term",
+      "sentence": "vind; Hindustani: bin; Thai: p’in.2 This word was also used later in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "did",
+      "entityType": "instrument",
+      "sentence": "decoration. In South India, an instrument did occur which in Tamil",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "makara-jal",
+      "entityType": "term",
+      "sentence": "was called makara-jal, jal being another name for vind.19 The Jalatunda",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bronze-caster",
+      "entityType": "term",
+      "sentence": "bronze-caster, who must have been ordered to cast a statuette of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chamber",
+      "entityType": "term",
+      "sentence": "chamber, just where the strings should be. If the harp had been",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Instrumente",
+      "entityType": "term",
+      "sentence": "Instrumente, der Trommel, der Flote, der Laute (Taittiriyasamhita VI 1,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "later",
+      "entityType": "term",
+      "sentence": "later, Therefore, if the author fails to add a determining word, as in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pear-shaped",
+      "entityType": "term",
+      "sentence": "instrument so that this may be called pear-shaped. Furthermore, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "general",
+      "entityType": "term",
+      "sentence": "general, it would appear that a more or less broad type prevailed, as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Simic",
+      "entityType": "term",
+      "sentence": "Simic, IY M08 Sys, OS Wis SOO ile Lotte Wels Sie iQ ine a, We Oe",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hindu-Java",
+      "entityType": "term",
+      "sentence": "Hindu-Java, only known from Further India.18 At the end of the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Restora",
+      "entityType": "term",
+      "sentence": "the ruling castes, and also survived in the following so-called Restora-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Surprisingly",
+      "entityType": "term",
+      "sentence": "Surprisingly, some of those terra-cotta lutes (figs. 65 and 66 at 1)",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "able",
+      "entityType": "term",
+      "sentence": "able, western-like scrolls point, presumably, to totally different in-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "known",
+      "entityType": "instrument",
+      "sentence": "that the ra@vanahasta (Ravana’s hand) is a lute known from India, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "once",
+      "entityType": "term",
+      "sentence": "once, see nt. 42.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kacapt",
+      "entityType": "term",
+      "sentence": "shape — a prow-shaped zither — is called kacapt. However, it is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "type",
+      "entityType": "instrument",
+      "sentence": "lute type.47",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Batak",
+      "entityType": "term",
+      "sentence": "Batak: hasapi, hapétan; Tagalog: kudydépi; Bisaya: kodyapi; South Celebes",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cobian",
+      "entityType": "term",
+      "sentence": "Cobian: qo, Way wee, Zale",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "more",
+      "entityType": "term",
+      "sentence": "more, O.J.O. XXXVI verso 6 and O.J.O. CVIII b 4, as I have said,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "arawanasta",
+      "entityType": "term",
+      "sentence": "arawanasta, ‘lute makers’ (living and working in Java itself, of course!)",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "homonymy",
+      "entityType": "term",
+      "sentence": "homonymy, have always linked those mythological creatures with the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "must",
+      "entityType": "instrument",
+      "sentence": "instrument must presumably be found in the West (Hebrew: kinndr ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "instrument",
+      "entityType": "term",
+      "sentence": "instrument,64 and gives twice,®5 as if to remove all doubt, the com-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "bination",
+      "entityType": "term",
+      "sentence": "bination: makinnara malawu-wind, i.e. “they played the kinnara and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kinnari",
+      "entityType": "term",
+      "sentence": "66 According to N. A. Jairazbhoy the instrument is called kinnari in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sitdry",
+      "entityType": "term",
+      "sentence": "sitdry, cannot be considered here as it is a rather late form.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Penanggungan",
+      "entityType": "term",
+      "sentence": "Penanggungan, Majapahit’s holy mountain. And possibly we even",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tioned",
+      "entityType": "term",
+      "sentence": "tioned: the Malat,79 the Tantri Kamandaka,71 and the Smarawédana.72",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ramachandran",
+      "entityType": "term",
+      "sentence": "Ramachandran, who read my essay although it was written in Dutch,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "used",
+      "entityType": "instrument",
+      "sentence": "zither used in East Java in the 13th century.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "resembling",
+      "entityType": "instrument",
+      "sentence": "73 In modern India a multi-stringed board-zither resembling the Arabian ganian",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "svaramandala",
+      "entityType": "term",
+      "sentence": "is called svaramandala or surmandal. Cf. Grosset p. 352 and Sachs I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mattakokila",
+      "entityType": "term",
+      "sentence": "15 describes the svaramandala, also called mattakokila and the commentary",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pandura",
+      "entityType": "term",
+      "sentence": "antiquity, usually called pandura (later form: tambura) which sub-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "antiquity",
+      "entityType": "term",
+      "sentence": "antiquity, usually called pandura (later form: tambura) which sub-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tanpira",
+      "entityType": "term",
+      "sentence": "usually called tanpira) (fig. 92); see the illustrations in Grosset 77",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "just",
+      "entityType": "instrument",
+      "sentence": "gourded stringed instrument just mentioned. Therefore it seems safe to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pegs",
+      "entityType": "term",
+      "sentence": "pegs, the wrest-board and the tuning-key are of Western make or at",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trawasa",
+      "entityType": "term",
+      "sentence": "trawasa,88 and that the Balinese Bagus Turunan mentions the tra-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "See",
+      "entityType": "term",
+      "sentence": "See, for instance, Courant p. 152b.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ibn",
+      "entityType": "term",
+      "sentence": "ibn, ©) 244, IU, IW Ze",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "GHA",
+      "entityType": "term",
+      "sentence": "GHA, OWAL TIGL, WATE NGS Nats 25",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "belonging",
+      "entityType": "instrument",
+      "sentence": "Another instrument belonging to this group is sounded not by the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sendar",
+      "entityType": "term",
+      "sentence": "called sendarén in modern Javanese, sondari in Sundanese. In Old",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bird",
+      "entityType": "term",
+      "sentence": "bird, and PoERBATJARAKA takes it to be an insect,17 but it seems quite",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Siete",
+      "entityType": "term",
+      "sentence": "Siete, IDC aks Gyan, Ih ee",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sundari",
+      "entityType": "term",
+      "sentence": "with the wariga (Balinese astrological calendar), called Sundari terus and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bubungkahan",
+      "entityType": "form",
+      "sentence": "boll II p. 249a); bungkah means: bottom-end, but bubungkahan is a kind",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kaanginan",
+      "entityType": "term",
+      "sentence": "kaanginan; both comparisons having the meaning of “like a sundart exposed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "least",
+      "entityType": "term",
+      "sentence": "least, the balance is in favour of the shawm on account of its character-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "damyadamyan",
+      "entityType": "term",
+      "sentence": "damyadamyan,?3 modern Javanese: de(r)mén(an) ,34 Sundanese: dami",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ago",
+      "entityType": "term",
+      "sentence": "ago, mainly amongst fishermen (e.g. in Madura and Kangean). The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Turbinella",
+      "entityType": "term",
+      "sentence": "Hindu-Java and India, from the species of shell called Turbinella rapa.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wey",
+      "entityType": "term",
+      "sentence": "Wey, ILI 76, IDOW Ih IOOCIY Ze Stireray, J ie (8.2 Wee (Cal, IDKe",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ranacrnga",
+      "entityType": "term",
+      "sentence": "ranacrnga, a variety of names in South Indian languages is given,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cangkakahala",
+      "entityType": "term",
+      "sentence": "cangkakahala,®3 cangkakahala,5+ cangkakalaha 5> and cangkakalaha,>®",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cangkakala",
+      "entityType": "term",
+      "sentence": "cangkakala,5® cangkakala 56 and cangkakala.5® 57",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "turiyavadita",
+      "entityType": "term",
+      "sentence": "together are called turiyavadita, and a combination of five different musical",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "OARS",
+      "entityType": "term",
+      "sentence": "OARS, Moy 1/8 Teka 2%.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kaha",
+      "entityType": "term",
+      "sentence": "in India], called kaha. On the Indian subcontinent they have always",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "one",
+      "entityType": "instrument",
+      "sentence": "A. A. Bake found two kinds of cymbals one large about ten inches in diameter",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "bhusiah",
+      "entityType": "term",
+      "sentence": "called bhusiah, and one small, not more than three inches in diameter and very",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chusiah",
+      "entityType": "term",
+      "sentence": "much like the Indian kartal, called chusiah.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "men",
+      "entityType": "term",
+      "sentence": "men, aringgit, abanwal, etc.), and in the reference in question we find",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "kucilava",
+      "entityType": "term",
+      "sentence": "kucilava, means actor; on etymological grounds C. C. Berg had come",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pont",
+      "entityType": "term",
+      "sentence": "Pont; at present it can be observed on the various kinds of dogdog 1°",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dugduga",
+      "entityType": "term",
+      "sentence": "10 According to Grosset the Indian damarw is also called dugduga or dugdugi",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "statement",
+      "entityType": "term",
+      "sentence": "statement: ‘Alle Versuche, bestimmte Trommeln mit den einzelnen",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "mentioned",
+      "entityType": "instrument",
+      "sentence": "bronze Old Javanese clapper-drum mentioned above.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "mardala",
+      "entityType": "term",
+      "sentence": "was presumably called mardala.24 However, of all names of drums,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "name",
+      "entityType": "term",
+      "sentence": "name, see p. 67 the remarks on mrdangga bhéri and bhéri (bhahiri) mrdangga.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "redap",
+      "entityType": "term",
+      "sentence": "the frame-drum is still called redap in Bencoolen.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "better",
+      "entityType": "term",
+      "sentence": "better, as padaha 31 is surely akin to pada), and pataha 32 as drum",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gupek",
+      "entityType": "term",
+      "sentence": "p. 77 nt. 185) and which are called gupek(an), form the only, presumably",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "robana",
+      "entityType": "term",
+      "sentence": "robana, ravana, and (in the Kai Archipelago) even gong. See also p. 82",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "penuntung",
+      "entityType": "term",
+      "sentence": "penuntung; in the Sunda Districts, kolantér.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nii",
+      "entityType": "term",
+      "sentence": "Nii, WL LS WW, MONG ZA ROW a Sie Wy Wee Sears WAN GB 7Al/e WWiels}§",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mark",
+      "entityType": "term",
+      "sentence": "mark, and finally he gives this same meaning to kalaha (V), not",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kala",
+      "entityType": "term",
+      "sentence": "kala, 1.e. “they sounded the murawas, the gubars, the cangkas and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "gala",
+      "entityType": "term",
+      "sentence": "gala, Kannar.: kahale, and others. Comp. Sachs II p. 171.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "struck",
+      "entityType": "term",
+      "sentence": "struck; played at a fast pace, they echoed, roared and thundered”. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kalah",
+      "entityType": "term",
+      "sentence": "(slit-drum) — also an instrument that is beaten — is called kalah.66 67",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "confusion",
+      "entityType": "term",
+      "sentence": "confusion, e.g. ‘long’ vowels are frequently used to make the word",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "short",
+      "entityType": "term",
+      "sentence": "short, large and small dogdog and réog; large and small terbang and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "drum",
+      "entityType": "term",
+      "sentence": "drum, but also by other means: e.g. some primitive peoples warm the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "resin",
+      "entityType": "term",
+      "sentence": "resin, wax, flour, oil-and other ingredients which is generally applied",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "timbre",
+      "entityType": "term",
+      "sentence": "occur, perhaps be called timbre pastes, because, even should they",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "occur",
+      "entityType": "term",
+      "sentence": "occur, perhaps be called timbre pastes, because, even should they",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bali",
+      "entityType": "term",
+      "sentence": "Bali, and finally a small facsimile excavated in the district of Tjibadak",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hailing",
+      "entityType": "instrument",
+      "sentence": "there is a bronze scraping instrument hailing from Central Java. It is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "request",
+      "entityType": "term",
+      "sentence": "request, His Highness Mangku Nagara VII made enquiries to find",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "does",
+      "entityType": "instrument",
+      "sentence": "sequently assume that this instrument does not exist in present-day",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "view",
+      "entityType": "term",
+      "sentence": "view, is so extremely important.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Furthermore",
+      "entityType": "term",
+      "sentence": "Furthermore, among the objects which Sir Auret STErn during his",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "held",
+      "entityType": "instrument",
+      "sentence": "bell-shaped cymbals held together by a ribbon or thong. These cymbals",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "give",
+      "entityType": "instrument",
+      "sentence": "shaped cymbals”. When she wrote “These cymbals give a sound of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "celuring",
+      "entityType": "term",
+      "sentence": "celuring, a rare instrument which is found only in the Central Javanese",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ment",
+      "entityType": "term",
+      "sentence": "ment, presumably maintaining the rhythm with their melodious and far-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "place",
+      "entityType": "term",
+      "sentence": "place, indissolubly linked with the wayang purwa.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bell",
+      "entityType": "term",
+      "sentence": "bell, cattle bell), as has so far been the case. It would stand — some-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stick",
+      "entityType": "term",
+      "sentence": "stick, 26",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kenawak",
+      "entityType": "term",
+      "sentence": "of Kediri. In East Java it is also known as kenawak, nawek, tewek,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "came",
+      "entityType": "instrument",
+      "sentence": "made it plausible that this remarkable kind of cymbal came into being",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "case",
+      "entityType": "term",
+      "sentence": "case, the form of the instrument be the tertiwm comparationis?",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "only",
+      "entityType": "instrument",
+      "sentence": "instrument only, but also to a species of grasshopper which chirps at night",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "clapper",
+      "entityType": "term",
+      "sentence": "clapper, and partly on the purpose for which they are used.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pellet-bell",
+      "entityType": "term",
+      "sentence": "Some are of the kind called pellet-bell (Fr. grelot), a more or less",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "kimkani",
+      "entityType": "term",
+      "sentence": "called kimkani, kimkini, kimkiniké and kimkanika. Whether or not",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "okokan",
+      "entityType": "term",
+      "sentence": "bells are called okokan (S.T. V 58).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fter",
+      "entityType": "term",
+      "sentence": "Prambanan Nandi temple (named after it) of c. 850 A.D.; in East Java the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "small",
+      "entityType": "term",
+      "sentence": "small: see our fig. 71 at 2, where such a bell is mounted on a finger-ring.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "like",
+      "entityType": "instrument",
+      "sentence": "curing or coring refers to an instrument like the Javanese gambang",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mounted",
+      "entityType": "instrument",
+      "sentence": "bells mounted on a wooden frame more or less in the form of a small",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "genta",
+      "entityType": "term",
+      "sentence": "Javanese courts there are only three specimens left, called genta and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kulkul",
+      "entityType": "instrument",
+      "sentence": "I can be brief about the slit-drum kulkul(an), kukulan or titir 53",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kukulan",
+      "entityType": "term",
+      "sentence": "kukulan,®2 thereby informing the hunters.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "handle",
+      "entityType": "term",
+      "sentence": "handle, found on relief O 39 on the buried basement of the Barabudur",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "named",
+      "entityType": "instrument",
+      "sentence": "(fig. 5, bottom left, at 3). A similar instrument named mo is still used",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "bluntak",
+      "entityType": "term",
+      "sentence": "The instrument, which in Java is now mostly called bluntak, consists",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vietnam",
+      "entityType": "term",
+      "sentence": "Vietnam, also know those musical contraptions, often of an even more",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gong",
+      "entityType": "term",
+      "sentence": "gong,74 often in the gamelan angklung,*5 and invariably in the gamelan",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ger",
+      "entityType": "term",
+      "sentence": "ger, The Archaeology of Hindoo Sumatra (Int. Arch. f. Ethn., Suppl. to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "instead",
+      "entityType": "instrument",
+      "sentence": "took it to be a drum instead of an idiophone (Schnitger p. 12 at a). But",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ramayana",
+      "entityType": "term",
+      "sentence": "Ramayana, as has been pointed out (pp. 39-40), renders the drum name murawa",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cumangkirang",
+      "entityType": "instrument",
+      "sentence": "cumangkirang, it is called gong cumangkirang (comp. Kunst II p. 107).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Majapahit",
+      "entityType": "term",
+      "sentence": "the population of Wirasaba (previously called Majapahit and today",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "descent",
+      "entityType": "term",
+      "sentence": "descent, as the four little holes in the edge of the kettles, which origin-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trompong",
+      "entityType": "term",
+      "sentence": "which is called trompong in Bali.83",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "celuluk",
+      "entityType": "term",
+      "sentence": "celuluk, kangsi, kenong and kemong meplawah 88 in Bali. That such",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "can",
+      "entityType": "instrument",
+      "sentence": "However under the name of kangsi this instrument can in any case",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "kemong",
+      "entityType": "term",
+      "sentence": "now called kemong meplawah.95 In the edicts (awig-awig) of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kenong",
+      "entityType": "term",
+      "sentence": "rulers, however, the instrument is always called kenong when there is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "primarily",
+      "entityType": "instrument",
+      "sentence": "paratively wide rim. However the word gong primarily suggests an",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Poli",
+      "entityType": "form",
+      "sentence": "Poli is the modern Atjéh, it is obvious that Crivijaya which dominated",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ageng",
+      "entityType": "instrument",
+      "sentence": "Of the three on Panataran, one is unmistakably a gong ageng. It is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "arah",
+      "entityType": "term",
+      "sentence": "arah, to call up, to summon), alone or in combination with gong. (See KBwb.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "already",
+      "entityType": "instrument",
+      "sentence": "kettle-drum already known in the Vedic period) is a bhéri qualified",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "par",
+      "entityType": "instrument",
+      "sentence": "instruments, the gong, war-instrument par excellence, could hardly be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "omitted",
+      "entityType": "term",
+      "sentence": "omitted: humung tang tabehtabehan makadi cangkakahala murawa(n)",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ever",
+      "entityType": "term",
+      "sentence": "ever, even if one does not share this assumption about barebet, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "behind",
+      "entityType": "instrument",
+      "sentence": "permitted to see cymbals behind the names regang 141 and barebet.142",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "still",
+      "entityType": "instrument",
+      "sentence": "name of a cymbal still popular in Central Java,145 tala (also tala",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "generally",
+      "entityType": "instrument",
+      "sentence": "In the Bali of today cymbals generally enjoy great popularity and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "kec",
+      "entityType": "term",
+      "sentence": "munggang and gamelan kodok ngorék, where they are called kecér or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Apparently",
+      "entityType": "term",
+      "sentence": "Apparently, in order to indicate the metal calung, and to avoid con-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "garantang",
+      "entityType": "term",
+      "sentence": "named garantang in Bali, where old forms and old names have a so",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "galunggang",
+      "entityType": "term",
+      "sentence": "The xylophone called galunggang 165 will be discussed shortly.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "HID",
+      "entityType": "term",
+      "sentence": "HID: Sree NL WG.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kecruk",
+      "entityType": "term",
+      "sentence": "163 Tn the Madjakerta region it is called a kecruk, in Banyuwangi an angklung.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "saron",
+      "entityType": "term",
+      "sentence": "consisting of two separate parts with bamboo keys, and called saron.168",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gambang",
+      "entityType": "instrument",
+      "sentence": "same orchestra is also called gong gambang,169 as this term cannot",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ged",
+      "entityType": "instrument",
+      "sentence": "can be used only for a whole gamelan when a gong gedé or a kempur",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Petung",
+      "entityType": "form",
+      "sentence": "objects. Petung is a kind of bamboo and the unequal-key gambang iS",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ghalundhang",
+      "entityType": "term",
+      "sentence": "West Madura, which has five keys and is called ghalundhang. According",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "down",
+      "entityType": "term",
+      "sentence": "down, among other things, that two “kw” (small Hindu coins) shall be paid",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "selond",
+      "entityType": "term",
+      "sentence": "was not called selondéng but selunding, and like the Bungaya ensemble",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "accompanying",
+      "entityType": "instrument",
+      "sentence": "The only instrument accompanying the shadow wayang in Bali is,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "music",
+      "entityType": "instrument",
+      "sentence": "It is said that in ancient Kadiri flute music and women’s voices were used",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "early",
+      "entityType": "term",
+      "sentence": "and makes it probable that the gendér was well-known as early as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jayabhaya",
+      "entityType": "term",
+      "sentence": "Jayabhaya, W. S. and B. Y. are eliminated because salunding is iden-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bebet",
+      "entityType": "term",
+      "sentence": "Bebet,19° District of Pelem, Badjanegara Division, Residency of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "salukat",
+      "entityType": "term",
+      "sentence": "salukat,194 which slightly modified as selokat 195 still refers to a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sesaron",
+      "entityType": "term",
+      "sentence": "192 There is one exception in northern Bali called sesaron, a multi-octave variety",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "coring",
+      "entityType": "term",
+      "sentence": "which in southern Bali is usually called coring or curing (in Java gambang",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "curing",
+      "entityType": "term",
+      "sentence": "curing,196 which in present-day Bali is used for a saron-like instrument,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sakati",
+      "entityType": "instrument",
+      "sentence": "“munya kekéloran, lawan gong sakati ambarung’, t.e. “the kekéloran",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "comparison",
+      "entityType": "term",
+      "sentence": "comparison, in part with Sanskrit names and with Indian and Indo-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tambourine",
+      "entityType": "term",
+      "sentence": "tambourine, presumably on the grounds that it accompanies singing",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wargasari",
+      "entityType": "term",
+      "sentence": "Wargasari; B.T. 164; A.P. XIV 3.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tuwung",
+      "entityType": "term",
+      "sentence": "would have been called tuwung (and presumably curing too; see p. 52).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "throughout",
+      "entityType": "instrument",
+      "sentence": "widespread and popular instrument throughout these islands — e.g.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sarwawaditra",
+      "entityType": "term",
+      "sentence": "sarwawaditra: all waditras) is once linked with cangkhakalaha 23 and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pataha",
+      "entityType": "term",
+      "sentence": "called pataha, munda and mahasara’. For voices, strings and drums",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Undoubtedly",
+      "entityType": "term",
+      "sentence": "Undoubtedly, and of necessity, the picture of the world of Old Javanese",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Charter",
+      "entityType": "term",
+      "sentence": "Charter: 5a(G:K3) mrdangga fies",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "AOmay",
+      "entityType": "term",
+      "sentence": "AOmay,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lbs",
+      "entityType": "term",
+      "sentence": "Lbs, Vibes",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "XXIX",
+      "entityType": "instrument",
+      "sentence": "gong XXIX 8,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "KPa",
+      "entityType": "term",
+      "sentence": "KPa, 125, 1 5e",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "LXVI",
+      "entityType": "instrument",
+      "sentence": "gong LXVI 1",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "LXXITITI",
+      "entityType": "term",
+      "sentence": "LXXITITI,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "LXXIX",
+      "entityType": "term",
+      "sentence": "LXXIX, XCI",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "XXXIV",
+      "entityType": "term",
+      "sentence": "XXXIV,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "EXVIII",
+      "entityType": "term",
+      "sentence": "EXVIII, CXIX,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "LAX",
+      "entityType": "term",
+      "sentence": "LAX, LXXIVv,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "LXXVII",
+      "entityType": "term",
+      "sentence": "LXXVII,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "LXXX",
+      "entityType": "term",
+      "sentence": "LXXX;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "LXXXIV",
+      "entityType": "term",
+      "sentence": "LXXXIV,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "LXXXVI",
+      "entityType": "term",
+      "sentence": "LXXXVI,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "LXXXVIII",
+      "entityType": "term",
+      "sentence": "LXXXVIII,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "bangbang",
+      "entityType": "term",
+      "sentence": "bangbang, I 679 s.v. cangkirang, II 514 s.v. dami, III 720 s.v. luwang, 1V 702",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "terbang",
+      "entityType": "term",
+      "sentence": "terbang, see p. 39) and the kecapi are used.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pangarah",
+      "entityType": "instrument",
+      "sentence": "gong pangarah 417",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "XVI",
+      "entityType": "term",
+      "sentence": "XVI, SEV,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "EXIT",
+      "entityType": "term",
+      "sentence": "EXIT, LXXi1",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "VTi",
+      "entityType": "instrument",
+      "sentence": "gong VTi",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Caka",
+      "entityType": "term",
+      "sentence": "Caka: rasa muni niwara wédaning rat",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "CXTIMT",
+      "entityType": "instrument",
+      "sentence": "gong CXTIMT=3",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Benmore",
+      "entityType": "term",
+      "sentence": "Benmore, Cla, AX dts a 6",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "joy",
+      "entityType": "term",
+      "sentence": "joy, CUB iah,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Waa",
+      "entityType": "term",
+      "sentence": "Waa,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "IEO",
+      "entityType": "term",
+      "sentence": "IEO;O-GU0L 5",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "CUiie",
+      "entityType": "term",
+      "sentence": "CUiie:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Anfang",
+      "entityType": "term",
+      "sentence": "is called Anfang Nirartha.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Poona",
+      "entityType": "term",
+      "sentence": "Poona, 1890.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "poort",
+      "entityType": "term",
+      "sentence": "poort, 1932.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hanoi",
+      "entityType": "term",
+      "sentence": "Hanoi, 1901-1952; Saigon, 1954-1956; Paris, 1956 — in progress.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Weltevreden-Bandung",
+      "entityType": "term",
+      "sentence": "Weltevreden-Bandung, 1930-1940.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bosch",
+      "entityType": "term",
+      "sentence": "Bosch, F. D. K. — See K. A.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bandung",
+      "entityType": "term",
+      "sentence": "Bandung, 1936, 1937.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Toempang",
+      "entityType": "term",
+      "sentence": "Toempang, genaamd Tjandi Djago, in de residentie Pasoeroean.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Stuttgart-Berlin-Leipzig",
+      "entityType": "term",
+      "sentence": "Stuttgart-Berlin-Leipzig, 1922.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "XIV",
+      "entityType": "term",
+      "sentence": "XIV, 1934.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Carpeaux",
+      "entityType": "term",
+      "sentence": "Carpeaux, Ch, see: Dufour and Carpeaux.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Naerssen",
+      "entityType": "term",
+      "sentence": "Naerssen, pp. 82-117.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "LXXXIII",
+      "entityType": "term",
+      "sentence": "LXXXIII, pp. 1 ff.), 1949.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "XVII",
+      "entityType": "term",
+      "sentence": "XVII, No. 4, pp. 1-174, 1942). (Saigon, 1943).",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Erp",
+      "entityType": "term",
+      "sentence": "Erp, Th. van — See Bar.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tevreden",
+      "entityType": "term",
+      "sentence": "tevreden, 1929.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hague",
+      "entityType": "term",
+      "sentence": "Hague, 1938. [Four chapters re-edited and transl. into Dutch. ]",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Friederich",
+      "entityType": "term",
+      "sentence": "Friederich, R. — See B.K.; U.B.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gironcourt",
+      "entityType": "term",
+      "sentence": "Gironcourt, Georges de,see: De Gironcourt.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gonda",
+      "entityType": "term",
+      "sentence": "Gonda, J. — See Ag.; B.P.; Brh.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "schweig",
+      "entityType": "term",
+      "sentence": "schweig, 1905",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "interpunctie",
+      "entityType": "term",
+      "sentence": "interpunctie, in ’t biezonder in de Nederlanden. (Thesis Utrecht).",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Zeist",
+      "entityType": "term",
+      "sentence": "Zeist, 1926.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Groeneveldt",
+      "entityType": "term",
+      "sentence": "Groeneveldt, W. P. — See Cat. I.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Indien",
+      "entityType": "term",
+      "sentence": "Indien, 2nd ed. Berlin, 1920.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gunning",
+      "entityType": "term",
+      "sentence": "Gunning, JAG. He — See Bu Y.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hadiwidjojo",
+      "entityType": "term",
+      "sentence": "Hadiwidjojo—P.A. Hadiwidjojo, De bedojo ketawang (Hand.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Weltevreden",
+      "entityType": "term",
+      "sentence": "Weltevreden, 1921.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hazeu",
+      "entityType": "term",
+      "sentence": "Hazeu—G.A. J. Hazeu, Bijdrage tot de kennis van het Javaansche",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Heekeren",
+      "entityType": "term",
+      "sentence": "Heekeren, H. R. van, see: Van Heekeren.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Heyting",
+      "entityType": "term",
+      "sentence": "Heyting—L.C. Heyting, Over Balische houten trommen op wielen",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "HickmannW",
+      "entityType": "term",
+      "sentence": "HickmannW— Hans Hickmann, Les harpes de l Egypte pharaonique",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "XXXV",
+      "entityType": "term",
+      "sentence": "XXXV, pp. 309 ff.). Cairo, 1954.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hoop",
+      "entityType": "term",
+      "sentence": "Hoop, Ay Ny J. Dh a Dh vwanider seeV aneder ike op:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "LXXXVITI",
+      "entityType": "term",
+      "sentence": "LXXXVITI, pp. 49 ff.), 1931.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Leyden",
+      "entityType": "term",
+      "sentence": "Leyden, 1888 — in progress. Seas",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Museum",
+      "entityType": "term",
+      "sentence": "Museum, Ser. II No. 15). Leyden, 1907.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chaverdian",
+      "entityType": "term",
+      "sentence": "Chaverdian, ed. by I.Z. Alender). Moscow, 1958.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jansz",
+      "entityType": "term",
+      "sentence": "Jansz— P. Jansz., Practisch Javaansch-Nederlandsch Woordenboek.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "habharata",
+      "entityType": "term",
+      "sentence": "habharata, Leyden, 1893. [With text of Mausalaparwa|].",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jayrbolivl",
+      "entityType": "term",
+      "sentence": "Jayrbolivl: Hy See Adip.;’ J.D’; Kid=Adips: Wir.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kats",
+      "entityType": "term",
+      "sentence": "Kats, J. — See S.H.K.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kern",
+      "entityType": "term",
+      "sentence": "Kern— J.H.C. Kern, Het Oud-Javaansche lofdicht Nagarakrtagama",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Santpoort",
+      "entityType": "term",
+      "sentence": "Santpoort, 1933. Abridged translation of some parts of this work",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "bangan",
+      "entityType": "term",
+      "sentence": "bangan, See List of Abbreviations in KBwb. I, p. 10.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "XXXVIII",
+      "entityType": "term",
+      "sentence": "XXXVIII, pp. 1 ff.). Leyden, 1938.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Batavia",
+      "entityType": "term",
+      "sentence": "Batavia, 1936 ff.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "book",
+      "entityType": "term",
+      "sentence": "book: Netherlands India Old & New (in English). The Hague,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "holm",
+      "entityType": "term",
+      "sentence": "holm, 1941.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pigeaud",
+      "entityType": "term",
+      "sentence": "Pigeaud, Th, G. Th. — See Nag.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Poerwa",
+      "entityType": "term",
+      "sentence": "Poerwa, 9 Vols. Jogjakarta, 1884-1906.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Antwerp",
+      "entityType": "term",
+      "sentence": "Antwerp, 1922.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Volkenkunde",
+      "entityType": "term",
+      "sentence": "Volkenkunde, Leyden (National Museum of Ethnology).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Miinchen",
+      "entityType": "term",
+      "sentence": "Miinchen, 1917.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Leipzig",
+      "entityType": "term",
+      "sentence": "Leipzig, 1920.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Berlin",
+      "entityType": "term",
+      "sentence": "Berlin, 1929. Reprographical reprint, Hilversum, 1965.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "und",
+      "entityType": "instrument",
+      "sentence": "Simbriger — Heinrich Simbriger, Gong und Gongspiele (Intern.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Suchtelen",
+      "entityType": "term",
+      "sentence": "Suchtelen, B.C.C.M.M: van, see: Van Suchtelen.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Swellengrebel",
+      "entityType": "term",
+      "sentence": "Swellengrebel, J. L. — See Kor.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Volsl",
+      "entityType": "term",
+      "sentence": "Volsl, pp. 79-95.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tantri",
+      "entityType": "term",
+      "sentence": "Tantri, and Juynboll III, pp. 239-248, Juynboll IV, pp.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Teeuw",
+      "entityType": "term",
+      "sentence": "Teeuw, A. — See B.K.; H.W.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tuuk",
+      "entityType": "term",
+      "sentence": "Tuuk, H. Neubronner van der, see: KBwhb.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Philology",
+      "entityType": "term",
+      "sentence": "Philology, Literature, History and Philosophy). Amsterdam, Vol. I",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "abafiwal",
+      "entityType": "term",
+      "sentence": "abafiwal, 33.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "agending",
+      "entityType": "term",
+      "sentence": "agending, 5, 33. See gending.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "agupyan",
+      "entityType": "term",
+      "sentence": "agupyan, 6. See gupi.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ajanta",
+      "entityType": "term",
+      "sentence": "Ajanta, 15.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "alabu",
+      "entityType": "term",
+      "sentence": "alabu, 18.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Alor",
+      "entityType": "term",
+      "sentence": "Alor, 47.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Amaravati",
+      "entityType": "term",
+      "sentence": "Amaravati, 15.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ambarung",
+      "entityType": "term",
+      "sentence": "ambarung, 80. See barung.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Amboina",
+      "entityType": "term",
+      "sentence": "Amboina, 72.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "amukul",
+      "entityType": "term",
+      "sentence": "amukul, 4, 5, 33. See pukul.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "anabuh",
+      "entityType": "term",
+      "sentence": "anabuh, 83. See tabuh.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "anapuk",
+      "entityType": "term",
+      "sentence": "anapuk, 4. See tapuk.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "angguntang",
+      "entityType": "term",
+      "sentence": "angguntang, 23. See guntang.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "angklung",
+      "entityType": "term",
+      "sentence": "angklung, 1, 72, 85.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "angkup",
+      "entityType": "term",
+      "sentence": "angkup, 82, 83, 91.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Annam",
+      "entityType": "term",
+      "sentence": "Annam, North —, fig. 98.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "anuling",
+      "entityType": "term",
+      "sentence": "anuling, 7, 33. See suling.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "apadahi",
+      "entityType": "term",
+      "sentence": "apadahi, 7. See padahi.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "aringgit",
+      "entityType": "term",
+      "sentence": "aringgit, 33.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Arjuna",
+      "entityType": "term",
+      "sentence": "Arjuna, 30.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "asangka-busya",
+      "entityType": "term",
+      "sentence": "asangka-busya, 32. See sangk(h)a.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sertde",
+      "entityType": "term",
+      "sentence": "Sertde, Wace —, 2, WB, 27, BS.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Assam",
+      "entityType": "term",
+      "sentence": "Assam, fig. 100.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Assyrian",
+      "entityType": "term",
+      "sentence": "Assyrian, 35.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "atapukan",
+      "entityType": "term",
+      "sentence": "atapukan, 4, 7. See tapuk.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "avanaddha",
+      "entityType": "term",
+      "sentence": "avanaddha, 66.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "awig-awig",
+      "entityType": "term",
+      "sentence": "awig-awig, 4, 63.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "badahi",
+      "entityType": "term",
+      "sentence": "badahi, 38, 84, 106, 115, 117.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Badjanegara",
+      "entityType": "term",
+      "sentence": "Badjanegara, 79.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "badjidor",
+      "entityType": "term",
+      "sentence": "badjidor, see bajidor.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bagpipe",
+      "entityType": "term",
+      "sentence": "bagpipe, 27.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bahiri",
+      "entityType": "term",
+      "sentence": "bahiri, 41, 66, 104, 111.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Balapulang",
+      "entityType": "term",
+      "sentence": "Balapulang, 19.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Balitung",
+      "entityType": "term",
+      "sentence": "Balitung, 33, 115.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Bandjarmasin",
+      "entityType": "term",
+      "sentence": "Bandjarmasin, 64.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bandjarnegara",
+      "entityType": "term",
+      "sentence": "Bandjarnegara, 59, 60.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bangsi",
+      "entityType": "term",
+      "sentence": "bangsi, 25, 26, 85, 88, 91, 93, 111.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bangsing",
+      "entityType": "term",
+      "sentence": "bangsing, 25.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Banten",
+      "entityType": "term",
+      "sentence": "Banten, 24, 44, 56.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Banyuwangi",
+      "entityType": "term",
+      "sentence": "Banyuwangi, 72.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Barabudur",
+      "entityType": "term",
+      "sentence": "Barabudur, 5, 10, 13-15, 17, 18, 19,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "barang",
+      "entityType": "term",
+      "sentence": "barang, 64, 79.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "barebet",
+      "entityType": "term",
+      "sentence": "barebet, 68, 70, 94, 106, 116.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Barubuh",
+      "entityType": "term",
+      "sentence": "Barubuh, 6.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "barung",
+      "entityType": "term",
+      "sentence": "barung, 80.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "bar-zithers",
+      "entityType": "term",
+      "sentence": "bar-zithers, 10, 12, 14, 18-21, 49, 121;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bedaya",
+      "entityType": "term",
+      "sentence": "bedaya, 51.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bedug",
+      "entityType": "term",
+      "sentence": "bedug, 35, 44, 45, 109.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bengal",
+      "entityType": "term",
+      "sentence": "Bengal, 36.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bentuk",
+      "entityType": "term",
+      "sentence": "bentuk, 66.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bhadrakali",
+      "entityType": "term",
+      "sentence": "Bhadrakali, 37.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bhairawa",
+      "entityType": "term",
+      "sentence": "Bhairawa, 36, 122; fig. 48.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bhairi",
+      "entityType": "term",
+      "sentence": "bhairi, 66. See bhéri and bahiri.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bhangsi",
+      "entityType": "term",
+      "sentence": "bhangsi, bhangci, 92. See bangsi.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bharata-vina",
+      "entityType": "term",
+      "sentence": "bharata-vina, 17.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bin",
+      "entityType": "term",
+      "sentence": "bin, -11, 20, 21, 123; figs. 64, 84, 93.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "binarungan",
+      "entityType": "term",
+      "sentence": "binarungan, 80. See barung.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Bisaya",
+      "entityType": "term",
+      "sentence": "Bisaya, 16.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "biwa",
+      "entityType": "term",
+      "sentence": "biwa, fig. 89.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bjnt",
+      "entityType": "term",
+      "sentence": "bjnt, 11.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Blayu",
+      "entityType": "term",
+      "sentence": "Blayu, 117.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Blora",
+      "entityType": "term",
+      "sentence": "Blora, 78.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bonang",
+      "entityType": "term",
+      "sentence": "bonang, 6, 52, 59-65, 67, 83, 89, 123;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bondjing",
+      "entityType": "term",
+      "sentence": "bondjing, see bofijing.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bongbong",
+      "entityType": "term",
+      "sentence": "bongbong, 82, 83, 108.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Borneo",
+      "entityType": "term",
+      "sentence": "Borneo, 16, 27, 69.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "brekuk",
+      "entityType": "term",
+      "sentence": "brekuk, 52, 63, 92.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bubar",
+      "entityType": "term",
+      "sentence": "bubar, 69, 99, 100.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "budbudika",
+      "entityType": "term",
+      "sentence": "budbudika, 40.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bugbug",
+      "entityType": "term",
+      "sentence": "Bugbug, 78.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Buginese",
+      "entityType": "term",
+      "sentence": "Buginese, 28, 57.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bundjing",
+      "entityType": "term",
+      "sentence": "bundjing, see bufijing.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Bungaya",
+      "entityType": "term",
+      "sentence": "Bungaya, 75, 76, 78.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bungkuk",
+      "entityType": "term",
+      "sentence": "bungkuk, 63, 93.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Burma",
+      "entityType": "term",
+      "sentence": "Burma, Burmese, 9-13, 16, 45, 49, 61,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "busya",
+      "entityType": "term",
+      "sentence": "busya, 32, 33, 95.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "byong",
+      "entityType": "term",
+      "sentence": "byong, 56.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kedaton",
+      "entityType": "term",
+      "sentence": "Kedaton, 66, 122; fig. 54.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nagasari",
+      "entityType": "term",
+      "sentence": "Nagasari, 54, 120.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nerimbi",
+      "entityType": "term",
+      "sentence": "Nerimbi, 59, 122; fig. 52.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Prambanan",
+      "entityType": "term",
+      "sentence": "Prambanan, 15, 17, 70, 90.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cantung",
+      "entityType": "term",
+      "sentence": "cantung, cantung (tjantung, tjantung),",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Caribbean",
+      "entityType": "term",
+      "sentence": "Caribbean, 48.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chaingvaing",
+      "entityType": "term",
+      "sentence": "chaingvaing, 45.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "China",
+      "entityType": "term",
+      "sentence": "China, Chinese, 2, 12-14, 16, 24, 25,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cither",
+      "entityType": "term",
+      "sentence": "cither, 10.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "citra-vina",
+      "entityType": "term",
+      "sentence": "citra-vina, 11.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "conch-shells",
+      "entityType": "term",
+      "sentence": "conch-shells, 65.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Congo",
+      "entityType": "term",
+      "sentence": "Congo, 9.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Coptic",
+      "entityType": "term",
+      "sentence": "Coptic, 11.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Panataran",
+      "entityType": "term",
+      "sentence": "Panataran, 35, 59, 66, 71, 123;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sami",
+      "entityType": "term",
+      "sentence": "Sami, & Wek iS, i, Ss 70, GY, a0",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fags",
+      "entityType": "term",
+      "sentence": "fags, UB, ls, Sill, Stes,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Daha",
+      "entityType": "term",
+      "sentence": "Daha, 99.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dalem",
+      "entityType": "term",
+      "sentence": "dalem, 39, 53.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "damaru",
+      "entityType": "term",
+      "sentence": "damaru, 36, 37, 40; fig. 121.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dang",
+      "entityType": "term",
+      "sentence": "dang, 61.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dangdang-gendis",
+      "entityType": "term",
+      "sentence": "Dangdang-gendis, 3.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Dayak",
+      "entityType": "term",
+      "sentence": "Dayak, 27, 78; fig. 99.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "degung",
+      "entityType": "term",
+      "sentence": "degung, 52.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "demung",
+      "entityType": "term",
+      "sentence": "demung, 73, 79.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dewadatta",
+      "entityType": "term",
+      "sentence": "Dewadatta, 30.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ding",
+      "entityType": "term",
+      "sentence": "ding, 61.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Djajabaja",
+      "entityType": "term",
+      "sentence": "Djajabaja, see Jayabhaya.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Djakarta",
+      "entityType": "term",
+      "sentence": "Djakarta, 25, 57, 64.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Djalatunda",
+      "entityType": "term",
+      "sentence": "Djalatunda, see Jalatunda.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "djarami",
+      "entityType": "term",
+      "sentence": "djarami, see jarami.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "djidor",
+      "entityType": "term",
+      "sentence": "djidor, see jidor.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "djungga",
+      "entityType": "term",
+      "sentence": "djungga, see jungga.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dogdog",
+      "entityType": "term",
+      "sentence": "dogdog, 36, 45; figs. 56, 65.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "doli-doli",
+      "entityType": "term",
+      "sentence": "doli-doli, 72.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dong",
+      "entityType": "term",
+      "sentence": "dong, 61.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ieee",
+      "entityType": "term",
+      "sentence": "ieee, Sil. IVA",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dubduba",
+      "entityType": "term",
+      "sentence": "dubduba, 36.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dugdugi",
+      "entityType": "term",
+      "sentence": "dugdugi, 36, 40.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dukun",
+      "entityType": "term",
+      "sentence": "dukun, Tenggerese —, 56.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dunde",
+      "entityType": "term",
+      "sentence": "dunde, 18.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "dundubhi",
+      "entityType": "term",
+      "sentence": "dundubhi, 41, 67, 93.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "dung",
+      "entityType": "term",
+      "sentence": "dung, 61.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Dutch",
+      "entityType": "term",
+      "sentence": "Dutch, 44, 85, 113.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Egypt",
+      "entityType": "term",
+      "sentence": "Egypt, Egyptian, 9-11, 13, 20.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "engkuk",
+      "entityType": "term",
+      "sentence": "engkuk, 63, 69.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Europe",
+      "entityType": "term",
+      "sentence": "Europe, European, 9, 12, 14, 18, 24.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Fan",
+      "entityType": "term",
+      "sentence": "Fan, 13.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "fiddle",
+      "entityType": "term",
+      "sentence": "fiddle, 15.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "flautist",
+      "entityType": "term",
+      "sentence": "flautist, 7.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gagamelan",
+      "entityType": "term",
+      "sentence": "gagamelan, 113.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "gamel",
+      "entityType": "term",
+      "sentence": "gamel, 4, 96, 108.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "bumbung",
+      "entityType": "term",
+      "sentence": "bumbung, 74.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gambuh",
+      "entityType": "term",
+      "sentence": "gambuh, 84.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gumbeng",
+      "entityType": "term",
+      "sentence": "gumbeng, 52.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ganding",
+      "entityType": "term",
+      "sentence": "ganding, 5, 92-94, 114. See gending. — bhéri, 66, 117.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Gandusari",
+      "entityType": "term",
+      "sentence": "Gandusari, 36. — -chimes, 2.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ganrang",
+      "entityType": "term",
+      "sentence": "ganrang, 40. — gedé, 73.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ganta",
+      "entityType": "term",
+      "sentence": "ganta, see g(h)anta. — pangarah, 101, 110.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gantang",
+      "entityType": "term",
+      "sentence": "gantang, 55, 96. — sakati, 80, 84, 103.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "garantung",
+      "entityType": "term",
+      "sentence": "garantung, 69, 72, 94-96, 101, 102, 115. copper —, 5.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gembyung",
+      "entityType": "term",
+      "sentence": "gembyung, 45. war —, 66.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gendang",
+      "entityType": "term",
+      "sentence": "gendang, gendang, 40, 91. Greek, 84.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "gender",
+      "entityType": "term",
+      "sentence": "gender, 3; 6, 71) 72, 74-78, 83.. 123% Ancient —, 19.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gending",
+      "entityType": "term",
+      "sentence": "gending, gending, 5, 51, 84, 91, 92, 94- — saragi, 69.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Gendingan",
+      "entityType": "term",
+      "sentence": "Gendingan, 5. guitar, 12.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "gendongan",
+      "entityType": "term",
+      "sentence": "gendongan, 56, 103. gumbang, 1.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "gentorag",
+      "entityType": "term",
+      "sentence": "gentorag, 56. 110.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gerdi",
+      "entityType": "term",
+      "sentence": "gerdi, 27. gupek(an), 39, 40, 45, 77.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Nig",
+      "entityType": "term",
+      "sentence": "Nig, IA sees ali.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ghanta-ghanti",
+      "entityType": "term",
+      "sentence": "ghanta-ghanti, 107. Halmaheira, 18.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ghenta",
+      "entityType": "term",
+      "sentence": "ghenta, 55, 97, 123. Hanuman, 28, 66.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gita-nrta-waditra",
+      "entityType": "term",
+      "sentence": "gita-nrta-waditra, 87. angular —, 9.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hasapi",
+      "entityType": "term",
+      "sentence": "hasapi, 16.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hatong",
+      "entityType": "term",
+      "sentence": "hatong, 1.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hebrew",
+      "entityType": "term",
+      "sentence": "Hebrew, 19.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "horn",
+      "entityType": "term",
+      "sentence": "horn, 31.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hyderabad",
+      "entityType": "term",
+      "sentence": "Hyderabad, 19.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Indochina",
+      "entityType": "term",
+      "sentence": "Indochina, Indochinese, 2, 12, 14, 82.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Indrajit",
+      "entityType": "term",
+      "sentence": "Indrajit, 28.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "jal",
+      "entityType": "term",
+      "sentence": "jal, 11.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Japan",
+      "entityType": "term",
+      "sentence": "Japan, Japanese, 12, 14, 16; fig. 89.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kacchapi",
+      "entityType": "term",
+      "sentence": "kacchapi, 15, 107.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kacchapi-vina",
+      "entityType": "term",
+      "sentence": "kacchapi-vina, 11.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "kadjar",
+      "entityType": "term",
+      "sentence": "kadjar, see kajar.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kafiristan",
+      "entityType": "term",
+      "sentence": "Kafiristan, 9, 12; fig. 85a.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kahala",
+      "entityType": "term",
+      "sentence": "kahala, kahala, kahala, 31-33, 41-43,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "kahalacangka",
+      "entityType": "term",
+      "sentence": "kahalacangka, 31, 42, 68, 100.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "kahale",
+      "entityType": "term",
+      "sentence": "kahale, 42.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kai",
+      "entityType": "term",
+      "sentence": "Kai, 39.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kakawin",
+      "entityType": "term",
+      "sentence": "kakawin, 8, 86, 100, 106, 114.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kakhara",
+      "entityType": "term",
+      "sentence": "kakhara, 53, 123:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kalaha",
+      "entityType": "term",
+      "sentence": "kalaha, kalaha, kalaha, 31, 41, 42, 88,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "kala-kala",
+      "entityType": "term",
+      "sentence": "kala-kala, kala-kala, kala-kala, kalakala,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "kalam",
+      "entityType": "term",
+      "sentence": "kalam, 42.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "kalih-kalihan",
+      "entityType": "term",
+      "sentence": "kalih-kalihan, 83. kendo, 45.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kalingga",
+      "entityType": "term",
+      "sentence": "Kalingga, 120. Kéngetan, 76.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kamanak",
+      "entityType": "term",
+      "sentence": "kamanak, kemanak, 6, 48, 51-53, 77, kenong, 60, 62, 63.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kamsa",
+      "entityType": "term",
+      "sentence": "kamsa, 5. kentongan, 4, 43, 52, 54, 57, 58, 72, 123;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kangean",
+      "entityType": "term",
+      "sentence": "Kangean, 30. rates (BE",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kangsi",
+      "entityType": "term",
+      "sentence": "kangsi, kangci, 52, 59, 62, 94-98, 101, kenuk, 62, 63.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kannara",
+      "entityType": "term",
+      "sentence": "Kannara, Kannarese, 19, 42. k(e)romong, 64, 73, 111.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "karana",
+      "entityType": "term",
+      "sentence": "karana, 31. ketempur, 69.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Karangasem",
+      "entityType": "term",
+      "sentence": "Karangasem, 75. ketipluk, 36.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Karangdjati",
+      "entityType": "term",
+      "sentence": "Karangdjati, 78. ketipung, 40.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kartal",
+      "entityType": "term",
+      "sentence": "kartal, 32. ketjér, see kecér.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kasapi",
+      "entityType": "term",
+      "sentence": "kasapi, 16. ketjitjér, see kecicér.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "katjapi",
+      "entityType": "term",
+      "sentence": "katjapi, see kacapi. ketjruk, see kecruk.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "katjaping",
+      "entityType": "term",
+      "sentence": "katjaping, see kacaping. kettle-drums, see drums.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kayan",
+      "entityType": "term",
+      "sentence": "Kayan, 27. See Dayak. kettles, 5, 60-64, 84, 85.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kediri",
+      "entityType": "term",
+      "sentence": "Kediri, 36, 53, 55, 58, 59, 120; fig. 47. kinangsyan, 62.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kedu",
+      "entityType": "term",
+      "sentence": "Kedu, 92. kifjeng-tangis (kindjeng-tangis), 26.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "keluri",
+      "entityType": "term",
+      "sentence": "keluri, 27. kinnor, 19.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kemanak",
+      "entityType": "term",
+      "sentence": "kemanak, see kamanak. kinyra, 19.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kempli",
+      "entityType": "term",
+      "sentence": "kempli, 62. klinting, 56.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kempul",
+      "entityType": "term",
+      "sentence": "kempul, 66, 68, 69, 78. Klungkung, 72.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kempur",
+      "entityType": "term",
+      "sentence": "kempur, 69, 73, 77. kodyapi, 16.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kempyang",
+      "entityType": "term",
+      "sentence": "kempyang, 60. kolantér, 40.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kemrampyang",
+      "entityType": "term",
+      "sentence": "kemrampyang, 45. komanak, 53.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kemuk",
+      "entityType": "term",
+      "sentence": "kemuk, 39. Korea, North —, 9.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kendang",
+      "entityType": "term",
+      "sentence": "kendang, kendang, 3, 40, 43, 45, 46, 67, figs. 65, 65a, 65b, 66, 67, 108.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kresni",
+      "entityType": "term",
+      "sentence": "Kresni, 6.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kromong",
+      "entityType": "term",
+      "sentence": "kromong, see k(e)romong.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Krtawardhana",
+      "entityType": "term",
+      "sentence": "Krtawardhana, 71.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kudyapi",
+      "entityType": "term",
+      "sentence": "kudyapi, 16.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kultjapi",
+      "entityType": "term",
+      "sentence": "kultjapi, see kulcapi.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kutjapi",
+      "entityType": "term",
+      "sentence": "kutjapi, see kucapi.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Laos",
+      "entityType": "term",
+      "sentence": "Laos, 28, 49; fig. 101.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "la-pa",
+      "entityType": "term",
+      "sentence": "la-pa, 29.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lawu",
+      "entityType": "term",
+      "sentence": "lawu, 18.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lawu-wina",
+      "entityType": "term",
+      "sentence": "lawu-wina, lawuwina, lawuwina, lawu-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "wina",
+      "entityType": "term",
+      "sentence": "wina, 19, 93, 108, 112, 115.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "lima",
+      "entityType": "term",
+      "sentence": "lima, 45.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mabangsi",
+      "entityType": "term",
+      "sentence": "mabangsi, 19.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "mabrekuk",
+      "entityType": "term",
+      "sentence": "mabrekuk, 8.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Macassarese",
+      "entityType": "term",
+      "sentence": "Macassarese, 16.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "madangi",
+      "entityType": "term",
+      "sentence": "madangi, 38, 90.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "madeli",
+      "entityType": "term",
+      "sentence": "madeli, see ma(n)deli.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Madiun",
+      "entityType": "term",
+      "sentence": "Madiun, fig. 45.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Madjaagung",
+      "entityType": "term",
+      "sentence": "Madjaagung, 60.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Madjakerta",
+      "entityType": "term",
+      "sentence": "Madjakerta, 64, 72, 77.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Madjapahit",
+      "entityType": "term",
+      "sentence": "Madjapahit, see Majapahit.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "madraka",
+      "entityType": "term",
+      "sentence": "madraka, see ma(n)draka.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Madura",
+      "entityType": "term",
+      "sentence": "Madura, Madurese, 30, 52, 55-57, 84.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "maganding",
+      "entityType": "term",
+      "sentence": "maganding, 7. See ganding.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Magelang",
+      "entityType": "term",
+      "sentence": "Magelang, 91.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mahasara",
+      "entityType": "term",
+      "sentence": "mahasara, mahasara, mahasara, maha-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cara",
+      "entityType": "term",
+      "sentence": "cara, mahacara, 2, 68, 88, 93, 102,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mahaswara",
+      "entityType": "term",
+      "sentence": "mahaswara, 111, 112.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "makara",
+      "entityType": "term",
+      "sentence": "makara, 10, 11; fig. 46.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "makara-vina",
+      "entityType": "term",
+      "sentence": "makara-vina, 11.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "makinnara",
+      "entityType": "term",
+      "sentence": "makinnara, 12, 19.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Malang",
+      "entityType": "term",
+      "sentence": "Malang, 36, 53, 61; fig. 80.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "malawu-wina",
+      "entityType": "term",
+      "sentence": "malawu-wina, 12, 19.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Malay",
+      "entityType": "term",
+      "sentence": "Malay, 16, 22, 29, 43, 111.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mali",
+      "entityType": "term",
+      "sentence": "Mali, 9.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mandal",
+      "entityType": "term",
+      "sentence": "Mandal, 6.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "mandali",
+      "entityType": "term",
+      "sentence": "mandali, 20.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mandingo",
+      "entityType": "term",
+      "sentence": "Mandingo, 13.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "mandoline",
+      "entityType": "term",
+      "sentence": "mandoline, 12.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mangidung",
+      "entityType": "term",
+      "sentence": "mangidung, 19.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "mapadahi",
+      "entityType": "term",
+      "sentence": "mapadahi, 7.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "matapukan",
+      "entityType": "term",
+      "sentence": "matapukan, 4, 7.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mataram",
+      "entityType": "term",
+      "sentence": "Mataram, 60.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "matempur",
+      "entityType": "term",
+      "sentence": "matempur, 69.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mediterranean",
+      "entityType": "term",
+      "sentence": "Mediterranean, Eastern —, 53.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "meplawah",
+      "entityType": "term",
+      "sentence": "meplawah, 63.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mesopotamia",
+      "entityType": "term",
+      "sentence": "Mesopotamia, 9.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mhasar",
+      "entityType": "term",
+      "sentence": "mhasar, 68.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mongmong",
+      "entityType": "term",
+      "sentence": "mongmong, 63, 115.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "montjol",
+      "entityType": "term",
+      "sentence": "montjol, see mojficol.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "monyonyan",
+      "entityType": "term",
+      "sentence": "monyonyan, 88, 113.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mradangga",
+      "entityType": "term",
+      "sentence": "mradangga, 103.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "mrdangga",
+      "entityType": "term",
+      "sentence": "mrdangga, mrdangga, mredangga, 35,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "mrdangin",
+      "entityType": "term",
+      "sentence": "mrdangin, 38, 90.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "miiddhama",
+      "entityType": "term",
+      "sentence": "miiddhama, 82, 85, 88, 93.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "munda",
+      "entityType": "term",
+      "sentence": "munda, munda, 68, 69, 88, 104, 116, 117.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "muraba",
+      "entityType": "term",
+      "sentence": "muraba, 34, 39, 90. See murawa.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "murawa",
+      "entityType": "term",
+      "sentence": "murawa, 39, 40, 42, 50, 68, 88, 93, 95,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mysore",
+      "entityType": "term",
+      "sentence": "Mysore, 19.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "naga",
+      "entityType": "term",
+      "sentence": "naga, 55.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "nagara",
+      "entityType": "term",
+      "sentence": "nagara, 41.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Nandi",
+      "entityType": "term",
+      "sentence": "Nandi, 55, 122; fig. 49.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nafija",
+      "entityType": "term",
+      "sentence": "Nafija, 6.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nawek",
+      "entityType": "term",
+      "sentence": "nawek, 53.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nem",
+      "entityType": "term",
+      "sentence": "nem, 45, 64.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gandjuk",
+      "entityType": "term",
+      "sentence": "gandjuk, 10, 11, 122; fig. 45.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nias",
+      "entityType": "term",
+      "sentence": "Nias, 72, 89.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "niyaga",
+      "entityType": "term",
+      "sentence": "niyaga, 86.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "njemarin",
+      "entityType": "term",
+      "sentence": "njemarin, see fiemarin.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "oboe",
+      "entityType": "term",
+      "sentence": "oboe, 28, 29.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ocarina",
+      "entityType": "term",
+      "sentence": "ocarina, 26, 89.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ostyak",
+      "entityType": "term",
+      "sentence": "Ostyak, 9.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pada",
+      "entityType": "term",
+      "sentence": "pada, 85.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "padaha",
+      "entityType": "term",
+      "sentence": "padaha, 39, 91, 93, 100.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "padahi",
+      "entityType": "term",
+      "sentence": "padahi, padahi, padahi, 34, 38-40, 50,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "paganding",
+      "entityType": "term",
+      "sentence": "paganding, pagending, 5.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Pagerayu",
+      "entityType": "term",
+      "sentence": "Pagerayu, 19.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "pamukul",
+      "entityType": "term",
+      "sentence": "pamukul, 4, 5.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "panalukat",
+      "entityType": "term",
+      "sentence": "panalukat, 86. See salukat.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Panaraga",
+      "entityType": "term",
+      "sentence": "Panaraga, 72.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ranataran",
+      "entityType": "term",
+      "sentence": "Ranataran, 28.3037, 53905, .001 70874",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "panava",
+      "entityType": "term",
+      "sentence": "panava, 39.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "panawa",
+      "entityType": "term",
+      "sentence": "panawa, panawa, 39, 85, 88, 93, 98, 117.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Paficajanya",
+      "entityType": "term",
+      "sentence": "Paficajanya, 30.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "paficanga-turiya",
+      "entityType": "term",
+      "sentence": "paficanga-turiya, 31.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "pafica-turiyanga",
+      "entityType": "term",
+      "sentence": "pafica-turiyanga, 31.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pandai",
+      "entityType": "term",
+      "sentence": "pandai, 5.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pandjak",
+      "entityType": "term",
+      "sentence": "pandjak, see pafijak.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pandji",
+      "entityType": "term",
+      "sentence": "Pandji, see Pafiji.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "paniyaga",
+      "entityType": "term",
+      "sentence": "paniyaga, 86.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "pan-pipe",
+      "entityType": "term",
+      "sentence": "pan-pipe, 1.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "parwa",
+      "entityType": "term",
+      "sentence": "parwa, 77.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Pasuruan",
+      "entityType": "term",
+      "sentence": "Pasuruan, 46; fig. 105.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pedanda",
+      "entityType": "term",
+      "sentence": "pedanda, Balinese —, 56.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "peking",
+      "entityType": "term",
+      "sentence": "peking, 80.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pelem",
+      "entityType": "term",
+      "sentence": "Pelem, 79.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Persian-Arabic",
+      "entityType": "term",
+      "sentence": "Persian-Arabic, 22.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "petingan",
+      "entityType": "term",
+      "sentence": "petingan, 80.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "petuk",
+      "entityType": "term",
+      "sentence": "petuk, 62, 63.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pimuraba",
+      "entityType": "term",
+      "sentence": "pimuraba, 7.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "pipirusa",
+      "entityType": "term",
+      "sentence": "pipirusa, 33.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ponggang",
+      "entityType": "term",
+      "sentence": "ponggang, 61.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Prabalingga",
+      "entityType": "term",
+      "sentence": "Prabalingga, 61.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Prakrit",
+      "entityType": "term",
+      "sentence": "Prakrit, 38, 90.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Priangan",
+      "entityType": "term",
+      "sentence": "Priangan, 74.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "prit",
+      "entityType": "term",
+      "sentence": "prit, 80.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pukul",
+      "entityType": "term",
+      "sentence": "pukul, 4, 5.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "pupuh",
+      "entityType": "term",
+      "sentence": "pupuh, 84.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "qanin",
+      "entityType": "term",
+      "sentence": "qanin, 20.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "qopuz",
+      "entityType": "term",
+      "sentence": "qopuz, 14.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rabana",
+      "entityType": "term",
+      "sentence": "rabana, 39.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ravaja",
+      "entityType": "term",
+      "sentence": "ravaja, 15.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ravana",
+      "entityType": "term",
+      "sentence": "ravana, 39.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ravanahasra",
+      "entityType": "term",
+      "sentence": "ravanahasra, rawanahasra, 15, 103.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ravanastra",
+      "entityType": "term",
+      "sentence": "ravanastra, 15.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ravanastron",
+      "entityType": "term",
+      "sentence": "ravanastron, 15.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "rawana",
+      "entityType": "term",
+      "sentence": "rawana, 15.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "rawanasta",
+      "entityType": "term",
+      "sentence": "rawanasta, rawanasta, 15, 112.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "rebab",
+      "entityType": "term",
+      "sentence": "rebab, 6, 19, 21, 23, 71, 86, 104, 111.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rebana",
+      "entityType": "term",
+      "sentence": "rebana, 39.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "redep",
+      "entityType": "term",
+      "sentence": "redep, redep, 39, 107, 109, 110, 117.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "regang",
+      "entityType": "term",
+      "sentence": "regang, 2, 50, 70, 90-92, 112.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rembang",
+      "entityType": "term",
+      "sentence": "Rembang, 79.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "riyong",
+      "entityType": "term",
+      "sentence": "riyong, 59.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rovana",
+      "entityType": "term",
+      "sentence": "rovana, 15.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rudra-vina",
+      "entityType": "term",
+      "sentence": "rudra-vina, 17.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sadiu",
+      "entityType": "term",
+      "sentence": "sadiu, 18; fig. 91.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sakai",
+      "entityType": "term",
+      "sentence": "Sakai, 34.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "salangsang",
+      "entityType": "term",
+      "sentence": "salangsang, 82, 83, 112.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "salundi",
+      "entityType": "term",
+      "sentence": "salundi, 78.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "salunding",
+      "entityType": "term",
+      "sentence": "salunding, 75, 76, 78, 96, 97, 99, 111.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "salundingan",
+      "entityType": "term",
+      "sentence": "salundingan, 98.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "sangghani",
+      "entityType": "term",
+      "sentence": "sangghani, sangghani, 80, 83, 86, 105,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "sangita",
+      "entityType": "term",
+      "sentence": "sangita, 88.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sankha",
+      "entityType": "term",
+      "sentence": "sankha, 31.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sanskrit",
+      "entityType": "term",
+      "sentence": "Sanskrit, passim.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "saragi",
+      "entityType": "term",
+      "sentence": "saragi, 69, 70, 96.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sarasvati",
+      "entityType": "term",
+      "sentence": "Sarasvati, Saraswati, 11, 14, 121;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sarawak",
+      "entityType": "term",
+      "sentence": "Sarawak, 27.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sarungan",
+      "entityType": "term",
+      "sentence": "sarungan, 83, 87, 92.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "saya",
+      "entityType": "term",
+      "sentence": "saya, 63.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "sekaha",
+      "entityType": "term",
+      "sentence": "sekaha, 57.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Selat",
+      "entityType": "term",
+      "sentence": "Selat, 78.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "selokat",
+      "entityType": "term",
+      "sentence": "selokat, 79, 80.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "selunding",
+      "entityType": "term",
+      "sentence": "selunding, 76. See salunding.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Semang",
+      "entityType": "term",
+      "sentence": "Semang, 34.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Semarang",
+      "entityType": "term",
+      "sentence": "Semarang, 5.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wikg",
+      "entityType": "term",
+      "sentence": "Wikg, Wakes",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Semen",
+      "entityType": "term",
+      "sentence": "Semen, 53.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "serimpi",
+      "entityType": "term",
+      "sentence": "serimpi, 51.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "serunai",
+      "entityType": "term",
+      "sentence": "serunai, 29.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sheng",
+      "entityType": "term",
+      "sentence": "sheng, 28; fig. 102.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "siao",
+      "entityType": "term",
+      "sentence": "siao, 25.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Siberian",
+      "entityType": "term",
+      "sentence": "Siberian, 9.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Singaradja",
+      "entityType": "term",
+      "sentence": "Singaradja, 116.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Singasari",
+      "entityType": "term",
+      "sentence": "Singasari, 36, 55, 122.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sinhalese",
+      "entityType": "term",
+      "sentence": "Sinhalese, 31.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sitar",
+      "entityType": "term",
+      "sentence": "sitar, 19.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sondari",
+      "entityType": "term",
+      "sentence": "sondari, 26.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sugriwa",
+      "entityType": "term",
+      "sentence": "Sugriwa, 66; fig. 58.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sukabumi",
+      "entityType": "term",
+      "sentence": "Sukabumi, 47.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "suling",
+      "entityType": "term",
+      "sentence": "suling, 6, 25, 93-95, 98, 104, 105, 112,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sumba",
+      "entityType": "term",
+      "sentence": "Sumba, 18, 21.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sumerian",
+      "entityType": "term",
+      "sentence": "Sumerian, 13.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sunda",
+      "entityType": "term",
+      "sentence": "Sunda, Sundanese, 1, 16, 22, 24, 26, 28,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Sung",
+      "entityType": "term",
+      "sentence": "Sung, Annals, 24.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sungu",
+      "entityType": "term",
+      "sentence": "sungu, 30, 97, 116.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Surakarta",
+      "entityType": "term",
+      "sentence": "Surakarta, see Solo, fig. 118.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "surmandal",
+      "entityType": "term",
+      "sentence": "surmandal, 20.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "surnay",
+      "entityType": "term",
+      "sentence": "surnay, 29.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cangka",
+      "entityType": "term",
+      "sentence": "cangka, cangkha, 30-32, 42, 43, 88, 91,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ciwa",
+      "entityType": "term",
+      "sentence": "Ciwa, 37, 38, 55; fig. 49.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Crivijaya",
+      "entityType": "term",
+      "sentence": "Crivijaya, 66.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tabang-tabang",
+      "entityType": "term",
+      "sentence": "tabang-tabang, 37, 39, 97, 98, 115.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tabeh",
+      "entityType": "term",
+      "sentence": "tabeh, 3, 67.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tabuh",
+      "entityType": "term",
+      "sentence": "tabuh, 4, 74.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tabu-tabuhan",
+      "entityType": "term",
+      "sentence": "tabu-tabuhan, 100.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tagalog",
+      "entityType": "term",
+      "sentence": "Tagalog, 16.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "talindo",
+      "entityType": "term",
+      "sentence": "talindo, 18.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "taluktak",
+      "entityType": "term",
+      "sentence": "taluktak, 58, 96-98, 105, 110, 114,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tambang",
+      "entityType": "term",
+      "sentence": "tambang, 94.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tambura",
+      "entityType": "term",
+      "sentence": "tambura, 21.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tamburi",
+      "entityType": "term",
+      "sentence": "tamburi, 21.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tanakung",
+      "entityType": "term",
+      "sentence": "Tanakung, Mpu, 76.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tanpura",
+      "entityType": "term",
+      "sentence": "tanpura, 21.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Catitiiello",
+      "entityType": "term",
+      "sentence": "Catitiiello,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tapanuli",
+      "entityType": "term",
+      "sentence": "Tapanuli, 59.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tapuk",
+      "entityType": "term",
+      "sentence": "tapuk, 4.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tarawangsa",
+      "entityType": "term",
+      "sentence": "tarawangsa, 22.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tarompong",
+      "entityType": "term",
+      "sentence": "tarompong, 40.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tatabuhan",
+      "entityType": "term",
+      "sentence": "tatabuhan, 3, 100, 102, 103, 107, 108,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tayuban",
+      "entityType": "term",
+      "sentence": "tayuban, 51.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tegal",
+      "entityType": "term",
+      "sentence": "Tegal, 18, 19, 121; fig. 43.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tenasserim",
+      "entityType": "term",
+      "sentence": "Tenasserim, 10; fig. 87.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tenggerese",
+      "entityType": "term",
+      "sentence": "Tenggerese, 56.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tepak",
+      "entityType": "term",
+      "sentence": "tepak, 44.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tepakan",
+      "entityType": "term",
+      "sentence": "tepakan, 44, 96.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "teteg",
+      "entityType": "term",
+      "sentence": "teteg, 35, 44, 100, 103, 108, 110.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tinabeh",
+      "entityType": "term",
+      "sentence": "tinabeh, 67.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tiruchinnam",
+      "entityType": "term",
+      "sentence": "tiruchinnam, 32.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "titir",
+      "entityType": "term",
+      "sentence": "titir, 4, 56, 57, 98, 117.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "titiran",
+      "entityType": "term",
+      "sentence": "titiran, 69.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tjalapita",
+      "entityType": "term",
+      "sentence": "tjalapita, see calapita.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tjalung",
+      "entityType": "term",
+      "sentence": "tjalung, see calung.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tjandi",
+      "entityType": "term",
+      "sentence": "tjandi, see candi.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tjantung",
+      "entityType": "term",
+      "sentence": "tjantung, see cantung.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tjaruk",
+      "entityType": "term",
+      "sentence": "tjaruk, see caruk.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tjatjantungan",
+      "entityType": "term",
+      "sentence": "tjatjantungan, see cacantungan.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tjelempung",
+      "entityType": "term",
+      "sentence": "tjelempung, see celempung.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tjeluluk",
+      "entityType": "term",
+      "sentence": "tjeluluk, see celuluk.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tjeluring",
+      "entityType": "term",
+      "sentence": "tjeluring, see celuring. .",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tjibadak",
+      "entityType": "term",
+      "sentence": "Tjibadak, 47.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tjirebon",
+      "entityType": "term",
+      "sentence": "Tjirebon, 52, 57.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tjoring",
+      "entityType": "term",
+      "sentence": "tjoring, see coring.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tjumangkirang",
+      "entityType": "term",
+      "sentence": "tjumangkirang, see cumangkirang.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tjuring",
+      "entityType": "term",
+      "sentence": "tjuring, see curing.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tnganan",
+      "entityType": "term",
+      "sentence": "Tnganan, 78.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Togo",
+      "entityType": "term",
+      "sentence": "Togo, 13.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tongtong",
+      "entityType": "term",
+      "sentence": "tongtong, 4, 52, 56, 57.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tontonan",
+      "entityType": "term",
+      "sentence": "tontonan, 88, 103.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trawangsah",
+      "entityType": "term",
+      "sentence": "trawangsah, 23, 104.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Trawulan",
+      "entityType": "term",
+      "sentence": "Trawulan, 64, 65.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trewasa",
+      "entityType": "term",
+      "sentence": "trewasa, 22, 106.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trut",
+      "entityType": "term",
+      "sentence": "trut, 32, 100.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tsaung",
+      "entityType": "term",
+      "sentence": "tsaung, 10, 11; fig. 86.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tulungagung",
+      "entityType": "term",
+      "sentence": "Tulungagung, 52, 74.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tumburu-vina",
+      "entityType": "term",
+      "sentence": "tumburu-vina, 21; fig. 92.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tungtung",
+      "entityType": "term",
+      "sentence": "tungtung, 57.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tunhuang",
+      "entityType": "term",
+      "sentence": "Tunhuang, 45; fig. 85.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Turkestan",
+      "entityType": "term",
+      "sentence": "Turkestan, 9, 12, 17.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Turkish",
+      "entityType": "term",
+      "sentence": "Turkish, 14.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "turya",
+      "entityType": "term",
+      "sentence": "turya, 31, 87.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tuwongan",
+      "entityType": "term",
+      "sentence": "tuwongan, 26.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ubud",
+      "entityType": "term",
+      "sentence": "Ubud, 76.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Udayana",
+      "entityType": "term",
+      "sentence": "Udayana, 10.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Uganda",
+      "entityType": "term",
+      "sentence": "Uganda, 13.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "unyan-unyan",
+      "entityType": "term",
+      "sentence": "unyan-unyan, 88, 108, 109.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vaditra",
+      "entityType": "term",
+      "sentence": "vaditra, 87, 88.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vadya",
+      "entityType": "term",
+      "sentence": "vadya, 87, 88.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vamsi",
+      "entityType": "term",
+      "sentence": "vamsi, 25. Wine lle 19 O4 OR Os ielel 3m 177",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vatsa",
+      "entityType": "term",
+      "sentence": "Vatsa, 10. winarawa, 15.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "venu",
+      "entityType": "term",
+      "sentence": "venu, 31. wina(-)rawana, 12, 17, 95.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vienna",
+      "entityType": "term",
+      "sentence": "Vienna, 14. wina-rawan(ah)asta, 12, 15, 17, 88, 94.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vahata",
+      "entityType": "term",
+      "sentence": "vahata, IL, WE ily ite, ale, Aad), zal, Sil Wirasaba, 60.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vini",
+      "entityType": "term",
+      "sentence": "vini, 11.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "violin",
+      "entityType": "term",
+      "sentence": "violin, 18. x",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vipafici-vina",
+      "entityType": "term",
+      "sentence": "vipafici-vina, 11, 15, 17.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vogul",
+      "entityType": "term",
+      "sentence": "Vogul, 9. xylophones, 3, 24, 62, 72-74; figs. 60,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wadatra",
+      "entityType": "term",
+      "sentence": "wadatra, 104. Y",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "waditra",
+      "entityType": "term",
+      "sentence": "waditra, 83, 87, 88, 94.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "wangsi",
+      "entityType": "term",
+      "sentence": "wangsi, 25, 112. ye-gwin, 49,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wariga",
+      "entityType": "term",
+      "sentence": "wariga, 26, 44, 56. yu, 48.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "water-clatterer",
+      "entityType": "term",
+      "sentence": "water-clatterer, 58, 59. See taluktak. Yunnan, 2.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wayang",
+      "entityType": "term",
+      "sentence": "wayang, 4, 26, 33, 76, 77.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wedda",
+      "entityType": "term",
+      "sentence": "Wedda, 34. board- —, 20.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ghanta",
+      "entityType": "instrument",
+      "sentence": "1. Bar-zither ; 2. Three-stringed lute Ghanta (Photo O.D.)",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "played",
+      "entityType": "instrument",
+      "sentence": "1. Calung—gambang hybrid; 2. Musical instrument played with sticks (?); 3. Bell with",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Longdrawn",
+      "entityType": "instrument",
+      "sentence": "Symmetrical barrel-shaped drum Longdrawn symmetrical barrel-shaped drum",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pendapa-terrace",
+      "entityType": "term",
+      "sentence": "so-called pendapa-terrace, 1375 A.D.) so-called pendapa-terrace, 1375 A.D.)",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "soil",
+      "entityType": "term",
+      "sentence": "soil, near Malang (East Java)",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bit",
+      "entityType": "term",
+      "sentence": "Bit, mt",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    }
+  ]
+}

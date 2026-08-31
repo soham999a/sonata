@@ -1,0 +1,4198 @@
+{
+  "book": {
+    "title": "The Music and Musical Instruments of Japan",
+    "author": "Francis Taylor Piggott",
+    "citation": "Piggott, Francis Taylor. The Music and Musical Instruments of Japan. B. T. Batsford, London, 1893."
+  },
+  "summary": {
+    "total": 444,
+    "validCount": 441,
+    "blockedCount": 3,
+    "warningCount": 89,
+    "blockerReasons": {
+      "This candidate is awaiting specialist review and cannot be published yet.": 3
+    }
+  },
+  "rows": [
+    {
+      "term": "personal",
+      "entityType": "term",
+      "sentence": "personal, non-commercial purposes.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "translation",
+      "entityType": "term",
+      "sentence": "translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Finally",
+      "entityType": "term",
+      "sentence": "Finally, Mr. Daigoro Goh, with Eastern patience, has pruned",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kawaji",
+      "entityType": "term",
+      "sentence": "Kawaji, of Tokyo, who has also interpreted a great number of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Japan",
+      "entityType": "term",
+      "sentence": "Japan, in January, 1891. I have endeavoured to remove many",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "contribution",
+      "entityType": "term",
+      "sentence": "contribution, quantum valeat, to the history of the music and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hichiriki",
+      "entityType": "term",
+      "sentence": "Hichiriki: traces of early music — Early historical records: the teaching",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Koto",
+      "entityType": "term",
+      "sentence": "Koto: tlte Dragon on the Sea-sfiore — \\Japanese Musical Degrees'] — Tfie",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "school",
+      "entityType": "term",
+      "sentence": "school: the course of instruction and the diplomas : the final ceremony at",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "notcUion",
+      "entityType": "instrument",
+      "sentence": "Japanese — \" Saita-Sakurai \" in three keys in string notcUion^ and on the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "music",
+      "entityType": "term",
+      "sentence": "music: its mythical origin — Rise of Yatsuhashi: his work: improvements",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "grace",
+      "entityType": "term",
+      "sentence": "grace, that it has some prettHy quaint flashes of melody which strike",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "strung",
+      "entityType": "instrument",
+      "sentence": "quivering : they with a few pitiful strings strung by men not very learned",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "alone",
+      "entityType": "term",
+      "sentence": "alone, and with his joy few of the outer barbarians can intermingle. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "altered",
+      "entityType": "term",
+      "sentence": "altered, and that wonderful phrase, ** For the Lord God omnipotent reigneth,\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "raku",
+      "entityType": "term",
+      "sentence": "raku, pleasure : whence music came to be not only synonymous with the giving",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "merely",
+      "entityType": "term",
+      "sentence": "merely, but the lower man, Eastern writers love to dwell, proving their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "look",
+      "entityType": "term",
+      "sentence": "look, sooner or later, to have accurate transcriptions which shall lead to fuller",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nearly",
+      "entityType": "term",
+      "sentence": "nearly, depend upon its graceful and delicate phrasing: and though I think",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "think",
+      "entityType": "term",
+      "sentence": "think, almost entirely of Chinese origin.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "instrument",
+      "entityType": "term",
+      "sentence": "instrument, I think it is easier for Europeans to learn the Koto by adopting",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "everything",
+      "entityType": "term",
+      "sentence": "everything, of making the profession hereditary, and thus keeping the scores",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "history",
+      "entityType": "term",
+      "sentence": "history, which goes back through the period of reliable chronicles into the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "together",
+      "entityType": "term",
+      "sentence": "together, and, setting them with their backs upon the ground, gently twanged",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kazura",
+      "entityType": "term",
+      "sentence": "kazura, gathered from the mount AnU no Kaga Yama, the sleeves of her",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rose",
+      "entityType": "instrument",
+      "sentence": "no-Uzum6, as the murmurings of the bow-strings rose and fell, waved her",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "One",
+      "entityType": "term",
+      "sentence": "One, two, three, four,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Five",
+      "entityType": "term",
+      "sentence": "Five, six, seven.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Eight",
+      "entityType": "term",
+      "sentence": "Eight, nine, ten.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hundred",
+      "entityType": "term",
+      "sentence": "Hundred, thousand, ten thousand",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "veneration",
+      "entityType": "term",
+      "sentence": "veneration, and for an extraordinary number of years : many of those now",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Fisherman",
+      "entityType": "term",
+      "sentence": "Fisherman,\" are among those which are still preserved.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ever",
+      "entityType": "term",
+      "sentence": "ever, but very practical, in the person of a nobleman of the Court, who had",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Yet",
+      "entityType": "term",
+      "sentence": "Yet, so they say, he played it so sweetly that one who had burglarious",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "speaking",
+      "entityType": "term",
+      "sentence": "speaking, quite \"bird-like,\" as the Japanese say. \"Its music.\" says the poet,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "reliable",
+      "entityType": "term",
+      "sentence": "yet let it be called reliable, at the beginning of the third century after Christ,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "agree",
+      "entityType": "term",
+      "sentence": "agree, to the intense gratification of the Yamato-damasfdy that the instrument",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nakayoshi",
+      "entityType": "term",
+      "sentence": "Nakayoshi, and another whose name has perished with him, came from",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kutara",
+      "entityType": "term",
+      "sentence": "Kutara, an independent province of Corea, to teach the use of many-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fter",
+      "entityType": "term",
+      "sentence": "called after his death Shotoku-taishi — \" Prince of the saint-like virtue\"— is the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "law-giver",
+      "entityType": "term",
+      "sentence": "law-giver, the first to study the art of boat-building, the first true civilizer of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sakurai",
+      "entityType": "term",
+      "sentence": "Sakurai, in the Yamato province.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "proper",
+      "entityType": "term",
+      "sentence": "proper, twenty-six from Kutara, four from Shinra, and sixty-two from Dora :",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "companion",
+      "entityType": "term",
+      "sentence": "companion, the Sangaku, of which more hereafter. It may be noted here",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kudan",
+      "entityType": "term",
+      "sentence": "Kudan, where they practise, and twice or three times in the year give",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "much",
+      "entityType": "term",
+      "sentence": "much, to advance the prosperity of his new Bureau, did not omit the annual",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sitting",
+      "entityType": "term",
+      "sentence": "sitting, and the Tacki-uta, or \"standing singing,\" during which they stood on",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kagura",
+      "entityType": "term",
+      "sentence": "Kagura— -ffaw^ Asobi^ the divine playing — or true Temple music seems to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tori",
+      "entityType": "term",
+      "sentence": "and ** The Assembly \" ; and the smaller sections are called tori mono — \" the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ro-yei",
+      "entityType": "term",
+      "sentence": "Independently of this Temple music, short compositions, called Ro-yei, in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Imayo",
+      "entityType": "term",
+      "sentence": "A rival of the Ro-yei is heard of in the Engi era, called the Imayo, or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "era",
+      "entityType": "term",
+      "sentence": "era, which extended from 901 to 922 A.D., was the Golden Age of old",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "might",
+      "entityType": "instrument",
+      "sentence": "formances in the Palace — the Kagen-gaku — the Drums and Gong might be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "harmonic",
+      "entityType": "term",
+      "sentence": "harmonic, and not a melodic, instrument : and its open chords made it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "attention",
+      "entityType": "term",
+      "sentence": "attention, in a solemn. Japanese silence. For is it not told still by one of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "West",
+      "entityType": "term",
+      "sentence": "West, can be said to possess. It is rugged, as such ancient music must",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dance",
+      "entityType": "term",
+      "sentence": "dance, with fifty-three varieties of songs, is said to have been \"established",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "drum",
+      "entityType": "term",
+      "sentence": "drum, was added to the orchestra.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "character",
+      "entityType": "term",
+      "sentence": "character, and more appealing to the popular taste : the severe Chinese mind",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kiogen",
+      "entityType": "term",
+      "sentence": "comedy pieces were performed, called Kiogen ; and these seem gradually to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Court",
+      "entityType": "term",
+      "sentence": "Court, the Sarugaku of the Shogun and Daimyo, the most wealthy of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tokyo",
+      "entityType": "term",
+      "sentence": "Tokyo; their theatre adjoins the \"Maple Club\" — Koyo-kwan — in Shiba Park,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "daiko",
+      "entityType": "term",
+      "sentence": "daiko, O-tsuzumi, and Ko-tsuzumi. There was also a voice part, the song",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "utai",
+      "entityType": "term",
+      "sentence": "itself being called utai. Later, these utai were composed separately, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Theatre",
+      "entityType": "term",
+      "sentence": "Theatre,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "adopted",
+      "entityType": "term",
+      "sentence": "adopted, the licence being confined to pieces in which all the characters",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Joun-bushi",
+      "entityType": "term",
+      "sentence": "Joun-bushi: the \"New Music\" composed by Satsuma Joun of Izumi in the Kwanyei and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Harima",
+      "entityType": "term",
+      "sentence": "Harima, known to the profession as Gidayu the Second; the other, songs in a lighter vein,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tosanojo",
+      "entityType": "term",
+      "sentence": "Tosanojo, and a singer of Gidayu-bushi, His songs went out of fashion in 1704.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shinnai-bushi",
+      "entityType": "term",
+      "sentence": "Shinnai-bushi, 1751: indecent songs invented by Tsuruga Shinnai, a pupil of Fujimatsu, which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ryutatsu",
+      "entityType": "term",
+      "sentence": "RyutatsU'bushiy 1592 : short songs for the Samisen, composed by a priest named Ryutatsu, who",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rosai",
+      "entityType": "term",
+      "sentence": "preceding by a priest named Rosai : their date is uncertain, but they were still in vogue",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sasanza",
+      "entityType": "term",
+      "sentence": "Sasanza: songs in vogue in 1596.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kiyari",
+      "entityType": "term",
+      "sentence": "Kiyari: the name given to the workmen's shouting at the matsuriy and at the feast held when",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "unfortunately",
+      "entityType": "term",
+      "sentence": "unfortunately, they never are used alone, such is the contrariety of this music.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "inventor",
+      "entityType": "term",
+      "sentence": "inventor, through the still midnight ether, straight to the Emperors Palace.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "him",
+      "entityType": "term",
+      "sentence": "him, and lo ! the dream was true.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Koto-uta",
+      "entityType": "term",
+      "sentence": "music. Generically it is called Koto-uta — songs for the Koto ;",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "due",
+      "entityType": "term",
+      "sentence": "due, not to fault on either side, but to those fundamental differences of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "AKE-NO-KANE",
+      "entityType": "term",
+      "sentence": "AKE-NO-KANE— (The Bells at Dawn).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Andante",
+      "entityType": "term",
+      "sentence": "Andante,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "however",
+      "entityType": "term",
+      "sentence": "however, not be confused with the more rigid and complicated forms",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "incomprehensible",
+      "entityType": "term",
+      "sentence": "no more to be called incomprehensible than the rigid and classical composi-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bars",
+      "entityType": "term",
+      "sentence": "bars, two crotchets to the bar. The '^ KumV are songs with elaborate",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hyoshi",
+      "entityType": "term",
+      "sentence": "of the dan. The bars are called hyoshi^ like the bars of the Chinese",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Story",
+      "entityType": "term",
+      "sentence": "Story, given even by the sober-minded and accomplished Yamada Ryu in his",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Temmu",
+      "entityType": "term",
+      "sentence": "Temmu, 673 a.d. — a Court lady, the Lady Ishikawa Iroko, who, for her",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "air",
+      "entityType": "term",
+      "sentence": "air, and led her at length to their source, a glade, wherein sat sedately a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Emperor",
+      "entityType": "term",
+      "sentence": "Emperor, in 1527 a. d.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Oshu",
+      "entityType": "term",
+      "sentence": "Oshu, a blind Biwa player of repute, who had already received the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "capital",
+      "entityType": "term",
+      "sentence": "capital, and sat at Hosui s feet. The master became the young priests",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pupil",
+      "entityType": "term",
+      "sentence": "pupil, and when the stores of his learning were exhausted, went to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "man",
+      "entityType": "term",
+      "sentence": "man, became his master, and an intimate friendship sprang up between them,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ikuta",
+      "entityType": "term",
+      "sentence": "Ikuta, and Yamada Ryu the most famous of them, who set down in his",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Oriental",
+      "entityType": "term",
+      "sentence": "Oriental, his mind full and fond of quaint conceits, has given many curious",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ryokiku",
+      "entityType": "term",
+      "sentence": "ryokiku; the long bridge at the left end, the horn of cloud, or the angel's",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yoshida",
+      "entityType": "term",
+      "sentence": "Yoshida, of the Imperial Household, being empowered to confer on them ranks or degrees. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "yen",
+      "entityType": "term",
+      "sentence": "yen, for the three degrees respectively. Then came the pilgrimage to Yedo, the ceremonial presen-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "delay",
+      "entityType": "term",
+      "sentence": "delay, a refusal of the degree being unheard of, and, lastly, the information that the degree had been",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "conferred",
+      "entityType": "term",
+      "sentence": "conferred, and that the money had been paid into the Imperial Treasury.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shojo",
+      "entityType": "term",
+      "sentence": "Shojo, or Daijo, was also conferred on musicians who were not blind, Shinto priests, high-class",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fortune-tellers",
+      "entityType": "term",
+      "sentence": "fortune-tellers, and cake makers ; the rank was equivalent to Third Governor, and was conferred in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "degree",
+      "entityType": "term",
+      "sentence": "degree, chiefly perhaps by those whose crest is the butterfly. A momentary",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "begging",
+      "entityType": "term",
+      "sentence": "begging, eating, drinking, everything almost except praying, and that is the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pointed",
+      "entityType": "instrument",
+      "sentence": "bachi, or plectrum, with its sharp pointed edges, strikes the strings with a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bachi",
+      "entityType": "term",
+      "sentence": "bachi, or plectrum, with its sharp pointed edges, strikes the strings with a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sound",
+      "entityType": "instrument",
+      "sentence": "first, making a drum sound before the string vibration is heard. When it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "first",
+      "entityType": "term",
+      "sentence": "first, making a drum sound before the string vibration is heard. When it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kokyu",
+      "entityType": "term",
+      "sentence": "Kokyu, this drumming first attracts attention, the delicate twang of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "seeming",
+      "entityType": "instrument",
+      "sentence": "strings seeming to come from some fifth and invisible instrument. It more",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yamahashi",
+      "entityType": "term",
+      "sentence": "Yamahashi, were \" granted \" to them. The remission of the customary fees",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "only",
+      "entityType": "instrument",
+      "sentence": "snake's skin, and it was strung with two strings only, the third being added",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "realised",
+      "entityType": "term",
+      "sentence": "realised, and the reason is not far to seek. In the first place, the teaching",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "heard",
+      "entityType": "instrument",
+      "sentence": "One other instrument heard often enough — too often — I have not",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "therefore",
+      "entityType": "term",
+      "sentence": "therefore, although, like the \"slide,\" the slur has to be produced correctly",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "zashikUsadamh",
+      "entityType": "term",
+      "sentence": "to sing smoothly and sweetly. This b called zashikUsadamh^ or the method for determining the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "uragoh",
+      "entityType": "term",
+      "sentence": "called uragoh — ^the production of bad sounds.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "present",
+      "entityType": "term",
+      "sentence": "present, it should be changed, so that anything that might appear to be a personal reference may",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "go-sei",
+      "entityType": "term",
+      "sentence": "These are called go-sei, or go-in — the \"five voices,\" — and these with different consonants pre-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "goju-in",
+      "entityType": "term",
+      "sentence": "which are called the goju-in — ^the \" fifty voices \" : —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sei-in",
+      "entityType": "term",
+      "sentence": "These fifty sounds are also called the sei-in^ or \" clear voices \" : then follow twenty more sounds",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "daku",
+      "entityType": "term",
+      "sentence": "called daku'in^ the \" thick voices \" : —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Japanese",
+      "entityType": "term",
+      "sentence": "Japanese, there is but one conclusion : that the Japanese musician is not a",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "being",
+      "entityType": "instrument",
+      "sentence": "diagram ; the 5th and 6th strings being supposed to be already tuned, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "composition",
+      "entityType": "term",
+      "sentence": "composition, with their phrasing and their graces, are learnt directly from",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "paper",
+      "entityType": "term",
+      "sentence": "paper, and tied with red and white string, which she hands to the school-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "may-be",
+      "entityType": "term",
+      "sentence": "may-be, she is going to receive her diploma, and this is the present-fee",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tonic",
+      "entityType": "term",
+      "sentence": "tonic, if my analysis of the scale should prove correct. All the pupils know {",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "permit",
+      "entityType": "term",
+      "sentence": "permit, the professor and the mistress lower the first string an octave, a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "course",
+      "entityType": "term",
+      "sentence": "course, and was entitled to receive the first diploma.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "player",
+      "entityType": "instrument",
+      "sentence": "there was to be found not one Flute player, nor one Sho player, nor one Koto",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "another",
+      "entityType": "term",
+      "sentence": "another, and so for a series right up to Ichibotok6, himself of the tribe and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "unequal",
+      "entityType": "term",
+      "sentence": "unequal, they may at least hold the candles of comparison by the side of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "practice",
+      "entityType": "term",
+      "sentence": "practice, when he rose at four during the thirty days of the Kan season —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shogun",
+      "entityType": "term",
+      "sentence": "Shogun, where, in 161 7, he founded the Temple to the memory of his",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "year",
+      "entityType": "term",
+      "sentence": "year, at that time amply sufficient for a comfortable livelihood.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "seventh",
+      "entityType": "term",
+      "sentence": "seventh, and ninth of the fifth, seventh, and ninth months respectively.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "livelihood",
+      "entityType": "term",
+      "sentence": "livelihood, supplementing a pittance of about six yen a month by performing",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "notation",
+      "entityType": "instrument",
+      "sentence": "\" Saita-Sakurai \" in three keys in string notation^ and on the stave,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "art",
+      "entityType": "term",
+      "sentence": "art, with much diffidence, for two reasons. First, because very positive",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "expert",
+      "entityType": "term",
+      "sentence": "expert, Mr. Izawa, which is discussed in the following paragraph. But",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "will",
+      "entityType": "instrument",
+      "sentence": "tuned in unison, to be C^, the sixth string will be D, in the normal tuning",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Fifth",
+      "entityType": "term",
+      "sentence": "Fifth, the 3rd as the Fourth, the 4th as the Third below the tonic, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "portant",
+      "entityType": "term",
+      "sentence": "portant, because the question now before us is the comparison of Japanese",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "regarded",
+      "entityType": "term",
+      "sentence": "regarded, but the idea has been much criticized since I ventured to express",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fourth",
+      "entityType": "term",
+      "sentence": "fourth, the fifth, and the falling fourth : or, taking the thirteen strings of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "inclusive",
+      "entityType": "instrument",
+      "sentence": "eight strings, the first and last strings inclusive. The Japanese terms for",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tuned",
+      "entityType": "instrument",
+      "sentence": "of an instrument, a second Koto is often set with its strings tuned to the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "two",
+      "entityType": "instrument",
+      "sentence": "as to how the fifth was obtained. It was given by a string two- thirds of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Instead",
+      "entityType": "term",
+      "sentence": "Instead, therefore, of ** falling fourths,*' in the above table, we may substitute",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "scale",
+      "entityType": "term",
+      "sentence": "scale, as they are used for the Pythagorean scale.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "should",
+      "entityType": "instrument",
+      "sentence": "face of it, why the Koto strings should not, like those of the Violin, be tuned",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "five-tone",
+      "entityType": "term",
+      "sentence": "that it is consequently what is called a five-tone scale? I see absolutely no",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "say",
+      "entityType": "term",
+      "sentence": "say, the seventh of the scale only is omitted. Reverting, however, to the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "out",
+      "entityType": "term",
+      "sentence": "out; for above all things it is important to remember that a \"scale,\" as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "recognize",
+      "entityType": "term",
+      "sentence": "recognize, is beside the present question.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "manner",
+      "entityType": "term",
+      "sentence": "manner: my only reason for not putting his views first is that I cannot",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "respectively",
+      "entityType": "instrument",
+      "sentence": "their octave strings respectively, the ninth and the eleventh.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "found",
+      "entityType": "term",
+      "sentence": "found, however, more frequently in the more advanced music.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lowered",
+      "entityType": "instrument",
+      "sentence": "No. I is Hirajdshi, No. 2 shows the first string lowered an octave,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "giving",
+      "entityType": "instrument",
+      "sentence": "kin strings giving an octave : . hence this variation is called Kin-jU, In",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kin-jU",
+      "entityType": "term",
+      "sentence": "kin strings giving an octave : . hence this variation is called Kin-jU, In",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sharpened",
+      "entityType": "instrument",
+      "sentence": "the extra semitone, the 12th string sharpened giving D!|| when wanted.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "AkSbono",
+      "entityType": "term",
+      "sentence": "called AkSbono, and springs directly out of Hirajoshi ; differing only in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "raised",
+      "entityType": "instrument",
+      "sentence": "With the 4th and 9th strings raised a semitone, and afterwards lowered to the normal.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ryosen",
+      "entityType": "term",
+      "sentence": "Ryosen,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "RjOUH",
+      "entityType": "term",
+      "sentence": "RjOUH,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sea",
+      "entityType": "term",
+      "sentence": "sea:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jte",
+      "entityType": "term",
+      "sentence": "Jte:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thus",
+      "entityType": "term",
+      "sentence": "thus— 6, 6, 7, 6, 7, 7, etc.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kin-ku",
+      "entityType": "term",
+      "sentence": "the same principle of nomenclature Sakura might be called Kin-ku^ the new",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Han-kumoi",
+      "entityType": "term",
+      "sentence": "We now come to a curious tuning called Han-kumoi, or ^'\\i2\\i'kumoi!'",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "normal",
+      "entityType": "term",
+      "sentence": "normal, the next five in the \"cloud\" tuning. The Gjf of the thirteenth",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "change",
+      "entityType": "term",
+      "sentence": "change, and further, to avoid the danger of the changes not being per-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hirajoshi",
+      "entityType": "term",
+      "sentence": "Hirajoshi, but Dj is frequently used in the early part ; the sixth and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "start",
+      "entityType": "instrument",
+      "sentence": "and the ninth strings start tuned to Ajj, and are afterwards lowered to the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Now",
+      "entityType": "term",
+      "sentence": "Now, if Kumoi were an entirely new and independent tuning, with no",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "invented",
+      "entityType": "term",
+      "sentence": "invented, with a fresh series of melodies ; but the Japanese musicians — and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kumoi",
+      "entityType": "term",
+      "sentence": "Kumoi, it is the 3rd, 4th, 6th, 7th (below the tonic), ist, 3rd, 4th, 6th,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "again",
+      "entityType": "term",
+      "sentence": "again, if we start on the sixth string we hear precisely the same sequence",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "san-sagari",
+      "entityType": "term",
+      "sentence": "principle might be called san-sagari shi-agari.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Here",
+      "entityType": "term",
+      "sentence": "Here, then, we have the practical factor by which the sequence of scales",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "secondly",
+      "entityType": "term",
+      "sentence": "secondly, there is the scale of the sub-dominant B minor with its relative",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "familiar",
+      "entityType": "term",
+      "sentence": "familiar, the transition from grave to gay, of the method of which the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "noticed",
+      "entityType": "term",
+      "sentence": "noticed, are not recognized by the Japanese as cfioshi — the equivalent for",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "side",
+      "entityType": "term",
+      "sentence": "side, in string notation, and on the Western staff in the keys of F| minor,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "spectively",
+      "entityType": "term",
+      "sentence": "spectively, and I think this interpretation is accurate. The words indicate,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Further",
+      "entityType": "term",
+      "sentence": "Further, the Chinese word Hydjo has precisely the same meaning as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "open",
+      "entityType": "term",
+      "sentence": "open, or too heavy and lugubrious ; and it is when I have played in this",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "indeed",
+      "entityType": "term",
+      "sentence": "indeed, the practical advantage of avoiding the use of flats, which impede",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "used",
+      "entityType": "term",
+      "sentence": "used, the first string, the dominant of the scale, is tuned first, and is within",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ninth",
+      "entityType": "term",
+      "sentence": "ninth, — I am disposed to say, as might be expected of the common chord",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "construction",
+      "entityType": "term",
+      "sentence": "construction, which, if its products were filled out with harmonies and that",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hito-uta",
+      "entityType": "term",
+      "sentence": "The parts correspond with the verses of the song, and are called hito-uta^",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "arranged",
+      "entityType": "instrument",
+      "sentence": "currence of a short phrase composed of the loth, to^ /, strings arranged",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "UMEGAE",
+      "entityType": "term",
+      "sentence": "UMEGAE— {\"The Plum Branch\").",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "iffzr",
+      "entityType": "term",
+      "sentence": "iffzr:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kaki",
+      "entityType": "term",
+      "sentence": "kaki, a chime-like variation of the principal subject caused by the rise to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "form",
+      "entityType": "term",
+      "sentence": "form, a new variation introducing the rallentando close.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ROKUDAN",
+      "entityType": "term",
+      "sentence": "ROKUDAN— (The Six-Grade Tune).",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "reached",
+      "entityType": "term",
+      "sentence": "reached, the time is gradually slackened to andante.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "KASUGA-MODE",
+      "entityType": "term",
+      "sentence": "KASUGA-MODE— (\"On the Road to the Kasuga Temple\").",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Isl",
+      "entityType": "term",
+      "sentence": "Isl:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fcl",
+      "entityType": "term",
+      "sentence": "fcl:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "position",
+      "entityType": "term",
+      "sentence": "position, and that, though the materials are limited, an ingenuity of a high",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "respect",
+      "entityType": "term",
+      "sentence": "respect; but the absence of the fourth has undoubtedly something to do",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "theme",
+      "entityType": "term",
+      "sentence": "theme, constantly recurring, but in varied forms : to the principal theme,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "originated",
+      "entityType": "instrument",
+      "sentence": "Koto, it appears that this class of instrument originated both in China",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stretched",
+      "entityType": "instrument",
+      "sentence": "Its form, a number of strings stretched over a long narrow sounding-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "board",
+      "entityType": "term",
+      "sentence": "board, was the same at all periods of its existence. The principal variations",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bridge",
+      "entityType": "term",
+      "sentence": "bridge, or loose fret, for each string.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "composed",
+      "entityType": "term",
+      "sentence": "composed, some further particulars of the main group may now be given.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "measuring",
+      "entityType": "instrument",
+      "sentence": "smaller being an octave instrument measuring 3 feet 6 inches, A miniature",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kin",
+      "entityType": "term",
+      "sentence": "Kin, 3 feet 7 inches long, appears to have been in vogue, and also a one-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "twenty-three",
+      "entityType": "term",
+      "sentence": "twenty-three, **many other alterations being made at the same time.\"* It",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "struck",
+      "entityType": "instrument",
+      "sentence": "stones \" ; and the Chiku-no-koto, a thirteen-stringed instrument struck with",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mentioned",
+      "entityType": "instrument",
+      "sentence": "The Chiku-no-koto is the first thirteen-stringed instrument mentioned,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "number",
+      "entityType": "term",
+      "sentence": "number, though as a matter of course it is connected with all other human",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Somewhere",
+      "entityType": "term",
+      "sentence": "Somewhere, then, in the mists of the early Chinese dynasties, about two",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "orchestra",
+      "entityType": "term",
+      "sentence": "orchestra, about the middle of the seventh century. It remained the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "silver",
+      "entityType": "term",
+      "sentence": "silver; the strings are of different colours, like those of the Western Harp,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ivory",
+      "entityType": "term",
+      "sentence": "ivory; the strings are of the finest white or yellow silk. The tsum^ are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wa-gon",
+      "entityType": "term",
+      "sentence": "koto — otherwise called Wa-gon — which differs essentially in structure and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Suga-kaki",
+      "entityType": "term",
+      "sentence": "Suga-kaki: thumb striking the string, fingers playing kaki.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kotsumi",
+      "entityType": "term",
+      "sentence": "Kotsumi: up -stroke of the thumb.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yamato-koto",
+      "entityType": "term",
+      "sentence": "Yamato-koto,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "apart",
+      "entityType": "instrument",
+      "sentence": "Strings apart ,..",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "length",
+      "entityType": "term",
+      "sentence": "length, is fastened underneath the body of the instrument; coming through",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "existed",
+      "entityType": "instrument",
+      "sentence": "stringed instrument existed in China in very early times. The chroniclers",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Small",
+      "entityType": "instrument",
+      "sentence": "emphasizing the trills produced on that instrument Small pieces of metal",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Suma-koto",
+      "entityType": "term",
+      "sentence": "Suma-koto, with three strings, the outer tuned in unison to C^, the middle",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "II-GEN-KIN",
+      "entityType": "term",
+      "sentence": "II-GEN-KIN, OR SUMA-KOTO, AND T",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "indicated",
+      "entityType": "term",
+      "sentence": "indicated, as in the first group, by marks on the sounding-board.*",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "resting",
+      "entityType": "instrument",
+      "sentence": "strings resting on a bridge, half an inch high, which serves to keep the strings",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "end",
+      "entityType": "term",
+      "sentence": "end, which is slightly raised to form a bridge, within a space of. an inch and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "preceding",
+      "entityType": "term",
+      "sentence": "preceding, but strung with thirteen strings. — \\Kraus^ The name is probably",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "long",
+      "entityType": "term",
+      "sentence": "long, with a string-length of i foot 6 inches : its breadth at the upper end",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tsuma-koto",
+      "entityType": "term",
+      "sentence": "Tsuma-koto, which seems to show traces of foreign influence.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "said",
+      "entityType": "instrument",
+      "sentence": "Ya-goto — the ** Eight-stringed Koto\": an instrument said to have been",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pass",
+      "entityType": "instrument",
+      "sentence": "eight double strings pass over two long low bridges, giving a string length",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "spear-heads",
+      "entityType": "term",
+      "sentence": "spear-heads, which project from the upper end of the instrument.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tioned",
+      "entityType": "term",
+      "sentence": "tioned, but of which no accurate description can be given : —",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "breadth",
+      "entityType": "term",
+      "sentence": "breadth, 9 inches ; height at the sides, 5 inches.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sounding-board",
+      "entityType": "term",
+      "sentence": "sounding-board, which afterwards give place to a noisy jangling wire.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "soaked",
+      "entityType": "instrument",
+      "sentence": "later, wire is introduced, instead of string soaked in wax ; but this never",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "later",
+      "entityType": "term",
+      "sentence": "later, wire is introduced, instead of string soaked in wax ; but this never",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tsumi",
+      "entityType": "term",
+      "sentence": "tsumi, worn on the thumb and first and second fingers.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Go-sagari",
+      "entityType": "term",
+      "sentence": "One of the tunings is called Go-sagari roku-agari, in consequence of such",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Haya-kaki",
+      "entityType": "term",
+      "sentence": "Haya-kaki—^^ c\\;ii\\c\\i or double kaki:'* two kaki beats played in quick",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "played",
+      "entityType": "instrument",
+      "sentence": "strings played with the first finger ; then two, one string lower, played with",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "higher",
+      "entityType": "instrument",
+      "sentence": "the second ; then one with the thumb, four strings higher ; thus : —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nagashi",
+      "entityType": "term",
+      "sentence": "Nagashi, or omoti — *' to flow \" : a slide or glissando with the first finger",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "circle",
+      "entityType": "term",
+      "sentence": "circle, the crotchet opposite the small circle, and the second quaver halfway",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "indicating",
+      "entityType": "instrument",
+      "sentence": "of the succeeding string indicating the duration of the rest.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "must",
+      "entityType": "term",
+      "sentence": "must, very early in the history of the instruments, have appeared feasible.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "omitted",
+      "entityType": "term",
+      "sentence": "omitted, and nothing remains to-day to which we can point with certainty",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nichin",
+      "entityType": "term",
+      "sentence": "Nichin, which very probably suggested the circular body of the Gekkin. A",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "passing",
+      "entityType": "instrument",
+      "sentence": "fashion, on the floor. It has four strings passing over three high frets",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "fashion",
+      "entityType": "term",
+      "sentence": "fashion, on the floor. It has four strings passing over three high frets",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Samisen",
+      "entityType": "term",
+      "sentence": "Samisen, and has rounded instead of pointed ends. It is grasped firmly in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "o-iso",
+      "entityType": "term",
+      "sentence": "Koto, is called o-iso — the sea-shore. The measurements are given on",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "toyama",
+      "entityType": "term",
+      "sentence": "into a large conical form, called toyama — ** the distant mountain \"; in the face",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "neck",
+      "entityType": "term",
+      "sentence": "neck, which comes down at right-angles to the body.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "body",
+      "entityType": "term",
+      "sentence": "body, and four on the neck. These four upper frets are exceedingly",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pegs",
+      "entityType": "term",
+      "sentence": "pegs, is half an inch in height, and is placed 5^ inches up the neck.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "similar",
+      "entityType": "instrument",
+      "sentence": "The Ko : an instrument similar to the Genkwan, but with a circular",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gekkin",
+      "entityType": "term",
+      "sentence": "Gekkin,\" with six strings tuned in pairs : it has a circular body and sixteen",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "box",
+      "entityType": "term",
+      "sentence": "box, the sides of wood, the upper and lower surfaces of parchment. This",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Honchdshi",
+      "entityType": "term",
+      "sentence": "Honchdshi,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "clioshi",
+      "entityType": "term",
+      "sentence": "clioshi, joshi, or tuning ; Ni-agari, ** the second string raised \" ; from F^ to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "example",
+      "entityType": "term",
+      "sentence": "example, ** Hitotsu-toya \" is played on the Samisen tuned in Honchdshi, while",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "snake-skin",
+      "entityType": "term",
+      "sentence": "snake-skin, but instead of being a hollow rectangular frame, like that of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "sagari",
+      "entityType": "term",
+      "sentence": "sagari: the third and the fourth strings — the upper and not the lower",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "pivot",
+      "entityType": "term",
+      "sentence": "pivot, fixed in the obi, enables the Kokyu to be played by beggars in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ni-agari",
+      "entityType": "term",
+      "sentence": "Ni-agari,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "although",
+      "entityType": "term",
+      "sentence": "although, on the authority of Monsieur Kraus, I have stated that it was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "O-teki",
+      "entityType": "term",
+      "sentence": "called O-teki, or in Japanese, Yok5fuy6 — ** Side-blowing Flute\" — probably",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ryuteki",
+      "entityType": "term",
+      "sentence": "is also called Ryuteki — the ** Dragon-Flute.\" It has seven finger-holes,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "laid",
+      "entityType": "instrument",
+      "sentence": "closely bound outside between the holes with string laid on with paste,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "reason",
+      "entityType": "term",
+      "sentence": "reason, which much enquiry has not revealed to me, the music would be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "DOSHO",
+      "entityType": "term",
+      "sentence": "DOSHO, or \" Cave Flute \" : said to have been much used during the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "inside",
+      "entityType": "term",
+      "sentence": "inside, and bound with lacquered string, like the Flute, with seven holes",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "cavity",
+      "entityType": "term",
+      "sentence": "cavity, and thus takes the place of the \"language\" of the pipe, the breath",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "measured",
+      "entityType": "instrument",
+      "sentence": "arranged side by side like Pan-pipes. The largest pipe measured 17 inches.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "diameter",
+      "entityType": "term",
+      "sentence": "diameter, 2*8, which decreases slightly at the base. Projection of silver",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mouthpiece",
+      "entityType": "term",
+      "sentence": "mouthpiece, • 7 inch ; length, i • 8 ; breadth, i • i . Rectangular hole in",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "organ",
+      "entityType": "term",
+      "sentence": "organ, the longest in the middle, the remainder getting shorter in couples,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wind-box",
+      "entityType": "term",
+      "sentence": "wind-box, to prevent the accumulation of moisture.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "pipe",
+      "entityType": "term",
+      "sentence": "pipe, with outside of the second joint of the finger,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thumb",
+      "entityType": "term",
+      "sentence": "thumb, right hand: — i6th and 17th pipes.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Zva",
+      "entityType": "term",
+      "sentence": "Zva,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thirty-six",
+      "entityType": "term",
+      "sentence": "thirty-six, and others with twenty-six, nineteen, and thirteen respectively.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kakko",
+      "entityType": "term",
+      "sentence": "Kakko, is one of nomenclature simply ; a better one may be made which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rarely",
+      "entityType": "term",
+      "sentence": "rarely, appears in processions. The origin of this Drum, beyond the fact",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "variety",
+      "entityType": "term",
+      "sentence": "variety, was formerly used in battle.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "simply",
+      "entityType": "term",
+      "sentence": "TsuRi-DAiKo — the ''Hanging Drum\" — more commonly called simply",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "obachi",
+      "entityType": "term",
+      "sentence": "called obachi — the male stick : the left mebachi — the female stick. Both",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "frame",
+      "entityType": "term",
+      "sentence": "frame, 32 inches, the rim being two inches broad and one inch thick.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "point",
+      "entityType": "instrument",
+      "sentence": "of the Kakko, a loud drum point with the \" male \" is invariably preceded",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "diagram",
+      "entityType": "term",
+      "sentence": "diagram, and are drawn tight by a central cord.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "shipwreck",
+      "entityType": "term",
+      "sentence": "shipwreck, and still lies at the bottom of the sea.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "filled",
+      "entityType": "instrument",
+      "sentence": "Happu : a very old Chinese Drum filled with rice-powder. It was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Katarai",
+      "entityType": "term",
+      "sentence": "Katarai: a number of quick strokes with the left stick, slightly increas-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mororai",
+      "entityType": "term",
+      "sentence": "Mororai: a number of alternate strokes with both sticks, also increasing",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kobyoshi",
+      "entityType": "term",
+      "sentence": "into divisions or beats, called kobyoshi ; the half-beat of each kobyoshi is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kagi",
+      "entityType": "term",
+      "sentence": "called kagi — corresponding with the **and\" in Western counting. Katarai,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "white",
+      "entityType": "term",
+      "sentence": "white, measured 14 inches in diameter; the length of the cylinder was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shim",
+      "entityType": "term",
+      "sentence": "Uta-daiko, the ** Song-Drum\"; commonly called Shim^-daiko, the **Tied-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Uta-daiko",
+      "entityType": "term",
+      "sentence": "Uta-daiko, the ** Song-Drum\"; commonly called Shim^-daiko, the **Tied-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "IcHr-NO-TsuzuMi",
+      "entityType": "term",
+      "sentence": "IcHr-NO-TsuzuMi, or Ikko : the face, 8 inches in diameter; length of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cylinder",
+      "entityType": "term",
+      "sentence": "cylinder, 14 inches; and diameter where it meets the face, 6 inches.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Oto-tsuzumi",
+      "entityType": "term",
+      "sentence": "Oto-tsuzumi, or Ko-tsuzumi : the \" Younger,\" or shoulder-drum.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "E-TSUzuMi",
+      "entityType": "term",
+      "sentence": "E-TSUzuMi, or O-TSUZUMi : the '' Elder,\" or side-drum. Diameter of face,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ni-shOko",
+      "entityType": "term",
+      "sentence": "Ni-shOko: the ** Portable Shoko\"; carried by two men on a long pole,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kei",
+      "entityType": "term",
+      "sentence": "Kei, or HoKvo : the Temple Gong, which stands on a table at the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bottom",
+      "entityType": "term",
+      "sentence": "bottom, with an average breadth of 4*5 inches.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Keisu",
+      "entityType": "term",
+      "sentence": "Gong. It is called Keisu by some sects, who use it instead of the Kei.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "originally",
+      "entityType": "instrument",
+      "sentence": "Ken : a small Gong originally made of porcelain, the size of a goose's",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dora",
+      "entityType": "term",
+      "sentence": "Dora: the ordinary Gong, which has been adopted in the West. It",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Waniguchi",
+      "entityType": "term",
+      "sentence": "Waniguchi— the ** Sharks Mouth\" Gong: the' gilt Gong which hangs",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "KerO",
+      "entityType": "instrument",
+      "sentence": "processional band with the small Drum KerO.**",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Spinet",
+      "entityType": "term",
+      "sentence": "Spinet, and Harpsichord, the precursors of the Pianoforte ; the tone of all these instruments was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "instruction",
+      "entityType": "term",
+      "sentence": "instruction, and occasionally famous natives of Egypt came to Athens and Corinth to give",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Church",
+      "entityType": "term",
+      "sentence": "Church, which professes to have derived this ceremony from the ancient Jewish Church —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Maria",
+      "entityType": "term",
+      "sentence": "Maria,\" a remarkable set of songs with music of the 13th century, preserved in the library of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "possessing",
+      "entityType": "instrument",
+      "sentence": "instrument possessing twelve strings, and used mainly for accompanimental purpose, though its",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "method",
+      "entityType": "term",
+      "sentence": "method, and the Eastern systems of their nearer neighbours are ignored.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "according",
+      "entityType": "instrument",
+      "sentence": "common to vary the tuning of its strings according to the pitcli of the song to be sung.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Paganini",
+      "entityType": "term",
+      "sentence": "Paganini, for certain pieces, altered the tuning of the strings of his Fiddle from the orthodox",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "subject",
+      "entityType": "term",
+      "sentence": "subject, and that the form is what we know as the variation type; then their music displays",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "represented",
+      "entityType": "instrument",
+      "sentence": "to whether this large number of strings represented a diatonic or a chromatic scale-system is",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "yielding",
+      "entityType": "instrument",
+      "sentence": "pumo-farUy />., an instrument yielding soft and loud tones according to the force with which the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "clear",
+      "entityType": "term",
+      "sentence": "clear, has some little analogy to the action of our Violin and Violoncello players, who produce",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Harp",
+      "entityType": "term",
+      "sentence": "Harp, by means of its pedals setting the strings in any key required, the glissafido can be",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "plucked",
+      "entityType": "instrument",
+      "sentence": "strings plucked with the plectrum.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gek-kin",
+      "entityType": "term",
+      "sentence": "Gek-kin, Gen-kan, and Shigen, as an attempt to obtain sympathetic effects, as in the Viol",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "sounding",
+      "entityType": "instrument",
+      "sentence": "same effect of strings sounding together was produced on the old Italian \"Accordo,\" by the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "American",
+      "entityType": "term",
+      "sentence": "of the Regal are the Harmonium and the so-called American Oigan. There is a tradition that",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cover",
+      "entityType": "instrument",
+      "sentence": "whereas the Japanese in this instrument cover them — the reverse of our plan.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lacquered",
+      "entityType": "term",
+      "sentence": "lacquered, and inlaid.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "After-sharp",
+      "entityType": "term",
+      "sentence": "After-sharp, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Amatsumora",
+      "entityType": "term",
+      "sentence": "Amatsumora, the iron-smith",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Azuma-koto",
+      "entityType": "term",
+      "sentence": "Azuma-koto, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Biwa",
+      "entityType": "term",
+      "sentence": "Biwa, the, introduced from China",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bugaku",
+      "entityType": "term",
+      "sentence": "Bugaku, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bugaku-biwa",
+      "entityType": "term",
+      "sentence": "Bugaku-biwa, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Byakushi",
+      "entityType": "term",
+      "sentence": "Byakushi, the .",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Charumera",
+      "entityType": "term",
+      "sentence": "Charumera, the •",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Chi",
+      "entityType": "term",
+      "sentence": "Chi, the •",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Chiku-no-koto",
+      "entityType": "term",
+      "sentence": "Chiku-no-koto, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "China",
+      "entityType": "term",
+      "sentence": "China, commissioners sent to, by Em-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Chosen",
+      "entityType": "term",
+      "sentence": "Chosen, the .....",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Comma",
+      "entityType": "term",
+      "sentence": "Comma, the . . . . .104",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Concertina",
+      "entityType": "term",
+      "sentence": "Concertina, Salvation Army, notation for 161",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Corea",
+      "entityType": "term",
+      "sentence": "Corea, tribute of musicians from . . 12",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Da-daiko",
+      "entityType": "term",
+      "sentence": "Da-daiko, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Daibydshi",
+      "entityType": "term",
+      "sentence": "Daibydshi, the .",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dan",
+      "entityType": "term",
+      "sentence": "Dan, the .",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Dengaku",
+      "entityType": "term",
+      "sentence": "Dengaku, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dobachi",
+      "entityType": "term",
+      "sentence": "Dobachi, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Do-byoshi",
+      "entityType": "term",
+      "sentence": "Do-byoshi, the .",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dokaku",
+      "entityType": "term",
+      "sentence": "Dokaku, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dragon",
+      "entityType": "term",
+      "sentence": "Dragon, Koto named after",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Enoshima",
+      "entityType": "term",
+      "sentence": "Enoshima, ceremony at",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Flute",
+      "entityType": "term",
+      "sentence": "Flute, description of .",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Furin",
+      "entityType": "term",
+      "sentence": "Furin, the.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Furi-tsuzumi",
+      "entityType": "term",
+      "sentence": "Furi-tsuzumi, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Genkwan",
+      "entityType": "term",
+      "sentence": "Genkwan, the .",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Geza-daiko",
+      "entityType": "term",
+      "sentence": "Geza-daiko, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Gindai",
+      "entityType": "term",
+      "sentence": "Gindai, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hitsu-no-koto",
+      "entityType": "term",
+      "sentence": "Hitsu-no-koto, the 48, 137, 150",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Go-kin",
+      "entityType": "term",
+      "sentence": "Go-kin, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hokyo",
+      "entityType": "term",
+      "sentence": "Hokyo, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gyo",
+      "entityType": "term",
+      "sentence": "Gyo, the .",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hakuhan",
+      "entityType": "term",
+      "sentence": "Hakuhan, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Han-koto",
+      "entityType": "term",
+      "sentence": "Han-koto, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Happu",
+      "entityType": "term",
+      "sentence": "Happu, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hitoyokiri",
+      "entityType": "term",
+      "sentence": "Hitoyokiri, the .",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ichi-gen-kin",
+      "entityType": "term",
+      "sentence": "Ichi-gen-kin, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ikko",
+      "entityType": "term",
+      "sentence": "Ikko, the .",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ikuta-koto",
+      "entityType": "term",
+      "sentence": "Ikuta-koto, the .",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Jamisen",
+      "entityType": "term",
+      "sentence": "Jamisen, the . . . -175",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kabuki",
+      "entityType": "term",
+      "sentence": "Kabuki, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kagen-gaku",
+      "entityType": "term",
+      "sentence": "Kagen-gaku, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kaiko",
+      "entityType": "term",
+      "sentence": "Kaiko, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kaku-goto",
+      "entityType": "term",
+      "sentence": "Kaku-goto, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kami",
+      "entityType": "term",
+      "sentence": "Kami, no nori",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kaotari",
+      "entityType": "term",
+      "sentence": "Kaotari, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Keikin",
+      "entityType": "term",
+      "sentence": "Keikin, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ken",
+      "entityType": "term",
+      "sentence": "Ken, the •",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Key",
+      "entityType": "term",
+      "sentence": "Key, knowledge of principle in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kirisen",
+      "entityType": "term",
+      "sentence": "Kirisen, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ko-daiko",
+      "entityType": "term",
+      "sentence": "Ko-daiko, the .",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kokin",
+      "entityType": "term",
+      "sentence": "Kokin, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kokun",
+      "entityType": "term",
+      "sentence": "Kokun, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kotd",
+      "entityType": "term",
+      "sentence": "Kotd, degree",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ko-tsuzumi",
+      "entityType": "term",
+      "sentence": "Ko-tsuzumi, the .",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kudara-Koto",
+      "entityType": "term",
+      "sentence": "Kudara-Koto, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kumi",
+      "entityType": "term",
+      "sentence": "Kumi, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Madagascar",
+      "entityType": "term",
+      "sentence": "Madagascar, Koto of . . . •151",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mokkin",
+      "entityType": "term",
+      "sentence": "Mokkin, the .... , 212",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mommu",
+      "entityType": "term",
+      "sentence": "Mommu, Emperor, patron of music « 14",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nara",
+      "entityType": "term",
+      "sentence": "Nara, band of .",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ni-chin",
+      "entityType": "term",
+      "sentence": "Ni-chin, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ni-daiko",
+      "entityType": "term",
+      "sentence": "Ni-daiko, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ni-gen-kin",
+      "entityType": "term",
+      "sentence": "Ni-gen-kin, the .",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ni-no-tsuzumi",
+      "entityType": "term",
+      "sentence": "Ni-no-tsuzumi, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nisen",
+      "entityType": "term",
+      "sentence": "Nisen, the .",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Roku-kin",
+      "entityType": "term",
+      "sentence": "Roku-kin, the .",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Pin-prickers",
+      "entityType": "term",
+      "sentence": "Pin-prickers, degrees conferred on",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "notatioi",
+      "entityType": "instrument",
+      "sentence": "in 3 keys in string notatioi",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sangaku",
+      "entityType": "term",
+      "sentence": "Sangaku, the .",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "San-gen-kin",
+      "entityType": "term",
+      "sentence": "San-gen-kin, the.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Rappa",
+      "entityType": "term",
+      "sentence": "Rappa, the ... .",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "San-no-tsuzumi",
+      "entityType": "term",
+      "sentence": "San-no-tsuzumi, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sansen",
+      "entityType": "term",
+      "sentence": "Sansen, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Saragaku",
+      "entityType": "term",
+      "sentence": "Saragaku, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Seishido",
+      "entityType": "term",
+      "sentence": "Seishido, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Seiteki",
+      "entityType": "term",
+      "sentence": "Seiteki, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shakuhachi",
+      "entityType": "term",
+      "sentence": "Shakuhachi, the, description of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Shichi-gen-kin",
+      "entityType": "term",
+      "sentence": "Shichi-gen-kin, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Shigen",
+      "entityType": "term",
+      "sentence": "Shigen, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shiragi-koto",
+      "entityType": "term",
+      "sentence": "Shiragi-koto, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Sho",
+      "entityType": "term",
+      "sentence": "Sho, the, notation for",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Shoko",
+      "entityType": "term",
+      "sentence": "Shoko, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Shoku",
+      "entityType": "term",
+      "sentence": "Shoku, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Shoulder-drum",
+      "entityType": "term",
+      "sentence": "Shoulder-drum, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Shunga",
+      "entityType": "term",
+      "sentence": "Shunga, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Side-drum",
+      "entityType": "term",
+      "sentence": "Side-drum, the .",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Sign-board",
+      "entityType": "term",
+      "sentence": "Sign-board, privilege of using",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Sogaku",
+      "entityType": "term",
+      "sentence": "Sogaku, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "So-no-koto",
+      "entityType": "term",
+      "sentence": "So-no-koto, the .",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Suzu",
+      "entityType": "term",
+      "sentence": "Suzu, the .",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Taisen",
+      "entityType": "term",
+      "sentence": "Taisen, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Teaching",
+      "entityType": "term",
+      "sentence": "Teaching, course of, for girls",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Teikin",
+      "entityType": "term",
+      "sentence": "Teikin, the . . .",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Umayado",
+      "entityType": "term",
+      "sentence": "Umayado, Crown Prince",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Valiha",
+      "entityType": "term",
+      "sentence": "Valiha, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yagoto",
+      "entityType": "term",
+      "sentence": "Yagoto, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yakmna-koto",
+      "entityType": "term",
+      "sentence": "Yakmna-koto, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Yan-kin",
+      "entityType": "term",
+      "sentence": "Yan-kin, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Yatsuhashi",
+      "entityType": "term",
+      "sentence": "Yatsuhashi, his rise and work",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yo-kin",
+      "entityType": "term",
+      "sentence": "Yo-kin, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Yoko-fuyd",
+      "entityType": "term",
+      "sentence": "Yoko-fuyd, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    }
+  ]
+}

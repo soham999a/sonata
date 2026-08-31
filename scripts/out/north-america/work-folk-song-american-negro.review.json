@@ -1,0 +1,1773 @@
+{
+  "book": {
+    "title": "Folk Song of the American Negro",
+    "author": "John Wesley Work",
+    "citation": "Work, John Wesley. Folk Song of the American Negro. Fisk University Press, Nashville, 1915."
+  },
+  "summary": {
+    "total": 189,
+    "validCount": 183,
+    "blockedCount": 6,
+    "warningCount": 21,
+    "blockerReasons": {
+      "This candidate is awaiting specialist review and cannot be published yet.": 6
+    }
+  },
+  "rows": [
+    {
+      "term": "http",
+      "entityType": "term",
+      "sentence": "http://archive.org/details/folkamericOOwork",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nashville",
+      "entityType": "term",
+      "sentence": "Nashville, Term.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Copyrighted",
+      "entityType": "term",
+      "sentence": "Copyrighted, 1915",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "forth",
+      "entityType": "term",
+      "sentence": "in their aspiration and struggles, called forth the inspiration of these songs,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mater",
+      "entityType": "term",
+      "sentence": "Mater, like the original instructor of the Jubilee Singers,' Professor Work has",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "incredible",
+      "entityType": "term",
+      "sentence": "incredible, I beg the reader to understand that very much of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Spence",
+      "entityType": "term",
+      "sentence": "Spence, who taught me the value of these songs; to Mrs. Ella Shep-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "many",
+      "entityType": "term",
+      "sentence": "many, many questions and have given me the information which has",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Xashville",
+      "entityType": "term",
+      "sentence": "Xashville, Tenn., April, 1915.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "East",
+      "entityType": "term",
+      "sentence": "East, the land of the rising sun, and the other in the extreme West,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Memnono",
+      "entityType": "term",
+      "sentence": "Memnono, the King of the Ethiopians, as the son of Aurora, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vest",
+      "entityType": "term",
+      "sentence": "vest, of love, of life, of death, and of the god whom he elects to serve.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "however",
+      "entityType": "term",
+      "sentence": "however, is not important, for in the essentials all the songs are won-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "heathen",
+      "entityType": "term",
+      "sentence": "heathen, namely, in the almost uncanny chants generally wailed as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "music",
+      "entityType": "term",
+      "sentence": "music, rare in charm and beauty. In America we hear it and see",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "whistled",
+      "entityType": "term",
+      "sentence": "whistled, or hummed. Especially is this true when the laborers are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "resistible",
+      "entityType": "term",
+      "sentence": "resistible; for their bodies sway, and their hammers rise and fall to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "interest",
+      "entityType": "term",
+      "sentence": "interest, and power.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "him",
+      "entityType": "term",
+      "sentence": "him, both soul and body, making his body tireless and his soul happy.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cawlaw",
+      "entityType": "term",
+      "sentence": "Cawlaw, Cawlaw. Cawlaw. Cawlaw.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "verse",
+      "entityType": "term",
+      "sentence": "Gala sings what might be termed the verse, setting the tempo",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wine",
+      "entityType": "term",
+      "sentence": "wine, the general, Gala, is not allowed to drink at all, for though",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lark",
+      "entityType": "term",
+      "sentence": "Lark, he sing in de bright sunshine ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Honey",
+      "entityType": "term",
+      "sentence": "Honey, fo' you go.\"'",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "scale",
+      "entityType": "term",
+      "sentence": "scale, and moreover, expressed in such wise, that as a result the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "heroism",
+      "entityType": "term",
+      "sentence": "heroism, those same heroic hearts will express themselves through",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kock",
+      "entityType": "term",
+      "sentence": "Kock, there sailed up the James Eiver a Dutch man-of-war. This ves-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "event",
+      "entityType": "term",
+      "sentence": "event, so full of mighty possibilities, should be so veiled in uncer-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tainty",
+      "entityType": "term",
+      "sentence": "tainty, is itself a deep mystery and leads us straight into these lines",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "question",
+      "entityType": "term",
+      "sentence": "question, \"Shall not the Judge of all the earth do right?\" we leave",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thorough",
+      "entityType": "term",
+      "sentence": "thorough, and both singer and song became American. In propor-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Moreover",
+      "entityType": "term",
+      "sentence": "Moreover, the religion of the God we worship makes its strongest",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "laden",
+      "entityType": "term",
+      "sentence": "laden, who could possibly enjoy rest more than he? To him this has",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "phenomenon",
+      "entityType": "term",
+      "sentence": "phenomenon, under such circumstances to give up his gods and all",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vehicle",
+      "entityType": "term",
+      "sentence": "vehicle, the framework of his musical creation, has remained ever",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "church",
+      "entityType": "term",
+      "sentence": "church, hear him preach, moan, and give \"gravery\" in his sermon,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chant",
+      "entityType": "term",
+      "sentence": "chant, expressive of his heathen life, was too limited for him, so the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "could",
+      "entityType": "term",
+      "sentence": "could - n't",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pray",
+      "entityType": "term",
+      "sentence": "pray:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "val",
+      "entityType": "term",
+      "sentence": "val - ley ! *",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bod",
+      "entityType": "term",
+      "sentence": "bod - v pray,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bur",
+      "entityType": "term",
+      "sentence": "bur - den !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thought",
+      "entityType": "term",
+      "sentence": "thought, no American Folk Song. There is, however, a real indis-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "priated",
+      "entityType": "term",
+      "sentence": "priated; he did not assimilate but was assimilated; more than any",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "River",
+      "entityType": "term",
+      "sentence": "River,\" \"Kentucky Home.\" \"Nellie was a Lady,\" \"Massa's in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "therefore",
+      "entityType": "term",
+      "sentence": "therefore, cannot be placed in the catalog of Negro Folk Songs: still",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "joyable",
+      "entityType": "term",
+      "sentence": "joyable, but these songs of Stephen Foster stand out as the best of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "country",
+      "entityType": "term",
+      "sentence": "country, and some bold man ventured the opinion that the only",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "upon",
+      "entityType": "term",
+      "sentence": "the worth and importance of this music, the Negro was called upon",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "original",
+      "entityType": "term",
+      "sentence": "way? In that they are called original or in the claims to the pos-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "melody",
+      "entityType": "term",
+      "sentence": "melody, picturesqueness ; in short, in vehicle, in frame work, there",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "superficial",
+      "entityType": "term",
+      "sentence": "superficial, unscientific, or all of these.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fact",
+      "entityType": "term",
+      "sentence": "fact, just as natural as that the Negro himself has certain qualities",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "song",
+      "entityType": "term",
+      "sentence": "song, that monotonous chant with frequent interjections, strikingly",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "resemblance",
+      "entityType": "term",
+      "sentence": "resemblance, however, between the music of the Indian and that of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "difference",
+      "entityType": "term",
+      "sentence": "difference, in truth that there is no resemblance, seems irrefutable.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sword",
+      "entityType": "term",
+      "sentence": "sword, it was of the \" Sword of the Spirit.\" Furthermore, the Scot's",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Africa",
+      "entityType": "term",
+      "sentence": "Africa, but how was this transmission accomplished? Did the Por-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tree",
+      "entityType": "term",
+      "sentence": "tree, with growth, body, spreading boughs and leaves of an oak we",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "people",
+      "entityType": "term",
+      "sentence": "people, to be an expression of their feelings, as a whole. Nowhere,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "subject",
+      "entityType": "term",
+      "sentence": "subject, such a knowledge as to render him an authority. Facts",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "portance",
+      "entityType": "term",
+      "sentence": "portance, treating it in a deservedly serious manner and producing",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "American",
+      "entityType": "term",
+      "sentence": "American, for the vehicle or framework is African. The literary and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gone",
+      "entityType": "term",
+      "sentence": "gone,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "down",
+      "entityType": "term",
+      "sentence": "down,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "astonishing",
+      "entityType": "term",
+      "sentence": "astonishing, interesting, and in the display of ingenuity in fitting",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "blew",
+      "entityType": "instrument",
+      "sentence": "The ram's horn blew, an' the children did shout.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lost",
+      "entityType": "term",
+      "sentence": "lost, it could be recovered and reconstructed from the mind of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "little",
+      "entityType": "term",
+      "sentence": "little, and some who cannot read at all, can go on and on with cita-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "poetry",
+      "entityType": "term",
+      "sentence": "poetry, and oratory, glowing with religious fire. The peroration of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "self",
+      "entityType": "term",
+      "sentence": "self, which is a musical self.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "plaint",
+      "entityType": "term",
+      "sentence": "plaint; but let the spirit of ragtime be changed and let the writers",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thermore",
+      "entityType": "term",
+      "sentence": "thermore, it is as evident in his life as rhythm is in his songs. When",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "spur",
+      "entityType": "instrument",
+      "sentence": "It is a sharp spur to the singers. On one occasion, while in chapel",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "organ",
+      "entityType": "term",
+      "sentence": "organ, in power like the rushing of many waters.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "born",
+      "entityType": "term",
+      "sentence": "born; afterwards there are some developments as the new song is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Finally",
+      "entityType": "term",
+      "sentence": "Finally, the very foundation of this music is of the Negro's build-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Peter",
+      "entityType": "term",
+      "sentence": "Peter, go ring them bells,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shout",
+      "entityType": "term",
+      "sentence": "Shout, shout, Satan's about,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Heaven",
+      "entityType": "term",
+      "sentence": "Heaven, Heaven.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mother",
+      "entityType": "term",
+      "sentence": "Mother, won't you pray for me;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Preacher",
+      "entityType": "term",
+      "sentence": "Preacher, won't you pray for me ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Farewell",
+      "entityType": "term",
+      "sentence": "Farewell, my dear mother ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "old",
+      "entityType": "term",
+      "sentence": "old, but her eye was undimmed and her strength unimpaired. It",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bachel",
+      "entityType": "term",
+      "sentence": "Bachel, how is it that you've lived sixty years and have had no",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Adoration",
+      "entityType": "term",
+      "sentence": "Adoration, Patience, Courage, and Humility.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Saying",
+      "entityType": "term",
+      "sentence": "Saying, \"Go in peace and sin no more,\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Froin-a-heaven",
+      "entityType": "term",
+      "sentence": "Froin-a-heaven,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Elder",
+      "entityType": "term",
+      "sentence": "Elder, you say you love King Jesus ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sister",
+      "entityType": "term",
+      "sentence": "Sister, you say your love King Jesus ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Children",
+      "entityType": "term",
+      "sentence": "Children, you say you love King Jesus ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Reign",
+      "entityType": "term",
+      "sentence": "Reign, Master Jesus, reign,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Low",
+      "entityType": "instrument",
+      "sentence": "\"Bow Low, Elder.''",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sin",
+      "entityType": "term",
+      "sentence": "sin - try - ing world,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "duced",
+      "entityType": "term",
+      "sentence": "duced; that is, the conditions and forces which gave it birth.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tucky",
+      "entityType": "term",
+      "sentence": "tucky, a slave, John by name, was known for his piety, religion, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "corn",
+      "entityType": "term",
+      "sentence": "corn, and in fragments of tuneful melody the slaves were all informed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "reminder",
+      "entityType": "instrument",
+      "sentence": "originally sacred, but a sharp reminder to the slaves that they must",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "babe",
+      "entityType": "term",
+      "sentence": "babe, and the day for the separation was fast approaching when the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "said",
+      "entityType": "term",
+      "sentence": "said, \"Don't you do it, honey; wait, let de chariot of de Lord swing",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sissippi",
+      "entityType": "term",
+      "sentence": "sissippi, leaving her baby behind. These two songs grew by degrees,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ton",
+      "entityType": "term",
+      "sentence": "ton, Vermont. General O. O. Howard was one of the speakers. Be-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "fective",
+      "entityType": "term",
+      "sentence": "fective, especially that which is spontaneous. Xo one who ever",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "meaning",
+      "entityType": "term",
+      "sentence": "meaning, too purposeful and too finished to be of extemporaneous",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "inspiration",
+      "entityType": "term",
+      "sentence": "inspiration, but most assuredly the song complete is a product of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tion",
+      "entityType": "term",
+      "sentence": "tion, it is more than that; it is a consolation to the slaves in their",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "bies",
+      "entityType": "term",
+      "sentence": "bies, sweetly lulling her to a blameless sleep.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stain",
+      "entityType": "term",
+      "sentence": "stain, from sorrow.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ter",
+      "entityType": "term",
+      "sentence": "ter, who would have killed her had she not been too valuable. He",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "history",
+      "entityType": "term",
+      "sentence": "history, it is just as plainly preaching freedom \"in a Bibleistic way.\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "City",
+      "entityType": "term",
+      "sentence": "City:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Now",
+      "entityType": "term",
+      "sentence": "Now, at Fisk, Hampton, Tuskegee, and Calhoun earnest and seri-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yes",
+      "entityType": "term",
+      "sentence": "Yes, this or even worse than this is often the case. Under these cir-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "begin",
+      "entityType": "term",
+      "sentence": "begin, and very likely the visitor will get a sufficiency long before",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "closed",
+      "entityType": "term",
+      "sentence": "closed, but are viewing the visitor askance, in an effort to detect an",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nature",
+      "entityType": "term",
+      "sentence": "nature; for with such singers as are naturally selected for these",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "idea",
+      "entityType": "term",
+      "sentence": "idea, which is now regnant in singing these songs, that of using har-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tragic",
+      "entityType": "term",
+      "sentence": "tragic, it was a life of tender and strong relations, when the \"black",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "method",
+      "entityType": "term",
+      "sentence": "method, we think, is more interesting, and since it is more natural,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "natural",
+      "entityType": "term",
+      "sentence": "natural, spontaneous harmony. The result has been a most natural",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "miracle",
+      "entityType": "term",
+      "sentence": "Mr. George L. White might well be called the miracle mau of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lyzed",
+      "entityType": "term",
+      "sentence": "lyzed, described and harmonized many specimens. He has lectured",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ment",
+      "entityType": "term",
+      "sentence": "ment, and that it would be a basis for a national music.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cess",
+      "entityType": "term",
+      "sentence": "cess, to preserve the characteristic feature of the Negro music. Others",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ble",
+      "entityType": "term",
+      "sentence": "ble,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "trem",
+      "entityType": "term",
+      "sentence": "trem - ble, Were you there",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cabin",
+      "entityType": "term",
+      "sentence": "cabin, and in the meeting house, to lighten his burden, to comfort",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "place",
+      "entityType": "term",
+      "sentence": "place, the lonesome valley, the purple dawn, solitudes all wet with",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dews",
+      "entityType": "term",
+      "sentence": "dews, and God away off in the listening Heavens, they would hear",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "plished",
+      "entityType": "term",
+      "sentence": "plished, Fisk School would be saved. But in the hearts of those",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "strange",
+      "entityType": "term",
+      "sentence": "strange, new songs; he saw the nobles bringing gifts and the peas-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "company",
+      "entityType": "term",
+      "sentence": "When the Metropolitan newspapers called the company \"Nigger",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "checkmated",
+      "entityType": "term",
+      "sentence": "checkmated, and their career was dead. One whole night he spent",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "son",
+      "entityType": "term",
+      "sentence": "son, Maggie Porter, Minnie Tate, Mary Eliza Walker, Thomas Bur-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ling",
+      "entityType": "term",
+      "sentence": "ling, Benjamin M. Holmes, Green Evans, and Isaac Dickinson. As",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ryder",
+      "entityType": "term",
+      "sentence": "Ryder, and J. W. Work. This quartette was engaged by the Victor",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ony",
+      "entityType": "term",
+      "sentence": "ony, perfection of nuance and precision. Save for its vital human",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "quality",
+      "entityType": "term",
+      "sentence": "quality, which lifts it above all mechanical products, their harmony",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "prayer",
+      "entityType": "term",
+      "sentence": "prayer, and adoration. Undisturbed and unafraid, he could always",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "public",
+      "entityType": "term",
+      "sentence": "public, especially in the schools.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rejoice",
+      "entityType": "term",
+      "sentence": "rejoice, it made them weep, it made them ashamed, it made them",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "play",
+      "entityType": "term",
+      "sentence": "play, and religion, has led many to conclude that as he abounds in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "more",
+      "entityType": "term",
+      "sentence": "more, he enjoys more. This is one reason why he seems an imitator;",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "condemn",
+      "entityType": "term",
+      "sentence": "condemn, that he is monopolizing in different ways so much of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ers",
+      "entityType": "term",
+      "sentence": "ers, (b) clergymen, (c) musicians, and (d) authors. (4) The second",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "sick",
+      "entityType": "term",
+      "sentence": "sick, wracked with pain on beds of affliction; they sang them over",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "word",
+      "entityType": "term",
+      "sentence": "word, every sentiment, is of tremendous import. Yes, those who",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "like",
+      "entityType": "term",
+      "sentence": "like, so it is true that mankind will seek something to praise in any-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "change",
+      "entityType": "term",
+      "sentence": "change, and I heard him say to my mother that he was going to buy",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "too",
+      "entityType": "term",
+      "sentence": "too, they did not feel good on my feet, and as I walked around the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tips",
+      "entityType": "term",
+      "sentence": "tips, that plain toe, no caps to hurt my feet, — those old caps always",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fully",
+      "entityType": "term",
+      "sentence": "fully, and walked all over the house to show that they fit all right.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "prophet",
+      "entityType": "term",
+      "sentence": "future full of bright promise, for he needs not to be called a prophet",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Coleridge-Taylor",
+      "entityType": "term",
+      "sentence": "Coleridge-Taylor, Henry E. Krehbiel, and Anton Dvorak.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Further",
+      "entityType": "term",
+      "sentence": "Further, these songs are to us a storehouse of comfort. How can",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "point",
+      "entityType": "term",
+      "sentence": "point, which is determined by their calling. The teachers regard",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "unaffected",
+      "entityType": "term",
+      "sentence": "unaffected, after singing in the spirit, \"Lord, I Want to be Like",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sank",
+      "entityType": "term",
+      "sentence": "sank, what obstacles they had to surmount. It describes the very",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "North",
+      "entityType": "term",
+      "sentence": "North, have been more positively and deeply affected in their regard",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "South",
+      "entityType": "term",
+      "sentence": "South, these songs are a source of encouragement. They read their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "agony",
+      "entityType": "term",
+      "sentence": "agony, the cleansing fire into which they were cast. It tells how",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Run",
+      "entityType": "term",
+      "sentence": "Run, Mourner, run,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "com",
+      "entityType": "term",
+      "sentence": "com - ing af - ter me. Com - ing for",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "heav",
+      "entityType": "term",
+      "sentence": "heav - en - ly bound, Com - ing for",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "car",
+      "entityType": "term",
+      "sentence": "car - ry",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "reader",
+      "entityType": "term",
+      "sentence": "reader, into the presence of a soul, — this \"sanctum sanctorum of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "waste",
+      "entityType": "term",
+      "sentence": "waste; it will be necessary to clear away and tear up by the roots",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "civilization",
+      "entityType": "term",
+      "sentence": "civilization; which, although they influence him, are not essential",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "communication",
+      "entityType": "term",
+      "sentence": "communication, which they understand among themselves. We know",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "service",
+      "entityType": "term",
+      "sentence": "service; to the world, conversion. \"Great Camp Meeting in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dom",
+      "entityType": "term",
+      "sentence": "dom; to the uninitiated, anticipations of joy in Heaven.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tude",
+      "entityType": "term",
+      "sentence": "tude, condition, and environment of the Xegro slave. So the only",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "irresistible",
+      "entityType": "term",
+      "sentence": "irresistible, the system of slavery, but away down under the over-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ters",
+      "entityType": "term",
+      "sentence": "ters, that his duty was to be humble. He sang humility in —",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "shackled",
+      "entityType": "term",
+      "sentence": "shackled, singing and living a brotherly love, the all important fact",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dispensation",
+      "entityType": "term",
+      "sentence": "dispensation, and walk, almost without complaint or question the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "dark",
+      "entityType": "term",
+      "sentence": "dark, stormy, thorny path he could not see, and endure meekly the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "itself",
+      "entityType": "term",
+      "sentence": "itself, and bring to him opportunity and happiness, all the more ex-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "triumphed",
+      "entityType": "term",
+      "sentence": "triumphed, and patience triumphant is what the slave has wrought",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tience",
+      "entityType": "term",
+      "sentence": "tience, and meekness.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lary",
+      "entityType": "term",
+      "sentence": "lary, and his record for courage shames him not. The slaves who",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dren",
+      "entityType": "term",
+      "sentence": "dren, and homes of their absent masters; the multitudes of freedmen",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "mane",
+      "entityType": "term",
+      "sentence": "mane, and Calvary, — that here on this western continent oppor-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dure",
+      "entityType": "term",
+      "sentence": "dure, and be patient? How could he? If he had not been sure that",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "age",
+      "entityType": "term",
+      "sentence": "age, and humility and the love of mankind, of home, and of God to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "eyes",
+      "entityType": "term",
+      "sentence": "eyes, our hearts swell with pride that we can claim such ancestors",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "lov",
+      "entityType": "term",
+      "sentence": "lov - ing In",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "heart",
+      "entityType": "term",
+      "sentence": "heart,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Science",
+      "entityType": "term",
+      "sentence": "Science, Home Economics and Education. It is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    }
+  ]
+}

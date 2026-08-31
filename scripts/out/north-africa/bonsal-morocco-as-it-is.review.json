@@ -1,0 +1,5078 @@
+{
+  "book": {
+    "title": "Morocco as It Is",
+    "author": "Stephen Bonsal",
+    "citation": "Bonsal, Stephen. Morocco as It Is. Harper & Brothers, New York, 1893."
+  },
+  "summary": {
+    "total": 536,
+    "validCount": 531,
+    "blockedCount": 5,
+    "warningCount": 113,
+    "blockerReasons": {
+      "This candidate is awaiting specialist review and cannot be published yet.": 5
+    }
+  },
+  "rows": [
+    {
+      "term": "Spartel",
+      "entityType": "term",
+      "sentence": "Spartel, down the Atlantic coast to Laraiche the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mauritania",
+      "entityType": "term",
+      "sentence": "Mauritania, as it was called by the ancients, came",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vince",
+      "entityType": "term",
+      "sentence": "vince, with Sallust, the historian, as its pro-consul. A",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Muluya",
+      "entityType": "term",
+      "sentence": "the river now known as the Muluya. The western",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jews",
+      "entityType": "term",
+      "sentence": "Jews, and about half a million negroes, slaves brought",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "try",
+      "entityType": "term",
+      "sentence": "try, almost all of whom are Spaniards living in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "danism",
+      "entityType": "term",
+      "sentence": "danism, and nowhere are its tenets and observances",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Adam",
+      "entityType": "term",
+      "sentence": "Adam, Noah, Moses, and Christ, the will of God and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mahomet",
+      "entityType": "term",
+      "sentence": "Mahomet, of course, is the last and far most illustrious",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Infanta",
+      "entityType": "term",
+      "sentence": "Infanta, and had the same pluck, tenacity, and enter-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tangier",
+      "entityType": "term",
+      "sentence": "Tangier, after a chequered career of twenty years",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wamba",
+      "entityType": "term",
+      "sentence": "Wamba, however, the Saracens made many piratical",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Andalusia",
+      "entityType": "term",
+      "sentence": "Andalusia, from which it took so many years and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Count",
+      "entityType": "term",
+      "sentence": "Gothic nobleman named Count Julian, Governor of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fter",
+      "entityType": "term",
+      "sentence": "called after him Gibraltar, and in the same year,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Guard",
+      "entityType": "term",
+      "sentence": "Guard, and served in the Tangier garrison for two",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "climate",
+      "entityType": "term",
+      "sentence": "climate, and the severity of their treatment had more",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "alive",
+      "entityType": "term",
+      "sentence": "alive, and beaten down along with the mortar in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "coast",
+      "entityType": "term",
+      "sentence": "coast, and the second title of the Kings of Portugal",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ever",
+      "entityType": "term",
+      "sentence": "ever, defeated and killed near Al-Kesar. From this",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Finally",
+      "entityType": "term",
+      "sentence": "Finally, however, an arrangement rather discreditable",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "territory",
+      "entityType": "term",
+      "sentence": "territory, the fact still remains that it took them",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Morocco",
+      "entityType": "term",
+      "sentence": "Morocco, one of the garden spots of the earth, was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "however",
+      "entityType": "term",
+      "sentence": "however, there have been visible on the political",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Question",
+      "entityType": "term",
+      "sentence": "Question, a delicate puny child of the last decade",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "land",
+      "entityType": "term",
+      "sentence": "land— The attitude of Germany — Her commercial and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "discernment",
+      "entityType": "term",
+      "sentence": "discernment, to recall that now some ten years ago,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "insult",
+      "entityType": "term",
+      "sentence": "insult, or even maltreat, the innovator, he will learn",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "best",
+      "entityType": "term",
+      "sentence": "best, fraternally shared in a spirit of Christian forti-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "form",
+      "entityType": "term",
+      "sentence": "form, be induced to enter upon the comity of nations.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Empire",
+      "entityType": "term",
+      "sentence": "Empire, and in other ways limiting and restricting",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "warning",
+      "entityType": "term",
+      "sentence": "warning, even unheralded by rumour, an embassy of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vecchia",
+      "entityType": "term",
+      "sentence": "Vecchia, and, entering the Eternal City as pilgrims,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "embassy",
+      "entityType": "term",
+      "sentence": "embassy, and as a result of it, their bickerings and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "France",
+      "entityType": "term",
+      "sentence": "France, with her dream of a great ICmpire in North",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "away",
+      "entityType": "term",
+      "sentence": "away, and their power is intangible, evanescent.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "intervene",
+      "entityType": "term",
+      "sentence": "intervene, an abstention which has never ceased to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "national",
+      "entityType": "term",
+      "sentence": "lion and his so-called national parly. The nomina-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "goat",
+      "entityType": "term",
+      "sentence": "goat, that he was enabled to assume his present post.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tion",
+      "entityType": "term",
+      "sentence": "tion, and the loudly expressed wish of the Algerian",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "frontier",
+      "entityType": "term",
+      "sentence": "frontier, are, as I have said, very small concessions",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "indeed",
+      "entityType": "term",
+      "sentence": "indeed, and if the Sultan thereby could obtain the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Algeria",
+      "entityType": "term",
+      "sentence": "Algeria, inland it will be noticed that the course of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "border",
+      "entityType": "term",
+      "sentence": "border, proved in the days of Marshal Bugeaud, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "contrary",
+      "entityType": "term",
+      "sentence": "contrary, claim that the territory in question is a \" No",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "friendship",
+      "entityType": "term",
+      "sentence": "friendship, the late Shereef of Wazzan and the Gov-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "constructed",
+      "entityType": "term",
+      "sentence": "constructed, and when next it suits the French",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "able",
+      "entityType": "term",
+      "sentence": "able, that their country could not continue indefinitely",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Britain",
+      "entityType": "term",
+      "sentence": "Britain, who have always regarded Morocco as a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lous",
+      "entityType": "term",
+      "sentence": "lous, solely from the want of support of any kind from",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "garrison",
+      "entityType": "term",
+      "sentence": "garrison, even if it did not prove impossible to raise",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lish",
+      "entityType": "term",
+      "sentence": "lish, or unfortified and in the possession of the indolent",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "impregnable",
+      "entityType": "term",
+      "sentence": "impregnable, and with Tangier as its base of food",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ting",
+      "entityType": "term",
+      "sentence": "ting, a smaller English fleet could hold the mouth",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "necessity",
+      "entityType": "instrument",
+      "sentence": "the abs<>lute necessity of Tangier to the security of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ranean",
+      "entityType": "term",
+      "sentence": "ranean, that come what may she is prepared to defend",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "known",
+      "entityType": "term",
+      "sentence": "known, may make itself felt any day, England may be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "own",
+      "entityType": "term",
+      "sentence": "own, and in keeping their Empire impermeable to all",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "guised",
+      "entityType": "term",
+      "sentence": "guised, and in the second place because they may be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "country",
+      "entityType": "term",
+      "sentence": "country, and they are, in my opinion, displacing",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "believed",
+      "entityType": "term",
+      "sentence": "believed, that it was England who robbed her",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "quartered",
+      "entityType": "term",
+      "sentence": "quartered, or shaken in the spiked Ghelabir, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rewarded",
+      "entityType": "term",
+      "sentence": "rewarded, in the prosaic language of a Fez corre-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "spondent",
+      "entityType": "term",
+      "sentence": "spondent, with a \"new suit of clothes all around.\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ruler",
+      "entityType": "instrument",
+      "sentence": "Absolute Ruler of all True Believers — His personal appearance",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tni",
+      "entityType": "term",
+      "sentence": "Tni: present dueller in the plcas:int shade of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "interest",
+      "entityType": "term",
+      "sentence": "interest, and certainly it would never occur to any",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hoarse",
+      "entityType": "term",
+      "sentence": "hoarse, wild applause of the multitudes, who imposes",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "speech",
+      "entityType": "term",
+      "sentence": "speech, his noble carriage and bearing, are always",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "liut",
+      "entityType": "term",
+      "sentence": "liut, above everything else, the Sultan is a hard",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fore",
+      "entityType": "term",
+      "sentence": "fore, I am sure it will be dispelled when he hears",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "soldier",
+      "entityType": "term",
+      "sentence": "soldier, tax-gatherer, and justice of the peace, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "yet",
+      "entityType": "term",
+      "sentence": "yet, while performing all these more or less im-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "merathe",
+      "entityType": "term",
+      "sentence": "merathe, which assembly is formed of the notable",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Commissioner",
+      "entityType": "term",
+      "sentence": "Commissioner, almost always a general. The Empire",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "men",
+      "entityType": "term",
+      "sentence": "men, popular or powerful in the neighbourhood, and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "dies",
+      "entityType": "term",
+      "sentence": "dies, or is removed for a cause, the Bashaw calls",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Treasury",
+      "entityType": "term",
+      "sentence": "Treasury, and how little the tax-gatherer will let",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "say",
+      "entityType": "term",
+      "sentence": "say, documents relating to the hire of mules. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "believe",
+      "entityType": "term",
+      "sentence": "believe, as that told me by Professor Vambery as",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "letter",
+      "entityType": "term",
+      "sentence": "letter, in the right hand corner, was a sharp, nervous",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "exception",
+      "entityType": "term",
+      "sentence": "exception, but there are cafes, and with that all is",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "rharactcr",
+      "entityType": "term",
+      "sentence": "rharactcr, with the Christians. They accuse him of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tone",
+      "entityType": "term",
+      "sentence": "tone, and the profuse pretensions that are made at",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Fez",
+      "entityType": "term",
+      "sentence": "Fez, and in the cit\\' of Morocco, also, I believe, in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rabbat",
+      "entityType": "term",
+      "sentence": "Rabbat, while the palaces of the Bashaws in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ground",
+      "entityType": "term",
+      "sentence": "ground, but the Sultan's installation is surprisingly",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nished",
+      "entityType": "term",
+      "sentence": "nished, if furnished at all ; a low cushion on the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "floor",
+      "entityType": "term",
+      "sentence": "floor, a tattered haytie on the wall, and the end of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sportsman",
+      "entityType": "term",
+      "sentence": "sportsman, and still occasionally takes the field after",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "greyhound",
+      "entityType": "term",
+      "sentence": "greyhound, and several years ago, when he visited",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "el-Meshwar",
+      "entityType": "term",
+      "sentence": "el-Meshwar, or Grand Master of the Ceremonies,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fly-flicker",
+      "entityType": "term",
+      "sentence": "fly-flicker, and behind his right stinuji the Mul",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dust",
+      "entityType": "term",
+      "sentence": "dust, cook-pots and cartridges, guns of antique form,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sleep",
+      "entityType": "term",
+      "sentence": "sleep, live, die, strung together, thirty or forty in a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "youth",
+      "entityType": "term",
+      "sentence": "youth, faded, stricken with disease, without tribe or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cook-pot",
+      "entityType": "term",
+      "sentence": "cook-pot, a cloak maybe, and a guitar.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mouktar",
+      "entityType": "term",
+      "sentence": "Mouktar, the late Minister of Foreign Affairs, cost",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ago",
+      "entityType": "term",
+      "sentence": "ago, asking him to have Morocco represented officially",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mood",
+      "entityType": "term",
+      "sentence": "mood, he spoke to him about it. \" A hundred dollars",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "officer",
+      "entityType": "term",
+      "sentence": "officer, so experienced a strategist, as my brother,\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "God",
+      "entityType": "term",
+      "sentence": "God,\" he said, \" for some good purpose. Let no man",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "quished",
+      "entityType": "term",
+      "sentence": "quished— The elephant presented by the Queen — Trick of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "divan",
+      "entityType": "term",
+      "sentence": "divan, or cabinet, and, for reasons for which he is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "feasance",
+      "entityType": "term",
+      "sentence": "feasance, and called the viziers to him for an expla-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tection",
+      "entityType": "term",
+      "sentence": "tection, undoubtedly were the agents and spies of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "upon",
+      "entityType": "term",
+      "sentence": "personage at the Shereefian Court, was called upon",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Joseph",
+      "entityType": "term",
+      "sentence": "Joseph, and at times he was exceedingly hard up.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "how",
+      "entityType": "term",
+      "sentence": "how, five and twenty years ago, the present Trimc",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Gharnet",
+      "entityType": "term",
+      "sentence": "Gharnet, on his return from a pilgrimage to Mecca,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "al-Aska",
+      "entityType": "term",
+      "sentence": "al-Aska, the land of the setting sun. Beautiful as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "houri",
+      "entityType": "term",
+      "sentence": "houri, rather than run the risk of being despatched to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "intelligence",
+      "entityType": "term",
+      "sentence": "intelligence, and this 1 can readily believe of a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sultan",
+      "entityType": "term",
+      "sentence": "Sultan, and who has held her position despite the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bcni-Hassan",
+      "entityType": "term",
+      "sentence": "Bcni-Hassan, and scores of other nomadic tribes kill",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "revenue",
+      "entityType": "term",
+      "sentence": "revenue, which even at the present time is not more",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "willing",
+      "entityType": "term",
+      "sentence": "willing, and who every day sell the protection of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Throne",
+      "entityType": "term",
+      "sentence": "Throne,\" from the Mosque of Sid-el-Abbas in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "secure",
+      "entityType": "term",
+      "sentence": "secure, he sent his benefactor in chains to Tetuan,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "death",
+      "entityType": "term",
+      "sentence": "death, two years ago. The people of Fez have",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "out",
+      "entityType": "term",
+      "sentence": "out, and it was possibl}- in the lu)[)e of ingratiating",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Still",
+      "entityType": "term",
+      "sentence": "Still, by his other acts, the Sultan would seem",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ismael",
+      "entityType": "term",
+      "sentence": "Ismael, from the post of Chief Cadi, or Chief Justice of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "son",
+      "entityType": "term",
+      "sentence": "son, Abdul Aziz, a boy of thirteen years, by a",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "victory",
+      "entityType": "term",
+      "sentence": "victory, marches proudly through the interior towns,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "secretive",
+      "entityType": "term",
+      "sentence": "secretive, the news of the Sultan's disasters and dis-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Caliph",
+      "entityType": "term",
+      "sentence": "Caliph, the three sheiks prostrated themselves, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "conduct",
+      "entityType": "term",
+      "sentence": "conduct, and were anxious to render unto their lord the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "speak",
+      "entityType": "term",
+      "sentence": "speak, they said — of this animal, this wonderful",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "being",
+      "entityType": "term",
+      "sentence": "being, on their return to the Zimoor country ; but",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "journey",
+      "entityType": "term",
+      "sentence": "journey, and entrusted with the keeping of the sacred",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "howdah",
+      "entityType": "term",
+      "sentence": "howdah, however, is installed in the tent mosques of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "fanaticism",
+      "entityType": "term",
+      "sentence": "fanaticism, which has witlistood the decadence of their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "general",
+      "entityType": "term",
+      "sentence": "general, a roumi, a Frank, and his soldiers will be no",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "south",
+      "entityType": "term",
+      "sentence": "south, and, after exhibiting prodigies of valour, the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Yes",
+      "entityType": "term",
+      "sentence": "Yes, the last of the true believers will die with",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "polate",
+      "entityType": "term",
+      "sentence": "polate, \"Of course, we will succumb owing to the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mosque",
+      "entityType": "term",
+      "sentence": "Mosque, immediately followed by his chief officers.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tomb",
+      "entityType": "term",
+      "sentence": "tomb, which is the canopy of the tomb of the most",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sword",
+      "entityType": "term",
+      "sentence": "sword, and read upon its bright surface in letters of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fire",
+      "entityType": "term",
+      "sentence": "fire, \" La Ilah-illa Allah Mahommed-ressul Allah —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "himself",
+      "entityType": "term",
+      "sentence": "himself, and bow his proud forehead, with the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Moghreb",
+      "entityType": "term",
+      "sentence": "Moghreb, who will arise from the heroic graves on",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "down",
+      "entityType": "term",
+      "sentence": "down, and of Thee do we implore protection ; \" and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Wazzan",
+      "entityType": "term",
+      "sentence": "Wazzan, the most holy of all the holy cities in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ambassador",
+      "entityType": "term",
+      "sentence": "ambassador, an envoy plenipotentiary of her gracious",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Majesty",
+      "entityType": "term",
+      "sentence": "Majesty, surrounded by his suite, standing bare-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "least",
+      "entityType": "term",
+      "sentence": "least, and in this humiliating situation, with the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "paid",
+      "entityType": "term",
+      "sentence": "paid, and right cheerfully too, the Sultan a tribute",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gibraltar",
+      "entityType": "term",
+      "sentence": "Gibraltar, and prevent the Salee and Riff pirates",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "moment",
+      "entityType": "term",
+      "sentence": "moment, the coming of which he was to hasten as far",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "grabber",
+      "entityType": "term",
+      "sentence": "grabber,\" or how else would he have had the audacity",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Minister",
+      "entityType": "term",
+      "sentence": "Minister, but for the first month of his residence in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sick",
+      "entityType": "term",
+      "sentence": "sick, or begged to be excused, or absented himself",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cerned",
+      "entityType": "term",
+      "sentence": "cerned, and the propositions of the European Powers",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "changed",
+      "entityType": "term",
+      "sentence": "changed, and the}- now all sec how they were hood-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Garden",
+      "entityType": "term",
+      "sentence": "Garden, and of being surrounded by his advisers",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "machine",
+      "entityType": "term",
+      "sentence": "machine, which most inopportunely had fallen out",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ture",
+      "entityType": "term",
+      "sentence": "ture, is probably as near an approach to Purgatory as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Should",
+      "entityType": "term",
+      "sentence": "Should, owing to the vicinity of such autocratic",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "unsafe",
+      "entityType": "term",
+      "sentence": "unsafe, I for my part (of course this is also only a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kebir",
+      "entityType": "term",
+      "sentence": "Kebir, the Moorish new year began.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mystic",
+      "entityType": "term",
+      "sentence": "mystic, that fearful tyrant who dwells secluded from",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "silk",
+      "entityType": "term",
+      "sentence": "silk, and the animal he rode proudly carried mag-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "whicii",
+      "entityType": "term",
+      "sentence": "whicii, after hearing the music made by their scholars,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cavalry",
+      "entityType": "term",
+      "sentence": "cavalry, but the greater part were deputations from",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "neck",
+      "entityType": "term",
+      "sentence": "neck, the Sultan recites the Fatha, or first verse of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "multitude",
+      "entityType": "term",
+      "sentence": "multitude, and one by one, hi the order of their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "seniority",
+      "entityType": "term",
+      "sentence": "seniority, the chiefs of his household, the Aghas, or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "burden",
+      "entityType": "term",
+      "sentence": "burden, through the intricate streets of the town",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Casa-Blanca",
+      "entityType": "term",
+      "sentence": "Casa-Blanca, acting under instructions from Sir",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sulate",
+      "entityType": "term",
+      "sentence": "sulate, as by the treaty of 1856 Great Britain and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "McLeod",
+      "entityType": "term",
+      "sentence": "McLeod, were repeatedly struck by stones, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sion",
+      "entityType": "term",
+      "sentence": "sion, and certainly this could only have been done",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "proof",
+      "entityType": "term",
+      "sentence": "proof, but I will not go deeper into the matter, as I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "reflection",
+      "entityType": "term",
+      "sentence": "reflection, and on seeing Mr. Fernau, the 2nd Drago-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Consul",
+      "entityType": "term",
+      "sentence": "Consul, marching with dignified mien through the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "naturally",
+      "entityType": "term",
+      "sentence": "naturally, came to the conclusion that an attempt",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Court",
+      "entityType": "term",
+      "sentence": "Court, rode up to the Mission escorted by an armed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "killed",
+      "entityType": "term",
+      "sentence": "killed, I am sure.\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ran",
+      "entityType": "term",
+      "sentence": "ran, \" is a soldier's wife. She has seen service in",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "exhausted",
+      "entityType": "term",
+      "sentence": "exhausted, either from the strain of anxiety under",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "law",
+      "entityType": "term",
+      "sentence": "law, even in the fanatical city, Sir Charles adroitly",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "know",
+      "entityType": "term",
+      "sentence": "know, as advantageous to Morocco as it is to the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Bagdadi",
+      "entityType": "term",
+      "sentence": "Bagdadi, the Bashaw of Fez, the imprisonment of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "demonstration",
+      "entityType": "term",
+      "sentence": "demonstration, and ordered this sum of money to",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "morning",
+      "entityType": "term",
+      "sentence": "morning, to be disposed of as Sir Charles saw fit.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Palace",
+      "entityType": "term",
+      "sentence": "Palace, and even went so far as to commit a great",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Zealander",
+      "entityType": "term",
+      "sentence": "Zealander, delighted to find that as yet the great",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ait-el-Kebir",
+      "entityType": "term",
+      "sentence": "Ait-el-Kebir, the day of the riotous demonstration",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "noon",
+      "entityType": "term",
+      "sentence": "noon, Sir Charles Euan-Smith, accompanied by his",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "savagely",
+      "entityType": "term",
+      "sentence": "savagely, the cigars seemed to have a bitter taste,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gaily",
+      "entityType": "term",
+      "sentence": "gaily; \"I recognize the tramp of his horse, and now",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "connived",
+      "entityType": "term",
+      "sentence": "connived, the old warrior could not help saying, in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "admiration",
+      "entityType": "term",
+      "sentence": "admiration, beginning with his usual expletive",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Smith",
+      "entityType": "term",
+      "sentence": "Smith, and the Times — Light thrown on the Morocco",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "health",
+      "entityType": "term",
+      "sentence": "health, and could, had he so desired, have ridden out",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tical",
+      "entityType": "term",
+      "sentence": "tical, and a typical member of that class of his sub-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hassan",
+      "entityType": "term",
+      "sentence": "Hassan, is undying and unshakeable hatred to the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mukta",
+      "entityType": "term",
+      "sentence": "or native courier, v/as found, named Mukta, to whom",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Governor",
+      "entityType": "term",
+      "sentence": "Governor, who sent for Mukta and spoke to him in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rosity",
+      "entityType": "term",
+      "sentence": "rosity,\" said the Bashaw, \" and you have run so well",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "malice",
+      "entityType": "term",
+      "sentence": "malice, and if the Bashaw satisfied him with proper",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "greedy",
+      "entityType": "term",
+      "sentence": "greedy, avaricious, and rapacious Governor humiliated",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pliant",
+      "entityType": "term",
+      "sentence": "pliant, on foot and unattended by any of his usual",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mission",
+      "entityType": "term",
+      "sentence": "Mission, the oii£,M'nal vigour and the force of the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "stration",
+      "entityType": "term",
+      "sentence": "stration, or the scenes still more interesting which",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Macleod",
+      "entityType": "term",
+      "sentence": "Macleod, the Vice-Consul. The Bashaw would have",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Medinah",
+      "entityType": "term",
+      "sentence": "Medinah; an easy gentle decline, but to him as steep",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "plight",
+      "entityType": "term",
+      "sentence": "plight, the Scotchman behaved with admirable",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Scotia",
+      "entityType": "term",
+      "sentence": "Scotia, let the true God pardon between us two,\" he",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "enemy",
+      "entityType": "term",
+      "sentence": "enemy, the Bashaw said : \" Great as our affection has",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nicholson",
+      "entityType": "term",
+      "sentence": "Nicholson, tlie Governor of Gibraltar, for an armed",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Meshwa",
+      "entityType": "term",
+      "sentence": "Meshwa, or I'lacc of Audit-nce, surrounded by his",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "unfortunately",
+      "entityType": "term",
+      "sentence": "unfortunately, there was not one of the viziers suffi-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "account",
+      "entityType": "term",
+      "sentence": "account, if on no other, Mr. Gladstone would remove",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "here",
+      "entityType": "term",
+      "sentence": "here, or to omit a word there, amendments to the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "substitution",
+      "entityType": "term",
+      "sentence": "substitution, and ask Sid Gharnet for an explanation,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "House",
+      "entityType": "term",
+      "sentence": "House, the hospitality of which he had abused. Sir",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "capital",
+      "entityType": "term",
+      "sentence": "capital, and stating in detail the reasons which had",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "raised",
+      "entityType": "term",
+      "sentence": "raised, and the Sultan received the Envoy at his",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "signature",
+      "entityType": "term",
+      "sentence": "signature, and presented to them, but the Com-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "subject",
+      "entityType": "term",
+      "sentence": "subject, and raised the camp the following day, con-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "more",
+      "entityType": "term",
+      "sentence": "more, this gentleman favoured one of the great illus-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "virtue",
+      "entityType": "term",
+      "sentence": "virtue, in publishing the interview with Sir Charles",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Euan-Smith",
+      "entityType": "term",
+      "sentence": "Euan-Smith, stated that the reports which they were",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "paper",
+      "entityType": "term",
+      "sentence": "paper, and the Times, to cover up its discomfiture,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "history",
+      "entityType": "term",
+      "sentence": "history, simply because, during the stay of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "journalistic",
+      "entityType": "term",
+      "sentence": "journalistic, and further, that my despatches were",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "information",
+      "entityType": "term",
+      "sentence": "information, which he had received from French",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "moine",
+      "entityType": "term",
+      "sentence": "moine, the French academician, whose sources of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "unexceptional",
+      "entityType": "term",
+      "sentence": "unexceptional, which stated that among other in-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "treaty",
+      "entityType": "term",
+      "sentence": "treaty, and that each account categorically contra-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Zaari",
+      "entityType": "term",
+      "sentence": "Zaari, or \" I''air ones,\" in contcmj)! of their pallid",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fondak",
+      "entityType": "term",
+      "sentence": "fondak, with the weary, hunted look upon his face",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "horrid",
+      "entityType": "term",
+      "sentence": "horrid, nauseating details of this poor wretch's",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "teeth",
+      "entityType": "instrument",
+      "sentence": "with his sharp teeth had inflicted a mortal wound,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "labour",
+      "entityType": "term",
+      "sentence": "labour, and sent to the penal settlement of Mellila,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "village",
+      "entityType": "term",
+      "sentence": "village, and held a council as to what they should",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "manner",
+      "entityType": "term",
+      "sentence": "manner, using their knives slowly, with cruelty calcu-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Moor",
+      "entityType": "term",
+      "sentence": "Moor, his master, could devise. When the Moorish",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "garment",
+      "entityType": "term",
+      "sentence": "garment, which happened in this way, near Tafilet.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "week",
+      "entityType": "term",
+      "sentence": "week, debating what we should do with him. He",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "safe",
+      "entityType": "term",
+      "sentence": "safe, and out of the reach both of the inhuman Riffs",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "eyes",
+      "entityType": "term",
+      "sentence": "eyes, and profuse and really touching words of thanks",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "paganda",
+      "entityType": "term",
+      "sentence": "paganda, but it is \"the plain, unvarnished tale of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "door",
+      "entityType": "term",
+      "sentence": "door, as I thought, to get the key ; but Boazza was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "deal",
+      "entityType": "term",
+      "sentence": "deal, prancing and kicking about, contrived to do a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "broken",
+      "entityType": "term",
+      "sentence": "broken, and lie pranced about on the Zimmoor rugs",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "obdurate",
+      "entityType": "term",
+      "sentence": "obdurate, he implored one of the soldiers, his son, I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bushta-el-Bagdadi",
+      "entityType": "term",
+      "sentence": "Bushta-el-Bagdadi, the Bashaw. He had been dis-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "candle",
+      "entityType": "term",
+      "sentence": "candle, which he held up, and studied my face with",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "back",
+      "entityType": "term",
+      "sentence": "back, v/ith Salem-el-Sheshouani accompanying me on",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Absalom",
+      "entityType": "term",
+      "sentence": "Absalom, who had been making some caftans for me.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "crop",
+      "entityType": "term",
+      "sentence": "crop, and his turban rolled off into the gutter. Un-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "flogging",
+      "entityType": "term",
+      "sentence": "flogging, had said that, if he ever returned to the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bashaw",
+      "entityType": "term",
+      "sentence": "Bashaw, asking for an interview, and on the follow-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sahara",
+      "entityType": "term",
+      "sentence": "Sahara, whose expression of countenance was as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "koubba",
+      "entityType": "term",
+      "sentence": "koubba, in which it is tiie liashaw's custom to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "story",
+      "entityType": "term",
+      "sentence": "story, was simply inimitable. The corners of his",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "admirable",
+      "entityType": "term",
+      "sentence": "admirable, but at the same time very irritating, and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "sounding",
+      "entityType": "instrument",
+      "sentence": "and a very ugly, sharp sounding, hissing word it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kouba",
+      "entityType": "term",
+      "sentence": "kouba, and by his menacing talk evidently tried to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "city",
+      "entityType": "term",
+      "sentence": "city, vowing vengeance upon me for the blow I had",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "molested",
+      "entityType": "term",
+      "sentence": "molested, and said that the Sultan had instructed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Atta",
+      "entityType": "term",
+      "sentence": "Atta, for which our Lord is sorry, because you belong to a great",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "courtesy",
+      "entityType": "term",
+      "sentence": "courtesy, they arc always on the wing like birds, and very seldonj",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "bassador",
+      "entityType": "term",
+      "sentence": "bassador, and he desires you to live in tranquility, joy and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "apology",
+      "entityType": "term",
+      "sentence": "apology, and the men were paid their money. We",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "course",
+      "entityType": "term",
+      "sentence": "course, it would have been dispelled by the reception",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "journalist",
+      "entityType": "term",
+      "sentence": "journalist, and as the sequel proved, very well-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "news",
+      "entityType": "term",
+      "sentence": "news, this gentleman informed the world in two",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sect",
+      "entityType": "term",
+      "sentence": "sect, Manlai Taib — The late Grand Shereef as a con-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "spirator",
+      "entityType": "term",
+      "sentence": "spirator— He becomes a French protege — His marriage",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Prophet",
+      "entityType": "term",
+      "sentence": "Prophet, and to AH his nephew, his favourite and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "deed",
+      "entityType": "term",
+      "sentence": "deed, the late Grand Shereef was in many ways a",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "twice",
+      "entityType": "term",
+      "sentence": "twice, the marriages of the Shercef, it is saiei, became",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hair",
+      "entityType": "term",
+      "sentence": "hair, and they never fail to put to death the hated",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Personally",
+      "entityType": "term",
+      "sentence": "Personally, the Tope of Mauritania had many",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "descended",
+      "entityType": "term",
+      "sentence": "descended, and though the deception that had been",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "thing",
+      "entityType": "term",
+      "sentence": "thing, and so Abd-el-Salem came into the vast pro-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "father",
+      "entityType": "term",
+      "sentence": "father, he will not be turned frf)m the path which his",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Whittington",
+      "entityType": "term",
+      "sentence": "Whittington— Primary education in profanity — The four",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "century",
+      "entityType": "term",
+      "sentence": "century, or about fifty years after Mulai Edriss laid",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mere",
+      "entityType": "term",
+      "sentence": "Mere, beyond all manner of doubt, in the tenth and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "playing",
+      "entityType": "term",
+      "sentence": "playing, the walls arc decorated with Salee mattings",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Islamism",
+      "entityType": "term",
+      "sentence": "Islamism, and in fact it would be safer to say that",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "footed",
+      "entityType": "term",
+      "sentence": "footed, but carried a beautiful pair of embroidered",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mekinez",
+      "entityType": "term",
+      "sentence": "Mekinez, so feared by travellers. We granted his",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "request",
+      "entityType": "term",
+      "sentence": "request, and a very merry companion he was, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "seemed",
+      "entityType": "term",
+      "sentence": "seemed, quite uncertain whether he had a greater",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Temple",
+      "entityType": "term",
+      "sentence": "Temple, crouching respectfully at the \" feet of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gamaliel",
+      "entityType": "term",
+      "sentence": "Gamaliel,\" who was represented in this case by an",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "too",
+      "entityType": "term",
+      "sentence": "too, for that matter — are taught, are words of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "house-tops",
+      "entityType": "term",
+      "sentence": "house-tops, women from the harems of nobles,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "stand",
+      "entityType": "term",
+      "sentence": "stand— that is, viewed from the Moorish standpoint —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "education",
+      "entityType": "term",
+      "sentence": "education,\" which I shall endeavour to describe, and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ifia",
+      "entityType": "term",
+      "sentence": "vaulted cells called ifia/eixas, in the immediate neigh-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "contemptuously",
+      "entityType": "term",
+      "sentence": "brated Jena address termed contemptuously \" brod-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gelehrte",
+      "entityType": "term",
+      "sentence": "gelehrte,\" for they study only that they may receive",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gentry",
+      "entityType": "term",
+      "sentence": "gentry, the very men who have not even the smatter-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "hama",
+      "entityType": "term",
+      "sentence": "hama, a term which in Morocco is not applied to all",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "favour",
+      "entityType": "term",
+      "sentence": "favour, the resources of the Moorish religion in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cracy",
+      "entityType": "term",
+      "sentence": "cracy, and, throwing pretensions of pride and holy",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cation",
+      "entityType": "term",
+      "sentence": "cation, become ardent believers in the prowess and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "whiskey",
+      "entityType": "term",
+      "sentence": "whiskey, but he's such a holy man that the moment",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "attendance",
+      "entityType": "term",
+      "sentence": "attendance, and come very much under the category",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "major-domos",
+      "entityType": "term",
+      "sentence": "major-domos, and attendant slaves carrying their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "expected",
+      "entityType": "term",
+      "sentence": "expected, I never witnessed. They do not seem to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "henna",
+      "entityType": "term",
+      "sentence": "henna, was once pointed out to me. She was a tall,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "understand",
+      "entityType": "term",
+      "sentence": "understand, even under the disadvantages of meeting",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "much",
+      "entityType": "term",
+      "sentence": "much, very much). The fervour which Salem put",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "myself",
+      "entityType": "term",
+      "sentence": "myself, and, if I did, I should feel very much inclined",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ness",
+      "entityType": "term",
+      "sentence": "ness, with \" his brother,\" the Sultan of the Tholba,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "divination",
+      "entityType": "term",
+      "sentence": "divination, I must say that the Tholba whom I met",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "power",
+      "entityType": "term",
+      "sentence": "power, the green standard of the Prophet and the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sulhama",
+      "entityType": "term",
+      "sentence": "Sulhama, now carefully guarded in the Kairouin, will",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "possible",
+      "entityType": "term",
+      "sentence": "possible, to estimate in advance.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "snubbing",
+      "entityType": "term",
+      "sentence": "snubbing, I succeeded in entering upon relations",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Testament",
+      "entityType": "term",
+      "sentence": "Testament, and reminded them that in the Koran",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "book",
+      "entityType": "term",
+      "sentence": "book, and that its meaning had been very much",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "taking",
+      "entityType": "term",
+      "sentence": "taking, and though they had quaffed my tea and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "speaking",
+      "entityType": "term",
+      "sentence": "speaking, only fondly hoped, by the learned men",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Library",
+      "entityType": "term",
+      "sentence": "Library, and these volumes — a creditable thing for",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bers",
+      "entityType": "term",
+      "sentence": "bers, that wc had quite enough adventures and fights",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "placed",
+      "entityType": "term",
+      "sentence": "placed, with four or five exceptions. I kept a very",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Anscra",
+      "entityType": "term",
+      "sentence": "Anscra, or hot spell, was at its heiijht, and the Sheri^n,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "globe",
+      "entityType": "term",
+      "sentence": "globe, which on former occasions he had given me",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sok",
+      "entityType": "term",
+      "sentence": "Sok, and Salem, my own particular boy and servant,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "murmured",
+      "entityType": "term",
+      "sentence": "murmured, \" If the sirrani arc selling their ' multiple",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mountain",
+      "entityType": "term",
+      "sentence": "mountain, barren of trees and of water and of any",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "buh",
+      "entityType": "term",
+      "sentence": "buh, fragrant with flowers and fresh with the murmur",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "again",
+      "entityType": "term",
+      "sentence": "again, if only for a day — if only for an hour. It is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Paradise",
+      "entityType": "term",
+      "sentence": "Paradise, who stipulate in return, or rather in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "advance",
+      "entityType": "term",
+      "sentence": "advance, to get a filling ante-mortem feed on sheep",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "reward",
+      "entityType": "term",
+      "sentence": "reward, and send the ghastly relic of their comrade",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Dar",
+      "entityType": "term",
+      "sentence": "Ismael, now known as the Dar el Baroud, or powder",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "passage",
+      "entityType": "term",
+      "sentence": "passage, doubtless by some Moor who came here day",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cry",
+      "entityType": "term",
+      "sentence": "cry, and then, as though they had awaited the signal",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "aye",
+      "entityType": "term",
+      "sentence": "aye, from the Indian Ocean to the Atlantic, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "great",
+      "entityType": "term",
+      "sentence": "great, and Mahomet is His messenger. Sleep is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "good",
+      "entityType": "term",
+      "sentence": "good, but prayer is better.\" From my point of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Emin",
+      "entityType": "term",
+      "sentence": "Emin, as with outstretched arms he sends back to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fragile",
+      "entityType": "term",
+      "sentence": "fragile, long-stemmed glasses of civilization, we",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "refuse",
+      "entityType": "term",
+      "sentence": "refuse, and the wretched people who crawled out",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lips",
+      "entityType": "term",
+      "sentence": "lips, for just so many miserable sluggish maggots.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "huts",
+      "entityType": "term",
+      "sentence": "huts, and this was not calculated to improve my",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "later",
+      "entityType": "term",
+      "sentence": "later, the blank faces of the unfortunate people were",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bows",
+      "entityType": "term",
+      "sentence": "bows, and those joyless faces rode with me for many",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "disgust",
+      "entityType": "term",
+      "sentence": "disgust, that the charcoal fire was out, and that the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "brown",
+      "entityType": "term",
+      "sentence": "brown, burnt landscape through which we rode, for",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "loaf",
+      "entityType": "term",
+      "sentence": "loaf, with deep ridges and furrows in its surface where",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "probable",
+      "entityType": "term",
+      "sentence": "probable, spring at its feet, stood out on the horizon",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "knew",
+      "entityType": "term",
+      "sentence": "knew, a sharp, uncertain struggle for existence. In",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "head-coverings",
+      "entityType": "term",
+      "sentence": "head-coverings, they let their reins fall, and wisely",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "FRO",
+      "entityType": "term",
+      "sentence": "FRO:\\I FEZ TO FLEET STREET. 223",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tentot",
+      "entityType": "term",
+      "sentence": "tentot, who several years ago enthralled the morbid",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cloth",
+      "entityType": "term",
+      "sentence": "cloth, the woman prostrated herself until her fore-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tree",
+      "entityType": "term",
+      "sentence": "tree, and saw that we had unwittingly encamped at",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pull",
+      "entityType": "instrument",
+      "sentence": "denly gave my arm a sharp pull and said, \" Berbers !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "terre",
+      "entityType": "term",
+      "sentence": "terre, came some twenty of these nomads, straight",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Atlantic",
+      "entityType": "term",
+      "sentence": "Atlantic, and from the Mediterranean to the Sahara,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Arabic",
+      "entityType": "term",
+      "sentence": "Arabic, \" that I have camped with your brave",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rolande",
+      "entityType": "term",
+      "sentence": "Rolande, were coming to \"the dark tower.\" There",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "douar",
+      "entityType": "term",
+      "sentence": "douar, by which to mark our progress. Salem",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "heavy",
+      "entityType": "term",
+      "sentence": "heavy, and it seemed as though someone was packing",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "suppose",
+      "entityType": "term",
+      "sentence": "suppose, it seemed to me that I was riding with",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "uncanny",
+      "entityType": "term",
+      "sentence": "uncanny, that our Turkish ponies broke their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dressed",
+      "entityType": "term",
+      "sentence": "dressed, with the green and yellow pustules of small-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "contagion",
+      "entityType": "term",
+      "sentence": "contagion, how cunningly we coaxed him down",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stream",
+      "entityType": "term",
+      "sentence": "stream, and then the mad rush we made — while he,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Moscow",
+      "entityType": "term",
+      "sentence": "Moscow, who stood drinks all round about every ten",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "honour",
+      "entityType": "term",
+      "sentence": "honour, placing wreaths of flowers on our ponies'",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "now",
+      "entityType": "term",
+      "sentence": "now, that he is d>'ing of thirst, and that as I ask for",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "massage",
+      "entityType": "term",
+      "sentence": "massage, working the fever and heat away from the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "man",
+      "entityType": "term",
+      "sentence": "man, and in half an hour we were off on the road to",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "river",
+      "entityType": "term",
+      "sentence": "river, which is, I believe, the Lixus of Pliny, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "blindly",
+      "entityType": "term",
+      "sentence": "blindly, and came very near getting drowned for my",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "horse",
+      "entityType": "term",
+      "sentence": "horse, which accentuated the dreariness of my situa-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "samite",
+      "entityType": "term",
+      "sentence": "samite, though in the searching light of the morning",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sunset",
+      "entityType": "term",
+      "sentence": "sunset, and there was really no chance of getting in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "situation",
+      "entityType": "term",
+      "sentence": "situation, I pulled my pistol out of the holster and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "riding-boots",
+      "entityType": "term",
+      "sentence": "riding-boots, I hoped to pass muster as a Moor.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "guns",
+      "entityType": "term",
+      "sentence": "guns, and in a few minutes the door opened, and I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cavalcade",
+      "entityType": "term",
+      "sentence": "cavalcade, and then dismounted and examined my",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Alkesar",
+      "entityType": "term",
+      "sentence": "Alkesar, and sharper eyed they were, too, than the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "madame",
+      "entityType": "term",
+      "sentence": "madame,\" doubtless the return of the salutation made",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "thouf",
+      "entityType": "term",
+      "sentence": "thouf;ht — ended in an attempt he had made, some",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sidered",
+      "entityType": "term",
+      "sentence": "sidered, I believe, the highest in the world. A brace",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "weighed",
+      "entityType": "term",
+      "sentence": "weighed, which is about the most complimentary",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "confession",
+      "entityType": "term",
+      "sentence": "confession, but I must say it— I belched once— twice",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tent",
+      "entityType": "term",
+      "sentence": "tent,'' which was really as complicated as a Chinese",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "puzzle",
+      "entityType": "term",
+      "sentence": "puzzle, wc went to sleep al ficsco once again. 1 liad",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "foul",
+      "entityType": "term",
+      "sentence": "foul, so I slept with the halter of my prize fastened to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "well",
+      "entityType": "term",
+      "sentence": "well, I began to look about me and see all the con-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "him",
+      "entityType": "term",
+      "sentence": "him, he had taken sanctuary, Howsi had gone away",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "pride",
+      "entityType": "term",
+      "sentence": "pride, and dragging after him — well, a mule. Adjec-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "centipede",
+      "entityType": "term",
+      "sentence": "centipede, being forbidden in Morocco — and as we",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bay",
+      "entityType": "term",
+      "sentence": "bay, but one after another the .sailors shook their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Levanter",
+      "entityType": "term",
+      "sentence": "Levanter, they refused absolutely all our offers.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "steamer",
+      "entityType": "term",
+      "sentence": "steamer, Victorino started cheerfully for the Marina",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "unruly",
+      "entityType": "term",
+      "sentence": "unruly, as they looked from a distance. The Levan-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wind",
+      "entityType": "term",
+      "sentence": "wind, in which we were greatly disappointed — we",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "says",
+      "entityType": "term",
+      "sentence": "says, \" Signal of recall ? I do not see it. Clap on",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "thither",
+      "entityType": "term",
+      "sentence": "thither, we drift helplessly about on the boundary of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "old",
+      "entityType": "term",
+      "sentence": "old, \"Plus ultra; plus ultra.\" The days when the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "superstition",
+      "entityType": "term",
+      "sentence": "superstition, which none dared rend, hung suspended",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hill",
+      "entityType": "term",
+      "sentence": "Hill,\" Jicbel Moussa, the mountain of Moses, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "suddenly",
+      "entityType": "term",
+      "sentence": "suddenly, as wc round the point, ihe look-outcries,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "perfect",
+      "entityType": "term",
+      "sentence": "perfect, natural, and beautiful in every way — reclining",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trary",
+      "entityType": "term",
+      "sentence": "trary, was the song of the Children of Israel in",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Americanism",
+      "entityType": "term",
+      "sentence": "Americanism, to put him on his mettle.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "interested",
+      "entityType": "term",
+      "sentence": "interested, and for four hours we strode up and down",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "stride",
+      "entityType": "term",
+      "sentence": "stride, kept tramping backwards and forwards on the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "senger",
+      "entityType": "term",
+      "sentence": "senger— such a one as is always on board, who knows",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "York",
+      "entityType": "term",
+      "sentence": "York, wc found the White City of the Dark Continent",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "soil",
+      "entityType": "term",
+      "sentence": "soil, and she decided that, rebellion or no rebellion,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "off",
+      "entityType": "term",
+      "sentence": "off, even if for no better purpose than to safeguard the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tetuan",
+      "entityType": "term",
+      "sentence": "Tetuan,\" but as a sop to the British matron, I think I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "view",
+      "entityType": "term",
+      "sentence": "view, I rode a rat-tailed m(^use-C(jlourcd IJarb which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "umbrella",
+      "entityType": "term",
+      "sentence": "umbrella, orange-coloured, with a yellowy green",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lining",
+      "entityType": "term",
+      "sentence": "lining, to shield his complexion. Having now dis-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Boazza",
+      "entityType": "term",
+      "sentence": "Boazza, the only other of the muleteers we admitted",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "raiment",
+      "entityType": "term",
+      "sentence": "raiment, with a delill or prayer-book fastened to his",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "mouth",
+      "entityType": "term",
+      "sentence": "mouth, and when he did it was only to puff out huge",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "case",
+      "entityType": "term",
+      "sentence": "case, I am told that the preachers in the mosques",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Swani",
+      "entityType": "term",
+      "sentence": "Swani, which is much nearer Tangier. The Swani",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Snau",
+      "entityType": "term",
+      "sentence": "Snau,\" they shouted, \" it is a skulking Jew — a silly",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "face",
+      "entityType": "term",
+      "sentence": "face, however, was radiant with delight, this strange",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "missed",
+      "entityType": "term",
+      "sentence": "missed,\" he shouted at last, no longer being able to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Monsieur",
+      "entityType": "term",
+      "sentence": "Monsieur, you aimed very well all the same.\")",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ilosmar",
+      "entityType": "term",
+      "sentence": "Ilosmar, one of the highest peaks of the Northern or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nahon",
+      "entityType": "term",
+      "sentence": "British \\'ice-Consul, a Moorish Jew named Nahon,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "agent",
+      "entityType": "term",
+      "sentence": "agent, also a Jew, and immediately went to see him",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dark",
+      "entityType": "term",
+      "sentence": "dark, and we had no desire to camp out beyond the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "prayer-rugs",
+      "entityType": "term",
+      "sentence": "prayer-rugs, and covered up in the folds of their",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Friday",
+      "entityType": "term",
+      "sentence": "Friday, their Sabbath, our host could only serve us",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Everybody",
+      "entityType": "term",
+      "sentence": "Everybody, including our muleteers, united in mak-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "domain",
+      "entityType": "term",
+      "sentence": "domain, and, very generously, he gave us the run of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gold",
+      "entityType": "term",
+      "sentence": "gold, some of them of old Spanish damask silk,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "jewellery",
+      "entityType": "term",
+      "sentence": "jewellery, and were delighted with the few rings which",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "vived",
+      "entityType": "term",
+      "sentence": "vived, but unfortunately, in his well-meant endeavours",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bellion",
+      "entityType": "term",
+      "sentence": "bellion— \" Plus ca change plus c est le mcme chose\" — The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "appearance",
+      "entityType": "term",
+      "sentence": "appearance, in fact I never saw a young adool in",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "white",
+      "entityType": "term",
+      "sentence": "white, his eyebrows were like tufts of ermine ; he wore",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "unnoticcable",
+      "entityType": "term",
+      "sentence": "unnoticcable, and her voice through the many muffling",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "smiled",
+      "entityType": "term",
+      "sentence": "smiled, and he talked for a few minutes. I under-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ceptacle",
+      "entityType": "term",
+      "sentence": "ceptacle, and placed it at his feet. He picked it up,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cursed",
+      "entityType": "term",
+      "sentence": "cursed, and called upon all the saints of Lslamism to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "longed",
+      "entityType": "term",
+      "sentence": "longed, and, before the performance began, the money-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "player",
+      "entityType": "instrument",
+      "sentence": "spectators. Again the bag-pipe player desisted, and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "skull-caps",
+      "entityType": "term",
+      "sentence": "skull-caps, theiribabooshas, and long black gowns,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jew",
+      "entityType": "term",
+      "sentence": "Jew, yet it is a fact that in a few minutes he had",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "liberality",
+      "entityType": "term",
+      "sentence": "liberality, and soon the copper floss came into the hat",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "looking",
+      "entityType": "term",
+      "sentence": "looking, wrapped him in coils about his arm, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bag",
+      "entityType": "term",
+      "sentence": "bag, his earthenware vase of water, and his dampened",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "hay",
+      "entityType": "term",
+      "sentence": "hay, and slipped out of the circle of spectators. An",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "prayer-time",
+      "entityType": "term",
+      "sentence": "prayer-time,\" said the sanctimonious fraud, and,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "sea-shore",
+      "entityType": "term",
+      "sentence": "sea-shore, knocking down the impromptu stalls of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "shouting",
+      "entityType": "term",
+      "sentence": "shouting, \" May God prolong the days of our Lord",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "window",
+      "entityType": "term",
+      "sentence": "window, hardly large enough for a sparrow to hop",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "box",
+      "entityType": "term",
+      "sentence": "box, and the procession formed, while an orchestra",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Fiah",
+      "entityType": "term",
+      "sentence": "Fiah, taking a striking position at the head of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "procession",
+      "entityType": "term",
+      "sentence": "procession, with his face turned towards heaven, would",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "point",
+      "entityType": "term",
+      "sentence": "point, was reached. The gateway here was garlanded",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "buying",
+      "entityType": "term",
+      "sentence": "operation known as buying a pig in a poke.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "troubled",
+      "entityType": "term",
+      "sentence": "troubled, dubious expression. Finally I asked him",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nightfall",
+      "entityType": "term",
+      "sentence": "nightfall, but the mules as usual went lame, and the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rifle",
+      "entityType": "term",
+      "sentence": "rifle, and, as they came on steadily towards us, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "light",
+      "entityType": "term",
+      "sentence": "light— forcible reminders of my folly of having made",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "interpreter",
+      "entityType": "term",
+      "sentence": "interpreter, to be very \" nice\" with the chief of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sex",
+      "entityType": "term",
+      "sentence": "sex, and especially her countrywomen, D y con-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "path",
+      "entityType": "term",
+      "sentence": "path, they wore tightly bound down around their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Benzouini",
+      "entityType": "term",
+      "sentence": "Benzouini, the Bashaw's Kalifa, went out into the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Martiniere",
+      "entityType": "term",
+      "sentence": "Martiniere, the distinguished traveller and archa:-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "exciting",
+      "entityType": "term",
+      "sentence": "exciting, and we were so fortunate as to see the end",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "rhamen-Bcn-Adussadak",
+      "entityType": "term",
+      "sentence": "rhamen-Bcn-Adussadak, made iiis formal entry into",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ceremony",
+      "entityType": "term",
+      "sentence": "ceremony; the public, however, participated in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "prudence",
+      "entityType": "term",
+      "sentence": "prudence, and the Tangerines are, as is known, ever",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Secretly",
+      "entityType": "term",
+      "sentence": "Secretly, like a thief in the night, the deposed Sid",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mahommed",
+      "entityType": "term",
+      "sentence": "Mahommed, on the evening preceding the arrival of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "foot",
+      "entityType": "term",
+      "sentence": "foot, suing as a suppliant for the peace that he has",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "given",
+      "entityType": "term",
+      "sentence": "given, such as Sid Absalom, Mulai Abd-el-Kadr and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "scamp",
+      "entityType": "term",
+      "sentence": "scamp, and even the Sultan, who is not squeamish,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "treachery",
+      "entityType": "term",
+      "sentence": "treachery, and^ fearing assassination, the Bashaw,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "miscreant",
+      "entityType": "term",
+      "sentence": "miscreant, and, as he rode by them, they spat con-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "future",
+      "entityType": "term",
+      "sentence": "future, either have to destroy or to treat as peer.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "added",
+      "entityType": "term",
+      "sentence": "added, in explanation, —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "doing",
+      "entityType": "term",
+      "sentence": "doing, and that, naturally, they wish to become",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mellah",
+      "entityType": "term",
+      "sentence": "separate quarter called the Mellah, the gates of which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Azzouli",
+      "entityType": "term",
+      "sentence": "Azzouli, often came to my camp bringing letters and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "camp",
+      "entityType": "term",
+      "sentence": "camp, not wishing to entrust them to one of his",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "black",
+      "entityType": "term",
+      "sentence": "black, as this is a colour despised by the Moors. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "woman",
+      "entityType": "term",
+      "sentence": "woman, of about twenty years of age, in whose house",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Christian",
+      "entityType": "term",
+      "sentence": "Christian, unless the latter have some exceptional",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "getically",
+      "entityType": "term",
+      "sentence": "getically, though he does not seem to have lost faith in",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Boobker",
+      "entityType": "term",
+      "sentence": "Boobker, who had certainly misrepresented the matter",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bullock",
+      "entityType": "term",
+      "sentence": "bullock, was administered to him. The Sultan had",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "England",
+      "entityType": "term",
+      "sentence": "England, Italy and France demanded the removal",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "murmur",
+      "entityType": "term",
+      "sentence": "murmur, the Moors have an exaggerated opinion of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "emigration",
+      "entityType": "term",
+      "sentence": "emigration, large numbers of Jews began to leave the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "whatever",
+      "entityType": "term",
+      "sentence": "whatever, at the house of our consular agent, Ben-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "street",
+      "entityType": "term",
+      "sentence": "street, a volley of curses, and a clatter of hurrying feet.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "agency",
+      "entityType": "term",
+      "sentence": "agency, where we were. Here they desisted in dis-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fanatical",
+      "entityType": "term",
+      "sentence": "fanatical, owing to the broad-mindedness and the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "abolished",
+      "entityType": "term",
+      "sentence": "abolished, though the unfortunate Moor, who has no",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "founded",
+      "entityType": "term",
+      "sentence": "founded, and should be immediately remedied. It is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "murdered",
+      "entityType": "term",
+      "sentence": "murdered, If any fuss is made, or if the Jew is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ticular",
+      "entityType": "term",
+      "sentence": "ticular, the inellaJi of Mogador is a perfect pigsty, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "could",
+      "entityType": "term",
+      "sentence": "could, chanjTc their lot. Emancipation is not dreamed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Society",
+      "entityType": "term",
+      "sentence": "Society, and the ceaseless vigilance of its agents, that",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "become",
+      "entityType": "term",
+      "sentence": "become, and so jealous [are they of the observing",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stranger",
+      "entityType": "term",
+      "sentence": "stranger, that it has become almost an impossibility",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "traveller",
+      "entityType": "term",
+      "sentence": "traveller, who visited Morocco in 1882. I believe",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sale",
+      "entityType": "term",
+      "sentence": "sale, she will fetch a good deal more.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "will",
+      "entityType": "term",
+      "sentence": "will, her face wearing an expression of deep sadness",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Europe",
+      "entityType": "term",
+      "sentence": "Europe, is monstrous. The spectacle is heartrending,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "said",
+      "entityType": "term",
+      "sentence": "said, there are only females in the market, which in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mony",
+      "entityType": "term",
+      "sentence": "mony, and it has appeared to me that if the Sultan",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "trouble",
+      "entityType": "term",
+      "sentence": "trouble, he rushes immediately to the protege and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "people",
+      "entityType": "term",
+      "sentence": "people, and instead of being hung for his want of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "patriotism",
+      "entityType": "term",
+      "sentence": "patriotism, owing to the British protection which he",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "consulate",
+      "entityType": "term",
+      "sentence": "consulate, and asks that protection be granted him.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "wealthy",
+      "entityType": "term",
+      "sentence": "wealthy, or if the Moorish Governor or Caid who is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nadoed",
+      "entityType": "term",
+      "sentence": "nadoed, whilst the corrupt vice-consul had pocketed a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nation",
+      "entityType": "term",
+      "sentence": "nation, except the articles enumerated in Article II.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tariff",
+      "entityType": "term",
+      "sentence": "Tariff:—",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "produce",
+      "entityType": "term",
+      "sentence": "produce, or on any pretext receive any money or gift in respect",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wheat",
+      "entityType": "term",
+      "sentence": "Wheat, barley, and all grain and cereals of all kinds which are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "shipment",
+      "entityType": "term",
+      "sentence": "shipment, and on the disembarkation of the said articles or",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "shipped",
+      "entityType": "term",
+      "sentence": "shipped, after the usual deductions are made for wear and tear",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "broker",
+      "entityType": "term",
+      "sentence": "broker, factor, or agent ; nor shall such British subjects be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "freedom",
+      "entityType": "instrument",
+      "sentence": "Absolute freedom shall be given to them in their commercial",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "effected",
+      "entityType": "term",
+      "sentence": "effected; and failing payment of such fines, such British subject",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "town",
+      "entityType": "term",
+      "sentence": "town, and Consular officer, shall select an Umpire, a subject of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "trade",
+      "entityType": "term",
+      "sentence": "trade, or which may hereafter be opened to foreign trade and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    }
+  ]
+}

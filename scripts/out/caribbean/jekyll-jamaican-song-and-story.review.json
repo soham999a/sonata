@@ -1,0 +1,4510 @@
+{
+  "book": {
+    "title": "Jamaican Song and Story: Annancy Stories, Digging Sings, Ring Tunes, and Dancing Tunes",
+    "author": "Walter Jekyll",
+    "citation": "Jekyll, Walter. Jamaican Song and Story: Annancy Stories, Digging Sings, Ring Tunes, and Dancing Tunes. D. Nutt, London, 1907."
+  },
+  "summary": {
+    "total": 474,
+    "validCount": 474,
+    "blockedCount": 0,
+    "warningCount": 114,
+    "blockerReasons": {}
+  },
+  "rows": [
+    {
+      "term": "PRINCETON",
+      "entityType": "term",
+      "sentence": "PRINCETON, N. J.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Death",
+      "entityType": "term",
+      "sentence": "Death, - - - -31",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Field",
+      "entityType": "term",
+      "sentence": "Field, - - - 51",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Girl",
+      "entityType": "term",
+      "sentence": "Girl, - - - - 65",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gold",
+      "entityType": "term",
+      "sentence": "Gold, amber gold,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Away",
+      "entityType": "term",
+      "sentence": "Away, away,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Toady",
+      "entityType": "term",
+      "sentence": "Toady, ....",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Minnie",
+      "entityType": "term",
+      "sentence": "Minnie, ....",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Deggy",
+      "entityType": "term",
+      "sentence": "Deggy,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rosybel",
+      "entityType": "term",
+      "sentence": "Rosybel,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Palmer",
+      "entityType": "term",
+      "sentence": "Palmer,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "yard",
+      "entityType": "term",
+      "sentence": "yard, .... 205",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ring",
+      "entityType": "term",
+      "sentence": "ring, .... 207",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "market",
+      "entityType": "term",
+      "sentence": "market, ....",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Leah",
+      "entityType": "term",
+      "sentence": "Leah, ....",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gal",
+      "entityType": "term",
+      "sentence": "gal,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "confirmation",
+      "entityType": "term",
+      "sentence": "confirmation, -",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cut",
+      "entityType": "term",
+      "sentence": "cut, ....",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "go-round",
+      "entityType": "term",
+      "sentence": "go-round,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "down",
+      "entityType": "term",
+      "sentence": "down, ....",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Birdyzeena",
+      "entityType": "term",
+      "sentence": "Birdyzeena, - - - 249",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sal",
+      "entityType": "term",
+      "sentence": "Sal, you ought to been ashame, 250",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Road",
+      "entityType": "term",
+      "sentence": "Road, .... 257",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Susan",
+      "entityType": "term",
+      "sentence": "Susan, very well why oh ! - 264",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "warning",
+      "entityType": "term",
+      "sentence": "warning, - 270",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Complain",
+      "entityType": "term",
+      "sentence": "Complain, complain, complain, 271",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "origin",
+      "entityType": "term",
+      "sentence": "origin, and when these have been to some extent disentangled",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Annancy",
+      "entityType": "term",
+      "sentence": "Annancy, or Anansi is the Tshi (Ashanti)1 word for “spider”;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Twi",
+      "entityType": "term",
+      "sentence": "1Fanti is a dialect of this language, which is variously called Twi, Cliwi,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Otyi",
+      "entityType": "term",
+      "sentence": "Otyi, and Ochi.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mandingo",
+      "entityType": "term",
+      "sentence": "Mandingo, Moko (inland from Calabar), Nago (Yoruba), and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tshi",
+      "entityType": "term",
+      "sentence": "Asante and Fante Language called Tshi (1881), the boys’ names",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kwadwo",
+      "entityType": "term",
+      "sentence": "Kwadwo, Kwabena, Kwaku, Kwaw (or Yaw), Kofi, Kwame.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "recognizable",
+      "entityType": "term",
+      "sentence": "recognizable, but a careful scrutiny reveals the interesting",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yaw",
+      "entityType": "term",
+      "sentence": "Yaw, Afi, Amin. The names of the days appear to be formed",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dwoda",
+      "entityType": "term",
+      "sentence": "Dwoda, Benada, Wukuda, Yawda, Fida, Memeneda (Meminda).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "beard",
+      "entityType": "term",
+      "sentence": "beard, XVII. Man-crow, XVIII. Saylan, XXI. Tacoma and the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "presently",
+      "entityType": "term",
+      "sentence": "presently, also have genuine African prototypes, and it is a question",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "says",
+      "entityType": "term",
+      "sentence": "says, “Toutes les betes qui passent et repassent dans ces curieux",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "phant",
+      "entityType": "term",
+      "sentence": "phant, Noua-ndlopfou .... Leurs caracteres physiques particuliers",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "food",
+      "entityType": "term",
+      "sentence": "food, in the usual native hut with the fireplace in the middle",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rule",
+      "entityType": "term",
+      "sentence": "rule, without further question ; but, years before he had become",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "does",
+      "entityType": "term",
+      "sentence": "does, to take on a human character, going to Freetown to buy",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "shape",
+      "entityType": "term",
+      "sentence": "shape, that of the Spider,” which he assumes, as though the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "him",
+      "entityType": "term",
+      "sentence": "him, he reach him down with his mouth ” ; and he lives in a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Crocodile",
+      "entityType": "term",
+      "sentence": "Crocodile,2 making the latter go back into the trap whence he",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "story",
+      "entityType": "term",
+      "sentence": "story, given by Zimmermann in his Grammatical Sketch of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chatelain",
+      "entityType": "term",
+      "sentence": "Chatelain, p. 13 1) the Spider is mentioned as affording a means",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "character",
+      "entityType": "term",
+      "sentence": "character, has departed, perhaps more widely than any other,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "race",
+      "entityType": "term",
+      "sentence": "race, which had prevented, and always would prevent, their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "animal",
+      "entityType": "term",
+      "sentence": "animal, though such acts are considered, in the case of individual",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chameleon",
+      "entityType": "term",
+      "sentence": "Chameleon, is told by the Anyanja (of the Shire Highlands and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "graze",
+      "entityType": "term",
+      "sentence": "graze, and the Goat, who arrives first with the tidings that man",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ously",
+      "entityType": "term",
+      "sentence": "ously, not accidentally, rendered inoperative the remedy against",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "case",
+      "entityType": "term",
+      "sentence": "case, a smaller-sized race who previously occupied the country.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Herrmann",
+      "entityType": "term",
+      "sentence": "Herrmann,2 in which a boy gives his grandmother some honey",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Thus",
+      "entityType": "term",
+      "sentence": "Thus, the incident of the race between the swift creature and the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lopenart",
+      "entityType": "term",
+      "sentence": "lopenart, eseru genannt.” The curious thing is that Njo Dibone,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Seminary",
+      "entityType": "term",
+      "sentence": "Seminary, vol. i.) p. 194.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "alive",
+      "entityType": "term",
+      "sentence": "alive, shell and all. But pythons large enough to do this, unless",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "determination",
+      "entityType": "term",
+      "sentence": "determination, while silence and secrecy implied mystery and a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "aquatic",
+      "entityType": "term",
+      "sentence": "aquatic, is evidently amphibious. We find tortoise stories all",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Herero",
+      "entityType": "term",
+      "sentence": "Herero, Bemba, Congo (Upoto), Angola and Sesuto ones. This",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Africa",
+      "entityType": "term",
+      "sentence": "Africa, leopards are called “ tigers ” by Dutch, English, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sea-Gaulin",
+      "entityType": "term",
+      "sentence": "Sea-Gaulin, Candle-Fly, Crab and Tarpon. Some stories, for",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Europe",
+      "entityType": "term",
+      "sentence": "Europe, may be of purely local origin ; this is most likely to be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dennett",
+      "entityType": "term",
+      "sentence": "Dennett, in which the Leopard’s wife is induced to eat her",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wife",
+      "entityType": "term",
+      "sentence": "wife, Nahker, “ he say he done tire, en Spider say : ‘ Yo’ wey",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fireplace",
+      "entityType": "term",
+      "sentence": "fireplace, set on a pot of water just underneath it, and leave",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tale",
+      "entityType": "term",
+      "sentence": "tale, and elsewhere) of the song which made the hoed garden",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mother",
+      "entityType": "term",
+      "sentence": "mother, and is drowned on the next expedition, his companions",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "carry",
+      "entityType": "term",
+      "sentence": "carry, and not knowing the word fails to get out, and is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "version",
+      "entityType": "term",
+      "sentence": "version, entitled “ Tiny Pig,” omits the two incidents of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "paper",
+      "entityType": "term",
+      "sentence": "paper, the apple-tree having become a pear-tree, and the churn",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Portuguese",
+      "entityType": "term",
+      "sentence": "Portuguese, and the local colouring goes so far as to introduce",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Spider",
+      "entityType": "term",
+      "sentence": "Spider, having had a narrow escape from the magic powers of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hand",
+      "entityType": "term",
+      "sentence": "hand, which follow on p. 93, are certainly English — the Bible",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "original",
+      "entityType": "term",
+      "sentence": "original, and which present several features of interest, though",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "hyena",
+      "entityType": "term",
+      "sentence": "hyena, corresponds very closely with the Temne “Marry the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "devil",
+      "entityType": "term",
+      "sentence": "devil, there’s the devil to pay” ( Cunnie Rabbit , p. 178) — even to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "light",
+      "entityType": "term",
+      "sentence": "light, and his hurried flight through the window (in which he",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Appendix",
+      "entityType": "term",
+      "sentence": "Appendix, p. 286). The Snake is never accepted ; and the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jamaica",
+      "entityType": "term",
+      "sentence": "Jamaica, Januaiy, 1906.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fail",
+      "entityType": "term",
+      "sentence": "fail, and they fling themselves on the ground and wriggle",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lazy",
+      "entityType": "term",
+      "sentence": "lazy, and is only to be tempted to honest labour by the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "another",
+      "entityType": "term",
+      "sentence": "another, and endless are his shifts and devices to supply",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "selfish",
+      "entityType": "term",
+      "sentence": "selfish, and knows no remorse for his many deeds of vio-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lence",
+      "entityType": "term",
+      "sentence": "lence, treachery and cruelty. His only redeeming point is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "syntax",
+      "entityType": "term",
+      "sentence": "syntax, but they mean “ Well ! I do not.” Thus “ no more",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "accent",
+      "entityType": "term",
+      "sentence": "accent, take the name of that town in Madagascar, which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tried",
+      "entityType": "term",
+      "sentence": "tried, or at least only feebly, to articulate it. With all this",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rhythm",
+      "entityType": "term",
+      "sentence": "is that which in music is known as rhythm. Rightly",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "guised",
+      "entityType": "term",
+      "sentence": "guised, the listener has a sort of impression of modern",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "oni",
+      "entityType": "term",
+      "sentence": "oni, bani.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "men",
+      "entityType": "term",
+      "sentence": "men, his name would find its way into stories repeated",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ear",
+      "entityType": "term",
+      "sentence": "ear, quite irrespective of the funny things they say ;",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "say",
+      "entityType": "term",
+      "sentence": "say: —",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "frighten",
+      "entityType": "term",
+      "sentence": "frighten, frightened. Past participles are seldom used,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "take",
+      "entityType": "term",
+      "sentence": "take, eat, leave, go, takes, eats, leaves, goes. This shortening is always",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "diversion",
+      "entityType": "term",
+      "sentence": "diversion, it may have been thought good manners to say : “ This story of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "drum",
+      "entityType": "term",
+      "sentence": "drum, an’ give the musicians them a tune to sing the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bahl",
+      "entityType": "term",
+      "sentence": "bahl, bawl.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tief",
+      "entityType": "term",
+      "sentence": "tief, thieve.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wenchy",
+      "entityType": "term",
+      "sentence": "Wenchy, an’ the day when they was to get marry Miss",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gully",
+      "entityType": "term",
+      "sentence": "gully, an’ he drop in the gully pom-galong.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "banana",
+      "entityType": "term",
+      "sentence": "banana, bit fe Gungo peas, an’ me see if me can get",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "look",
+      "entityType": "term",
+      "sentence": "look, Tomby, look oh ! me look, Tomby, see no youricky-yourk ; Me",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Old-witch",
+      "entityType": "term",
+      "sentence": "Old-witch, a person of either sex possessed of supernatural powers, not",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "youricky-yourk",
+      "entityType": "term",
+      "sentence": "youricky-yourk, a nonsense word for some kind of plaster,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pass",
+      "entityType": "term",
+      "sentence": "pass, path.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ahm",
+      "entityType": "term",
+      "sentence": "ahm, frequently used for him.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fuppence",
+      "entityType": "term",
+      "sentence": "fuppence, with Italian u having a turn towards o, fivepence in the old",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trouble",
+      "entityType": "term",
+      "sentence": "trouble, coming as it does from an old-witch. It would not be guessed that",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gungo",
+      "entityType": "term",
+      "sentence": "Gungo, Congo. This pea is not only excellent for soup, but the growing",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bit",
+      "entityType": "term",
+      "sentence": "bit,” your three quatties. She only had a treppence but the Negro is above",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "foot",
+      "entityType": "term",
+      "sentence": "foot, an’ sen’ go call Bro’er Cow, Bro’er Monkey, Bro’er",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sheep",
+      "entityType": "term",
+      "sentence": "Sheep, Bro’er Goat an’ Bro’er Hog. An’ when them come",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hog",
+      "entityType": "term",
+      "sentence": "Hog, Monkey. Cow was the minister.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "parson",
+      "entityType": "term",
+      "sentence": "parson, take you frien’ in, you will see de ole man ’pon bed.”",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "John",
+      "entityType": "term",
+      "sentence": "John, me see the last to-day ya, me see the last, puppagone.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fresh",
+      "entityType": "term",
+      "sentence": "fresh, fresh meat. In the country districts the only meat to be had as a rule",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "favour",
+      "entityType": "term",
+      "sentence": "favour, look like. In some parts of England the word is still used in this",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "one",
+      "entityType": "term",
+      "sentence": "one, own.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "confusion",
+      "entityType": "term",
+      "sentence": "confusion, quarrel.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "min",
+      "entityType": "term",
+      "sentence": "min, been. If I had come in you would have done the same to me.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "seven",
+      "entityType": "term",
+      "sentence": "seven— eight — nine — ten — me no touch liver.”",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "something",
+      "entityType": "term",
+      "sentence": "something, is not unnatural.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sis-ter",
+      "entityType": "term",
+      "sentence": "sis-ter, will you open the door oh? Fair an’ gande-low steel.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gandelow",
+      "entityType": "term",
+      "sentence": "Gandelow, scotran. The meaning of these words is lost.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "surprising",
+      "entityType": "term",
+      "sentence": "surprising, therefore, that we cannot recover words passed from mouth to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "axe",
+      "entityType": "instrument",
+      "sentence": "an’ him got a very sharp axe. An’ when Mr. Annancy",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "come",
+      "entityType": "term",
+      "sentence": "come, William Tell show him the cow — Annancy glad",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "done",
+      "entityType": "term",
+      "sentence": "done, put the shell ’pon him finger.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "PUM",
+      "entityType": "term",
+      "sentence": "PUM, an jam him head in a the temper lime an’ blind him.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Das",
+      "entityType": "term",
+      "sentence": "Das, that’s.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "out",
+      "entityType": "term",
+      "sentence": "going on at home. An’ as he sat at dinner, he called out",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "itty-hap",
+      "entityType": "term",
+      "sentence": "itty-hap, until he get home.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Now",
+      "entityType": "term",
+      "sentence": "Now, Mrs. Bluebeard two brother was a hunter-man in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "saucer",
+      "entityType": "term",
+      "sentence": "saucer, and fill it with water, and put it in the sun, an’ you",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "itty-itty-hap",
+      "entityType": "term",
+      "sentence": "itty-itty-hap, itty-itty-hap.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "neck",
+      "entityType": "term",
+      "sentence": "neck, an’ his two brother appear, an’ the eldest one going",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "three-foot",
+      "entityType": "term",
+      "sentence": "three-foot, three-legged.1 * * * Hand is used for arm in the same way.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "quick",
+      "entityType": "instrument",
+      "sentence": "voice rises on hap which is said with a sharp quick accent.1",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yingdeyingdeying",
+      "entityType": "term",
+      "sentence": "Yingdeyingdeying, Yingdeyingdeying, take care you go talk oh.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "make",
+      "entityType": "term",
+      "sentence": "make, him slide in the floor an’ him trousies pop. Then",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ratta",
+      "entityType": "term",
+      "sentence": "Ratta, rat or rats.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sleeping",
+      "entityType": "term",
+      "sentence": "sleeping, Toad take the twenty picny them along with",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jin",
+      "entityType": "term",
+      "sentence": "Jin - ko - ro - ro, Jin-kok-kok-kok.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mind",
+      "entityType": "term",
+      "sentence": "mind, we will chance it again.”",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "bawl",
+      "entityType": "term",
+      "sentence": "bawl: — “Ha! Ha! Ha! me more than Toad.” An’",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jinkororo",
+      "entityType": "term",
+      "sentence": "Jinkororo, etc. This is a capital imitation of the Toad’s croaking chuckle.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "dirty",
+      "entityType": "term",
+      "sentence": "dirty, ground.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hard",
+      "entityType": "term",
+      "sentence": "hard, an’ say to himself : — “ Bro’er Annancy up to some",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "common",
+      "entityType": "term",
+      "sentence": "common, vulgar song is evidently of late origin and probably does not really",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dobo",
+      "entityType": "term",
+      "sentence": "Dobo, Doba, Do - ba no make de little one get ’way",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ball",
+      "entityType": "term",
+      "sentence": "Ball - an - to - ny Bap ! twee twee, Ball -an - to - ny Bap ! twee twee.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Doba",
+      "entityType": "term",
+      "sentence": "Doba, Doba,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sir",
+      "entityType": "term",
+      "sentence": "Sir, you lying fellah ! ”",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "truth",
+      "entityType": "term",
+      "sentence": "truth, went an’ dug a hole fe him an’ him mumma.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "licking-match",
+      "entityType": "term",
+      "sentence": "Fighting with sticks is called a licking-match.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dry-bone",
+      "entityType": "term",
+      "sentence": "Dry-bone, but you must make me carry the birds what we",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "cry",
+      "entityType": "term",
+      "sentence": "cry, say that him going to t’row down Dry-bone.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fire",
+      "entityType": "term",
+      "sentence": "fire,” the cat warms herself by the fire,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Walk",
+      "entityType": "term",
+      "sentence": "Walk, talk, warm, hawk, all have the vowel ah. This story refers to the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rock",
+      "entityType": "term",
+      "sentence": "rock, an’ an old-witch boy is the watchman.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dem",
+      "entityType": "term",
+      "sentence": "dem, Turn dem make dem lay, turn dem, Turn dem make dem lay, turn dem.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "So-and-so",
+      "entityType": "term",
+      "sentence": "Fe-We-Hall. Very humble houses are called So-and-so Castle and So-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "destroy",
+      "entityType": "term",
+      "sentence": "destroy, take away, so that they are lost to the owner and destroyed as far",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "breakfast",
+      "entityType": "term",
+      "sentence": "breakfast, the principal repast of the day at twelve o’clock.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "said",
+      "entityType": "term",
+      "sentence": "said, the art of disguising thought.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chanice",
+      "entityType": "term",
+      "sentence": "chanice, more usually chalice, challenge.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "crow",
+      "entityType": "term",
+      "sentence": "crow, Goodmarnin’ toyou, Man-crow, How are you this marnin’?",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Johnny-cake",
+      "entityType": "term",
+      "sentence": "Johnny-cake, journey cake made of flour and water fried in lard.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "shame",
+      "entityType": "term",
+      "sentence": "shame, etc., was ashamed and was quietly making a hole in the shingle roof",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sister",
+      "entityType": "term",
+      "sentence": "Sister, youbringmesomesilverPNo, my child, I bring you none.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Brother",
+      "entityType": "term",
+      "sentence": "Brother, yon bring me some gold? No, my child, I bring yon none.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lover",
+      "entityType": "term",
+      "sentence": "Lover, you bringmesome sil-ver? Yes, my dear, Ibringyou some.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tuffa",
+      "entityType": "term",
+      "sentence": "tuffa, with Italian u imitates spitting, a sign of contempt.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hungry",
+      "entityType": "term",
+      "sentence": "hungry, he says to Mr. Annancy that he must treat his",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cow",
+      "entityType": "term",
+      "sentence": "Cow, if you want to go with me you fe make me put one",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tree",
+      "entityType": "term",
+      "sentence": "tree, an’ tell Cow him goin’ to get a yitty breakfus’ for him.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tie",
+      "entityType": "term",
+      "sentence": "tie, me tie, me tie oh ! Brother Annancy tie some-bo - dy.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "gourdy",
+      "entityType": "term",
+      "sentence": "gourdy, the dried shell of the gourd-like fruit of the Calabash ( Crescentia",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wiss-wiss",
+      "entityType": "term",
+      "sentence": "wiss-wiss, withe. There are many kinds of these natural ropes to be found",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fooyish",
+      "entityType": "term",
+      "sentence": "fooyish, foolish.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "yltty",
+      "entityType": "term",
+      "sentence": "yltty, little,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nyam",
+      "entityType": "term",
+      "sentence": "nyam, eat.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tumpa",
+      "entityType": "term",
+      "sentence": "tumpa, stumpy, short,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "man",
+      "entityType": "term",
+      "sentence": "man, an’ get a pair of brown-coloured mongoose to be",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "witch",
+      "entityType": "term",
+      "sentence": "witch, an’ all what Tacoma talk from home the gal really",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "honey-dram",
+      "entityType": "term",
+      "sentence": "honey-dram, an’ now him catch him, an’ him wouldn’ let",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "lso",
+      "entityType": "term",
+      "sentence": "heating com, i.e. maize, to separate the grain from the husks, called also",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "preaching",
+      "entityType": "term",
+      "sentence": "preaching, made a drum an’ a fiddle an’ give Blackbird",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wait",
+      "entityType": "term",
+      "sentence": "wait, until the next day he made a flute an’ give to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "roll",
+      "entityType": "term",
+      "sentence": "roll, a go to Mount Si-ney. Sa - lem is Zakki-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "low",
+      "entityType": "term",
+      "sentence": "low, Some a we da go to Mount Si-ney.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "plat-card",
+      "entityType": "term",
+      "sentence": "plat-card, placard ; a rough written advertisement affixed to the trunk of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "succeed",
+      "entityType": "term",
+      "sentence": "succeed, when you coming home back you must make me",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rabbit",
+      "entityType": "term",
+      "sentence": "Rabbit, I am very sorry ! You is only but a meat,1 so I",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "back",
+      "entityType": "term",
+      "sentence": "back, the boy follow him an’ go to the river side where",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gaulin",
+      "entityType": "term",
+      "sentence": "Gaulin, the Egret. In stormy weather the egrets leave the sea-side and fly",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ask",
+      "entityType": "term",
+      "sentence": "ask, will sit on and talk of other things, finally taking his leave as if nothing",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bus",
+      "entityType": "term",
+      "sentence": "bus, the buggies which ply for hire in Kingston are so called.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wednesday",
+      "entityType": "term",
+      "sentence": "Wednesday, the favourite day for weddings. The bridegroom is accom-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "muster",
+      "entityType": "term",
+      "sentence": "muster, and ride to church dressed in their best. The bride and bridegroom,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "drink",
+      "entityType": "term",
+      "sentence": "drink, an’ then Monkey commence to boast. Monkey was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gone",
+      "entityType": "term",
+      "sentence": "gone, no sense to let him get ’way. Tiger was so glad,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "died",
+      "entityType": "term",
+      "sentence": "died, so the mother grow them up herself. When the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ever",
+      "entityType": "term",
+      "sentence": "ever, especially you, Mrs. Wolf. You husban’ try an’",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chimley",
+      "entityType": "term",
+      "sentence": "chimley, she drop in the water an’ dead, she an’ the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Wolf",
+      "entityType": "term",
+      "sentence": "Wolf, Wolf, Wolf ! no use you try fe come in,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "comein",
+      "entityType": "term",
+      "sentence": "comein, Come Wolf, Me will put you both to-gether.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "huff",
+      "entityType": "term",
+      "sentence": "huff, scratch with the hoof.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kindling",
+      "entityType": "term",
+      "sentence": "kindling, small wood to light fires with.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Simmit",
+      "entityType": "term",
+      "sentence": "Simmit, Smith,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fulling",
+      "entityType": "term",
+      "sentence": "fulling, trimbling, always so.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "met",
+      "entityType": "term",
+      "sentence": "met, meeting, ball,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Dummy",
+      "entityType": "term",
+      "sentence": "There was a man couldn’ talk, called Dummy.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Well",
+      "entityType": "term",
+      "sentence": "Well, Annancy went to Hog, ask him “ Bro’er Hog if",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chirry-way",
+      "entityType": "term",
+      "sentence": "Chirry-way, Chirry-way, Chir-ry -",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "eggs",
+      "entityType": "term",
+      "sentence": "eggs, don’t know that it was shell. Tiger know how the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Big",
+      "entityType": "term",
+      "sentence": "which is the size of a cockchafer but rather longer, is commonly called Big",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "get",
+      "entityType": "term",
+      "sentence": "get, get to the place.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gash",
+      "entityType": "term",
+      "sentence": "gash, flash. Lightning is said to gash. As explained above, this gashing of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "barrel-bag",
+      "entityType": "term",
+      "sentence": "barrel-bag, a bag of the capacity of a flour barrel.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "paw",
+      "entityType": "term",
+      "sentence": "paw, pronounced pah very broadly.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dog-fleas",
+      "entityType": "term",
+      "sentence": "Fleas are always called dog-fleas, or rather dahg-fleas.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tea",
+      "entityType": "term",
+      "sentence": "tea, the morning sugar-water, is the signal that it is time for the guest to be",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "form",
+      "entityType": "term",
+      "sentence": "form, pretended.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "church",
+      "entityType": "term",
+      "sentence": "church, an’ him didn’ want Toad was to leave his church.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pronounce",
+      "entityType": "term",
+      "sentence": "pronounce, yet the reciter, whose normal speech is of the laziest, like that of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mossiful",
+      "entityType": "term",
+      "sentence": "mossiful, unmerciful. Dog really used a bad word here, which is always",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "doning",
+      "entityType": "term",
+      "sentence": "doning, being done.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "wheeling",
+      "entityType": "term",
+      "sentence": "wheeling, turning them in the dance,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "upstarted",
+      "entityType": "term",
+      "sentence": "upstarted, angry,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "palm",
+      "entityType": "term",
+      "sentence": "palm, touch or hold with the hand,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Chicken",
+      "entityType": "term",
+      "sentence": "Chicken - hahk oh ! Chicken - hahk oh !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mechanic",
+      "entityType": "term",
+      "sentence": "mechanic, antics,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "home",
+      "entityType": "term",
+      "sentence": "home; you have yourdearestlover an’ cast him down to the well.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sair",
+      "entityType": "term",
+      "sentence": "Sair - ey gone home com-man-do Yah - ka Yah - ky",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ground",
+      "entityType": "term",
+      "sentence": "ground, a provision ground where yams, etc., are grown. They often",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "commando",
+      "entityType": "term",
+      "sentence": "commando, pronounced common doe.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "yah",
+      "entityType": "term",
+      "sentence": "yah, with French a.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "buck",
+      "entityType": "term",
+      "sentence": "buck, stumbles on, meet.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jfc",
+      "entityType": "term",
+      "sentence": "-Jfc— fi— ,j a— sr",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Snake",
+      "entityType": "term",
+      "sentence": "Snake, fe all him mout’ full, get to say : — “ Me will",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "matrimony",
+      "entityType": "term",
+      "sentence": "matrimony, and behold it was heavy.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cane",
+      "entityType": "term",
+      "sentence": "cane, tell them that it is fe him chewstick.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chewstick",
+      "entityType": "term",
+      "sentence": "chewstick, a common climber. A piece of the stem about the thickness of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "howdy",
+      "entityType": "term",
+      "sentence": "howdy, how do you do ?",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "papa",
+      "entityType": "term",
+      "sentence": "papa, pronunciation something between puppa and poppa, with slight accent",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trash",
+      "entityType": "term",
+      "sentence": "trash, the fibre. Trash is any kind of refuse, such as shells of peas, husks",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rope",
+      "entityType": "term",
+      "sentence": "rope, pronounced ro-up. So gate becomes ge-ut (French 6), goat, go-ut",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "hasty",
+      "entityType": "term",
+      "sentence": "hasty, haste, i.e. your hurrying away.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hear",
+      "entityType": "term",
+      "sentence": "hear, an’ beg him anything that him see in the way must",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "himself",
+      "entityType": "term",
+      "sentence": "himself, say : — “ Me boy never would a nyam nothing",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "daughter",
+      "entityType": "term",
+      "sentence": "daughter: you will have fe find ahm gi’ me. Then if you",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "usual",
+      "entityType": "term",
+      "sentence": "usual, are wont.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rolling",
+      "entityType": "term",
+      "sentence": "rolling, roaring.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "duckanoo",
+      "entityType": "term",
+      "sentence": "duckanoo, a kind of mango.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Timmo",
+      "entityType": "term",
+      "sentence": "Timmo - limrno, man dere, Timmo - limmo, man",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dere",
+      "entityType": "term",
+      "sentence": "dere, Come down make we bat - tie, man dere.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Timmolimmo",
+      "entityType": "term",
+      "sentence": "Timmolimmo, man dere,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "list",
+      "entityType": "term",
+      "sentence": "list, risks it.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cross-pass",
+      "entityType": "term",
+      "sentence": "cross-pass, cross-path.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "corn",
+      "entityType": "term",
+      "sentence": "corn, an’ the robbing continually going on.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ribbim-bim-bim",
+      "entityType": "term",
+      "sentence": "ribbim-bim-bim, “Annancy no dere,” ribbim-bim-bim,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "again",
+      "entityType": "term",
+      "sentence": "again, begun to tief the corn like witch.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "euUabunka",
+      "entityType": "term",
+      "sentence": "euUabunka, a kind of Palm.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "banana-walk",
+      "entityType": "term",
+      "sentence": "banana-walk, technical name for a banana plantation.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Sesame",
+      "entityType": "term",
+      "sentence": "Sesame,” an’ the door open.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "piecen",
+      "entityType": "term",
+      "sentence": "piecen, a nice word. They use it also in speaking of the patching of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bird",
+      "entityType": "term",
+      "sentence": "bird, please carry me over a you feedin’ tree.”",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "feather",
+      "entityType": "term",
+      "sentence": "feather, ’tick upon Annancy. He take two feather out",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sea-mahmy",
+      "entityType": "term",
+      "sentence": "Sea-mahmy, I think it hot now.”",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "height",
+      "entityType": "term",
+      "sentence": "height, in the height of, at the worst of.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Trapong",
+      "entityType": "term",
+      "sentence": "Trapong, tarpon, the famous sporting fish of Florida and Santa Catalina,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "work",
+      "entityType": "term",
+      "sentence": "work, he is going to get another man to watch.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "watchman",
+      "entityType": "term",
+      "sentence": "watchman, an’ same time Cock say to Crab that him",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "money",
+      "entityType": "term",
+      "sentence": "money, but when the corn came in Cock is to get his",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "piece",
+      "entityType": "term",
+      "sentence": "piece, an’ Crab say “Yes.”",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tiger",
+      "entityType": "term",
+      "sentence": "Tiger, how you clothes damp, you must have fe put",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "turn",
+      "entityType": "instrument",
+      "sentence": "nearing a sharp turn in the road, the head muleman blows a fanfare to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "clearing",
+      "entityType": "term",
+      "sentence": "clearing, he must call him that he may got home before",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "fee-fee",
+      "entityType": "term",
+      "sentence": "fee-fee, food.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "concentina",
+      "entityType": "term",
+      "sentence": "concentina, always with this n.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sling",
+      "entityType": "term",
+      "sentence": "sling, hand, with a notion of vigorous action,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sweet",
+      "entityType": "term",
+      "sentence": "sweet, pleased.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "excuse",
+      "entityType": "term",
+      "sentence": "excuse, to be excused ; pronounce the s like z.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fish",
+      "entityType": "term",
+      "sentence": "fish, an’ send an’ call Brother Monkey to come an’ help",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tumpa-hand",
+      "entityType": "term",
+      "sentence": "Tumpa, stump. A man who has lost his arm is called a tumpa-hand",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "XLVI",
+      "entityType": "term",
+      "sentence": "XLVI, JOHN CROW AND FOWL-HAWK.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "friend",
+      "entityType": "term",
+      "sentence": "friend, make we go.”",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bam",
+      "entityType": "term",
+      "sentence": "bam, French a, English m, imitating the discharge of the gun.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fellah",
+      "entityType": "term",
+      "sentence": "fellah, so you better put me fe guard you house from",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "why",
+      "entityType": "term",
+      "sentence": "why, why ! Quashy take you pear ; you no yerry ?",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tatafelo",
+      "entityType": "term",
+      "sentence": "Tatafelo, Italian a, the other vowels English.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pear",
+      "entityType": "term",
+      "sentence": "Pear, i.e. the West Indian pear, a delicious vegetable.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "everybody",
+      "entityType": "term",
+      "sentence": "everybody, used also of inanimate objects. They say : — “ I going to",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "water",
+      "entityType": "term",
+      "sentence": "water, see if you one can manage fe take out de fish-pot.”",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fish-pot",
+      "entityType": "term",
+      "sentence": "fish-pot, made of bamboo strips and looking like a lobster-pot.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "jonga",
+      "entityType": "term",
+      "sentence": "jonga, the smallest of the three kinds of crawfish which abound in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "knock",
+      "entityType": "term",
+      "sentence": "knock, empty.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "frettenation",
+      "entityType": "term",
+      "sentence": "frettenation, probably fright, but may have something to do with fretting.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fright",
+      "entityType": "term",
+      "sentence": "fright, says that he has killed a man. These elliptical expressions are hard to",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "door",
+      "entityType": "term",
+      "sentence": "door, me rarabum Cud-dy de da door, me rarabum Cud-dy de da door.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cuddy",
+      "entityType": "term",
+      "sentence": "Cuddy, short for Cordelia,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rarabum",
+      "entityType": "term",
+      "sentence": "rarabum, nonsense word, Italian vowels.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cuss",
+      "entityType": "term",
+      "sentence": "cuss, abuse. It does not imply swearing. To swear is to cuss bad word.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "deeble-a-bup",
+      "entityType": "term",
+      "sentence": "deeble-a-bup, the sound of the three-legged horse’s step. Compare the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "canoe",
+      "entityType": "term",
+      "sentence": "canoe, pronounced with accent on the first syllable and French a.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "peg",
+      "entityType": "term",
+      "sentence": "peg, an’ when him come he plant them in the river",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bag",
+      "entityType": "term",
+      "sentence": "bag, an’ go back same place.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Push",
+      "entityType": "term",
+      "sentence": "Push, mus’ go an’ fetch one come make me see.”",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lick",
+      "entityType": "term",
+      "sentence": "lick, him lick, him lick. These words are run closely together, then a",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "pause",
+      "entityType": "term",
+      "sentence": "pause, and then him lick outside. Pause again, after which the sentence",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wheel",
+      "entityType": "term",
+      "sentence": "wheel, to cause to turn or spin. I have no clue to Mr. Wheeler.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "poorly",
+      "entityType": "term",
+      "sentence": "poorly, poor in spirit, meek.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sinnicky",
+      "entityType": "term",
+      "sentence": "sinnicky, sneaky.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ccording",
+      "entityType": "term",
+      "sentence": "used to be named according to the day of the week on which they were",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "used",
+      "entityType": "term",
+      "sentence": "used, together with rum, as an accompaniment to field",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "yams",
+      "entityType": "term",
+      "sentence": "yams, which will by and by climb them like hops. After",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "digging-sings",
+      "entityType": "term",
+      "sentence": "digging-sings, which began quietly enough, get more and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "example",
+      "entityType": "form",
+      "sentence": "The next example is a type of many of the sings.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ben",
+      "entityType": "term",
+      "sentence": "Ben - ji-man ! Bar-ra - rap Bar-ra-rap Bar-ra - rap me Ben - ji -",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Linky",
+      "entityType": "term",
+      "sentence": "Linky, is forgetting how time goes. He should be giving",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tenpence",
+      "entityType": "term",
+      "sentence": "called tenpence. The u in “fuppence” is an Italian u",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "feature",
+      "entityType": "term",
+      "sentence": "feature, which by now must be thoroughly understood.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gay",
+      "entityType": "term",
+      "sentence": "gay, Bell a ring a yard oh ! Baboon roll de drum oh,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "syllable",
+      "entityType": "term",
+      "sentence": "syllable, which he lengthens to “ bah.” “ Rubbing ” a fiddle",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "accompaniment",
+      "entityType": "instrument",
+      "sentence": "and the rest make a sort of mild bagpipe accompaniment.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Rain",
+      "entityType": "term",
+      "sentence": "Rain, rain oh ! Rain, rain oh fall down an’ wet me up.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dogaraggaway",
+      "entityType": "term",
+      "sentence": "dogaraggaway, Ding dogaraggaway, Ding dogaraggaway, Ding dong.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "consternation",
+      "entityType": "term",
+      "sentence": "consternation, and gasped out “ Rufus hang ! ” Rufus",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bad",
+      "entityType": "term",
+      "sentence": "bad, and by next day he had quite recovered.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Once",
+      "entityType": "term",
+      "sentence": "Once, travelling in a tram-car, there was a slight acci-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Aunt",
+      "entityType": "term",
+      "sentence": "Aunt - y Ma - ry oh !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "yerry",
+      "entityType": "term",
+      "sentence": "yerry, Married homan a pull him ring me yerry Him put ahm a wine",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wear",
+      "entityType": "term",
+      "sentence": "wear - y long boot,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "correctly",
+      "entityType": "term",
+      "sentence": "correctly, saying it “stood for yellow.”",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "companion",
+      "entityType": "term",
+      "sentence": "companion, the heavenly spirit. It can assume any sort",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sam",
+      "entityType": "term",
+      "sentence": "Sam - bo la - dy ho ! Sam - bo, Sam - bo la - dy",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "father",
+      "entityType": "term",
+      "sentence": "father, brown being a cross between black and white.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Goatridge",
+      "entityType": "term",
+      "sentence": "Goatridge, twenty-two miles from Kingston : —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "love",
+      "entityType": "term",
+      "sentence": "love, John Thomas,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "two",
+      "entityType": "term",
+      "sentence": "two, John Thomas, Me give her the biggest piece, John",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "loaf",
+      "entityType": "term",
+      "sentence": "loaf, and what more do you want, John Thomas?",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sambo",
+      "entityType": "term",
+      "sentence": "Sambo, that we had just now, is the shortest of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "lengthened",
+      "entityType": "term",
+      "sentence": "lengthened, as it should be here, it generally changes in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "earth-chisel",
+      "entityType": "term",
+      "sentence": "earth-chisel, and a very good description it is. It makes",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Red",
+      "entityType": "term",
+      "sentence": "Peas, which are also called Red Peas, are the “ beans ”",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Peas",
+      "entityType": "term",
+      "sentence": "Peas, which are also called Red Peas, are the “ beans ”",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Digging",
+      "entityType": "term",
+      "sentence": "Digging - S mgs.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ltr",
+      "entityType": "term",
+      "sentence": "Ltr - - *",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Min-nie",
+      "entityType": "term",
+      "sentence": "Min-nie,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "lady",
+      "entityType": "term",
+      "sentence": "lady, it may be remembered, wanted a white man and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Goat",
+      "entityType": "term",
+      "sentence": "Goat - ridge me barn, bring dem come, I",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tim",
+      "entityType": "term",
+      "sentence": "Tim - ber lay down ’pon pit, Tim - ber ; cut ’im",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Gua",
+      "entityType": "term",
+      "sentence": "Gua - va Ridge me barn oh ! me want go home a yard oh ! mum-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "War",
+      "entityType": "term",
+      "sentence": "War, war, war oh ! War oh ! heavy war oh !",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "remarkable",
+      "entityType": "term",
+      "sentence": "remarkable, and he knows just where it will “ come,”",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "First",
+      "entityType": "term",
+      "sentence": "First, as giving its name to the whole, must stand : —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lit",
+      "entityType": "term",
+      "sentence": "Lit - tie Sal - ly Wa - ter sprinkle in the sau - cer ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rise",
+      "entityType": "term",
+      "sentence": "Rise, Sal - ly, rise an’ wipe your weep-ing eyes. Sal - ly",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "V-jV",
+      "entityType": "term",
+      "sentence": "V-jV-—",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "yV-Tr",
+      "entityType": "term",
+      "sentence": "yV-Tr:** ^ ^ ^ *",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sev",
+      "entityType": "term",
+      "sentence": "sev - en year to come, give her a kiss an’ send her out.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "mya",
+      "entityType": "term",
+      "sentence": "mya, see-mya. Go fin’youlov-er now. See-mya, see-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "See",
+      "entityType": "term",
+      "sentence": "See - mya,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "diamond",
+      "entityType": "term",
+      "sentence": "diamond, the blacker the better. The ring forms round",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "together",
+      "entityType": "term",
+      "sentence": "together, wheeling and letting go hands at the words",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "car",
+      "entityType": "term",
+      "sentence": "car - ry ba -",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tight",
+      "entityType": "term",
+      "sentence": "tight, shoulder to shoulder. Hands behind the back",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ney",
+      "entityType": "term",
+      "sentence": "ney, ball, jour - ney,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "JoS",
+      "entityType": "term",
+      "sentence": "JoS— . .pzzj AZZJ ^ NpJ J",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "beau-man",
+      "entityType": "term",
+      "sentence": "beau-man,” a smart well-dressed young fellow. So it is",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "stone",
+      "entityType": "term",
+      "sentence": "stone, Broke them one by one gal an’ boy, Broke them two by",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ate",
+      "entityType": "term",
+      "sentence": "ate;",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "noisy",
+      "entityType": "term",
+      "sentence": "noisy, but not so rough : —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mon",
+      "entityType": "term",
+      "sentence": "Mon - a, Him give me dirty wahter, A-din - a Mon-a.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Pal-mer",
+      "entityType": "term",
+      "sentence": "Pal-mer, youjust from town, Palmer, oh — William Palmer!",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pal",
+      "entityType": "term",
+      "sentence": "Pal - mer,you just from town, Pal-mer, oh — William Pal-mer !",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Rjjffi",
+      "entityType": "term",
+      "sentence": "Rjjffi-,. , . 0",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "change",
+      "entityType": "term",
+      "sentence": "change, the girls fall into the arms of the boys, who",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "faint",
+      "entityType": "term",
+      "sentence": "faint, has a slang interpretation equivalertt to : “ All the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wheelhim",
+      "entityType": "term",
+      "sentence": "Wheelhim, Constab, wheelhim ; Wheelhim, Con -stab, wheelhim ; Him",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "John-ny",
+      "entityType": "term",
+      "sentence": "John-ny, John-ny, da whar-ra fe din-ner? Three slice a",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "lil",
+      "entityType": "term",
+      "sentence": "lil - ly bit a dumpling, Me Johnny come roll the board.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ten",
+      "entityType": "term",
+      "sentence": "ten - tion? Oh what is your in - ten - tion? My in - ten-tion is to",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "daugh-ter",
+      "entityType": "term",
+      "sentence": "daugh-ter; What is your in - ten - tion? I want to be a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "teach",
+      "entityType": "term",
+      "sentence": "teach - er. You shan’t be a teach - er. I bound to be a",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "liv",
+      "entityType": "term",
+      "sentence": "liv - ing Wa-ter",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "lim",
+      "entityType": "term",
+      "sentence": "lim - bo. The gal no wait at all, Bah - lim - bo.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "dear",
+      "entityType": "term",
+      "sentence": "dear, Bah - lim - bo. One pound a yard, Bah - lim - bo.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "limbo",
+      "entityType": "term",
+      "sentence": "fabric of any kind. In Africa calicoes are called limbo.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "bars",
+      "entityType": "term",
+      "sentence": "bars, always substituting a new name for Walker, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jamaican",
+      "entityType": "term",
+      "sentence": "departure from what may be called the Jamaican type",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "reflect",
+      "entityType": "term",
+      "sentence": "reflect, as they often do, upon the characters of indi-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "element",
+      "entityType": "term",
+      "sentence": "element, which is reinforced by amateurs. One brings a",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "cassada-grater",
+      "entityType": "term",
+      "sentence": "cassada-grater, looking like a bread-grater ; this, rubbed",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "lH-G",
+      "entityType": "term",
+      "sentence": "lH-G— 1st-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dog",
+      "entityType": "term",
+      "sentence": "dog, no puss, no fowl, A - mil - y. Bring back me dumpling,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "dump",
+      "entityType": "term",
+      "sentence": "dump - ling,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fee",
+      "entityType": "term",
+      "sentence": "fee, Be - nig - na Field, fe go buy silk dress, Fe go show them Gardon",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "boy",
+      "entityType": "term",
+      "sentence": "boy, fe go show them Gardon boy, fe go show them Gardon",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Barnita",
+      "entityType": "term",
+      "sentence": "Barnita, Justina, aud the English i in Alvira, Marina. The next are all",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "accented",
+      "entityType": "term",
+      "sentence": "accented, like the last six, on the penultimate ; Etilda, Iota, Clarista,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Pastora",
+      "entityType": "term",
+      "sentence": "Pastora, Barzella, Zedilla, Amanda, Agarta (evidently a variant of Agatha),",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lfe",
+      "entityType": "term",
+      "sentence": "Lfe— fe -fe - -J",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "best",
+      "entityType": "term",
+      "sentence": "best, taking Anatto and salt fish to stick into it. Do",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bun",
+      "entityType": "term",
+      "sentence": "Bun - go Moo-lat - ta, Bun -goMoo-lat - ta, Who de go",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "morn-ing",
+      "entityType": "term",
+      "sentence": "morn-ing; Tell all the nig -ger them to come, come, come,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "River",
+      "entityType": "term",
+      "sentence": "River, so called because the road crosses and recrosses",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nie",
+      "entityType": "term",
+      "sentence": "nie,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mar",
+      "entityType": "term",
+      "sentence": "Mar - ty, Mar - ty, mewan-ty go home,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "want",
+      "entityType": "term",
+      "sentence": "want - y come home, Me want - y come home back a yard.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Run",
+      "entityType": "term",
+      "sentence": "Run, Mos - es, run, Mis -ter Walk - er da come;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bucking",
+      "entityType": "term",
+      "sentence": "Bucking, or charging stag-fashion with the head, is the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Adela",
+      "entityType": "term",
+      "sentence": "Adela, oh you ought to be ashamed ! ” Adela’s sideway",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ver",
+      "entityType": "term",
+      "sentence": "Ver - y well, ver - y well, Mis - ter Col - lin now. An’ him",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Jlr",
+      "entityType": "term",
+      "sentence": "Jlr—J & ®",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mem",
+      "entityType": "term",
+      "sentence": "mem - bers now, Oh then poor Sab - ba - tar - ian bands !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tri",
+      "entityType": "term",
+      "sentence": "Tri - al ! We’re bound to leave this world. Bap-tis’, Bap-tis’,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Wesleyan",
+      "entityType": "term",
+      "sentence": "Wesleyan, etc., etc., among them Mettetis (Methodist).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Fa-ther",
+      "entityType": "term",
+      "sentence": "Fa-ther,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cji",
+      "entityType": "term",
+      "sentence": "cji: ' : 0 _ 0",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "son",
+      "entityType": "term",
+      "sentence": "son, you must have a lit - tie pa - tien’, Why I",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "nev",
+      "entityType": "term",
+      "sentence": "nev - er go an’ join the con - fir - ma - tion, For they",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "did",
+      "entityType": "term",
+      "sentence": "did - n’ have that great oc - ca - sion To",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Patience",
+      "entityType": "term",
+      "sentence": "Patience, as pronounced by the Jamaican without the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "however",
+      "entityType": "term",
+      "sentence": "however, really deceived, and will tell you in private",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Gib",
+      "entityType": "term",
+      "sentence": "Gib - er - al-tar is a well fine place but O-beah down de,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wrong",
+      "entityType": "term",
+      "sentence": "wrong, real or fancied. And herein lies the danger.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mer",
+      "entityType": "term",
+      "sentence": "Mer - ry - go-round a go fall down, fall down, fall down,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Try",
+      "entityType": "term",
+      "sentence": "Try, dear, don’t tell a lie, Try, dear, don’t tell a lie,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "f-jL",
+      "entityType": "term",
+      "sentence": "f-jL, — fl n — fs — s — -fs— = — = —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Breez",
+      "entityType": "term",
+      "sentence": "Breez - y",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "family",
+      "entityType": "term",
+      "sentence": "family, including quite distant relatives, think it incumbent",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bir",
+      "entityType": "term",
+      "sentence": "Bir - dy - zee - na, Bir - dy - zee - na, Come make we go da",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ston",
+      "entityType": "term",
+      "sentence": "ston, judging by the following : —",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "lev",
+      "entityType": "term",
+      "sentence": "lev - el, Sal - ly ought to been a - shame.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "level",
+      "entityType": "term",
+      "sentence": "flat is called a level.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Gap",
+      "entityType": "term",
+      "sentence": "Gap, which is the name of a pass through the hills. I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tiijz",
+      "entityType": "term",
+      "sentence": "tiijz: ]/. m",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ban",
+      "entityType": "term",
+      "sentence": "Ban - ker, Him boil the long long cab - bage bush, Him go",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "fol",
+      "entityType": "term",
+      "sentence": "fol - low me,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "drummer",
+      "entityType": "term",
+      "sentence": "drummer,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tick",
+      "entityType": "term",
+      "sentence": "tick - le the poor goat - ’kin.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "mountain",
+      "entityType": "term",
+      "sentence": "mountain, I near - ly dead for wa - ter but a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Here",
+      "entityType": "term",
+      "sentence": "Here, on the contrary, is something typically",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Sus",
+      "entityType": "term",
+      "sentence": "Sus - an ve - ry well, why oh ! Sus - an ve - ry",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "piaz",
+      "entityType": "term",
+      "sentence": "piaz - za with me wrap - per round me shoulder.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shaw",
+      "entityType": "term",
+      "sentence": "Shaw, you belter go home ; Notty, run in the garden an’",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dead",
+      "entityType": "term",
+      "sentence": "dead, Since the waggonette come in Parker take to heart dead.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Par",
+      "entityType": "term",
+      "sentence": "Par - ker take to heart dead.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "follow-line",
+      "entityType": "term",
+      "sentence": "follow-line, Somebody dy - ing here ev-’ry day. A ten pound",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "pardner",
+      "entityType": "term",
+      "sentence": "pardner, A ten pound order him kill me pardner For somebody",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "accident",
+      "entityType": "term",
+      "sentence": "accident, in the making of the road to Newcastle. A",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pen",
+      "entityType": "term",
+      "sentence": "Pen, the cemetery of Kingston.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "daddycomplain",
+      "entityType": "term",
+      "sentence": "daddycomplain,memahmycomplain, Complain about me one.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "yer",
+      "entityType": "term",
+      "sentence": "yer - ry your name a bam - boo root. Why !",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "name",
+      "entityType": "term",
+      "sentence": "name, Me yer - ry your name a bam - boo root.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jqz",
+      "entityType": "term",
+      "sentence": "Jqz, rt",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bammerlichy",
+      "entityType": "term",
+      "sentence": "Bammerlichy, bammerlichy, bamby, Bammerlichy, bammerlichy,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "bam-by",
+      "entityType": "term",
+      "sentence": "bam-by,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mis",
+      "entityType": "term",
+      "sentence": "Mis - ter Dav - is bring some - t’ing fe we all,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dory",
+      "entityType": "term",
+      "sentence": "Dory, look out ! ” When a gang of labourers is working",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "distance",
+      "entityType": "term",
+      "sentence": "distance, he will sing this song and the others understand",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Unfortunately",
+      "entityType": "term",
+      "sentence": "Unfortunately, it must be confessed at the outset that our",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Iff",
+      "entityType": "term",
+      "sentence": "Iff - ^",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "namely",
+      "entityType": "term",
+      "sentence": "namely, the presence of ‘bobbins’ or short refrains.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Carolina",
+      "entityType": "term",
+      "sentence": "Carolina, “ The Prickly Bush ” has a tune quite unlike Child’s,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "dirai-je",
+      "entityType": "term",
+      "sentence": "dirai-je, Maman ? ” used so often by English children in their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "game",
+      "entityType": "term",
+      "sentence": "game, “ Hullaballoo bailie,” in which reference is made to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    }
+  ]
+}

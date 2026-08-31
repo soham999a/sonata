@@ -1,0 +1,24 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Public catalogue: anyone can read published records.
+    match /concepts/{id} {
+      allow read: if true;
+      // Authenticated users may stage machine_generated drafts through the importer/editorial tooling.
+      // Editors promote records via the editorial flow; only administrators may publish.
+      allow create, update: if request.auth != null
+        && (request.resource.data.editorialStatus == 'machine_generated'
+            || request.resource.data.editorialStatus == 'draft'
+            || request.resource.data.editorialStatus == 'machine_reviewed')
+        && request.resource.data.editorialStatus != 'published';
+      allow delete: if false;
+    }
+
+    // Editorial metadata collections (contributions, audits, learning) — signed-in reads/writes for now.
+    match /{document=**} {
+      allow read: if true;
+      allow write: if request.auth != null;
+    }
+  }
+}

@@ -1,0 +1,4767 @@
+{
+  "book": {
+    "title": "The Music of India",
+    "author": "Herbert A. Popley",
+    "citation": "Popley, Herbert A. The Music of India. Association Press, Calcutta; Oxford University Press, 1921."
+  },
+  "summary": {
+    "total": 511,
+    "validCount": 511,
+    "blockedCount": 0,
+    "warningCount": 76,
+    "blockerReasons": {}
+  },
+  "rows": [
+    {
+      "term": "khande",
+      "entityType": "term",
+      "sentence": "khande, M.A., LL.D,, author of a number of musical trea-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Aiyengar",
+      "entityType": "term",
+      "sentence": "Aiyengar, B.A., L.T., of the Sanskrit College, Mylapore,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "letter",
+      "entityType": "term",
+      "sentence": "letter, has given me information or led me to clearer insight",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "song",
+      "entityType": "term",
+      "sentence": "song, and 1 cry out baffled. Ah, thou hast made my heart",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "TAGORE",
+      "entityType": "term",
+      "sentence": "TAGORE, GlTANJALl.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "school",
+      "entityType": "term",
+      "sentence": "school, both are yet based on the principles stated in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "India",
+      "entityType": "term",
+      "sentence": "India, revealing itself in qualities which mark it off from",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "system",
+      "entityType": "term",
+      "sentence": "system, a tendency which is fostered by the all- India",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sol-fa",
+      "entityType": "term",
+      "sentence": "sol-fa, so that all musical items may be exhibited in one",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tivra",
+      "entityType": "term",
+      "sentence": "Tivra, and is indicated by small letter with plus sign.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Thus",
+      "entityType": "term",
+      "sentence": "Thus,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Aiiga",
+      "entityType": "term",
+      "sentence": "each piece. The beat is called Aiiga or Tala ; the bar",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dundubhi",
+      "entityType": "term",
+      "sentence": "dundubhi, an earthdrum made by digging a hole in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "used",
+      "entityType": "instrument",
+      "sentence": "drum ; ctghati, a cymbal used to accompany dancing.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "alone",
+      "entityType": "instrument",
+      "sentence": "in India. This one instrument alone is sufficient evidence",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Silalin",
+      "entityType": "term",
+      "sentence": "two persons named Silalin and Krisasvin as the authors of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pataha",
+      "entityType": "term",
+      "sentence": "pataha, ghata, panava, and dindima among the drums ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "road",
+      "entityType": "instrument",
+      "sentence": "up what was called ' the kettle-drum road.' At such a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "drum",
+      "entityType": "term",
+      "sentence": "drum, telling him that if he beat on one side his enemies",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tivakarani",
+      "entityType": "term",
+      "sentence": "Tivakarani, a Jain lexicon of the same period, gives quite a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Palai",
+      "entityType": "term",
+      "sentence": "Ga etc.) ; the seven Dravidian modes called Palai ; four",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mental",
+      "entityType": "term",
+      "sentence": "mental, in the Tamil books of this and succeeding periods",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Natya",
+      "entityType": "term",
+      "sentence": "men is found in a treatise called Natya Sastra or the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "treatise",
+      "entityType": "term",
+      "sentence": "treatise, the Sahgita-Ratnakara. Some scholars think",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bolpur",
+      "entityType": "term",
+      "sentence": "Bolpur, where lives to-day the poet laureate of Bengal and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sarrigadeva",
+      "entityType": "term",
+      "sentence": "of India's musicians. He was called Sarrigadeva and lived",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "position",
+      "entityType": "term",
+      "sentence": "position, Khusru hid under the throne of the king and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vidyapati",
+      "entityType": "term",
+      "sentence": "by a poet named Vidyapati, who flourished in the fifteenth",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sen",
+      "entityType": "term",
+      "sentence": "Sen, the celebrated singer of Akbar's court, was one of his",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "properly",
+      "entityType": "term",
+      "sentence": "properly, and then went on in a wonderful burst of song,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "invented",
+      "entityType": "instrument",
+      "sentence": "used the new instrument invented by Tan Sen, the rabab ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rampur",
+      "entityType": "term",
+      "sentence": "Rampur, a small state which has been famous for many",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Emperor",
+      "entityType": "term",
+      "sentence": "Emperor, Muhammad Shah ; and Muhammad All Khan is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ramayana",
+      "entityType": "term",
+      "sentence": "Ramayana, are representatives of musical culture in North",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Snadragachandrodaya",
+      "entityType": "term",
+      "sentence": "Snadragachandrodaya, Ragamala, Raganianjarl, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kalanidhi",
+      "entityType": "term",
+      "sentence": "Kalanidhi, v/ritten about the year A.D. 1550. This work",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Somanatha",
+      "entityType": "term",
+      "sentence": "Somanatha, a Telugu Brahman of the East coast, probably",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kara",
+      "entityType": "term",
+      "sentence": "kara, from which the author has freely copied most of his",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Dirang",
+      "entityType": "term",
+      "sentence": "Jagannatha and another musician named Dirang Khan",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Anupasifiha",
+      "entityType": "term",
+      "sentence": "was attached to the court of a raja named Anupasifiha.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "together",
+      "entityType": "term",
+      "sentence": "1779-1804) called together a conference of musical experts",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "SahgJta",
+      "entityType": "term",
+      "sentence": "called SahgJta Sara or ' Epitome of Music. ' The literary",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "order",
+      "entityType": "term",
+      "sentence": "order, but it preserves for future reference the opinions of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shatkala",
+      "entityType": "term",
+      "sentence": "Marar was known as Shatkala Govinda, because he could",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Govinda",
+      "entityType": "term",
+      "sentence": "Govinda, using his own peculiar tamhilr which had seven",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "began",
+      "entityType": "term",
+      "sentence": "began, ' There are many great men in the world and I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sthani",
+      "entityType": "term",
+      "sentence": "sthani, Marathi.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "guessed",
+      "entityType": "term",
+      "sentence": "guessed, is far more carefully systematized, and perhaps",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "taught",
+      "entityType": "term",
+      "sentence": "taught, either individually or in classes. The school in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "institution",
+      "entityType": "term",
+      "sentence": "institution, and experiments are being made along the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fourth",
+      "entityType": "term",
+      "sentence": "fourth, the fifth, and the octave. In making a leap to the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "next-door",
+      "entityType": "term",
+      "sentence": "creeping up or down by what may be called next-door *",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Samvaditva",
+      "entityType": "term",
+      "sentence": "Consonance is called Samvaditva in India. Bharata",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vivadi",
+      "entityType": "term",
+      "sentence": "vadl are called vivadi, or ' dissonant ' in relation to it.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nuvadJ",
+      "entityType": "term",
+      "sentence": "The others are called anuvadJ, or ' assonant ', i.e. neutral",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "semitone",
+      "entityType": "term",
+      "sentence": "semitone, but not necessarily an equal division. This",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mandra",
+      "entityType": "term",
+      "sentence": "chaturtha appear. These are called mandra — ' low ', and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Magna",
+      "entityType": "term",
+      "sentence": "has been called the Magna Carta of music, was realized.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Further",
+      "entityType": "term",
+      "sentence": "Further, through the instrument, the musician began to base",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sruti",
+      "entityType": "term",
+      "sentence": "sruti, — ' indicative interval ', because all the other inter-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "seen",
+      "entityType": "term",
+      "sentence": "seen, the Saman scale was conceived as a downward series",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "testify",
+      "entityType": "term",
+      "sentence": "testify, and Taxila (near Rawalpindi) was the seat of a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gandhara",
+      "entityType": "term",
+      "sentence": "portance in those days was called Gandhara, and that one",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "saptaka",
+      "entityType": "term",
+      "sentence": "came to be accepted. These seven are called the saptaka,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "seven",
+      "entityType": "term",
+      "sentence": "or ' cluster of seven,' and are known as the seven svaras.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "either",
+      "entityType": "term",
+      "sentence": "either,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rishabha",
+      "entityType": "term",
+      "sentence": "Rishabha, Gandhara, Madhyama, Pahchama, Dhaivata,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kaikkilai",
+      "entityType": "term",
+      "sentence": "kaikkilai, unreciprocated passion ; ulai, place, side ; Hi,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "contempt",
+      "entityType": "term",
+      "sentence": "contempt, abuse ; vilari, tenderness, compassion ; taram",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pitch",
+      "entityType": "instrument",
+      "sentence": "indicate in the first instance absolute pitch, and were later",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "water",
+      "entityType": "term",
+      "sentence": "water, the roar of the forest and the buzz of great cities.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Samaja",
+      "entityType": "term",
+      "sentence": "scale, and so the elephant has been called Samaja or born",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "scale",
+      "entityType": "term",
+      "sentence": "scale, and so the elephant has been called Samaja or born",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "performed",
+      "entityType": "term",
+      "sentence": "performed, in the Gandhara gramaraga, the descent of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "formed",
+      "entityType": "term",
+      "sentence": "formed, as are the derivative gramas, by interchanging the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "however",
+      "entityType": "term",
+      "sentence": "however, we take the theoretical Ma-grama, i.e. the Ma-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "octave",
+      "entityType": "term",
+      "sentence": "octave, thus forming seven jatis for each grama. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tonic",
+      "entityType": "term",
+      "sentence": "tonic, which may have been Ni, eventually became Sa, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "simply",
+      "entityType": "term",
+      "sentence": "real relation to actual facts, and they were called simply",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "srutiSy",
+      "entityType": "term",
+      "sentence": "different from what wo have called the srutiSy which are",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "descent",
+      "entityType": "term",
+      "sentence": "descent, Saiichan-d^sceni and descent mixed. Mr. Strang-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "terized",
+      "entityType": "term",
+      "sentence": "terized, as far as possible as individuals, by proximity to or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "jiva",
+      "entityType": "term",
+      "sentence": "and is called the jiva or 'soul of the raga.' The position of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "south",
+      "entityType": "term",
+      "sentence": "south, and this may point to a further development there.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dramatist",
+      "entityType": "term",
+      "sentence": "dramatist, did with the southern ragas Kdn'ibodhi and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hindusthan",
+      "entityType": "term",
+      "sentence": "Hindusthan, as Hindusthan Bihag, Desika Khamaj and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ragim",
+      "entityType": "term",
+      "sentence": "two latter are called ragim and putra. A considerable",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nadaramakriya",
+      "entityType": "term",
+      "sentence": "Nadaramakriya, Bhairava, Vasanta, Vasanta-bhairava,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Malavagaula",
+      "entityType": "term",
+      "sentence": "Malavagaula, Rjtigaula, Abhtranafa, H amir a, Siiddha-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mallar",
+      "entityType": "term",
+      "sentence": "Mallar, Samatha, Karnatagaiila, DesaksJit, Suddhanata",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "putra",
+      "entityType": "term",
+      "sentence": "putra, a principle which seems self-evident, but which has",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Meanwhile",
+      "entityType": "term",
+      "sentence": "Meanwhile, in the south, Vehkatamakhi provided a sound",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sound",
+      "entityType": "term",
+      "sentence": "sound, in spite, or perhaps, because of the intervals of three",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hyaz",
+      "entityType": "term",
+      "sentence": "The Arabs have a mode similar to this called Hyaz.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Odava",
+      "entityType": "term",
+      "sentence": "are called Odava ragas, i.e. Pentatonic. Those using six",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shadava",
+      "entityType": "term",
+      "sentence": "only are known as Shadava, i.e. Hexatonic. x^mong the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mohana",
+      "entityType": "term",
+      "sentence": "Mohana, Primary, Harikanibodhi. {Bhupalt). A",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kamhodhi",
+      "entityType": "term",
+      "sentence": "Kamhodhi, Primary, Harikamhodhi. {Khamaj or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "praise",
+      "entityType": "term",
+      "sentence": "praise,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ever",
+      "entityType": "term",
+      "sentence": "ever, has the same swinging rythm. The northern",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ment",
+      "entityType": "term",
+      "sentence": "ment, using both suddha Ni and komal Ni ; the pleasant",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Darbarl",
+      "entityType": "term",
+      "sentence": "Darbarl, and very many more. The next most popular",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Noon",
+      "entityType": "term",
+      "sentence": "Noon, calm.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Morning",
+      "entityType": "term",
+      "sentence": "Morning, mystery.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "entreaty",
+      "entityType": "term",
+      "sentence": "entreaty, expostulation.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kctmhodhi",
+      "entityType": "term",
+      "sentence": "Kctmhodhi, Primary, Harikamhodhi. (Khamaj or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Evening",
+      "entityType": "term",
+      "sentence": "Evening, gay.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Punnagavarall",
+      "entityType": "term",
+      "sentence": "Punnagavarall, Primary, Hanumatodl. Night,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Anandabhairavi",
+      "entityType": "term",
+      "sentence": "Anandabhairavi, Primary, Natahhairavi. Morning,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hamlrkalyanl",
+      "entityType": "term",
+      "sentence": "Hamlrkalyanl, Primary, Mechakalyanl. [Hamir-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Raga-ra",
+      "entityType": "term",
+      "sentence": "the northern musicians is known as the Raga-ra gini-ptitra",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Megh",
+      "entityType": "term",
+      "sentence": "Megh, Nata.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "chama",
+      "entityType": "term",
+      "sentence": "chama, Megh, Nattanarayana.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mode",
+      "entityType": "term",
+      "sentence": "mode, with Suddha or Tivra Dha in the second half.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bihag",
+      "entityType": "term",
+      "sentence": "Bihag, Kakubh, De^akar, Durga.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hamir",
+      "entityType": "term",
+      "sentence": "Hamir, Kedara, Kamoda, Syama.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jhinjhoti",
+      "entityType": "term",
+      "sentence": "Jhinjhoti, Tilafiga, Khambavati, Tilak-kamoda, Jaya-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bhairava",
+      "entityType": "term",
+      "sentence": "Bhairava, Kalarigada, MeghrafijanI, Saurashtljogiya,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ramkall",
+      "entityType": "term",
+      "sentence": "Ramkall, Bibhas, Abheri -bhairava, Lalita, Saveri, Ananda-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sri",
+      "entityType": "term",
+      "sentence": "Sri, JetasrI, Tanki, Puriya-dhanasrI, Malavi, Gauri.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hindol",
+      "entityType": "term",
+      "sentence": "Hindol, FiJriya, Panchama, Desakar, Gaur-pahchama.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pilu",
+      "entityType": "term",
+      "sentence": "Pilu, DbanasrI, Vagi^varl, Suha, BhimpalasI, Saranga.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gandhari",
+      "entityType": "term",
+      "sentence": "Gandhari, Jaunpuri, De^i.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Komal",
+      "entityType": "term",
+      "sentence": "Komal,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jahgala",
+      "entityType": "term",
+      "sentence": "Jahgala, Mukhari, Asavari, Dhanasri, Malkos. The latter",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "istic",
+      "entityType": "term",
+      "sentence": "istic, and we can see the musical affinities which bring the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "accepted",
+      "entityType": "term",
+      "sentence": "accepted, it will be very difficult to find a common basis",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Diirga",
+      "entityType": "term",
+      "sentence": "Diirga, Bilaval group. (Suddhasaverl). Morning.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Malakauhsa",
+      "entityType": "term",
+      "sentence": "Malkos. Bhairavi group. {Also called Malakauhsa).",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fflfga",
+      "entityType": "term",
+      "sentence": "fflfga, or in the division of the day into auspicious and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Piirva",
+      "entityType": "term",
+      "sentence": "called Piirva ragas.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Uttara",
+      "entityType": "term",
+      "sentence": "called Uttara ragas.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Adhvadarsak",
+      "entityType": "term",
+      "sentence": "of the raga. For this reason it is called Adhvadarsak, or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tradition",
+      "entityType": "term",
+      "sentence": "tradition, and while many of these principles apply, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Naik",
+      "entityType": "term",
+      "sentence": "a story is told of a famous musician named Naik Gopal",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Todi",
+      "entityType": "term",
+      "sentence": "musician named Todi Sitaramayya, — so-called on account",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "opposite",
+      "entityType": "instrument",
+      "sentence": "pull the appropriate string opposite the organ representing",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "down",
+      "entityType": "term",
+      "sentence": "down, and the prince, who could no longer name the ragas,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "spring",
+      "entityType": "term",
+      "sentence": "spring, is represented as a young man of golden hue,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sarahga",
+      "entityType": "term",
+      "sentence": "Sarahga, played in four-time at the time of the spring rains.'",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "distance",
+      "entityType": "term",
+      "sentence": "distance, and the thirsty black buck galloping towards the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "time-lengths",
+      "entityType": "term",
+      "sentence": "time-lengths, the unit of time being a matra. Very short",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "usual",
+      "entityType": "term",
+      "sentence": "usual, a fanciful origin must be found for tala. It is said",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "time-measures",
+      "entityType": "term",
+      "sentence": "time-measures, formed by the combination of these time-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fter",
+      "entityType": "term",
+      "sentence": "five jatis are named after the number of aksharas in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "name",
+      "entityType": "term",
+      "sentence": "name, and in triputa tala the trisra jati. In mathya and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sam",
+      "entityType": "term",
+      "sentence": "called the sam in the north and mirtcty in the south.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "khali",
+      "entityType": "term",
+      "sentence": "The beat before the sam is called the khali, because it is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tevra",
+      "entityType": "term",
+      "sentence": "former goes 3. 2. 2 and is called tevra. The latter is called",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tltala",
+      "entityType": "term",
+      "sentence": "tltala, tJntal, or tritala — three-beat — and also kavali",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sulaphakata",
+      "entityType": "term",
+      "sentence": "presented by its chatusra jati, which is called sulaphakata",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ta-chautala",
+      "entityType": "term",
+      "sentence": "its chatusra jati which is called ata-chautala and has two",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pashto",
+      "entityType": "term",
+      "sentence": "Dadra, also called pashto — a syncopated tala",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dadra",
+      "entityType": "term",
+      "sentence": "Dadra, also called pashto — a syncopated tala",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "kalai",
+      "entityType": "term",
+      "sentence": "These are called kalai. Their inclusion does not alter",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "laghu",
+      "entityType": "term",
+      "sentence": "laghu, that is one of more than two aksharas, then the other",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bilampet",
+      "entityType": "term",
+      "sentence": "bilampet, jorii, and durt. Dun is used for very quick time.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "music",
+      "entityType": "term",
+      "sentence": "music, the drum is one of the most important of Indian",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "regarded",
+      "entityType": "term",
+      "sentence": "regarded, either in singing or playing or in drumming, because their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "saying",
+      "entityType": "term",
+      "sentence": "saying, ' Yantrapatir Mridanga, ' ' the drum is the lord of instru-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "recitative",
+      "entityType": "term",
+      "sentence": "recitative, he will watch for the drummer and come back",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dha",
+      "entityType": "term",
+      "sentence": "Dha, Ta. The following are played by both hands together :",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ton",
+      "entityType": "term",
+      "sentence": "Ton— by both hands with all fingers.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "generally",
+      "entityType": "term",
+      "sentence": "generally,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "samvddl",
+      "entityType": "term",
+      "sentence": "samvddl, vivddl, and anuvadl. This very contrast of the amsa and",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "gamaka",
+      "entityType": "term",
+      "sentence": "Grace in Indian music is called gamaka. There are",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "contrast",
+      "entityType": "term",
+      "sentence": "contrast, into a melody which threatens to become monoto-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "frenzy",
+      "entityType": "term",
+      "sentence": "frenzy, this zamzamma as it is called, and then out of it will",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "repetition",
+      "entityType": "term",
+      "sentence": "repetition, the whole thing is changed by this Andolitam,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Avarohanat",
+      "entityType": "term",
+      "sentence": "or ascent ; and the descent is called the Avarohanat",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "extemporized",
+      "entityType": "term",
+      "sentence": "extemporized, and is meant to notify to the audience the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rondo",
+      "entityType": "term",
+      "sentence": "They all partake of the nature of what by us is called a Rondo, the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pallavi",
+      "entityType": "term",
+      "sentence": "south these are called Pallavi, Anupallavi and Charanam ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Abhog",
+      "entityType": "term",
+      "sentence": "we have also what is called the Abhog, which is really a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Coda",
+      "entityType": "term",
+      "sentence": "Coda, and often includes the name of the composer.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Husain",
+      "entityType": "term",
+      "sentence": "Husain, and developed by Sadaranga in the time of Sultan-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kavval",
+      "entityType": "term",
+      "sentence": "The Khyal singer belongs to the class called Kavval",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "December-January",
+      "entityType": "term",
+      "sentence": "December-January, and are sung by Dhrupad singers.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Visaragiti",
+      "entityType": "term",
+      "sentence": "and called Visaragiti. The Tappa style of singing was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "combined",
+      "entityType": "term",
+      "sentence": "combined, viz. Sa Ri Ga Ma, omitting the vowels of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "called",
+      "entityType": "term",
+      "sentence": "called, is very often heard from the bullock-cart driver,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Trivata",
+      "entityType": "term",
+      "sentence": "There is also a kind of song called Trivata, which con-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sity",
+      "entityType": "term",
+      "sentence": "sity, followed by a line of meaningless jingle. Or the whole",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Khyal",
+      "entityType": "term",
+      "sentence": "Khyal, Tarana, Sargam and Trivata.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "recital",
+      "entityType": "term",
+      "sentence": "recital, in which a choir sings after a leader, accompanied",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bengal",
+      "entityType": "form",
+      "sentence": "peculiarities all its own. The Kirtan in Bengal is a kind",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "emotion",
+      "entityType": "term",
+      "sentence": "emotion, and is generally based on a distinct part of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Baul",
+      "entityType": "term",
+      "sentence": "Bengal these are called Baul songs. In South India they",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sindhn",
+      "entityType": "term",
+      "sentence": "are known as Sindhn songs, such as Kavadi Siiidhtc, ' the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "foreigner",
+      "entityType": "term",
+      "sentence": "foreigner, it is possible to find in this dramatic music a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "journey",
+      "entityType": "term",
+      "sentence": "journey, the boatman on the backwater, the mother to her",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "convenient",
+      "entityType": "term",
+      "sentence": "convenient, but the noise is not by any means attractive, nor",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Drone",
+      "entityType": "term",
+      "sentence": "wind instrument called the Drone which is used for this",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "supposed",
+      "entityType": "term",
+      "sentence": "supposed, goes on throughout the whole performance",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "monotony",
+      "entityType": "term",
+      "sentence": "monotony, as one might think. It helps to bring out the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "posed",
+      "entityType": "term",
+      "sentence": "posed, and the melodies were as a rule simple melodies",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "moonlight",
+      "entityType": "term",
+      "sentence": "moonlight, puzzling my brain as to how they found breath",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "out",
+      "entityType": "term",
+      "sentence": "out, found two young men from the village learning the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "devotion",
+      "entityType": "term",
+      "sentence": "devotion, but in that quiet village they made one feel the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ago",
+      "entityType": "term",
+      "sentence": "ago:—",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Thsang",
+      "entityType": "term",
+      "sentence": "Thsang, and called by him Dhananacheka, about the year 640 of our",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "era",
+      "entityType": "term",
+      "sentence": "era, we find several representations of musical instruments. One of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "represented",
+      "entityType": "instrument",
+      "sentence": "harpvs. But there is another instrument represented that would seem",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "now",
+      "entityType": "term",
+      "sentence": "now, nor can descriptions of it be found in the Sanskrit treatises upon",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sancho",
+      "entityType": "term",
+      "sentence": "instrument called Sancho, still used in some parts of that continent.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "resembling",
+      "entityType": "instrument",
+      "sentence": "Sanchi ; where also is seen an instrument resembling the Roman tibae",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "quanUn",
+      "entityType": "term",
+      "sentence": "* The Persians still use an instrument called quanUn, much like",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "twanged",
+      "entityType": "instrument",
+      "sentence": "called \" Pinaka,\" and had one string twanged by the fingers; its",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "played",
+      "entityType": "instrument",
+      "sentence": "' The earliest instrument played with a bow was called Rabanastrcv",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rabanastrcv",
+      "entityType": "term",
+      "sentence": "' The earliest instrument played with a bow was called Rabanastrcv",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hair",
+      "entityType": "term",
+      "sentence": "hair, which is the material also of the string of the bow, which with",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "attached",
+      "entityType": "instrument",
+      "sentence": "bells attached to it is used as a fiddle stick. The hoUov; part of this",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "identical",
+      "entityType": "term",
+      "sentence": "identical, it bears at least a very strong resemblance to it.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Amrita",
+      "entityType": "term",
+      "sentence": "Rahanastra was called Amrita.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rabab",
+      "entityType": "term",
+      "sentence": "rabab, brought to Spain by the Moors, who in turn had derived it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jalatarangi",
+      "entityType": "term",
+      "sentence": "question, for the harmonicon of cups, called Jalatarangi7n, is by some",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "question",
+      "entityType": "term",
+      "sentence": "question, for the harmonicon of cups, called Jalatarangi7n, is by some",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Krishna",
+      "entityType": "term",
+      "sentence": "Krishna, and it is mentioned in the great epic of the Rdmdyana,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Devadatta",
+      "entityType": "term",
+      "sentence": "where it is called Devadatta.i We also find it under the name of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Punji",
+      "entityType": "term",
+      "sentence": "Punji, now used almost entirely by snake-charmers, is said to have",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nasajantra",
+      "entityType": "term",
+      "sentence": "once been blown bv the nostrils and called Nasajantra. — (Captain",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "skill",
+      "entityType": "term",
+      "sentence": "skill, and the resonant qualities of instruments are being",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bin",
+      "entityType": "term",
+      "sentence": "India the vIna is often called Bin, the name vIna beings",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "metal",
+      "entityType": "term",
+      "sentence": "metal, passing underneath the second, third and fourth strings, is laid",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "quality",
+      "entityType": "term",
+      "sentence": "quality, either polished steel or bell-metal, is fixed in the same way.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bridge",
+      "entityType": "instrument",
+      "sentence": "The side-string bridge is secured to the main bridge",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "belly",
+      "entityType": "term",
+      "sentence": "belly, and is hollowed out thin. A projecting ledge of ivory",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "board",
+      "entityType": "term",
+      "sentence": "board, and are used to play a kind of drone accompaniment",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pakka-Sarani",
+      "entityType": "term",
+      "sentence": "The three side strings are called Pakka-Sarani, and some-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "will",
+      "entityType": "instrument",
+      "sentence": "and more, this simple and beautiful instrument will come",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wood",
+      "entityType": "term",
+      "sentence": "wood, but there is no curved neck and no gourd. The",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tied",
+      "entityType": "instrument",
+      "sentence": "means of wire strings tied round the body of the instrument.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pass",
+      "entityType": "instrument",
+      "sentence": "tambur. Only the first two strings pass over frets, which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "placed",
+      "entityType": "instrument",
+      "sentence": "of sympathetic strings placed beneath the other strings,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Peacock",
+      "entityType": "term",
+      "sentence": "heads and are called Peacock sitars. The Tarfa sitar has",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "simdarl",
+      "entityType": "term",
+      "sentence": "called simdarl — the beautiful.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "movable",
+      "entityType": "term",
+      "sentence": "movable, and it has a finer tone and wider range. It is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mentioned",
+      "entityType": "term",
+      "sentence": "mentioned, a number of sympathetic strings, from fifteen",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "being",
+      "entityType": "instrument",
+      "sentence": "Ma string being the chief string. This is the common",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "like",
+      "entityType": "instrument",
+      "sentence": "people in Bengal. It is played with a bow like the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sarangi",
+      "entityType": "term",
+      "sentence": "sarangi, and that of the sympathetic strings is Pa Dha Ni",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Brahntd",
+      "entityType": "term",
+      "sentence": "There is a variety of the tambur called the Brahntd",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tuned",
+      "entityType": "instrument",
+      "sentence": "strings tuned similarly to the tambur.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "only",
+      "entityType": "instrument",
+      "sentence": "beggar's instrument only. It is strange that the Bible",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kinnor",
+      "entityType": "term",
+      "sentence": "also mentions a stringed instrument called the Kinnor, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bamboo",
+      "entityType": "term",
+      "sentence": "bamboo, to the under side of which a large gourd or hollow",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Penna",
+      "entityType": "term",
+      "sentence": "bow. It was called Penna. The name reminds one of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rihgdra",
+      "entityType": "form",
+      "sentence": "The Sfir-^rihgdra is the modern descendant of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bahadur",
+      "entityType": "term",
+      "sentence": "Bahadur, the late Nawab of Rampur. It is a little longer",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kallinatha",
+      "entityType": "term",
+      "sentence": "Kallinatha, the commentator of Ratnakara, says that the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mattakokila-vlna",
+      "entityType": "term",
+      "sentence": "Mattakokila-vlna, mentioned by Sarngadeva, is really the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "one",
+      "entityType": "term",
+      "sentence": "one, with a mizrab and a shell, the other with two sticks",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "instrument",
+      "entityType": "term",
+      "sentence": "instrument, whose sweet tones touch the very chords of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "merely",
+      "entityType": "instrument",
+      "sentence": "fourteen catgut strings merely tied round the bow, so that it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "slackened",
+      "entityType": "term",
+      "sentence": "slackened, and also a tuning peg. This comes from Chota",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nandin",
+      "entityType": "term",
+      "sentence": "Nagpur and is called Nandin or Gopichand. A further",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "accompaniment",
+      "entityType": "instrument",
+      "sentence": "thumb, and thus obtains a kind of drum accompaniment.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "thumb",
+      "entityType": "term",
+      "sentence": "thumb, and thus obtains a kind of drum accompaniment.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Museum",
+      "entityType": "term",
+      "sentence": "Museum, pp. 4-6.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "came",
+      "entityType": "instrument",
+      "sentence": "before th^ brass horn came into use. Two parts of India,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Srihga",
+      "entityType": "term",
+      "sentence": "Srihga, Komiki, Kalahay ; and in the south Kombu,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Muralt",
+      "entityType": "term",
+      "sentence": "tions of India. It is also called the Muralt or Fillagon.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Algosa",
+      "entityType": "form",
+      "sentence": "The Algosa is a kind of flageolet and has the seven",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Niiikairna",
+      "entityType": "form",
+      "sentence": "The Niiikairna is a kind of small nagasara. It is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "shaped",
+      "entityType": "instrument",
+      "sentence": "The Drons or Pohgi is an instrument shaped very",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "something",
+      "entityType": "instrument",
+      "sentence": "An instrument something like this, but having five to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nagara",
+      "entityType": "instrument",
+      "sentence": "Pot-drum Nagara",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "having",
+      "entityType": "instrument",
+      "sentence": "instrument having the right of royal honours. The types",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "slightly",
+      "entityType": "instrument",
+      "sentence": "The Pakhawaj is a drum slightly larger than the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dundiihhi",
+      "entityType": "term",
+      "sentence": "It is called Dundiihhi in the ancient literature. The shell",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "conical",
+      "entityType": "term",
+      "sentence": "conical, with the apex flattened. The head of this drum is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stick",
+      "entityType": "instrument",
+      "sentence": "3<lnd of drum, which is beaten with a padded drum stick.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jhanghcf",
+      "entityType": "term",
+      "sentence": "There are also large cymbals called Jhanghcf which",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chintlct",
+      "entityType": "term",
+      "sentence": "Bundelkand. It is called Chintlct and consists of two flat",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Khattala",
+      "entityType": "term",
+      "sentence": "slightly concave surfaces. They are also called Khattala,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "melodion",
+      "entityType": "term",
+      "sentence": "melodion, with twenty-five bamboos of different lengths for",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "well",
+      "entityType": "term",
+      "sentence": "well, and which incidentally shows that cultured Indians as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "him",
+      "entityType": "term",
+      "sentence": "him, shaking his head, eyes and hands in time with the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "crimination",
+      "entityType": "term",
+      "sentence": "crimination, and that it has resulted not only in their loss",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "appear",
+      "entityType": "term",
+      "sentence": "appear, there are many Indians who feel just the same",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "speak",
+      "entityType": "term",
+      "sentence": "speak, make it more advanced than Indian music ? Can",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "variety",
+      "entityType": "term",
+      "sentence": "variety, has developed every phase of it, including",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "time-measure",
+      "entityType": "term",
+      "sentence": "time-measure, in ways that have never occurred to",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "changing",
+      "entityType": "term",
+      "sentence": "changing, and to-day we have a permanent all-India organi-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sation",
+      "entityType": "term",
+      "sentence": "sation, which will undoubtedly gather together the scatt*=^red",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "throughout",
+      "entityType": "term",
+      "sentence": "throughout, and both time and tune are wrought into one",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "ears",
+      "entityType": "term",
+      "sentence": "ears, alters the whole feeling of the music. Mrs. Mann",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "says",
+      "entityType": "term",
+      "sentence": "says, * Western music is music without microtones, as",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "timbre",
+      "entityType": "term",
+      "sentence": "timbre, whereas Indian music passes these by on the other",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sure",
+      "entityType": "term",
+      "sentence": "sure, but by adherence to certain fixed standards ; and the",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tone",
+      "entityType": "term",
+      "sentence": "tone, the sweetness of the voice, of the instrument. In",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "West",
+      "entityType": "term",
+      "sentence": "West: ^■-^'",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Indian",
+      "entityType": "term",
+      "sentence": "Indian, who likes to elaborate one particular melody to what seems",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "to-day",
+      "entityType": "term",
+      "sentence": "to-day, refuses to be handicapped by traditions which belong",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mukerji",
+      "entityType": "term",
+      "sentence": "Mukerji, pp. viii. 308.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mentary",
+      "entityType": "term",
+      "sentence": "mentary, giving information concerning the principles of South Indian",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "swaray",
+      "entityType": "term",
+      "sentence": "swaray, Colombo, 1909.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rao",
+      "entityType": "term",
+      "sentence": "Rao, Mysore. Bi-monthly. Two volumes only, 1912-13.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "natha",
+      "entityType": "term",
+      "sentence": "natha, by K. B. Deval, Poona, 1916. Arya Bhushan",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Pandither",
+      "entityType": "term",
+      "sentence": "Pandither, Tanjore, 1918. pp. Lawley Electric Printing",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tambourine",
+      "entityType": "term",
+      "sentence": "Tambourine, 123.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Trumpet",
+      "entityType": "term",
+      "sentence": "Trumpet, 119.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Horn",
+      "entityType": "term",
+      "sentence": "Horn, 116.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Panpipe",
+      "entityType": "term",
+      "sentence": "Panpipe, southern, 119.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mridanga",
+      "entityType": "term",
+      "sentence": "Mridanga, southern name, 120.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "southern",
+      "entityType": "term",
+      "sentence": "southern, 75.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Melody-type",
+      "entityType": "term",
+      "sentence": "Melody-type, northern, 40.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "llP",
+      "entityType": "term",
+      "sentence": "llP:D:n:S:- n:D:P:D:-|lP:D:S:nD:P D:n:D:P: ||PD:nn:PP:-:G M:-:-:-:-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nache",
+      "entityType": "term",
+      "sentence": "nache,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "liPP",
+      "entityType": "term",
+      "sentence": "liPP:PP:Pvl:i\\l gg:RS:R-g:RllnS:SS:RR:R RP:PP:M-g:R||",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "IsD",
+      "entityType": "term",
+      "sentence": "IsD:-:D:S|-:S:S:-iNS:R:G:RlNS:N:n-:Pj|",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "iJGP",
+      "entityType": "term",
+      "sentence": "iJGP:DR!SS|S|GG:G|RR{RiPP:P|MG|R|RS:S|RS!ND|j",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Anupallavi",
+      "entityType": "term",
+      "sentence": "Anupallavi,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Pld",
+      "entityType": "term",
+      "sentence": "Pld:N - S|N:S-|SNIS: -N||-:PdiPM|P|d:Ni-iS|N:Sl-|NjS:G! jM||G;G|M|GS||",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Charanam",
+      "entityType": "term",
+      "sentence": "Charanam,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Akbar",
+      "entityType": "term",
+      "sentence": "Akbar, 16, 17, 66",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Alla-ud-din",
+      "entityType": "term",
+      "sentence": "Alla-ud-din, 15. 89",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "AmirKhusru",
+      "entityType": "term",
+      "sentence": "AmirKhusru, 15,40,89, 107",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Assonance",
+      "entityType": "term",
+      "sentence": "Assonance, 2o",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Aurangzeb",
+      "entityType": "term",
+      "sentence": "Aurangzeb, 19",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bhakti",
+      "entityType": "term",
+      "sentence": "Bhakti, 13, 16, 91",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bharata",
+      "entityType": "term",
+      "sentence": "Bharata, 7, 12, 15, 29, 41",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bhavabhatta",
+      "entityType": "term",
+      "sentence": "Bhavabhatta, 20. 41, 54",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Binkar",
+      "entityType": "term",
+      "sentence": "Binkar, 17",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Brahmadatta",
+      "entityType": "term",
+      "sentence": "Brahmadatta, 10",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chaitanya",
+      "entityType": "term",
+      "sentence": "Chaitanya, 16, 91",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Clarionet",
+      "entityType": "term",
+      "sentence": "Clarionet, 117",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Consonance",
+      "entityType": "term",
+      "sentence": "Consonance, 26",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dissonance",
+      "entityType": "term",
+      "sentence": "Dissonance, 26",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Drama",
+      "entityType": "term",
+      "sentence": "Drama, 12, 92",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Drumming",
+      "entityType": "term",
+      "sentence": "Drumming, 78 sq.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Dulcimer",
+      "entityType": "term",
+      "sentence": "Dulcimer, 113",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ga-grama",
+      "entityType": "term",
+      "sentence": "Ga-grama, 34, 35, 36, 37",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Grace",
+      "entityType": "term",
+      "sentence": "Grace, 37, 83, 84. 130",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Harivamsa",
+      "entityType": "term",
+      "sentence": "Harivamsa, 33",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Holi",
+      "entityType": "term",
+      "sentence": "Holi, 89",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Instrument-making",
+      "entityType": "term",
+      "sentence": "Instrument-making, 101",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Jayadeva",
+      "entityType": "term",
+      "sentence": "Jayadeva, 14",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kalidasa",
+      "entityType": "term",
+      "sentence": "Kalidasa, 12",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kirloskar",
+      "entityType": "term",
+      "sentence": "Kirloskar, 41",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lochanakavi",
+      "entityType": "term",
+      "sentence": "Lochanakavi, 16",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ma-grama",
+      "entityType": "term",
+      "sentence": "Ma-grama, 34, 35. 36. 41, 42",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mahdbhdrata",
+      "entityType": "term",
+      "sentence": "Mahdbhdrata, 10. 33.91, 101",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mdlavikdgnimitra",
+      "entityType": "term",
+      "sentence": "Mdlavikdgnimitra, 12",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mirabai",
+      "entityType": "term",
+      "sentence": "Mirabai, 17",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mohurrum",
+      "entityType": "term",
+      "sentence": "Mohurrum, 90",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mythology",
+      "entityType": "term",
+      "sentence": "Mythology, musical, 33",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ndgmat-e-Asaphi",
+      "entityType": "term",
+      "sentence": "Ndgmat-e-Asaphi, 21",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Naradarishi",
+      "entityType": "term",
+      "sentence": "Naradarishi, 7, 8. 22",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nartananirnaya",
+      "entityType": "term",
+      "sentence": "Nartananirnaya, 18,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Notation",
+      "entityType": "term",
+      "sentence": "Notation, 3, 129",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ousley",
+      "entityType": "term",
+      "sentence": "Ousley, Sir W., 66",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pattupdttu",
+      "entityType": "term",
+      "sentence": "Pattupdttu, 10",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Percussion",
+      "entityType": "term",
+      "sentence": "Percussion, Instruments of, 119,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Prabhandha",
+      "entityType": "term",
+      "sentence": "Prabhandha, 14, 87",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Puirandnuru",
+      "entityType": "term",
+      "sentence": "Puirandnuru, 10",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rdgamdla",
+      "entityType": "term",
+      "sentence": "Rdgamdla, 18, 41",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rdgamanjari",
+      "entityType": "term",
+      "sentence": "Rdgamanjari, 18",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rdgatarangini",
+      "entityType": "term",
+      "sentence": "Rdgatarangini, 16, 19, 20",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rdgavibhodha",
+      "entityType": "term",
+      "sentence": "Rdgavibhodha, 18, 19, 39, 41",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Rdmdyana",
+      "entityType": "term",
+      "sentence": "Rdmdyana, 9, 10. 17, 91, 101",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ravana",
+      "entityType": "term",
+      "sentence": "Ravana, 9, 10, 100",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rikprdtisdkhya",
+      "entityType": "term",
+      "sentence": "Rikprdtisdkhya, 9, 30",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Sa-grama",
+      "entityType": "term",
+      "sentence": "Sa-grama, 34, 35, 36, 37, 41",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sahgita",
+      "entityType": "term",
+      "sentence": "Sahgita, 7",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sarhgadeva",
+      "entityType": "term",
+      "sentence": "Sarhgadeva, 14, 19. 34, 41",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shadrdgachandrodaya",
+      "entityType": "term",
+      "sentence": "Shadrdgachandrodaya, 18",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Shake",
+      "entityType": "term",
+      "sentence": "Shake, 84",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Silappadigdrani",
+      "entityType": "term",
+      "sentence": "Silappadigdrani, 11, 34",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Slide",
+      "entityType": "term",
+      "sentence": "Slide, 84",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Solmisation",
+      "entityType": "term",
+      "sentence": "Solmisation, 90, 131",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Speed",
+      "entityType": "term",
+      "sentence": "Speed, 78",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Svardrnava",
+      "entityType": "term",
+      "sentence": "Svardrnava, 22",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tetrachord",
+      "entityType": "term",
+      "sentence": "Tetrachord, 25",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Time-units",
+      "entityType": "term",
+      "sentence": "Time-units, 73",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tivdkaram",
+      "entityType": "term",
+      "sentence": "Tivdkaram, 11, 34",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tulajaji",
+      "entityType": "term",
+      "sentence": "Tulajaji, 20",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tyagaraja",
+      "entityType": "term",
+      "sentence": "Tyagaraja, 22, 88, 90",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Venkatamakhi",
+      "entityType": "term",
+      "sentence": "Venkatamakhi, 18",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vishnu",
+      "entityType": "term",
+      "sentence": "Vishnu, 8",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Zendavesta",
+      "entityType": "term",
+      "sentence": "Zendavesta, 8",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Abhiranata",
+      "entityType": "term",
+      "sentence": "Abhiranata, 41",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Abheri",
+      "entityType": "term",
+      "sentence": "Abheri, 56",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Abhogi",
+      "entityType": "term",
+      "sentence": "Abhogi, 27",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Adana",
+      "entityType": "term",
+      "sentence": "Adana, 49",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ahiri",
+      "entityType": "term",
+      "sentence": "Ahiri, 54",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Arabhi",
+      "entityType": "term",
+      "sentence": "Arabhi, 41, 47, 51",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Asavari",
+      "entityType": "term",
+      "sentence": "Asavari, 56, 57, 61, 65",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bhupala",
+      "entityType": "term",
+      "sentence": "Bhupala, 50, 57",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bhupali",
+      "entityType": "term",
+      "sentence": "Bhupali, 47, 51",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bhimpalasi",
+      "entityType": "term",
+      "sentence": "Bhimpalasi, 56, 61",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Bihagada",
+      "entityType": "term",
+      "sentence": "Bihagada, 50, 65",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Bilahari",
+      "entityType": "term",
+      "sentence": "Bilahari, 49. 53, 160",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bilaval",
+      "entityType": "term",
+      "sentence": "Bilaval, 3, 21, 36. 37, 45, 55. 58",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chakravaham",
+      "entityType": "term",
+      "sentence": "Chakravaham, 44",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chalanata",
+      "entityType": "term",
+      "sentence": "Chalanata, 45",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cheiichurutti",
+      "entityType": "term",
+      "sentence": "Cheiichurutti, 59",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Darbari",
+      "entityType": "term",
+      "sentence": "Darbari, 50",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Desakar",
+      "entityType": "term",
+      "sentence": "Desakar, 54, 55, 56",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Desakshi",
+      "entityType": "term",
+      "sentence": "Desakshi, 41. 54",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Desi",
+      "entityType": "term",
+      "sentence": "Desi, 56",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Devamanoharl",
+      "entityType": "term",
+      "sentence": "Devamanoharl, 47, 52",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dhanasri",
+      "entityType": "term",
+      "sentence": "Dhanasri, 56, 57, 61",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Dipak",
+      "entityType": "term",
+      "sentence": "Dipak, 54, 66",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Durga",
+      "entityType": "term",
+      "sentence": "Durga, 55, 58",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gandharl",
+      "entityType": "term",
+      "sentence": "Gandharl, 56, 62",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Cauda",
+      "entityType": "term",
+      "sentence": "Cauda, 54",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gaur-pafichama",
+      "entityType": "term",
+      "sentence": "Gaur-pafichama, 56",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Girvani",
+      "entityType": "term",
+      "sentence": "Girvani, 65",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gurjari",
+      "entityType": "term",
+      "sentence": "Gurjari, 57",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gunakri",
+      "entityType": "term",
+      "sentence": "Gunakri, 56",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hamira",
+      "entityType": "term",
+      "sentence": "Hamira, 41, 54, 55",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hamirkalyani",
+      "entityType": "term",
+      "sentence": "Hamirkalyani, 49, 50, 53",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Hamsadhvani",
+      "entityType": "term",
+      "sentence": "Hamsadhvani, 47, 51",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hanumatodi",
+      "entityType": "term",
+      "sentence": "Hanumatodi, 44, 50, 57, 62",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Harikambodhi",
+      "entityType": "term",
+      "sentence": "Harikambodhi, 45. 49, 55. 59",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hijhaja",
+      "entityType": "term",
+      "sentence": "Hijhaja, 54, 56",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Hindolam",
+      "entityType": "term",
+      "sentence": "Hindolam, 48, 52",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Huseni",
+      "entityType": "term",
+      "sentence": "Huseni, 65",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Jangala",
+      "entityType": "term",
+      "sentence": "Jangala, 57",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jaunpuri",
+      "entityType": "term",
+      "sentence": "Jaunpuri, 56",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jayajayavanti",
+      "entityType": "term",
+      "sentence": "Jayajayavanti, 55",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jetasri",
+      "entityType": "term",
+      "sentence": "Jetasri, 56",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Jogiya",
+      "entityType": "term",
+      "sentence": "Jogiya, 56, 59",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kakubh",
+      "entityType": "term",
+      "sentence": "Kakubh, 55",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kalangada",
+      "entityType": "term",
+      "sentence": "Kalangada, 48, 52, 56",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kalyani",
+      "entityType": "term",
+      "sentence": "Kalyani,'41.46, 54, 55",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kamavardhani",
+      "entityType": "term",
+      "sentence": "Kamavardhani, 49, 56, 60",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kamoda",
+      "entityType": "term",
+      "sentence": "Kamoda, 54, 55. 59",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kanakangi",
+      "entityType": "term",
+      "sentence": "Kanakangi, 15. 20. 36, 37, 41, 42",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kanada",
+      "entityType": "term",
+      "sentence": "Kanada, 40, 49",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Kaphi",
+      "entityType": "term",
+      "sentence": "Kaphi, 44, 56, 61",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Karnata",
+      "entityType": "term",
+      "sentence": "Karnata, 54",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Karnatagaula",
+      "entityType": "term",
+      "sentence": "Karnatagaula, 41",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Kedkra",
+      "entityType": "term",
+      "sentence": "Kedkra, 54, 55, 58, 69",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Khambavati",
+      "entityType": "term",
+      "sentence": "Khambavati, 55",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lalita",
+      "entityType": "term",
+      "sentence": "Lalita, 56, 60",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "MadhyamavatI",
+      "entityType": "term",
+      "sentence": "MadhyamavatI, 47, 51, 61, 163",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Malavakaisika",
+      "entityType": "term",
+      "sentence": "Malavakaisika, 54",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Malavl",
+      "entityType": "term",
+      "sentence": "Malavl, 48, 56",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Malsare",
+      "entityType": "term",
+      "sentence": "Malsare, 157",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Marva",
+      "entityType": "term",
+      "sentence": "Marva, 45, 56, 60",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mayamalavagaula",
+      "entityType": "term",
+      "sentence": "Mayamalavagaula, 43, 44, 50, 55,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Meghranjani",
+      "entityType": "term",
+      "sentence": "Meghranjani, 56",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Miyan-ki-Mallar",
+      "entityType": "term",
+      "sentence": "Miyan-ki-Mallar, 40",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Mukhari",
+      "entityType": "term",
+      "sentence": "Mukhari, 15, 36, 41, 42, 43, 54, 57",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Multanl",
+      "entityType": "term",
+      "sentence": "Multanl, 40, 57, 62, 64",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nadanaraakriya",
+      "entityType": "term",
+      "sentence": "Nadanaraakriya, 48, 52, 65, 159",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Nata",
+      "entityType": "term",
+      "sentence": "Nata, 54",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Natabhairavi",
+      "entityType": "term",
+      "sentence": "Natabhairavi, 44, 50, 56, 61",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Nattanarayana",
+      "entityType": "term",
+      "sentence": "Nattanarayana, 54, 65, 68",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Navaroj",
+      "entityType": "term",
+      "sentence": "Navaroj, 49",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Nilambarl",
+      "entityType": "term",
+      "sentence": "Nilambarl, 49, 65",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Pantuvarali",
+      "entityType": "term",
+      "sentence": "Pantuvarali, 22",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Punnagavarali",
+      "entityType": "term",
+      "sentence": "Punnagavarali, 48, 52, 65",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Puriya",
+      "entityType": "term",
+      "sentence": "Puriya, 56",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Puriya-dhanasri",
+      "entityType": "term",
+      "sentence": "Puriya-dhanasri, 56",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Purvakalyani",
+      "entityType": "term",
+      "sentence": "Purvakalyani, 65",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Purvi",
+      "entityType": "term",
+      "sentence": "Purvi, 56, 60",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ramapriya",
+      "entityType": "term",
+      "sentence": "Ramapriya, 49",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ramkali",
+      "entityType": "term",
+      "sentence": "Ramkali, 56",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Revagupta",
+      "entityType": "term",
+      "sentence": "Revagupta, 41",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ritigaula",
+      "entityType": "term",
+      "sentence": "Ritigaula, 41",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Samatha",
+      "entityType": "term",
+      "sentence": "Samatha, 41",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Samavarali",
+      "entityType": "term",
+      "sentence": "Samavarali, 41",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Saranga",
+      "entityType": "term",
+      "sentence": "Saranga, 41, 47, 54, 56, 61, 69",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Saurashti",
+      "entityType": "term",
+      "sentence": "Saurashti, 56",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Saveri",
+      "entityType": "term",
+      "sentence": "Saveri, 56, 59",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sindhuramakriya",
+      "entityType": "term",
+      "sentence": "Sindhuramakriya, 162",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Soma",
+      "entityType": "term",
+      "sentence": "Soma, 54",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Subhapantuvarall",
+      "entityType": "term",
+      "sentence": "Subhapantuvarall, 45, 57, 62",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Suddhanata",
+      "entityType": "term",
+      "sentence": "Suddhanata, 41, 47, 51, 54",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Suddharamakriya",
+      "entityType": "term",
+      "sentence": "Suddharamakriya, 41",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Suddhavarali",
+      "entityType": "term",
+      "sentence": "Suddhavarali, 41",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Suha",
+      "entityType": "term",
+      "sentence": "Suha, 56",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Suranandini",
+      "entityType": "term",
+      "sentence": "Suranandini, 49",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Suryakanta",
+      "entityType": "term",
+      "sentence": "Suryakanta, 60",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Syama",
+      "entityType": "term",
+      "sentence": "Syama, 55",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tanki",
+      "entityType": "term",
+      "sentence": "Tanki, 56",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tilafiga",
+      "entityType": "term",
+      "sentence": "Tilafiga, 55. 59",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tilak-kamoda",
+      "entityType": "term",
+      "sentence": "Tilak-kamoda, 55",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Ushaq",
+      "entityType": "term",
+      "sentence": "Ushaq, 40",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vagisvari",
+      "entityType": "term",
+      "sentence": "Vagisvari, 56",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Varati",
+      "entityType": "term",
+      "sentence": "Varati, 54",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vasarita",
+      "entityType": "term",
+      "sentence": "Vasarita, 41, 54, 64, 65,67",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Vasanta-bhairava",
+      "entityType": "term",
+      "sentence": "Vasanta-bhairava, 41",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Yadukulakambodhi",
+      "entityType": "term",
+      "sentence": "Yadukulakambodhi, 65",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yaman",
+      "entityType": "term",
+      "sentence": "Yaman, 40, 55, 58",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yamankalyani",
+      "entityType": "term",
+      "sentence": "Yamankalyani, 158",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Aditala",
+      "entityType": "term",
+      "sentence": "Aditala, 75, 76. 78, 82, 88, 160",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ata-chautala",
+      "entityType": "term",
+      "sentence": "Ata-chautala, 76",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Chapu",
+      "entityType": "term",
+      "sentence": "Chapu, 77, 153, 166",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Chautila",
+      "entityType": "term",
+      "sentence": "Chautila, 81, 88",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Desadi",
+      "entityType": "term",
+      "sentence": "Desadi, 162",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dhamar",
+      "entityType": "term",
+      "sentence": "Dhamar, 76, 89",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Dhiraa",
+      "entityType": "term",
+      "sentence": "Dhiraa, 76, 88",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dhruva",
+      "entityType": "term",
+      "sentence": "Dhruva, 75",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Dipachandl",
+      "entityType": "term",
+      "sentence": "Dipachandl, 89",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ekatala",
+      "entityType": "term",
+      "sentence": "Ekatala, 75, 76, 153, 159",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Farodast",
+      "entityType": "term",
+      "sentence": "Farodast, 76",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jhampa",
+      "entityType": "term",
+      "sentence": "Jhampa, 75, 76, 89",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jhaptala",
+      "entityType": "term",
+      "sentence": "Jhaptala, 76",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jhumra",
+      "entityType": "term",
+      "sentence": "Jhumra, 76",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mathya",
+      "entityType": "term",
+      "sentence": "Mathya, 75",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Rupaka",
+      "entityType": "term",
+      "sentence": "Rupaka, 75, 76, 78. 81, 84, 88, 163",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Surphakata",
+      "entityType": "term",
+      "sentence": "Surphakata, 76",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tintal",
+      "entityType": "term",
+      "sentence": "Tintal, or Tritala, 76, 81, 158",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "PoussiN",
+      "entityType": "term",
+      "sentence": "PoussiN, Ghent.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Ramanuja",
+      "entityType": "term",
+      "sentence": "Ramanuja,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Wilson",
+      "entityType": "term",
+      "sentence": "Wilson, I.C.S., Dera Ghazi Khan.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Popley",
+      "entityType": "term",
+      "sentence": "Popley, Herbert Arthur",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    }
+  ]
+}

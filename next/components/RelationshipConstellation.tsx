@@ -1,0 +1,53 @@
+import Link from "next/link";
+
+type ConstellationNode = {
+  id: string;
+  label: string;
+  x: number;
+  y: number;
+  emphasis?: "main" | "accent";
+  linkable?: boolean;
+};
+
+export function RelationshipConstellation({ nodes }: { nodes: ConstellationNode[] }) {
+  const central = nodes.find(node => node.emphasis === "main") ?? nodes[0];
+
+  return (
+    <div className="constellation" aria-label="Relationship constellation">
+      <div className="constellation__lines" aria-hidden="true">
+        {nodes
+          .filter(node => node.id !== central?.id)
+          .map(node => {
+            const dx = node.x - (central?.x ?? 50);
+            const dy = node.y - (central?.y ?? 50);
+            const length = Math.sqrt(dx * dx + dy * dy);
+            const angle = Math.atan2(dy, dx) * (180 / Math.PI);
+            return (
+              <span
+                key={`line-${node.id}`}
+                className="constellation__line"
+                style={{
+                  width: `${length}%`,
+                  left: `${central?.x ?? 50}%`,
+                  top: `${central?.y ?? 50}%`,
+                  transform: `rotate(${angle}deg)`,
+                }}
+              />
+            );
+          })}
+      </div>
+      {nodes.map(node => (
+        <Link
+          href={node.linkable ? `/entries/${node.id}` : `/search?q=${encodeURIComponent(node.label)}`}
+          key={node.id}
+          className={`constellation__node constellation__node--${node.emphasis ?? "quiet"}`}
+          style={{ left: `${node.x}%`, top: `${node.y}%` }}
+          title={`Explore ${node.label}`}
+        >
+          <span className="constellation__dot" />
+          <span>{node.label}</span>
+        </Link>
+      ))}
+    </div>
+  );
+}

@@ -1,0 +1,1771 @@
+{
+  "book": {
+    "title": "Slave Songs of the United States",
+    "author": "William Francis Allen, Charles Pickard Ware, Lucy McKim Garrison",
+    "citation": "Allen, William Francis; Ware, Charles Pickard; Garrison, Lucy McKim. Slave Songs of the United States. A. Simpson & Co., New York, 1867."
+  },
+  "summary": {
+    "total": 189,
+    "validCount": 188,
+    "blockedCount": 1,
+    "warningCount": 25,
+    "blockerReasons": {
+      "This candidate is awaiting specialist review and cannot be published yet.": 1
+    }
+  },
+  "rows": [
+    {
+      "term": "behind",
+      "entityType": "term",
+      "sentence": "behind, my Lord,” was struck up, and sung by the en-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "cor",
+      "entityType": "instrument",
+      "sentence": "The difficulty experienced in attaining absolute cor-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "together",
+      "entityType": "term",
+      "sentence": "together, especially in a complicated shout, like “ I can’t",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "verse",
+      "entityType": "term",
+      "sentence": "verse, often improvising, and the others, who “base”",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "him",
+      "entityType": "term",
+      "sentence": "him, as it is called, strike in with the refrain, or even",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "McKim",
+      "entityType": "term",
+      "sentence": "McKim, “ to express the entire character of these negro",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Still",
+      "entityType": "term",
+      "sentence": "Still, the chief part of the negro music is civilized in",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lawton",
+      "entityType": "term",
+      "sentence": "Lawton,” for instance (No. 29), “ Shall I die?” (No. 52)",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "found",
+      "entityType": "term",
+      "sentence": "found, with very little variation, in “ Choral Hymns”",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "however",
+      "entityType": "term",
+      "sentence": "however, that many of his songs were learned from ne-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sical",
+      "entityType": "term",
+      "sentence": "sical, as in No. 89; so “Why don’t you move so slow?” (No. 22). We will",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "man",
+      "entityType": "term",
+      "sentence": "man,” disappeared from Coffin’s Point “ de year gun",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "banjo",
+      "entityType": "term",
+      "sentence": "banjo, and the “ Jim Crow” songs of thirty years",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "often",
+      "entityType": "term",
+      "sentence": "often, indeed, no easy matter to persuade them to sing",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ginia",
+      "entityType": "term",
+      "sentence": "ginia, where they are sung without much variation from",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "behavior",
+      "entityType": "term",
+      "sentence": "behavior;’ — and at regular intervals one hears the elder",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "footed",
+      "entityType": "term",
+      "sentence": "footed, all stand up in the middle of the floor, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "getic",
+      "entityType": "term",
+      "sentence": "getic, and often, when the shout lasts into the middle of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dance",
+      "entityType": "term",
+      "sentence": "dance, as the Romaika is of the classical Pyrrhic.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "seven",
+      "entityType": "term",
+      "sentence": "seven, for instance, favorite hymns in the St. Helena",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "church",
+      "entityType": "term",
+      "sentence": "church, would rarely, if ever, be used for shouting ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "stroke",
+      "entityType": "term",
+      "sentence": "stroke, the second by the rattle of the oars in the row-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fall",
+      "entityType": "term",
+      "sentence": "fall,’ was only used in rowing. When used as a ‘ shout ’",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dered",
+      "entityType": "term",
+      "sentence": "dered,” says Col. Higginson, “whether they had always",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mation",
+      "entityType": "term",
+      "sentence": "mation, though I asked many questions, until at last, one",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fellow",
+      "entityType": "term",
+      "sentence": "fellow, not a soldier, on being asked for his theory of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "matter",
+      "entityType": "term",
+      "sentence": "matter, dropped out a coy confession. ‘Some good",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "quaintance",
+      "entityType": "term",
+      "sentence": "quaintance, though they evidently had never heard it",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "unfortunately",
+      "entityType": "term",
+      "sentence": "unfortunately, we afterwards found it in a Northern",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Polawana",
+      "entityType": "term",
+      "sentence": "Polawana, where she tuk her walk gone spend Sunday.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "could",
+      "entityType": "term",
+      "sentence": "could, of crushed hopes, keen sorrow, and a dull, daily",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "misery",
+      "entityType": "term",
+      "sentence": "misery, which covered them as hopelessly as the fog from",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "music",
+      "entityType": "term",
+      "sentence": "music, “ closely imitated from the white people, which is",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "solemn",
+      "entityType": "term",
+      "sentence": "solemn, dull and Hasal, consisting in repeating two lines",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ings",
+      "entityType": "term",
+      "sentence": "ings, as applying equally well to long, short or common",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ever",
+      "entityType": "term",
+      "sentence": "ever, been possible to maintain entire consistency in",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "house-servant",
+      "entityType": "term",
+      "sentence": "house-servant, who had lost all but one of her twenty-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "house-servants",
+      "entityType": "term",
+      "sentence": "house-servants, who speak with a considerable degree of",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Royal",
+      "entityType": "term",
+      "sentence": "Royal, who have been so isolated heretofore that they",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tion",
+      "entityType": "term",
+      "sentence": "tion, can hardly understand them better than if they",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tendance",
+      "entityType": "term",
+      "sentence": "tendance, whom I could not understand at all, unless",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "latitude",
+      "entityType": "term",
+      "sentence": "latitude, to denote any offensive language. “ Him cuss",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "serious-sounding",
+      "entityType": "term",
+      "sentence": "serious-sounding, but trifling accusation made by a little",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "word",
+      "entityType": "term",
+      "sentence": "word, in the sense of look. “ My back stan’ like white",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ignorance",
+      "entityType": "term",
+      "sentence": "ignorance, repeating my question with the same re-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "suppose",
+      "entityType": "term",
+      "sentence": "suppose, “for my part”), says one of their songs (No. 46.)",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "letter",
+      "entityType": "term",
+      "sentence": "letter,” was the remark when a mail arrived and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sir",
+      "entityType": "term",
+      "sentence": "sir,” said Miller frankly, when convinced in an argument.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "horse",
+      "entityType": "term",
+      "sentence": "horse,” said Quash, “ but if dey strain you, you may",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "heself",
+      "entityType": "term",
+      "sentence": "heself, an’ dat make him more sensibble.” “ He n’a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "name",
+      "entityType": "term",
+      "sentence": "name, and from Mr. and Mrs. they were debarred. On",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tense",
+      "entityType": "term",
+      "sentence": "tense, or voice. The pronouns are to be sure distin-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lar",
+      "entityType": "term",
+      "sentence": "lar, “dem cow” plural; “Sandy hat” would mean in-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Thus",
+      "entityType": "term",
+      "sentence": "Thus, they will say “ Mosey house,” but if asked whose",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ties",
+      "entityType": "term",
+      "sentence": "ties— the omission of auxiliaries and other small words,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fasten",
+      "entityType": "term",
+      "sentence": "fasten,” “The bag won’t full,” “ Dey frighten in de dark,”",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Primer",
+      "entityType": "term",
+      "sentence": "Primer, I told him to read. The sentence was “I am",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "volubility",
+      "entityType": "term",
+      "sentence": "volubility, “ h-r-s-e, horse. De boy is on top ob de",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dog",
+      "entityType": "term",
+      "sentence": "dog;” but just then a cut above, representing a man",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sword",
+      "entityType": "term",
+      "sentence": "sword; he tuk’ e sword an’ cut’ e troat.” Here I checked",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "informant",
+      "entityType": "term",
+      "sentence": "informant, “ Henry bid fourteen an’ tuk ’em for fifteen.”",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "know",
+      "entityType": "term",
+      "sentence": "know, boss. You can’t broke lub. Man can’t broke lub.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "South",
+      "entityType": "term",
+      "sentence": "South, to form a j udgment of any value upon this point.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Meanwhile",
+      "entityType": "term",
+      "sentence": "Meanwhile, I will say only that two usages have struck me",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "undertaking",
+      "entityType": "term",
+      "sentence": "undertaking, constantly suggesting the names of persons",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Peirce",
+      "entityType": "term",
+      "sentence": "Peirce, Maj-Gen. Wager Swayne, Miss Maria W. Ben-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ton",
+      "entityType": "term",
+      "sentence": "ton, Prof. J. Silsby, Rev. John L. McKim, Mr. Albert",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Griffin",
+      "entityType": "term",
+      "sentence": "Griffin, Mr. A. S. Jenks, Mr. E. H. Hawkes, Rev. H. C.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Trumbull",
+      "entityType": "term",
+      "sentence": "Trumbull, Rev. J. K. Hosmer, Rev. F. N. Knapp, Brev.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "son",
+      "entityType": "term",
+      "sentence": "son, Mr. J. H. Palmer, and others ; and, finally, to the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "PAGE",
+      "entityType": "term",
+      "sentence": "PAGE,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "long",
+      "entityType": "term",
+      "sentence": "long, and how the refrain and the chorus are to be brought in.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Roll",
+      "entityType": "term",
+      "sentence": "Roll, Jordan, frc.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "JEHOYAH",
+      "entityType": "term",
+      "sentence": "JEHOYAH, HALLELUJAH.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "PRAISE",
+      "entityType": "term",
+      "sentence": "PRAISE, MEMBER.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rrfffn",
+      "entityType": "term",
+      "sentence": "rrfffn— i 5-1",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "valley",
+      "entityType": "term",
+      "sentence": "valley, my Lord; Go down in de lonesome valley, To meet my Je-sus dere.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "heaven",
+      "entityType": "term",
+      "sentence": "heaven, my Lord;* Room enough, Boom enough, I can’t stay be-hind.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "can",
+      "entityType": "term",
+      "sentence": "can - not stay in hell one day, Heav’n shall-a be my home I’ll",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Foil",
+      "entityType": "term",
+      "sentence": "Foil, Jor-dan, roll. O say, f ain’t you done wid de",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trou",
+      "entityType": "term",
+      "sentence": "trou - ble ob de world, Ah ! trou -ble ob de world, Ah !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dead",
+      "entityType": "term",
+      "sentence": "dead, Hap-pyf morn - ing. Glo - rioust morn - ing, Glo - rious",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "morn",
+      "entityType": "term",
+      "sentence": "morn - ing, My Sa-viour rise from de dead, Happy morn - ing.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Grave",
+      "entityType": "term",
+      "sentence": "Grave - yard, you ought to know me.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "John",
+      "entityType": "term",
+      "sentence": "John, John, wid de ho - ly or - der,* Sit - tin’ on de gol - den",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "trg",
+      "entityType": "term",
+      "sentence": "trg— g<=",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "guard",
+      "entityType": "term",
+      "sentence": "guard - ian an - gel Gone a - long be - fore.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Worldy",
+      "entityType": "term",
+      "sentence": "Worldy, worldy, let him be,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bet",
+      "entityType": "term",
+      "sentence": "bet - ter lef’ your sis - ter door, Go keep your own door clean.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Jacob",
+      "entityType": "term",
+      "sentence": "Jacob, time of old ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fol-low",
+      "entityType": "term",
+      "sentence": "fol-low, Brudder William, you know I gwine to fol-low, For to",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "walk",
+      "entityType": "term",
+      "sentence": "walk - in’ troo de grave - yard ; Lay dis bo - dy down.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "unison",
+      "entityType": "term",
+      "sentence": "unison, repeating the refrain in chorus, and full of quaint expression and me-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Lethe",
+      "entityType": "term",
+      "sentence": "Lethe, flowing between the silent, houseless, rugged banks, lighted up near",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Join",
+      "entityType": "term",
+      "sentence": "Join, brethren, join us 0,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bee",
+      "entityType": "term",
+      "sentence": "Bee - ca",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wind",
+      "entityType": "term",
+      "sentence": "wind, no storm can blow ’em down, O yes, Lord !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Brudder",
+      "entityType": "term",
+      "sentence": "Brudder, lend a helpin’ hand.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sister",
+      "entityType": "term",
+      "sentence": "Sister, help for trim dat boat.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sail",
+      "entityType": "term",
+      "sentence": "Sail, O my brudder, sail, Sail o - ver yon - der.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lyrical",
+      "entityType": "term",
+      "sentence": "lyrical, and with more variety of rhythm than usual : ”",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "low",
+      "entityType": "instrument",
+      "sentence": "“ Bow low, Mary, bow low, Martha,",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Weep",
+      "entityType": "term",
+      "sentence": "Weep, O Mary, bow low, Martha,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Mary",
+      "entityType": "term",
+      "sentence": "Mary, bow low, Martha, bow low,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hand",
+      "entityType": "term",
+      "sentence": "hand, When de stars be- gin to fall.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mourn",
+      "entityType": "term",
+      "sentence": "mourn - in’, When de stars be - gin",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "yonder",
+      "entityType": "term",
+      "sentence": "yonder,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lad",
+      "entityType": "term",
+      "sentence": "lad - der, I wish I been dere, To wear de star - ry crown.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ham",
+      "entityType": "term",
+      "sentence": "ham - mer or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nail",
+      "entityType": "term",
+      "sentence": "nail,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "v-v",
+      "entityType": "term",
+      "sentence": "v-v—v—v-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ffi",
+      "entityType": "term",
+      "sentence": "ffi- - }/ ^",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "azziiz",
+      "entityType": "term",
+      "sentence": "azziiz:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mind",
+      "entityType": "term",
+      "sentence": "mind; I ask my Lord what shall I do, I am a -trouble in de",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "king-dom",
+      "entityType": "term",
+      "sentence": "king-dom, to sit a - long side o’ my Lord l",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "duction",
+      "entityType": "term",
+      "sentence": "duction, but “ long time get over crosses” is ot course the “ long time waggin*",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Yes",
+      "entityType": "term",
+      "sentence": "Yes, my Lord ! 2. Pray a lit - tie Ion - ger, O",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Turn",
+      "entityType": "term",
+      "sentence": "Turn, sin - ner, turn to - day, Turn, sin - ner, turn 0 !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "brud",
+      "entityType": "term",
+      "sentence": "brud - der, tik keer Sa - tan, My ar - my cross o - ber.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "dialect",
+      "entityType": "term",
+      "sentence": "dialect, ‘ Mawa ’ signifies ‘ to die.’ ” Lt. Col. Trowbridge feels very confident",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "plicity",
+      "entityType": "term",
+      "sentence": "plicity, wildness and minor character suggest a native African origin. Some-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "along",
+      "entityType": "term",
+      "sentence": "along, jump along dere.”]",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "fee",
+      "entityType": "term",
+      "sentence": "fee,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "MEET",
+      "entityType": "term",
+      "sentence": "MEET, 0 LORD !",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ear",
+      "entityType": "term",
+      "sentence": "ear - ly iu",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "morimi",
+      "entityType": "term",
+      "sentence": "morimi,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dar",
+      "entityType": "term",
+      "sentence": "dar - ter ?",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "HAIL",
+      "entityType": "term",
+      "sentence": "HAIL, MARY",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "metre",
+      "entityType": "term",
+      "sentence": "metre, — and that the ‘ Hail, Mary,’ might denote a Roman Catholic origin, as I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dri",
+      "entityType": "term",
+      "sentence": "dri - bin’, Done wid driber’s dri - bin’, Roll, Jordan, roll.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "home",
+      "entityType": "term",
+      "sentence": "home, my Lord, I’se gwinen homo. Mas - sa Je - sus gib me a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "glo",
+      "entityType": "term",
+      "sentence": "glo - ry, Take* car* de sin - sick soul. Brudder",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wzrw",
+      "entityType": "term",
+      "sentence": "wzrw:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "soldier",
+      "entityType": "term",
+      "sentence": "soldier, To help me bear de cross. For I weep, I weep, I",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "HALLELU",
+      "entityType": "term",
+      "sentence": "HALLELU, HALLELU.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lin",
+      "entityType": "term",
+      "sentence": "lin - ger here. 2. 1 go to glo - ry wid you, Member, join.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Good-bye",
+      "entityType": "term",
+      "sentence": "Good-bye, my brudder, good-bye, Hal- le - lu - jab! Good-bye, sister",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sal",
+      "entityType": "term",
+      "sentence": "Sal - ly, good-bye, Hal - le - lu - jah! Go - ing home, Hal - le",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "longer",
+      "entityType": "term",
+      "sentence": "longer, Hal - le - lu - jail ! Tar - ry no longer, Hal - le - lu - jah !",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "peaceful",
+      "entityType": "term",
+      "sentence": "peaceful, etc.”— 3£rs. C. J. B.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Isa",
+      "entityType": "term",
+      "sentence": "Isa:",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "blood",
+      "entityType": "term",
+      "sentence": "blood, And de moon will turn to blood In dat day— 0 - yoy,* my",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "run",
+      "entityType": "term",
+      "sentence": "run, Ma - ry, run, Hal - le - lu - jah ! 2. It was",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nrrfr",
+      "entityType": "term",
+      "sentence": "nrrfr - —",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hended",
+      "entityType": "term",
+      "sentence": "hended, owing to the uncertain action of Government in regard to the confis-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "upon",
+      "entityType": "term",
+      "sentence": "cated lands on the Sea Islands, Gen. Howard was called upon to address the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "neb",
+      "entityType": "term",
+      "sentence": "neb - ber look back, Who is on de Lord’s side.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rath",
+      "entityType": "term",
+      "sentence": "rath - er court a yel - low gal than work for Hen - ry Clay.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "now",
+      "entityType": "term",
+      "sentence": "now; Just now; just now; Sancto - fy me just now.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Jer",
+      "entityType": "term",
+      "sentence": "Jer - dan’s mills a - grinding, Jer - dan’s a - hay.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "fore",
+      "entityType": "term",
+      "sentence": "fore - half, With the har - pess in his hand.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "singer",
+      "entityType": "term",
+      "sentence": "singer, and illustrates the odd transformations which words undergo in their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Aunty",
+      "entityType": "term",
+      "sentence": "Aunty, did you hear when Jesus rose? He rose and he ’scend on high.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lead",
+      "entityType": "term",
+      "sentence": "lead - er, We will march thro’ the val - ley in peace.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wit",
+      "entityType": "term",
+      "sentence": "wit - ness too, Come a - long home to Je - bus.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Say",
+      "entityType": "term",
+      "sentence": "Say, Moses go to Egypt land,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "set",
+      "entityType": "term",
+      "sentence": "set - tin* on de gold - en",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Lrr",
+      "entityType": "term",
+      "sentence": "Lrr— — •",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "vinter",
+      "entityType": "term",
+      "sentence": "vinter, 0 de vinter, 0 do vinter ’ll soon be ober, cbilen, De",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ring",
+      "entityType": "term",
+      "sentence": "ring - ing 0 - ver me ? a - ring - ing o - ver me ? a -",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sinner",
+      "entityType": "term",
+      "sentence": "Sinner, what you gwine to do dat",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wil",
+      "entityType": "term",
+      "sentence": "wil - der - ness ; I sought my Lord in de wil - der - ness, For",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dc-tt",
+      "entityType": "term",
+      "sentence": "dc-tt—",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "children",
+      "entityType": "term",
+      "sentence": "children, then won’t you be glad, That you have been to heav’n, an’ you’re",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "robe",
+      "entityType": "term",
+      "sentence": "robe, children, For to try on the long white robe.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "rid",
+      "entityType": "term",
+      "sentence": "rid - ing by : Old man, if you don’t mind, your horse will die ;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "assertion",
+      "entityType": "term",
+      "sentence": "assertion, and though the chant was an old one, it was no doubt sung with re",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Dan",
+      "entityType": "term",
+      "sentence": "Dan - iel, 0",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "r-jHh",
+      "entityType": "term",
+      "sentence": "r-jHh, 1",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "wea",
+      "entityType": "term",
+      "sentence": "wea - ry, 0",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "shore",
+      "entityType": "term",
+      "sentence": "shore, When we land on Canaan’s shore, We’ll meet forev - er more.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "lit",
+      "entityType": "term",
+      "sentence": "lit - tie an - g",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "der",
+      "entityType": "term",
+      "sentence": "der, Jacob’s",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "die",
+      "entityType": "term",
+      "sentence": "die, like - a Lazarus die, like - a Lazarus die.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Tt-r",
+      "entityType": "term",
+      "sentence": "Tt-r—d -m—d",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dies",
+      "entityType": "term",
+      "sentence": "dies, his family assemble in the room where the coffin is, and, ranging them-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Carolina",
+      "entityType": "term",
+      "sentence": "Carolina, early in 1862, which would seem to vouch for its genuineness.]",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "sin",
+      "entityType": "term",
+      "sentence": "sin - ner stand in the dark ness, And can - not see the light.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "kingdom",
+      "entityType": "term",
+      "sentence": "kingdom, God got plenty o’ room my Je-sussay, ’Way in de",
+      "errors": [],
+      "warnings": [],
+      "blockers": [
+        "This candidate is awaiting specialist review and cannot be published yet."
+      ],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "negro",
+      "entityType": "term",
+      "sentence": "negro, who said it came from Virginia.]",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "gff",
+      "entityType": "term",
+      "sentence": "gff— 1 ,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Aine",
+      "entityType": "term",
+      "sentence": "Aine, de, trois, Car - o - line, ga ga yd comme ga ma chere,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "doulair",
+      "entityType": "term",
+      "sentence": "doulair, doulair, doulair, Li gaignin doulair dans coeur a li.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "crin",
+      "entityType": "term",
+      "sentence": "crin, crin, Musieu Bain - jo,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "core",
+      "entityType": "term",
+      "sentence": "core; michie for monsieur ; in pc for un peu. The words are, of course, to be",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Coonjai",
+      "entityType": "term",
+      "sentence": "a sort of minuet, called the Coonjai ; the name and the dance are probably both",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "head-drum",
+      "entityType": "term",
+      "sentence": "head-drum, the jaw-bone and key, or some other rude instrument.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "song",
+      "entityType": "term",
+      "sentence": "song; lie is certainly to be congratulated on his success.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "interesting",
+      "entityType": "term",
+      "sentence": "interesting, and, in the case of two or three of them, as difficult to write down,,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    }
+  ]
+}

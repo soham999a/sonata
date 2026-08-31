@@ -1,0 +1,644 @@
+{
+  "book": {
+    "title": "Creole Slave Songs",
+    "author": "George Washington Cable",
+    "citation": "Cable, George Washington. Creole Slave Songs. The Century Co., 1886."
+  },
+  "summary": {
+    "total": 68,
+    "validCount": 68,
+    "blockedCount": 0,
+    "warningCount": 8,
+    "blockerReasons": {}
+  },
+  "rows": [
+    {
+      "term": "master-caste",
+      "entityType": "term",
+      "sentence": "master-caste, made more so by the languorous",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Harrison",
+      "entityType": "term",
+      "sentence": "Harrison, an Anglo-Louisianian, have written",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "une",
+      "entityType": "term",
+      "sentence": "une, he said ^Z/^^\" y (or pids,p^ is ; absohimentYv^",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "French",
+      "entityType": "term",
+      "sentence": "French, and omitted limiting adjectives where",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Now",
+      "entityType": "term",
+      "sentence": "Now, what is that to you ?",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Say",
+      "entityType": "term",
+      "sentence": "Say, what is that to you,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "many",
+      "entityType": "term",
+      "sentence": "many; there were some popular in the West",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "oxbela",
+      "entityType": "term",
+      "sentence": "oxbela; the cosa^i^ey the biguine. The guiouba",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "nal",
+      "entityType": "term",
+      "sentence": "nal, Trou-lo",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ment",
+      "entityType": "term",
+      "sentence": "ment, tinged with that faint and gentle melan-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "moon",
+      "entityType": "term",
+      "sentence": "moon, stars, the clouds, the storm, the peace",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "balm",
+      "entityType": "term",
+      "sentence": "balm, food his reenforcement, the dance his",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "pleasure",
+      "entityType": "term",
+      "sentence": "pleasure, rum his longed-for nepenthe, and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "theme",
+      "entityType": "term",
+      "sentence": "theme, apart from the madness of the dance",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "here",
+      "entityType": "term",
+      "sentence": "here, I take to be a derisive nickname. Orig-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Cuba",
+      "entityType": "term",
+      "sentence": "Cuba, Guadeloupe, and other islands where",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "enlightened",
+      "entityType": "term",
+      "sentence": "enlightened, neither white nor black, neither",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "verse",
+      "entityType": "term",
+      "sentence": "verse, was one of these quadroon fair ones,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "prunella",
+      "entityType": "term",
+      "sentence": "prunella, and good living, taking with them",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "sister",
+      "entityType": "term",
+      "sentence": "sister, mother, father, or brother of Calalou;",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "law",
+      "entityType": "term",
+      "sentence": "law; to be taxed for public education and",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "publishing",
+      "entityType": "term",
+      "sentence": "publishing, or distributing anything having a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "care",
+      "entityType": "term",
+      "sentence": "care,\" an archaic French word, zongler, still",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "dering",
+      "entityType": "term",
+      "sentence": "dering, good Lord ! \" etc. Some time in the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "future",
+      "entityType": "term",
+      "sentence": "future, it may be, some Creole will give us",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Come",
+      "entityType": "term",
+      "sentence": "Come, young man. what chews tobacco, I had a wife in South Cal-li - no ; Her name was ole Aunt Di-noh.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "tionist",
+      "entityType": "term",
+      "sentence": "tionist, as sung by old Madeleine of St. Ber-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mentioned",
+      "entityType": "term",
+      "sentence": "mentioned, who kindly wrote down the lines",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "fragmentary",
+      "entityType": "term",
+      "sentence": "fragmentary, extorted by httles from the shat-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "government",
+      "entityType": "term",
+      "sentence": "government, the fireside, the lives of thou-",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "tive",
+      "entityType": "term",
+      "sentence": "tive, who dares not lift the cry of mourning",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "face",
+      "entityType": "term",
+      "sentence": "face, the brazen laugh, and self-abasing con-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ago",
+      "entityType": "term",
+      "sentence": "ago, with the slave-trade in full blast and the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Obi",
+      "entityType": "term",
+      "sentence": "Obi, the great African manitou or deity, or",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sidewalk",
+      "entityType": "term",
+      "sentence": "sidewalk, scarcely higher than",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ter",
+      "entityType": "term",
+      "sentence": "ter, was also present, a woman of some seventy",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Louisiana",
+      "entityType": "term",
+      "sentence": "Louisiana, at least, and in comparison with",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "practical",
+      "entityType": "term",
+      "sentence": "practical, unimaginative lines the picture of",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "protection",
+      "entityType": "term",
+      "sentence": "protection, are extolling the great privilege",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "altar",
+      "entityType": "term",
+      "sentence": "altar, and the humble and multifarious obla-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Again",
+      "entityType": "term",
+      "sentence": "Again, the royal ones are speaking, issuing",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "mal",
+      "entityType": "term",
+      "sentence": "mal, and swearing to suffer death rather than",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "bone",
+      "entityType": "term",
+      "sentence": "bone, some oddly wrought bunches of feathers,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "presided",
+      "entityType": "term",
+      "sentence": "presided, sitting on the only chair in the room.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "sheepskin",
+      "entityType": "term",
+      "sentence": "sheepskin, and a white-wooled old man",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "out",
+      "entityType": "term",
+      "sentence": "out, stuffed with the hair of some dead person,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "work",
+      "entityType": "term",
+      "sentence": "work,\" i. e.y to weave a spell, for the prosper-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "doos",
+      "entityType": "term",
+      "sentence": "doos, one and all, who will hold you in abso-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "terror",
+      "entityType": "instrument",
+      "sentence": "lute terror. Or, easier, a frizzly chicken ! If you",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "song",
+      "entityType": "term",
+      "sentence": "song, given me by Lafcadio Hearn, though",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "paddle",
+      "entityType": "term",
+      "sentence": "paddle, the oar, or the \" sweep.\" Every plan-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "hand",
+      "entityType": "term",
+      "sentence": "hand, from the last century most likely, on a",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sing",
+      "entityType": "term",
+      "sentence": "Sing, lads ; our master bids us sing.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Zoe",
+      "entityType": "term",
+      "sentence": "Zoe, Merente, Zabelle, Louise.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Sin-g",
+      "entityType": "term",
+      "sentence": "Sin-g, fellows, for our own true loves.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Bamboula",
+      "entityType": "term",
+      "sentence": "Bamboula, the name of the dance and of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "However",
+      "entityType": "term",
+      "sentence": "However, the dark hunters of a hundred years",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "loud",
+      "entityType": "term",
+      "sentence": "loud, rumbUng word sang, in this song, their",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "powder-horns",
+      "entityType": "term",
+      "sentence": "powder-horns, load up, call dogs, make haste",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Fleuriau",
+      "entityType": "term",
+      "sentence": "Fleuriau, Alguazil mayor), a Creole of the",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Gen",
+      "entityType": "term",
+      "sentence": "Gen - e - ral",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Arr",
+      "entityType": "term",
+      "sentence": "Arr, by Miss M. L. Bartlett.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Non",
+      "entityType": "term",
+      "sentence": "Non, mi- chd, r",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Oui",
+      "entityType": "term",
+      "sentence": "Oui, miche, mo oule rire.",
+      "errors": [],
+      "warnings": [
+        "A possible duplicate should be reviewed with cultural and historical context."
+      ],
+      "blockers": [],
+      "duplicateRisk": "possible"
+    },
+    {
+      "term": "Naw",
+      "entityType": "term",
+      "sentence": "Naw, sah, I dawn't want meek merrie, me.",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Tell",
+      "entityType": "term",
+      "sentence": "Tell, jis' fo' sheck 'im off lill while,",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "Yass",
+      "entityType": "term",
+      "sentence": "Yass, seh, I ziss leave meek merrie.\"",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    },
+    {
+      "term": "ouaie",
+      "entityType": "term",
+      "sentence": "ouaie, ouaie, ouaie, ouaie, Kounou ouaie, ouaie, ouaie, ouaie. Kounou ouaie, ouaie, ouaie, mom-za Mom-",
+      "errors": [],
+      "warnings": [],
+      "blockers": [],
+      "duplicateRisk": "none"
+    }
+  ]
+}
