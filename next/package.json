@@ -12,7 +12,8 @@
     "scrape:run": "tsx --env-file=.env.local tools/scraper/index.ts run",
     "scrape:dry": "tsx --env-file=.env.local tools/scraper/index.ts dry",
     "scrape:status": "tsx --env-file=.env.local tools/scraper/index.ts status",
-    "scrape:clear": "tsx --env-file=.env.local tools/scraper/index.ts clear"
+    "scrape:clear": "tsx --env-file=.env.local tools/scraper/index.ts clear",
+    "scrape:export": "tsx --env-file=.env.local tools/scraper/export-catalogue.ts"
   },
   "dependencies": {
     "firebase": "^11.0.0",

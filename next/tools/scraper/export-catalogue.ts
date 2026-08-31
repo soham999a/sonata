@@ -1,0 +1,162 @@
+import path from "node:path";
+import fs from "node:fs";
+import { fileURLToPath } from "node:url";
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+
+type Card = {
+  publicId: string;
+  slug: string;
+  name: string;
+  originalName?: string;
+  shortDefinition: string;
+  entityType: string;
+  region: string;
+  tradition: string;
+  tags: string[];
+  relationshipCount: number;
+  demonstration: true;
+};
+
+type Detail = Card & {
+  definition: string;
+  historicalContext: string;
+  practicalUsage: string;
+  visualAudioDescription: string;
+  emicDescription?: string;
+  eticComparison?: string;
+  regionalVariation?: string;
+  uncertaintyNote?: string;
+  editorialStatus?: string;
+  sourceQuality?: string;
+  pronunciation?: string;
+  languageOfOrigin?: string;
+  nativeScript?: string;
+  transliteration?: string;
+  taxonomyPath: string[];
+  related: Array<{ slug: string; name: string; relationshipType: string; note: string }>;
+  sources: Array<{ label: string; citation: string; scope: string; note: string; url: string }>;
+  graphNodes: Array<{ id: string; label: string; x: number; y: number; emphasis?: "main" | "accent"; linkable?: boolean }>;
+};
+
+function toCard(doc: Record<string, any>): Card | null {
+  const slug = doc.slug;
+  if (typeof slug !== "string" || !slug) return null;
+  return {
+    publicId: doc.publicId ?? slug,
+    slug,
+    name: doc.canonicalName ?? doc.slug,
+    originalName: doc.transliteration ?? doc.nativeScript,
+    shortDefinition: doc.shortDefinition ?? doc.definition ?? "",
+    entityType: doc.entityType ?? "term",
+    region: doc.originRegion ?? "Not yet classified",
+    tradition: doc.tradition ?? "Context pending",
+    tags: Array.isArray(doc.tags) ? doc.tags : [],
+    relationshipCount: typeof doc.relationshipCount === "number" ? doc.relationshipCount : 0,
+    demonstration: true as const,
+  };
+}
+
+function toDetail(doc: Record<string, any>): Detail | null {
+  const card = toCard(doc);
+  if (!card) return null;
+  return {
+    ...card,
+    definition: doc.definition ?? card.shortDefinition,
+    historicalContext: doc.historicalContext ?? "Historical context has not yet been added to this record.",
+    practicalUsage: doc.practicalUsage ?? "Practical usage has not yet been added to this record.",
+    visualAudioDescription: doc.visualAudioDescription ?? "Visual and audio description has not yet been added to this record.",
+    emicDescription: doc.emicDescription,
+    eticComparison: doc.eticComparison,
+    regionalVariation: doc.regionalVariation,
+    uncertaintyNote: doc.uncertaintyNote,
+    editorialStatus: doc.editorialStatus,
+    sourceQuality: doc.sourceQuality,
+    pronunciation: doc.pronunciation,
+    languageOfOrigin: doc.languageOfOrigin,
+    nativeScript: doc.nativeScript,
+    transliteration: doc.transliteration,
+    taxonomyPath: Array.isArray(doc.taxonomyPath)
+      ? doc.taxonomyPath
+      : ["World", card.region, card.tradition, ...card.tags, card.name],
+    related: Array.isArray(doc.related) ? doc.related : [],
+    sources: Array.isArray(doc.sources) ? doc.sources : [],
+    graphNodes: Array.isArray(doc.graphNodes)
+      ? doc.graphNodes
+      : [{ id: card.slug, label: card.name, x: 50, y: 50, emphasis: "main" as const, linkable: true }],
+  };
+}
+
+async function main() {
+  const { initializeApp, cert } = await import("firebase-admin/app");
+  const { getFirestore } = await import("firebase-admin/firestore");
+
+  const candidates = [
+    process.env.GOOGLE_APPLICATION_CREDENTIALS,
+    path.resolve(__dirname, "../../../sonata-b87e3-firebase-adminsdk-fbsvc-5fbcd044a1.json"),
+    path.resolve(__dirname, "../firebase-service-account.json"),
+  ].filter((p): p is string => Boolean(p));
+  let account: Record<string, string> | null = null;
+  for (const filePath of candidates) {
+    if (fs.existsSync(filePath)) {
+      try {
+        account = JSON.parse(fs.readFileSync(filePath, "utf8"));
+        break;
+      } catch {
+        /* next */
+      }
+    }
+  }
+  if (!account?.private_key || !account?.client_email) {
+    console.error("No Firebase service account found.");
+    process.exit(1);
+  }
+
+  const app = initializeApp({
+    credential: cert({
+      projectId: account.project_id,
+      clientEmail: account.client_email,
+      privateKey: account.private_key,
+    }),
+  });
+  const db = getFirestore(app);
+  const snapshot = await db.collection("concepts").get();
+
+  const cards: Card[] = [];
+  const details: Record<string, Detail> = {};
+  const seen = new Set<string>();
+  for (const doc of snapshot.docs) {
+    const data = doc.data();
+    const card = toCard(data);
+    if (!card || seen.has(card.slug)) continue;
+    seen.add(card.slug);
+    cards.push(card);
+    const detail = toDetail(data);
+    if (detail) details[card.slug] = detail;
+  }
+
+  cards.sort((a, b) => a.name.localeCompare(b.name));
+
+  const outPath = path.resolve(__dirname, "../../lib/data/generated-catalogue.ts");
+  const header = `// AUTO-GENERATED by tools/scraper/export-catalogue.ts — do not edit by hand.\n// Bundled copy of the published Firestore corpus so the site shows real records\n// without requiring live Firestore access. Regenerate with:\n//   pnpm scrape:export\n`;
+  const cardJson = JSON.stringify(cards, null, 2);
+  const detailJson = JSON.stringify(details, null, 2);
+
+  const content = `${header}
+import type { SonataEntryCard, SonataEntryDetail } from "./sonata-demo";
+
+export const GENERATED_CARDS: SonataEntryCard[] = ${cardJson};
+
+export const GENERATED_DETAILS: Record<string, SonataEntryDetail> = ${detailJson};
+
+export const GENERATED_COUNT = ${cards.length};
+`;
+  fs.writeFileSync(outPath, content, "utf8");
+  console.log(`Wrote ${cards.length} cards and ${Object.keys(details).length} details to ${outPath}`);
+  process.exit(0);
+}
+
+main().catch(err => {
+  console.error(err.message);
+  process.exit(1);
+});

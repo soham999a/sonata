@@ -4,6 +4,7 @@ import { normalizeSearchTerm } from "./sonata-validation";
 import { rankResearchRecords, type ResearchSearchRecord, type SearchFilters } from "../domain/sonata-research";
 import { hasStagedCorpus, listStagedCards, getStagedDetail } from "./staging-file";
 import { isFirestoreConfigured as isFirestoreReadConfigured, getPublishedCards, getPublishedCard, getAllDraftCards } from "./firestore-reader";
+import { GENERATED_CARDS, GENERATED_DETAILS } from "./generated-catalogue";
 
 const COLLECTIONS = {
   concepts: "concepts",
@@ -87,6 +88,9 @@ function loadPublicFallback(limit: number): SonataEntryCard[] {
     const staged = listStagedCards();
     return limit > 0 && staged.length > limit ? staged.slice(0, limit) : staged;
   }
+  if (GENERATED_CARDS.length > 0) {
+    return limit > 0 && GENERATED_CARDS.length > limit ? GENERATED_CARDS.slice(0, limit) : GENERATED_CARDS;
+  }
   return DEMONSTRATION_ENTRIES;
 }
 
@@ -139,6 +143,7 @@ export async function getPublicEntry(slug: string): Promise<SonataEntryDetail | 
   }
   const stagedDetail = getStagedDetail(slug);
   if (stagedDetail) return stagedDetail;
+  if (GENERATED_DETAILS[slug]) return GENERATED_DETAILS[slug];
   const detailedDemo = DEMONSTRATION_DETAILS[slug];
   if (detailedDemo) return detailedDemo;
   const card = DEMONSTRATION_ENTRIES.find(entry => entry.slug === slug);
@@ -183,6 +188,18 @@ export async function searchSonataKnowledge(input: { query: string; filters?: Se
   if (records.length === 0) {
     if (hasStagedCorpus()) {
       records = listStagedCards().map(card => ({
+        ...card,
+        entityType: card.entityType,
+        genre: undefined,
+        era: undefined,
+        category: card.tags[0],
+        language: undefined,
+        confidence: "medium" as const,
+        relationshipContext: undefined,
+        tags: card.tags,
+      }));
+    } else if (GENERATED_CARDS.length > 0) {
+      records = GENERATED_CARDS.map(card => ({
         ...card,
         entityType: card.entityType,
         genre: undefined,
