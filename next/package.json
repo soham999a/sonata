@@ -9,10 +9,10 @@
     "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
-    "scrape:run": "tsx tools/scraper/index.ts run",
-    "scrape:dry": "tsx tools/scraper/index.ts dry",
-    "scrape:status": "tsx tools/scraper/index.ts status",
-    "scrape:clear": "tsx tools/scraper/index.ts clear"
+    "scrape:run": "tsx --env-file=.env.local tools/scraper/index.ts run",
+    "scrape:dry": "tsx --env-file=.env.local tools/scraper/index.ts dry",
+    "scrape:status": "tsx --env-file=.env.local tools/scraper/index.ts status",
+    "scrape:clear": "tsx --env-file=.env.local tools/scraper/index.ts clear"
   },
   "dependencies": {
     "firebase": "^11.0.0",
