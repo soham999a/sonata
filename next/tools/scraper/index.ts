@@ -69,7 +69,7 @@ async function runImport(regionId?: string) {
     console.log(`\nNOTE: Firestore import is not configured (missing NEXT_PUBLIC_FIREBASE_API_KEY).`);
     console.log(`Records were staged to the local file instead. Add the Web client API key to .env.local to enable Firestore import.`);
   } else {
-    console.log(`\nRecords written to Firestore as "machine_generated" drafts (not published) via interactive client-auth.`);
+    console.log(`\nRecords written to Firestore as "machine_generated" drafts (not published).`);
   }
 }
 

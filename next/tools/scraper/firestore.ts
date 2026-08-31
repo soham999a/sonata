@@ -8,6 +8,95 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const STAGE_DIR = resolve(__dirname, "../../../.scrape-stage");
 const STAGE_FILE = resolve(STAGE_DIR, "staged.jsonl");
 
+/* ------------------------------------------------------------------ *
+ * Firebase Admin SDK path (non-interactive, uses a service account).
+ * Lets the import write straight to Firestore without a password prompt.
+ * ------------------------------------------------------------------ */
+let adminFirestorePromise: Promise<import("firebase-admin/firestore").Firestore | null> | undefined;
+
+async function loadServiceAccount(): Promise<Record<string, string> | null> {
+  const candidates = [
+    process.env.GOOGLE_APPLICATION_CREDENTIALS,
+    resolve(__dirname, "../../../sonata-b87e3-firebase-adminsdk-fbsvc-5fbcd044a1.json"),
+    resolve(__dirname, "../../firebase-service-account.json"),
+    resolve(__dirname, "../firebase-service-account.json"),
+  ].filter((p): p is string => Boolean(p));
+  for (const filePath of candidates) {
+    if (!existsSync(filePath)) continue;
+    try {
+      return JSON.parse(readFileSync(filePath, "utf8"));
+    } catch {
+      // try next candidate
+    }
+  }
+  return null;
+}
+
+function getAdminFirestoreForImport(): Promise<import("firebase-admin/firestore").Firestore | null> {
+  if (!adminFirestorePromise) {
+    adminFirestorePromise = (async () => {
+      const account = await loadServiceAccount();
+      if (!account?.private_key || !account?.client_email) return null;
+      const { initializeApp, getApps, cert } = await import("firebase-admin/app");
+      const { getFirestore } = await import("firebase-admin/firestore");
+      const existing = getApps();
+      const app = existing.length > 0 ? existing[0] : initializeApp({
+        credential: cert({
+          projectId: account.project_id,
+          clientEmail: account.client_email,
+          privateKey: account.private_key,
+        }),
+      });
+      return getFirestore(app) as import("firebase-admin/firestore").Firestore;
+    })();
+  }
+  return adminFirestorePromise;
+}
+
+function stripUndefined(value: unknown): any {
+  if (value === undefined) return undefined;
+  if (Array.isArray(value)) {
+    const out = value.map(stripUndefined);
+    return out.every(v => v === undefined) ? [] : out;
+  }
+  if (value && typeof value === "object" && !(value instanceof Date)) {
+    const out: Record<string, unknown> = {};
+    for (const [k, v] of Object.entries(value as Record<string, unknown>)) {
+      const cleaned = stripUndefined(v);
+      if (cleaned !== undefined) out[k] = cleaned;
+    }
+    return out;
+  }
+  return value;
+}
+
+async function writeToFirestoreAdmin(records: ConceptDoc[]): Promise<{ written: number; skipped: number }> {
+  const db = await getAdminFirestoreForImport();
+  if (!db) throw new Error("Firebase Admin SDK is not configured (missing service account)");
+  const existing = new Set<string>();
+  const snapshot = await db.collection("concepts").select("slug").get();
+  snapshot.docs.forEach(doc => {
+    const slug = doc.get("slug");
+    if (typeof slug === "string") existing.add(slug);
+  });
+  let written = 0;
+  let skipped = 0;
+  for (const record of records) {
+    if (existing.has(record.slug)) {
+      skipped += 1;
+      continue;
+    }
+    await db.collection("concepts").doc(record.publicId).set(stripUndefined(record) as FirebaseFirestore.DocumentData);
+    existing.add(record.slug);
+    written += 1;
+  }
+  return { written, skipped };
+}
+
+export function hasServiceAccount(): Promise<boolean> {
+  return loadServiceAccount().then(account => Boolean(account?.private_key && account?.client_email));
+}
+
 export type ImportResult = {
   target: "firestore" | "local-staging";
   imported: number;
@@ -158,6 +247,16 @@ function loadStagedSlugs(): Set<string> {
 }
 
 export async function importConcepts(records: ConceptDoc[], batch: string): Promise<ImportResult> {
+  const hasAdmin = await hasServiceAccount();
+  if (hasAdmin) {
+    try {
+      const { written, skipped } = await writeToFirestoreAdmin(records);
+      return { target: "firestore", imported: records.length, duplicateSkips: skipped, written };
+    } catch (err) {
+      const message = err instanceof Error ? err.message : String(err);
+      console.warn(`\nFirestore Admin import failed (${message}). Trying interactive auth.`);
+    }
+  }
   if (isFirestoreReady()) {
     const creds: Credentials = await promptForCredentials();
     try {
@@ -191,7 +290,8 @@ export function stageStatus() {
   return {
     firestoreReady: isFirestoreReady(),
     projectId: projectId(),
-    signInMethod: "interactive-client-auth" as const,
+    signInMethod: "admin-sdk-or-interactive-client-auth" as const,
+    serviceAccountPresent: Boolean(process.env.GOOGLE_APPLICATION_CREDENTIALS) || null,
     user: null,
     stageFile: STAGE_FILE,
     stageExists: existsSync(STAGE_FILE),
