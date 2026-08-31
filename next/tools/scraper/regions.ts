@@ -110,6 +110,36 @@ export const REGION_CATALOG: RegionEntry[] = [
     category: "Form",
     language: "Māori",
   },
+  {
+    id: "central-asia",
+    label: "Central Asia",
+    tradition: "Central Asian traditions",
+    regionSlug: "central-asia",
+    taxonomyPath: ["World", "Asia", "Central Asia"],
+    era: "Ongoing, traditional, and Indigenous",
+    category: "Mode",
+    language: "Uzbek",
+  },
+  {
+    id: "north-africa",
+    label: "North Africa",
+    tradition: "North African traditions",
+    regionSlug: "north-africa",
+    taxonomyPath: ["World", "Africa", "North Africa"],
+    era: "Ongoing, traditional, and Indigenous",
+    category: "Mode",
+    language: "Arabic",
+  },
+  {
+    id: "indigenous-traditions-globally",
+    label: "Indigenous traditions globally",
+    tradition: "Indigenous and community-led traditions",
+    regionSlug: "indigenous-traditions-globally",
+    taxonomyPath: ["World", "Indigenous traditions globally"],
+    era: "Ongoing, traditional, and Indigenous",
+    category: "Tradition",
+    language: "Multiple",
+  },
 ];
 
 export function regionById(id: string): RegionEntry | undefined {
